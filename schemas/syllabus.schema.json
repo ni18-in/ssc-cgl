@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ssc-cgl-prep.local/schemas/syllabus.schema.json",
+  "title": "Syllabus tree",
+  "description": "Drives the in-app syllabus tracker. Topic slugs here must match the 'topic' field used in question banks so the tracker can compute per-topic progress.",
+  "type": "object",
+  "properties": {
+    "schemaVersion": { "type": "string", "const": "1.0.0" },
+    "tier": { "$ref": "common.schema.json#/$defs/tier" },
+    "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+    "examPattern": {
+      "type": "object",
+      "properties": {
+        "totalQuestions": { "type": "integer", "minimum": 1 },
+        "totalMarks": { "type": "number", "exclusiveMinimum": 0 },
+        "durationMinutes": { "type": "integer", "minimum": 1 },
+        "negativeMarks": { "type": "number", "minimum": 0 },
+        "sectionalTiming": {
+          "type": "boolean",
+          "description": "True when each section has its own locked timer (Tier 2)."
+        }
+      },
+      "required": [
+        "totalQuestions",
+        "totalMarks",
+        "durationMinutes",
+        "negativeMarks",
+        "sectionalTiming"
+      ],
+      "additionalProperties": false
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/section" }
+    }
+  },
+  "required": ["schemaVersion", "tier", "title", "examPattern", "sections"],
+  "additionalProperties": false,
+
+  "$defs": {
+    "section": {
+      "type": "object",
+      "properties": {
+        "subject": { "$ref": "common.schema.json#/$defs/subject" },
+        "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "questionCount": { "type": "integer", "minimum": 1 },
+        "marks": { "type": "number", "exclusiveMinimum": 0 },
+        "durationMinutes": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "description": "Per-section timer. null when the tier uses one shared timer."
+        },
+        "topics": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/topic" }
+        }
+      },
+      "required": ["subject", "title", "questionCount", "marks", "topics"],
+      "additionalProperties": false
+    },
+    "topic": {
+      "type": "object",
+      "properties": {
+        "slug": { "$ref": "common.schema.json#/$defs/slug" },
+        "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "weightage": {
+          "type": ["integer", "null"],
+          "minimum": 0,
+          "description": "Typical number of questions from this topic in a real paper. Used to sort the tracker by exam value."
+        },
+        "subTopics": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "slug": { "$ref": "common.schema.json#/$defs/slug" },
+              "title": { "$ref": "common.schema.json#/$defs/localizedText" }
+            },
+            "required": ["slug", "title"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": ["slug", "title"],
+      "additionalProperties": false
+    }
+  }
+}

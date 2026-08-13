@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ssc-cgl-prep.local/schemas/common.schema.json",
+  "title": "Shared definitions",
+  "$defs": {
+    "localizedText": {
+      "type": "object",
+      "description": "Bilingual string. 'en' is mandatory; 'hi' is optional and the app falls back to 'en' when absent.",
+      "properties": {
+        "en": { "type": "string", "minLength": 1 },
+        "hi": { "type": "string", "minLength": 1 }
+      },
+      "required": ["en"],
+      "additionalProperties": false
+    },
+    "difficulty": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"]
+    },
+    "tier": {
+      "type": "string",
+      "enum": ["tier1", "tier2_paper1", "tier2_paper2", "tier2_paper3", "tier3"]
+    },
+    "subject": {
+      "type": "string",
+      "enum": [
+        "quant",
+        "reasoning",
+        "english",
+        "gk",
+        "computer",
+        "statistics",
+        "finance_economics"
+      ]
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "isoTimestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "contentVersion": {
+      "type": "string",
+      "description": "Calendar version: YYYY.MM.DD.N where N is the build ordinal for that day.",
+      "pattern": "^\\d{4}\\.\\d{2}\\.\\d{2}\\.\\d+$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9_]+$"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ssc-cgl-prep.local/schemas/current-affairs.schema.json",
+  "title": "Current affairs month chunk",
+  "description": "One file per calendar month. current_affairs/latest.json is a copy of the current month so the app has a stable path to poll.",
+  "type": "object",
+  "properties": {
+    "schemaVersion": { "type": "string", "const": "1.0.0" },
+    "month": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}$"
+    },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/item" }
+    }
+  },
+  "required": ["schemaVersion", "month", "items"],
+  "additionalProperties": false,
+
+  "$defs": {
+    "item": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^ca_\\d{4}_\\d{2}_\\d{3}$"
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "polity",
+            "economy",
+            "international",
+            "science_tech",
+            "environment",
+            "sports",
+            "awards",
+            "defence",
+            "schemes",
+            "appointments",
+            "obituary",
+            "art_culture"
+          ]
+        },
+        "headline": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "summary": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "examRelevance": {
+          "type": "string",
+          "enum": ["high", "medium", "low"]
+        },
+        "source": {
+          "type": ["string", "null"],
+          "description": "Attribution for the underlying fact, e.g. 'PIB' or 'RBI press release'. Summaries must be written in-house, not copied."
+        },
+        "sourceUrl": { "type": ["string", "null"], "format": "uri" }
+      },
+      "required": ["id", "date", "category", "headline", "summary", "examRelevance"],
+      "additionalProperties": false
+    }
+  }
+}

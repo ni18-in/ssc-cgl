@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankId": "t1_gk",
+  "tier": "tier1",
+  "subject": "gk",
+  "title": { "en": "General Awareness — Tier 1", "hi": "सामान्य जागरूकता — टियर 1" },
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.5,
+  "questions": [
+    {
+      "id": "q_t1_gk_00001",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Article 32 of the Constitution of India deals with which of the following?",
+        "hi": "भारतीय संविधान का अनुच्छेद 32 निम्नलिखित में से किससे संबंधित है?"
+      },
+      "options": [
+        { "en": "Right to Equality", "hi": "समानता का अधिकार" },
+        { "en": "Right to Constitutional Remedies", "hi": "संवैधानिक उपचारों का अधिकार" },
+        { "en": "Right to Freedom of Religion", "hi": "धार्मिक स्वतंत्रता का अधिकार" },
+        { "en": "Right against Exploitation", "hi": "शोषण के विरुद्ध अधिकार" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "Article 32 guarantees the Right to Constitutional Remedies, allowing a citizen to move the Supreme Court directly for enforcement of Fundamental Rights. Dr. B. R. Ambedkar called it the 'heart and soul' of the Constitution.",
+        "hi": "अनुच्छेद 32 संवैधानिक उपचारों का अधिकार प्रदान करता है, जिसके अंतर्गत नागरिक मौलिक अधिकारों के प्रवर्तन हेतु सीधे उच्चतम न्यायालय जा सकता है। डॉ. बी. आर. अंबेडकर ने इसे संविधान की 'आत्मा' कहा था।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00002",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Deficiency of which vitamin causes scurvy?",
+        "hi": "किस विटामिन की कमी से स्कर्वी रोग होता है?"
+      },
+      "options": [
+        { "en": "Vitamin A", "hi": "विटामिन A" },
+        { "en": "Vitamin D", "hi": "विटामिन D" },
+        { "en": "Vitamin C", "hi": "विटामिन C" },
+        { "en": "Vitamin K", "hi": "विटामिन K" }
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "en": "Scurvy is caused by a deficiency of Vitamin C (ascorbic acid) and shows up as bleeding gums and slow wound healing. For contrast: Vitamin A deficiency causes night blindness, Vitamin D deficiency causes rickets, and Vitamin K deficiency impairs blood clotting.",
+        "hi": "स्कर्वी विटामिन C (एस्कॉर्बिक अम्ल) की कमी से होता है, जिसके लक्षण मसूड़ों से रक्तस्राव तथा घाव का देर से भरना हैं। तुलना हेतु: विटामिन A की कमी से रतौंधी, विटामिन D की कमी से रिकेट्स तथा विटामिन K की कमी से रक्त का थक्का जमने में बाधा होती है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00003",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "In which year was the Battle of Plassey fought?",
+        "hi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?"
+      },
+      "options": [
+        { "en": "1764", "hi": "1764" },
+        { "en": "1757", "hi": "1757" },
+        { "en": "1761", "hi": "1761" },
+        { "en": "1748", "hi": "1748" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "The Battle of Plassey was fought in 1757 between the East India Company under Robert Clive and Siraj-ud-Daulah, the Nawab of Bengal, and it established Company power in Bengal. Do not confuse it with the Battle of Buxar (1764) or the Third Battle of Panipat (1761).",
+        "hi": "प्लासी का युद्ध 1757 में रॉबर्ट क्लाइव के नेतृत्व में ईस्ट इंडिया कंपनी तथा बंगाल के नवाब सिराजुद्दौला के बीच हुआ, जिसने बंगाल में कंपनी की सत्ता स्थापित की। इसे बक्सर के युद्ध (1764) या पानीपत के तृतीय युद्ध (1761) से भ्रमित न करें।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked", "trap"]
+    },
+    {
+      "id": "q_t1_gk_00004",
+      "topic": "economy",
+      "subTopic": "banking_finance",
+      "question": {
+        "en": "Where is the headquarters of the Reserve Bank of India located?",
+        "hi": "भारतीय रिज़र्व बैंक का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        { "en": "Kolkata", "hi": "कोलकाता" },
+        { "en": "New Delhi", "hi": "नई दिल्ली" },
+        { "en": "Mumbai", "hi": "मुंबई" },
+        { "en": "Chennai", "hi": "चेन्नई" }
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "en": "The Reserve Bank of India was established in 1935 with its central office in Kolkata, but the office was permanently moved to Mumbai in 1937, where the headquarters remains today.",
+        "hi": "भारतीय रिज़र्व बैंक की स्थापना 1935 में हुई और इसका केंद्रीय कार्यालय कोलकाता में था, परंतु 1937 में इसे स्थायी रूप से मुंबई स्थानांतरित कर दिया गया, जहाँ आज भी मुख्यालय है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00005",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the SI unit of electric current?",
+        "hi": "विद्युत धारा का SI मात्रक क्या है?"
+      },
+      "options": [
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Ohm", "hi": "ओम" },
+        { "en": "Watt", "hi": "वाट" },
+        { "en": "Ampere", "hi": "एम्पियर" }
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "en": "The ampere (A) is the SI base unit of electric current. The volt measures potential difference, the ohm measures resistance and the watt measures power.",
+        "hi": "एम्पियर (A) विद्युत धारा का SI मूल मात्रक है। वोल्ट विभवांतर, ओम प्रतिरोध तथा वाट शक्ति का मात्रक है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00006",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the longest river flowing entirely within India?",
+        "hi": "पूर्णतः भारत के भीतर बहने वाली सबसे लंबी नदी कौन-सी है?"
+      },
+      "options": [
+        { "en": "Godavari", "hi": "गोदावरी" },
+        { "en": "Narmada", "hi": "नर्मदा" },
+        { "en": "Krishna", "hi": "कृष्णा" },
+        { "en": "Mahanadi", "hi": "महानदी" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Godavari, about 1,465 km long, is the longest river that flows entirely within India and is often called the Dakshina Ganga. The Ganga is longer overall but continues into Bangladesh, and the Indus and Brahmaputra also cross national borders.",
+        "hi": "गोदावरी, लगभग 1,465 किमी लंबी, पूर्णतः भारत में बहने वाली सबसे लंबी नदी है और इसे दक्षिण गंगा भी कहा जाता है। गंगा कुल मिलाकर लंबी है, परंतु वह बांग्लादेश तक जाती है; सिंधु तथा ब्रह्मपुत्र भी अंतरराष्ट्रीय सीमाएँ पार करती हैं।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    }
+  ]
+}

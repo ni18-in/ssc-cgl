@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "1.0.0",
+  "lastUpdated": "2026-08-13T16:15:21Z",
+  "contentVersion": "2026.08.13.1",
+  "minAppVersion": "1.0.0",
+  "files": [
+    {
+      "path": "syllabus/tier1.json",
+      "kind": "syllabus",
+      "sizeBytes": 19111,
+      "checksum": "ad2ec539d26f4bd16160ac417533e5d0b4e7d7bb4a903011fb38b6fd3ed3750d",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    },
+    {
+      "path": "tier1/english.json",
+      "kind": "question_bank",
+      "sizeBytes": 4784,
+      "checksum": "be97de81ba636ec81875d0e88b73f3a60e4a85f0ab2a5145c5ce900b2f08b849",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    },
+    {
+      "path": "tier1/gk.json",
+      "kind": "question_bank",
+      "sizeBytes": 9585,
+      "checksum": "c2aa23d624999f021da43a95464f9d8047af9a264a2e0d51431e68cc081d80e5",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    },
+    {
+      "path": "tier1/quant.json",
+      "kind": "question_bank",
+      "sizeBytes": 13017,
+      "checksum": "4491652f416a69fffba95a6ca3c9360df9f6803c81e729b9136d579ccecedf2d",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    },
+    {
+      "path": "tier1/reasoning.json",
+      "kind": "question_bank",
+      "sizeBytes": 8960,
+      "checksum": "31dcd26892c36177bd9c4227e9013dabf5a118aadfddb51dd3b9a6cb49b1bbae",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    },
+    {
+      "path": "current_affairs/2026_08.json",
+      "kind": "current_affairs",
+      "sizeBytes": 3674,
+      "checksum": "2b9f8a8f8ac7a9a81eb2af14666e0c01c6f1d386ebefbdeae9221f115665dd80",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": false
+    },
+    {
+      "path": "current_affairs/latest.json",
+      "kind": "current_affairs",
+      "sizeBytes": 3674,
+      "checksum": "2b9f8a8f8ac7a9a81eb2af14666e0c01c6f1d386ebefbdeae9221f115665dd80",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    },
+    {
+      "path": "formula_sheets/quant_formulas.json",
+      "kind": "formula_sheet",
+      "sizeBytes": 11069,
+      "checksum": "266560081e5abc1b28e674bfbf77cf92ce330ba173f499c1e905c5fbc84aedc9",
+      "lastModified": "2026-08-13T16:15:21Z",
+      "required": true
+    }
+  ],
+  "totalSizeBytes": 73874,
+  "forceUpdate": false,
+  "changelog": "Initial seed: Tier 1 syllabus, sample question banks, quant formula sheet."
+}

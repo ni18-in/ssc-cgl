@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0.0",
+  "month": "2026-08",
+  "items": [
+    {
+      "id": "ca_2026_08_001",
+      "date": "2026-08-01",
+      "category": "schemes",
+      "headline": {
+        "en": "SAMPLE — replace before release: Government scheme announcement",
+        "hi": "नमूना — रिलीज़ से पहले बदलें: सरकारी योजना की घोषणा"
+      },
+      "summary": {
+        "en": "Placeholder entry. Every field here shows the shape the app expects; the text itself is not a real news item and must be replaced with a curated, verified summary before this file ships. Write summaries in your own words and cite the primary source (PIB, RBI, ministry press release) in the 'source' field.",
+        "hi": "यह केवल नमूना प्रविष्टि है। यहाँ दिए गए फ़ील्ड ऐप की अपेक्षित संरचना दर्शाते हैं; पाठ वास्तविक समाचार नहीं है और रिलीज़ से पहले सत्यापित, स्वलिखित सारांश से बदला जाना चाहिए।"
+      },
+      "examRelevance": "high",
+      "source": null,
+      "sourceUrl": null
+    },
+    {
+      "id": "ca_2026_08_002",
+      "date": "2026-08-05",
+      "category": "economy",
+      "headline": {
+        "en": "SAMPLE — replace before release: Monetary policy decision",
+        "hi": "नमूना — रिलीज़ से पहले बदलें: मौद्रिक नीति निर्णय"
+      },
+      "summary": {
+        "en": "Placeholder entry demonstrating an economy-category item. Rate decisions, inflation prints and policy stances are high-yield for General Awareness, so record the exact figure and the date it was announced.",
+        "hi": "अर्थव्यवस्था श्रेणी का नमूना। दर संबंधी निर्णय, मुद्रास्फीति के आँकड़े तथा नीतिगत रुख सामान्य जागरूकता हेतु अत्यंत उपयोगी हैं, अतः सटीक आँकड़ा एवं घोषणा तिथि अवश्य दर्ज करें।"
+      },
+      "examRelevance": "high",
+      "source": null,
+      "sourceUrl": null
+    },
+    {
+      "id": "ca_2026_08_003",
+      "date": "2026-08-09",
+      "category": "sports",
+      "headline": {
+        "en": "SAMPLE — replace before release: Sports result or tournament host",
+        "hi": "नमूना — रिलीज़ से पहले बदलें: खेल परिणाम अथवा प्रतियोगिता स्थल"
+      },
+      "summary": {
+        "en": "Placeholder entry demonstrating a low-relevance item. Sports questions in SSC CGL usually ask about winners, venues and host countries rather than match detail, so keep summaries to those facts.",
+        "hi": "कम प्रासंगिकता वाली प्रविष्टि का नमूना। एसएससी सीजीएल में खेल संबंधी प्रश्न प्रायः विजेता, स्थल तथा मेजबान देश से संबंधित होते हैं, अतः सारांश उन्हीं तथ्यों तक सीमित रखें।"
+      },
+      "examRelevance": "low",
+      "source": null,
+      "sourceUrl": null
+    }
+  ]
+}

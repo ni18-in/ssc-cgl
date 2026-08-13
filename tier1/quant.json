@@ -1,0 +1,199 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankId": "t1_quant",
+  "tier": "tier1",
+  "subject": "quant",
+  "title": { "en": "Quantitative Aptitude — Tier 1", "hi": "मात्रात्मक अभियोग्यता — टियर 1" },
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.5,
+  "questions": [
+    {
+      "id": "q_t1_quant_00001",
+      "topic": "time_and_work",
+      "subTopic": "pipes_and_cisterns",
+      "question": {
+        "en": "Pipe A can fill a tank in 6 hours and pipe B can fill the same tank in 4 hours. If both pipes are opened together, how long will it take to fill the tank?",
+        "hi": "नल A एक टंकी को 6 घंटे में तथा नल B उसी टंकी को 4 घंटे में भर सकता है। यदि दोनों नल एक साथ खोले जाएँ, तो टंकी भरने में कितना समय लगेगा?"
+      },
+      "options": [
+        { "en": "3 hours", "hi": "3 घंटे" },
+        { "en": "2 hours 24 minutes", "hi": "2 घंटे 24 मिनट" },
+        { "en": "2 hours 30 minutes", "hi": "2 घंटे 30 मिनट" },
+        { "en": "2 hours", "hi": "2 घंटे" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "Take the tank as LCM(6, 4) = 12 units. A's rate = 12/6 = 2 units/hour, B's rate = 12/4 = 3 units/hour. Combined rate = 5 units/hour, so time = 12/5 = 2.4 hours = 2 hours 24 minutes. Shortcut: for two pipes, time = (6 × 4)/(6 + 4) = 24/10 = 2.4 hours.",
+        "hi": "टंकी की धारिता = ल.स.(6, 4) = 12 इकाई मानें। A की दर = 12/6 = 2 इकाई/घंटा, B की दर = 12/4 = 3 इकाई/घंटा। संयुक्त दर = 5 इकाई/घंटा, अतः समय = 12/5 = 2.4 घंटे = 2 घंटे 24 मिनट। शॉर्टकट: दो नलों के लिए समय = (6 × 4)/(6 + 4) = 2.4 घंटे।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00002",
+      "topic": "percentage",
+      "question": {
+        "en": "The price of an article is increased by 25%. By what percentage must the new price be reduced to bring it back to the original price?",
+        "hi": "एक वस्तु के मूल्य में 25% की वृद्धि की जाती है। मूल मूल्य पर वापस लाने के लिए नए मूल्य में कितने प्रतिशत की कमी करनी होगी?"
+      },
+      "options": [
+        { "en": "25%", "hi": "25%" },
+        { "en": "16.67%", "hi": "16.67%" },
+        { "en": "20%", "hi": "20%" },
+        { "en": "22%", "hi": "22%" }
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "en": "Let the original price be 100. After a 25% increase it becomes 125. To return to 100 the reduction is 25 on a base of 125, i.e. (25/125) × 100 = 20%. Shortcut: for an increase of x%, the required decrease is (100x)/(100 + x) = (100 × 25)/125 = 20%.",
+        "hi": "मूल मूल्य 100 मानें। 25% वृद्धि के बाद यह 125 हो जाता है। 100 पर लौटने के लिए 125 के आधार पर 25 की कमी करनी होगी, अर्थात् (25/125) × 100 = 20%। शॉर्टकट: x% वृद्धि के लिए आवश्यक कमी = (100x)/(100 + x) = 20%।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked", "trap"]
+    },
+    {
+      "id": "q_t1_quant_00003",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A shopkeeper marks his goods 40% above cost price and then allows a discount of 25% on the marked price. What is his profit percentage?",
+        "hi": "एक दुकानदार अपने सामान पर क्रय मूल्य से 40% अधिक अंकित मूल्य रखता है और फिर अंकित मूल्य पर 25% की छूट देता है। उसका लाभ प्रतिशत क्या है?"
+      },
+      "options": [
+        { "en": "10%", "hi": "10%" },
+        { "en": "15%", "hi": "15%" },
+        { "en": "4%", "hi": "4%" },
+        { "en": "5%", "hi": "5%" }
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "en": "Let cost price be 100. Marked price = 140. Selling price after 25% discount = 140 × 0.75 = 105. Profit = 105 − 100 = 5, so profit = 5%. Shortcut: net effect of +40% and −25% = 40 − 25 − (40 × 25)/100 = 15 − 10 = 5%.",
+        "hi": "क्रय मूल्य 100 मानें। अंकित मूल्य = 140। 25% छूट के बाद विक्रय मूल्य = 140 × 0.75 = 105। लाभ = 5, अतः लाभ = 5%। शॉर्टकट: +40% और −25% का शुद्ध प्रभाव = 40 − 25 − (40 × 25)/100 = 5%।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "formula_based"]
+    },
+    {
+      "id": "q_t1_quant_00004",
+      "topic": "interest",
+      "subTopic": "compound_interest",
+      "question": {
+        "en": "Find the difference between the compound interest and the simple interest on ₹10,000 for 2 years at 10% per annum, compounded annually.",
+        "hi": "₹10,000 पर 10% वार्षिक दर से 2 वर्ष के लिए चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ज्ञात कीजिए (वार्षिक चक्रवृद्धि)।"
+      },
+      "options": [
+        { "en": "₹100", "hi": "₹100" },
+        { "en": "₹110", "hi": "₹110" },
+        { "en": "₹121", "hi": "₹121" },
+        { "en": "₹90", "hi": "₹90" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For 2 years, the difference between CI and SI is P × (r/100)² = 10000 × (10/100)² = 10000 × 0.01 = ₹100. Verify: SI = (10000 × 10 × 2)/100 = ₹2,000. CI = 10000 × (1.1)² − 10000 = 12100 − 10000 = ₹2,100. Difference = ₹100.",
+        "hi": "2 वर्ष के लिए चक्रवृद्धि और साधारण ब्याज का अंतर = P × (r/100)² = 10000 × (10/100)² = ₹100। जाँच: साधारण ब्याज = ₹2,000; चक्रवृद्धि ब्याज = 12100 − 10000 = ₹2,100। अंतर = ₹100।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00005",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "A train 180 metres long is running at 54 km/h. How long will it take to cross a platform 120 metres long?",
+        "hi": "180 मीटर लंबी एक रेलगाड़ी 54 किमी/घंटा की चाल से चल रही है। 120 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?"
+      },
+      "options": [
+        { "en": "15 seconds", "hi": "15 सेकंड" },
+        { "en": "20 seconds", "hi": "20 सेकंड" },
+        { "en": "25 seconds", "hi": "25 सेकंड" },
+        { "en": "18 seconds", "hi": "18 सेकंड" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "To cross a platform the train covers its own length plus the platform length = 180 + 120 = 300 m. Speed = 54 km/h = 54 × (5/18) = 15 m/s. Time = 300/15 = 20 seconds. Remember: multiply km/h by 5/18 to get m/s.",
+        "hi": "प्लेटफॉर्म पार करने में रेलगाड़ी अपनी लंबाई और प्लेटफॉर्म की लंबाई तय करती है = 180 + 120 = 300 मीटर। चाल = 54 किमी/घंटा = 54 × (5/18) = 15 मी/से। समय = 300/15 = 20 सेकंड। ध्यान रखें: किमी/घंटा को मी/से में बदलने हेतु 5/18 से गुणा करें।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00006",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "If a : b = 3 : 4 and b : c = 6 : 5, then a : c is equal to:",
+        "hi": "यदि a : b = 3 : 4 तथा b : c = 6 : 5 हो, तो a : c बराबर है:"
+      },
+      "options": [
+        { "en": "10 : 9", "hi": "10 : 9" },
+        { "en": "9 : 10", "hi": "9 : 10" },
+        { "en": "2 : 3", "hi": "2 : 3" },
+        { "en": "3 : 2", "hi": "3 : 2" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "Make b common. a : b = 3 : 4 = 9 : 12 (multiply by 3), and b : c = 6 : 5 = 12 : 10 (multiply by 2). So a : b : c = 9 : 12 : 10, giving a : c = 9 : 10. Shortcut: a : c = (3 × 6) : (4 × 5) = 18 : 20 = 9 : 10.",
+        "hi": "b को समान बनाएँ। a : b = 3 : 4 = 9 : 12 तथा b : c = 6 : 5 = 12 : 10। अतः a : b : c = 9 : 12 : 10, जिससे a : c = 9 : 10। शॉर्टकट: a : c = (3 × 6) : (4 × 5) = 18 : 20 = 9 : 10।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable"]
+    },
+    {
+      "id": "q_t1_quant_00007",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "The radius and height of a right circular cylinder are each increased by 20%. By what percentage does its volume increase?",
+        "hi": "एक लंब वृत्तीय बेलन की त्रिज्या तथा ऊँचाई दोनों में 20% की वृद्धि की जाती है। इसका आयतन कितने प्रतिशत बढ़ जाएगा?"
+      },
+      "options": [
+        { "en": "60%", "hi": "60%" },
+        { "en": "72.8%", "hi": "72.8%" },
+        { "en": "44%", "hi": "44%" },
+        { "en": "86.4%", "hi": "86.4%" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "Volume of a cylinder V = πr²h, so V is proportional to r² × h. Each of r and h grows by a factor of 1.2, giving a new volume factor of (1.2)² × 1.2 = (1.2)³ = 1.728. That is a 72.8% increase. Note the trap: the answer is not 20 + 20 + 20 = 60%.",
+        "hi": "बेलन का आयतन V = πr²h, अतः V, r² × h के समानुपाती है। r तथा h दोनों 1.2 गुना होते हैं, अतः नया आयतन गुणक = (1.2)³ = 1.728, अर्थात् 72.8% वृद्धि। ध्यान दें: उत्तर 20 + 20 + 20 = 60% नहीं है।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "formula_based"]
+    },
+    {
+      "id": "q_t1_quant_00008",
+      "topic": "average",
+      "question": {
+        "en": "The average of 11 numbers is 50. If the average of the first six numbers is 49 and that of the last six numbers is 52, what is the sixth number?",
+        "hi": "11 संख्याओं का औसत 50 है। यदि पहली छह संख्याओं का औसत 49 तथा अंतिम छह संख्याओं का औसत 52 है, तो छठी संख्या क्या है?"
+      },
+      "options": [
+        { "en": "56", "hi": "56" },
+        { "en": "48", "hi": "48" },
+        { "en": "51", "hi": "51" },
+        { "en": "60", "hi": "60" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sum of all 11 numbers = 11 × 50 = 550. Sum of first six = 6 × 49 = 294. Sum of last six = 6 × 52 = 312. The sixth number is counted in both groups, so 294 + 312 − 550 = 56.",
+        "hi": "सभी 11 संख्याओं का योग = 11 × 50 = 550। पहली छह का योग = 6 × 49 = 294। अंतिम छह का योग = 6 × 52 = 312। छठी संख्या दोनों समूहों में गिनी गई है, अतः 294 + 312 − 550 = 56।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked", "conceptual"]
+    }
+  ]
+}

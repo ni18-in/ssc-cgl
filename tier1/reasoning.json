@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankId": "t1_reasoning",
+  "tier": "tier1",
+  "subject": "reasoning",
+  "title": { "en": "General Intelligence & Reasoning — Tier 1", "hi": "सामान्य बुद्धि एवं तर्कशक्ति — टियर 1" },
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.5,
+  "questions": [
+    {
+      "id": "q_t1_reasoning_00001",
+      "topic": "analogy",
+      "subTopic": "word_analogy",
+      "question": {
+        "en": "Doctor : Hospital :: Teacher : ?",
+        "hi": "डॉक्टर : अस्पताल :: शिक्षक : ?"
+      },
+      "options": [
+        { "en": "Book", "hi": "पुस्तक" },
+        { "en": "School", "hi": "विद्यालय" },
+        { "en": "Student", "hi": "विद्यार्थी" },
+        { "en": "Blackboard", "hi": "श्यामपट्ट" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "The relationship is professional-to-workplace. A doctor works in a hospital, so a teacher works in a school. 'Student' is tempting but that is a professional-to-client relationship, not workplace.",
+        "hi": "संबंध व्यवसायी और कार्यस्थल का है। डॉक्टर अस्पताल में कार्य करता है, अतः शिक्षक विद्यालय में। 'विद्यार्थी' आकर्षक विकल्प है, परंतु वह कार्यस्थल नहीं बल्कि सेवार्थी का संबंध है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00002",
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Find the next term in the series: 2, 6, 12, 20, 30, ?",
+        "hi": "श्रृंखला का अगला पद ज्ञात कीजिए: 2, 6, 12, 20, 30, ?"
+      },
+      "options": [
+        { "en": "40", "hi": "40" },
+        { "en": "42", "hi": "42" },
+        { "en": "44", "hi": "44" },
+        { "en": "38", "hi": "38" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "The consecutive differences are 4, 6, 8, 10, so the next difference is 12, giving 30 + 12 = 42. Equivalently the nth term is n(n + 1): 1×2, 2×3, 3×4, 4×5, 5×6, 6×7 = 42.",
+        "hi": "क्रमागत अंतर 4, 6, 8, 10 हैं, अतः अगला अंतर 12 होगा: 30 + 12 = 42। वैकल्पिक रूप से nवाँ पद n(n + 1) है: 1×2, 2×3, 3×4, 4×5, 5×6, 6×7 = 42।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00003",
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "In a certain code language, FRIEND is written as HTKGPF. How will CANDLE be written in that code?",
+        "hi": "एक निश्चित कूट भाषा में FRIEND को HTKGPF लिखा जाता है। उसी कूट में CANDLE को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        { "en": "ECPFNG", "hi": "ECPFNG" },
+        { "en": "EDPHNG", "hi": "EDPHNG" },
+        { "en": "ECPFNH", "hi": "ECPFNH" },
+        { "en": "DCPFNG", "hi": "DCPFNG" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Every letter moves two places forward: F→H, R→T, I→K, E→G, N→P, D→F. Applying the same shift to CANDLE: C→E, A→C, N→P, D→F, L→N, E→G, which gives ECPFNG.",
+        "hi": "प्रत्येक अक्षर दो स्थान आगे बढ़ता है: F→H, R→T, I→K, E→G, N→P, D→F। यही नियम CANDLE पर लगाने से: C→E, A→C, N→P, D→F, L→N, E→G अर्थात् ECPFNG।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00004",
+      "topic": "blood_relations",
+      "question": {
+        "en": "Pointing to a photograph, a man said, \"I have no brother or sister, but that man's father is my father's son.\" Whose photograph was it?",
+        "hi": "एक फोटो की ओर संकेत करते हुए एक व्यक्ति ने कहा, \"मेरा कोई भाई या बहन नहीं है, परंतु उस व्यक्ति का पिता मेरे पिता का पुत्र है।\" वह फोटो किसकी थी?"
+      },
+      "options": [
+        { "en": "His own", "hi": "स्वयं की" },
+        { "en": "His son", "hi": "उसके पुत्र की" },
+        { "en": "His father", "hi": "उसके पिता की" },
+        { "en": "His nephew", "hi": "उसके भतीजे की" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "Since the man has no brother, \"my father's son\" can only be the man himself. So that man's father is the speaker, which makes the person in the photograph the speaker's son.",
+        "hi": "चूँकि व्यक्ति का कोई भाई नहीं है, \"मेरे पिता का पुत्र\" स्वयं वही व्यक्ति है। अतः फोटो वाले व्यक्ति का पिता वक्ता है, जिससे फोटो वक्ता के पुत्र की है।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00005",
+      "topic": "classification",
+      "subTopic": "word_classification",
+      "question": {
+        "en": "Select the odd one out.",
+        "hi": "असंगत को चुनिए।"
+      },
+      "options": [
+        { "en": "Rose", "hi": "गुलाब" },
+        { "en": "Lotus", "hi": "कमल" },
+        { "en": "Lily", "hi": "लिली" },
+        { "en": "Mango", "hi": "आम" }
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "en": "Rose, lotus and lily are all flowers, whereas mango is a fruit. Mango is therefore the odd one out.",
+        "hi": "गुलाब, कमल और लिली सभी फूल हैं, जबकि आम एक फल है। अतः आम असंगत है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00006",
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements: All pens are books. All books are papers.\nConclusions: I. All pens are papers. II. Some papers are pens.\nWhich conclusion(s) follow?",
+        "hi": "कथन: सभी कलम पुस्तकें हैं। सभी पुस्तकें कागज हैं।\nनिष्कर्ष: I. सभी कलम कागज हैं। II. कुछ कागज कलम हैं।\nकौन-सा/से निष्कर्ष अनुसरण करता/करते है/हैं?"
+      },
+      "options": [
+        { "en": "Only I follows", "hi": "केवल I अनुसरण करता है" },
+        { "en": "Only II follows", "hi": "केवल II अनुसरण करता है" },
+        { "en": "Both I and II follow", "hi": "I और II दोनों अनुसरण करते हैं" },
+        { "en": "Neither I nor II follows", "hi": "न I और न ही II अनुसरण करता है" }
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "en": "Pens lie inside books, and books lie inside papers, so all pens are papers — conclusion I follows. Since all pens are papers and pens exist, some papers must be pens, which is the valid converse — conclusion II also follows.",
+        "hi": "कलम पुस्तकों के भीतर हैं तथा पुस्तकें कागजों के भीतर, अतः सभी कलम कागज हैं — निष्कर्ष I अनुसरण करता है। चूँकि सभी कलम कागज हैं, कुछ कागज अवश्य कलम होंगे, जो वैध विलोम है — निष्कर्ष II भी अनुसरण करता है।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual"]
+    }
+  ]
+}

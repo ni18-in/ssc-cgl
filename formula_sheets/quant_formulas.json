@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "1.0.0",
+  "sheetId": "quant_formulas",
+  "subject": "quant",
+  "title": { "en": "Quantitative Aptitude Formulas", "hi": "मात्रात्मक अभियोग्यता सूत्र" },
+  "groups": [
+    {
+      "topic": "percentage",
+      "title": { "en": "Percentage", "hi": "प्रतिशत" },
+      "cards": [
+        {
+          "id": "f_percentage_0001",
+          "label": { "en": "Successive percentage change", "hi": "क्रमिक प्रतिशत परिवर्तन" },
+          "latex": "x + y + \\frac{xy}{100}",
+          "plain": "Net change = x + y + (xy/100)",
+          "note": {
+            "en": "Use negative values for a decrease. A 40% rise followed by a 25% fall gives 40 − 25 − 10 = 5%.",
+            "hi": "कमी के लिए ऋणात्मक मान लें। 40% वृद्धि के बाद 25% कमी से 40 − 25 − 10 = 5% प्राप्त होता है।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_percentage_0002",
+          "label": { "en": "Restore original after x% increase", "hi": "x% वृद्धि के बाद मूल पर लौटना" },
+          "latex": "\\frac{100x}{100 + x}\\%",
+          "plain": "Required decrease = 100x / (100 + x) %",
+          "note": {
+            "en": "After a 25% increase you must cut 20%, not 25%.",
+            "hi": "25% वृद्धि के बाद 20% कमी करनी होगी, 25% नहीं।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "interest",
+      "title": { "en": "Simple & Compound Interest", "hi": "साधारण एवं चक्रवृद्धि ब्याज" },
+      "cards": [
+        {
+          "id": "f_interest_0001",
+          "label": { "en": "Simple interest", "hi": "साधारण ब्याज" },
+          "latex": "SI = \\frac{P \\times R \\times T}{100}",
+          "plain": "SI = (P x R x T) / 100",
+          "note": null,
+          "kind": "formula"
+        },
+        {
+          "id": "f_interest_0002",
+          "label": { "en": "Compound amount", "hi": "चक्रवृद्धि मिश्रधन" },
+          "latex": "A = P\\left(1 + \\frac{R}{100}\\right)^{T}",
+          "plain": "A = P (1 + R/100)^T",
+          "note": {
+            "en": "Compound interest itself is A − P.",
+            "hi": "चक्रवृद्धि ब्याज स्वयं A − P होता है।"
+          },
+          "kind": "formula"
+        },
+        {
+          "id": "f_interest_0003",
+          "label": { "en": "CI − SI for 2 years", "hi": "2 वर्ष हेतु चक्रवृद्धि − साधारण ब्याज" },
+          "latex": "P\\left(\\frac{R}{100}\\right)^{2}",
+          "plain": "Difference = P (R/100)^2",
+          "note": {
+            "en": "For 3 years the difference is P(R/100)² × (300 + R)/100.",
+            "hi": "3 वर्ष हेतु अंतर = P(R/100)² × (300 + R)/100।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "time_and_work",
+      "title": { "en": "Time & Work", "hi": "समय एवं कार्य" },
+      "cards": [
+        {
+          "id": "f_time_and_work_0001",
+          "label": { "en": "Two workers together", "hi": "दो कर्मी एक साथ" },
+          "latex": "\\frac{xy}{x + y}",
+          "plain": "Combined time = xy / (x + y)",
+          "note": {
+            "en": "Same formula covers two pipes filling a tank. For a filling pipe and an emptying pipe use xy / (y − x).",
+            "hi": "यही सूत्र दो नलों पर भी लागू होता है। भरने और खाली करने वाले नल हेतु xy / (y − x) लें।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_time_and_work_0002",
+          "label": { "en": "LCM method", "hi": "ल.स. विधि" },
+          "latex": null,
+          "plain": "Take total work = LCM of the given times, then rate = total work / individual time",
+          "note": {
+            "en": "Turns fractions into whole numbers and is faster than the formula on three-worker problems.",
+            "hi": "भिन्नों को पूर्ण संख्याओं में बदल देती है तथा तीन कर्मियों वाले प्रश्नों में सूत्र से तेज है।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "time_speed_distance",
+      "title": { "en": "Time, Speed & Distance", "hi": "समय, चाल एवं दूरी" },
+      "cards": [
+        {
+          "id": "f_time_speed_distance_0001",
+          "label": { "en": "km/h to m/s", "hi": "किमी/घंटा से मी/से" },
+          "latex": "1\\ \\text{km/h} = \\frac{5}{18}\\ \\text{m/s}",
+          "plain": "Multiply km/h by 5/18 to get m/s; multiply m/s by 18/5 for km/h",
+          "note": null,
+          "kind": "conversion"
+        },
+        {
+          "id": "f_time_speed_distance_0002",
+          "label": { "en": "Train crossing a platform", "hi": "रेलगाड़ी का प्लेटफॉर्म पार करना" },
+          "latex": "t = \\frac{L_{train} + L_{platform}}{v}",
+          "plain": "Time = (length of train + length of platform) / speed",
+          "note": {
+            "en": "Crossing a pole or a standing person uses only the train's own length.",
+            "hi": "खंभे या खड़े व्यक्ति को पार करने में केवल रेलगाड़ी की लंबाई ली जाती है।"
+          },
+          "kind": "formula"
+        },
+        {
+          "id": "f_time_speed_distance_0003",
+          "label": { "en": "Average speed for equal distances", "hi": "समान दूरी हेतु औसत चाल" },
+          "latex": "\\frac{2xy}{x + y}",
+          "plain": "Average speed = 2xy / (x + y)",
+          "note": {
+            "en": "Valid only when the two distances are equal. For equal times the average is the plain mean (x + y)/2.",
+            "hi": "केवल तब मान्य जब दोनों दूरियाँ समान हों। समान समय की स्थिति में औसत (x + y)/2 होगा।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "mensuration",
+      "title": { "en": "Mensuration", "hi": "क्षेत्रमिति" },
+      "cards": [
+        {
+          "id": "f_mensuration_0001",
+          "label": { "en": "Cylinder volume & curved surface", "hi": "बेलन का आयतन एवं वक्र पृष्ठ" },
+          "latex": "V = \\pi r^{2} h,\\quad CSA = 2\\pi r h",
+          "plain": "V = pi r^2 h ; CSA = 2 pi r h ; TSA = 2 pi r (r + h)",
+          "note": null,
+          "kind": "formula"
+        },
+        {
+          "id": "f_mensuration_0002",
+          "label": { "en": "Cone volume & slant height", "hi": "शंकु का आयतन एवं तिर्यक ऊँचाई" },
+          "latex": "V = \\frac{1}{3}\\pi r^{2} h,\\quad l = \\sqrt{r^{2} + h^{2}}",
+          "plain": "V = (1/3) pi r^2 h ; slant height l = sqrt(r^2 + h^2) ; CSA = pi r l",
+          "note": null,
+          "kind": "formula"
+        },
+        {
+          "id": "f_mensuration_0003",
+          "label": { "en": "Sphere", "hi": "गोला" },
+          "latex": "V = \\frac{4}{3}\\pi r^{3},\\quad S = 4\\pi r^{2}",
+          "plain": "V = (4/3) pi r^3 ; surface area = 4 pi r^2 ; hemisphere TSA = 3 pi r^2",
+          "note": null,
+          "kind": "formula"
+        }
+      ]
+    },
+    {
+      "topic": "algebra",
+      "title": { "en": "Algebraic Identities", "hi": "बीजीय सर्वसमिकाएँ" },
+      "cards": [
+        {
+          "id": "f_algebra_0001",
+          "label": { "en": "Sum and difference of cubes", "hi": "घनों का योग एवं अंतर" },
+          "latex": "a^{3} \\pm b^{3} = (a \\pm b)(a^{2} \\mp ab + b^{2})",
+          "plain": "a^3 + b^3 = (a + b)(a^2 - ab + b^2) ; a^3 - b^3 = (a - b)(a^2 + ab + b^2)",
+          "note": null,
+          "kind": "identity"
+        },
+        {
+          "id": "f_algebra_0002",
+          "label": { "en": "x + 1/x family", "hi": "x + 1/x श्रेणी" },
+          "latex": "x^{2} + \\frac{1}{x^{2}} = \\left(x + \\frac{1}{x}\\right)^{2} - 2",
+          "plain": "x^2 + 1/x^2 = (x + 1/x)^2 - 2 ; x^3 + 1/x^3 = (x + 1/x)^3 - 3(x + 1/x)",
+          "note": {
+            "en": "One of the highest-frequency algebra patterns in Tier 1.",
+            "hi": "टियर 1 में सर्वाधिक बार पूछे जाने वाले बीजगणित प्रतिरूपों में से एक।"
+          },
+          "kind": "identity"
+        },
+        {
+          "id": "f_algebra_0003",
+          "label": { "en": "Three-variable identity", "hi": "त्रि-चर सर्वसमिका" },
+          "latex": "a^{3} + b^{3} + c^{3} - 3abc = (a + b + c)(a^{2} + b^{2} + c^{2} - ab - bc - ca)",
+          "plain": "a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)",
+          "note": {
+            "en": "If a + b + c = 0 then a³ + b³ + c³ = 3abc.",
+            "hi": "यदि a + b + c = 0 हो तो a³ + b³ + c³ = 3abc।"
+          },
+          "kind": "identity"
+        }
+      ]
+    },
+    {
+      "topic": "trigonometry",
+      "title": { "en": "Trigonometry", "hi": "त्रिकोणमिति" },
+      "cards": [
+        {
+          "id": "f_trigonometry_0001",
+          "label": { "en": "Pythagorean identities", "hi": "पाइथागोरस सर्वसमिकाएँ" },
+          "latex": "\\sin^{2}\\theta + \\cos^{2}\\theta = 1",
+          "plain": "sin^2 + cos^2 = 1 ; 1 + tan^2 = sec^2 ; 1 + cot^2 = cosec^2",
+          "note": null,
+          "kind": "identity"
+        },
+        {
+          "id": "f_trigonometry_0002",
+          "label": { "en": "Standard angle values", "hi": "मानक कोणों के मान" },
+          "latex": null,
+          "plain": "sin: 0, 1/2, 1/sqrt2, sqrt3/2, 1 for 0, 30, 45, 60, 90 degrees; cos is the same list reversed",
+          "note": {
+            "en": "Memorise sin as the sequence √0/2, √1/2, √2/2, √3/2, √4/2 — cos is simply read backwards.",
+            "hi": "sin को √0/2, √1/2, √2/2, √3/2, √4/2 क्रम में याद करें — cos इसी को उल्टा पढ़ने पर मिलता है।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    }
+  ]
+}

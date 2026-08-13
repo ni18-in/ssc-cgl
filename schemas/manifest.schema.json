@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ssc-cgl-prep.local/schemas/manifest.schema.json",
+  "title": "Content manifest",
+  "description": "Fetched on every app launch. The app compares contentVersion, then downloads only files whose checksum differs from the cached copy.",
+  "type": "object",
+  "properties": {
+    "schemaVersion": { "type": "string", "const": "1.0.0" },
+    "lastUpdated": { "$ref": "common.schema.json#/$defs/isoTimestamp" },
+    "contentVersion": { "$ref": "common.schema.json#/$defs/contentVersion" },
+    "minAppVersion": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$",
+      "description": "Oldest app build that can parse this content. Older installs keep their cache and prompt to update."
+    },
+    "files": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/manifestFile" }
+    },
+    "totalSizeBytes": { "type": "integer", "minimum": 0 },
+    "forceUpdate": {
+      "type": "boolean",
+      "description": "When true the app blocks content use until the sync completes. Reserve for corrections that make cached content wrong."
+    },
+    "changelog": { "type": "string" }
+  },
+  "required": [
+    "schemaVersion",
+    "lastUpdated",
+    "contentVersion",
+    "minAppVersion",
+    "files",
+    "totalSizeBytes",
+    "forceUpdate",
+    "changelog"
+  ],
+  "additionalProperties": false,
+
+  "$defs": {
+    "manifestFile": {
+      "type": "object",
+      "properties": {
+        "path": {
+          "type": "string",
+          "pattern": "^[a-z0-9_./-]+\\.json$",
+          "description": "Repo-relative path, appended to the Pages base URL as-is."
+        },
+        "kind": {
+          "type": "string",
+          "enum": [
+            "syllabus",
+            "question_bank",
+            "mock",
+            "pyq",
+            "current_affairs",
+            "formula_sheet",
+            "descriptive"
+          ],
+          "description": "Tells the app which model to parse this file into."
+        },
+        "sizeBytes": { "type": "integer", "minimum": 0 },
+        "checksum": { "$ref": "common.schema.json#/$defs/sha256" },
+        "lastModified": { "$ref": "common.schema.json#/$defs/isoTimestamp" },
+        "required": {
+          "type": "boolean",
+          "description": "Required files sync on first launch. Optional ones download lazily when the user opens that section."
+        }
+      },
+      "required": ["path", "kind", "sizeBytes", "checksum", "lastModified", "required"],
+      "additionalProperties": false
+    }
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "schemaVersion": "1.0.0",
+  "tier": "tier1",
+  "title": { "en": "SSC CGL Tier 1", "hi": "एसएससी सीजीएल टियर 1" },
+  "examPattern": {
+    "totalQuestions": 100,
+    "totalMarks": 200,
+    "durationMinutes": 60,
+    "negativeMarks": 0.5,
+    "sectionalTiming": false
+  },
+  "sections": [
+    {
+      "subject": "reasoning",
+      "title": { "en": "General Intelligence & Reasoning", "hi": "सामान्य बुद्धि एवं तर्कशक्ति" },
+      "questionCount": 25,
+      "marks": 50,
+      "durationMinutes": null,
+      "topics": [
+        {
+          "slug": "analogy",
+          "title": { "en": "Analogy", "hi": "सादृश्यता" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "word_analogy", "title": { "en": "Word Analogy", "hi": "शब्द सादृश्यता" } },
+            { "slug": "number_analogy", "title": { "en": "Number Analogy", "hi": "संख्या सादृश्यता" } },
+            { "slug": "figure_analogy", "title": { "en": "Figure Analogy", "hi": "आकृति सादृश्यता" } }
+          ]
+        },
+        {
+          "slug": "classification",
+          "title": { "en": "Classification (Odd One Out)", "hi": "वर्गीकरण" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "word_classification", "title": { "en": "Word Classification", "hi": "शब्द वर्गीकरण" } },
+            { "slug": "number_classification", "title": { "en": "Number Classification", "hi": "संख्या वर्गीकरण" } }
+          ]
+        },
+        {
+          "slug": "series",
+          "title": { "en": "Series", "hi": "श्रृंखला" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "number_series", "title": { "en": "Number Series", "hi": "संख्या श्रृंखला" } },
+            { "slug": "alphabet_series", "title": { "en": "Alphabet Series", "hi": "वर्णमाला श्रृंखला" } },
+            { "slug": "figure_series", "title": { "en": "Figure Series", "hi": "आकृति श्रृंखला" } }
+          ]
+        },
+        {
+          "slug": "coding_decoding",
+          "title": { "en": "Coding-Decoding", "hi": "कूटलेखन-कूटवाचन" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "letter_coding", "title": { "en": "Letter Coding", "hi": "अक्षर कूटलेखन" } },
+            { "slug": "number_coding", "title": { "en": "Number Coding", "hi": "संख्या कूटलेखन" } }
+          ]
+        },
+        {
+          "slug": "mathematical_operations",
+          "title": { "en": "Mathematical Operations", "hi": "गणितीय संक्रियाएँ" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "symbol_substitution", "title": { "en": "Symbol Substitution", "hi": "चिह्न प्रतिस्थापन" } },
+            { "slug": "balancing_equations", "title": { "en": "Balancing Equations", "hi": "समीकरण संतुलन" } }
+          ]
+        },
+        {
+          "slug": "blood_relations",
+          "title": { "en": "Blood Relations", "hi": "रक्त संबंध" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "direction_sense",
+          "title": { "en": "Direction & Distance", "hi": "दिशा एवं दूरी" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "syllogism",
+          "title": { "en": "Syllogism", "hi": "न्यायवाक्य" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "venn_diagram",
+          "title": { "en": "Venn Diagram", "hi": "वेन आरेख" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "paper_folding_cutting",
+          "title": { "en": "Paper Folding & Cutting", "hi": "कागज मोड़ना एवं काटना" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "mirror_water_image",
+          "title": { "en": "Mirror & Water Images", "hi": "दर्पण एवं जल प्रतिबिंब" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "embedded_figures",
+          "title": { "en": "Embedded & Completion of Figures", "hi": "छिपी आकृति एवं आकृति पूर्ति" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "cube_and_dice",
+          "title": { "en": "Cube & Dice", "hi": "घन एवं पासा" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "word_formation",
+          "title": { "en": "Word Formation & Dictionary Order", "hi": "शब्द निर्माण एवं शब्दकोश क्रम" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "ranking_order",
+          "title": { "en": "Ranking & Order", "hi": "क्रम एवं रैंकिंग" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "statement_conclusion",
+          "title": { "en": "Statement & Conclusion", "hi": "कथन एवं निष्कर्ष" },
+          "weightage": 1,
+          "subTopics": []
+        }
+      ]
+    },
+    {
+      "subject": "gk",
+      "title": { "en": "General Awareness", "hi": "सामान्य जागरूकता" },
+      "questionCount": 25,
+      "marks": 50,
+      "durationMinutes": null,
+      "topics": [
+        {
+          "slug": "history",
+          "title": { "en": "History", "hi": "इतिहास" },
+          "weightage": 4,
+          "subTopics": [
+            { "slug": "ancient_india", "title": { "en": "Ancient India", "hi": "प्राचीन भारत" } },
+            { "slug": "medieval_india", "title": { "en": "Medieval India", "hi": "मध्यकालीन भारत" } },
+            { "slug": "modern_india", "title": { "en": "Modern India & Freedom Struggle", "hi": "आधुनिक भारत एवं स्वतंत्रता संग्राम" } }
+          ]
+        },
+        {
+          "slug": "geography",
+          "title": { "en": "Geography", "hi": "भूगोल" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "physical_geography", "title": { "en": "Physical Geography", "hi": "भौतिक भूगोल" } },
+            { "slug": "indian_geography", "title": { "en": "Indian Geography", "hi": "भारत का भूगोल" } },
+            { "slug": "world_geography", "title": { "en": "World Geography", "hi": "विश्व भूगोल" } }
+          ]
+        },
+        {
+          "slug": "polity",
+          "title": { "en": "Indian Polity & Constitution", "hi": "भारतीय राजव्यवस्था एवं संविधान" },
+          "weightage": 4,
+          "subTopics": [
+            { "slug": "constitution_basics", "title": { "en": "Constitutional Framework", "hi": "संवैधानिक ढाँचा" } },
+            { "slug": "fundamental_rights", "title": { "en": "Fundamental Rights & Duties", "hi": "मौलिक अधिकार एवं कर्तव्य" } },
+            { "slug": "union_state_govt", "title": { "en": "Union & State Government", "hi": "केंद्र एवं राज्य सरकार" } },
+            { "slug": "judiciary", "title": { "en": "Judiciary", "hi": "न्यायपालिका" } }
+          ]
+        },
+        {
+          "slug": "economy",
+          "title": { "en": "Economy", "hi": "अर्थव्यवस्था" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "basic_concepts", "title": { "en": "Basic Economic Concepts", "hi": "आर्थिक अवधारणाएँ" } },
+            { "slug": "banking_finance", "title": { "en": "Banking & Finance", "hi": "बैंकिंग एवं वित्त" } },
+            { "slug": "budget_taxation", "title": { "en": "Budget & Taxation", "hi": "बजट एवं कराधान" } }
+          ]
+        },
+        {
+          "slug": "general_science",
+          "title": { "en": "General Science", "hi": "सामान्य विज्ञान" },
+          "weightage": 6,
+          "subTopics": [
+            { "slug": "physics", "title": { "en": "Physics", "hi": "भौतिक विज्ञान" } },
+            { "slug": "chemistry", "title": { "en": "Chemistry", "hi": "रसायन विज्ञान" } },
+            { "slug": "biology", "title": { "en": "Biology", "hi": "जीव विज्ञान" } }
+          ]
+        },
+        {
+          "slug": "static_gk",
+          "title": { "en": "Static GK", "hi": "स्टैटिक जीके" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "books_authors", "title": { "en": "Books & Authors", "hi": "पुस्तकें एवं लेखक" } },
+            { "slug": "dances_festivals", "title": { "en": "Dances & Festivals", "hi": "नृत्य एवं त्योहार" } },
+            { "slug": "important_days", "title": { "en": "Important Days", "hi": "महत्वपूर्ण दिवस" } },
+            { "slug": "organisations", "title": { "en": "Organisations & Headquarters", "hi": "संगठन एवं मुख्यालय" } }
+          ]
+        },
+        {
+          "slug": "current_affairs",
+          "title": { "en": "Current Affairs", "hi": "समसामयिकी" },
+          "weightage": 3,
+          "subTopics": []
+        }
+      ]
+    },
+    {
+      "subject": "quant",
+      "title": { "en": "Quantitative Aptitude", "hi": "मात्रात्मक अभियोग्यता" },
+      "questionCount": 25,
+      "marks": 50,
+      "durationMinutes": null,
+      "topics": [
+        {
+          "slug": "number_system",
+          "title": { "en": "Number System", "hi": "संख्या पद्धति" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "divisibility", "title": { "en": "Divisibility & Remainders", "hi": "विभाज्यता एवं शेषफल" } },
+            { "slug": "hcf_lcm", "title": { "en": "HCF & LCM", "hi": "म.स. एवं ल.स." } }
+          ]
+        },
+        {
+          "slug": "simplification",
+          "title": { "en": "Simplification & Surds", "hi": "सरलीकरण एवं करणी" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "percentage",
+          "title": { "en": "Percentage", "hi": "प्रतिशत" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "ratio_proportion",
+          "title": { "en": "Ratio & Proportion", "hi": "अनुपात एवं समानुपात" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "average",
+          "title": { "en": "Average", "hi": "औसत" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "profit_loss",
+          "title": { "en": "Profit, Loss & Discount", "hi": "लाभ, हानि एवं छूट" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "interest",
+          "title": { "en": "Simple & Compound Interest", "hi": "साधारण एवं चक्रवृद्धि ब्याज" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "simple_interest", "title": { "en": "Simple Interest", "hi": "साधारण ब्याज" } },
+            { "slug": "compound_interest", "title": { "en": "Compound Interest", "hi": "चक्रवृद्धि ब्याज" } }
+          ]
+        },
+        {
+          "slug": "time_and_work",
+          "title": { "en": "Time & Work", "hi": "समय एवं कार्य" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "pipes_and_cisterns", "title": { "en": "Pipes & Cisterns", "hi": "नल एवं टंकी" } },
+            { "slug": "work_wages", "title": { "en": "Work & Wages", "hi": "कार्य एवं मजदूरी" } }
+          ]
+        },
+        {
+          "slug": "time_speed_distance",
+          "title": { "en": "Time, Speed & Distance", "hi": "समय, चाल एवं दूरी" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "trains", "title": { "en": "Problems on Trains", "hi": "रेलगाड़ी संबंधी प्रश्न" } },
+            { "slug": "boats_streams", "title": { "en": "Boats & Streams", "hi": "नाव एवं धारा" } }
+          ]
+        },
+        {
+          "slug": "mixture_alligation",
+          "title": { "en": "Mixture & Alligation", "hi": "मिश्रण एवं सम्मिश्रण" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "algebra",
+          "title": { "en": "Algebra", "hi": "बीजगणित" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "linear_equations", "title": { "en": "Linear Equations", "hi": "रैखिक समीकरण" } },
+            { "slug": "quadratic_equations", "title": { "en": "Quadratic Equations", "hi": "द्विघात समीकरण" } },
+            { "slug": "algebraic_identities", "title": { "en": "Algebraic Identities", "hi": "बीजीय सर्वसमिकाएँ" } }
+          ]
+        },
+        {
+          "slug": "geometry",
+          "title": { "en": "Geometry", "hi": "ज्यामिति" },
+          "weightage": 3,
+          "subTopics": [
+            { "slug": "triangles", "title": { "en": "Triangles", "hi": "त्रिभुज" } },
+            { "slug": "circles", "title": { "en": "Circles", "hi": "वृत्त" } },
+            { "slug": "quadrilaterals", "title": { "en": "Quadrilaterals & Polygons", "hi": "चतुर्भुज एवं बहुभुज" } }
+          ]
+        },
+        {
+          "slug": "mensuration",
+          "title": { "en": "Mensuration", "hi": "क्षेत्रमिति" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "area_2d", "title": { "en": "2D Mensuration", "hi": "द्विविमीय क्षेत्रमिति" } },
+            { "slug": "volume_3d", "title": { "en": "3D Mensuration", "hi": "त्रिविमीय क्षेत्रमिति" } }
+          ]
+        },
+        {
+          "slug": "trigonometry",
+          "title": { "en": "Trigonometry", "hi": "त्रिकोणमिति" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "trig_ratios", "title": { "en": "Trigonometric Ratios & Identities", "hi": "त्रिकोणमितीय अनुपात एवं सर्वसमिकाएँ" } },
+            { "slug": "height_distance", "title": { "en": "Height & Distance", "hi": "ऊँचाई एवं दूरी" } }
+          ]
+        },
+        {
+          "slug": "data_interpretation",
+          "title": { "en": "Data Interpretation", "hi": "आँकड़ा निर्वचन" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "bar_graph", "title": { "en": "Bar Graph", "hi": "दंड आरेख" } },
+            { "slug": "pie_chart", "title": { "en": "Pie Chart", "hi": "वृत्त आरेख" } },
+            { "slug": "table_di", "title": { "en": "Tabular DI", "hi": "सारणी आधारित" } }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "english",
+      "title": { "en": "English Comprehension", "hi": "अंग्रेजी बोधगम्यता" },
+      "questionCount": 25,
+      "marks": 50,
+      "durationMinutes": null,
+      "topics": [
+        {
+          "slug": "reading_comprehension",
+          "title": { "en": "Reading Comprehension", "hi": "अपठित गद्यांश" },
+          "weightage": 5,
+          "subTopics": []
+        },
+        {
+          "slug": "cloze_test",
+          "title": { "en": "Cloze Test", "hi": "क्लोज टेस्ट" },
+          "weightage": 5,
+          "subTopics": []
+        },
+        {
+          "slug": "error_spotting",
+          "title": { "en": "Spotting Errors", "hi": "त्रुटि पहचान" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "sentence_improvement",
+          "title": { "en": "Sentence Improvement", "hi": "वाक्य सुधार" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "fill_in_the_blanks",
+          "title": { "en": "Fill in the Blanks", "hi": "रिक्त स्थान पूर्ति" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "synonyms_antonyms",
+          "title": { "en": "Synonyms & Antonyms", "hi": "पर्यायवाची एवं विलोम" },
+          "weightage": 2,
+          "subTopics": [
+            { "slug": "synonyms", "title": { "en": "Synonyms", "hi": "पर्यायवाची" } },
+            { "slug": "antonyms", "title": { "en": "Antonyms", "hi": "विलोम" } }
+          ]
+        },
+        {
+          "slug": "spelling_check",
+          "title": { "en": "Spelling Correction", "hi": "वर्तनी सुधार" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "idioms_phrases",
+          "title": { "en": "Idioms & Phrases", "hi": "मुहावरे एवं वाक्यांश" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "one_word_substitution",
+          "title": { "en": "One Word Substitution", "hi": "एक शब्द प्रतिस्थापन" },
+          "weightage": 2,
+          "subTopics": []
+        },
+        {
+          "slug": "narration",
+          "title": { "en": "Direct & Indirect Speech", "hi": "प्रत्यक्ष एवं अप्रत्यक्ष कथन" },
+          "weightage": 1,
+          "subTopics": []
+        },
+        {
+          "slug": "voice",
+          "title": { "en": "Active & Passive Voice", "hi": "कर्तृवाच्य एवं कर्मवाच्य" },
+          "weightage": 1,
+          "subTopics": []
+        }
+      ]
+    }
+  ]
+}

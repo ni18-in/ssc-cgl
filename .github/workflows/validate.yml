@@ -1,0 +1,28 @@
+name: Validate content
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      # Fails the build if a content file was edited without regenerating the
+      # manifest, which would leave installed apps serving stale checksums.
+      - name: Check manifest is in sync
+        run: python scripts/build_manifest.py --check
+
+      - name: Validate schemas and cross-file rules
+        run: python scripts/validate.py

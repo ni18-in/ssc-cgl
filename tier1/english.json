@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0.0",
+  "bankId": "t1_english",
+  "tier": "tier1",
+  "subject": "english",
+  "title": { "en": "English Comprehension — Tier 1", "hi": "अंग्रेजी बोधगम्यता — टियर 1" },
+  "defaultMarks": 2,
+  "defaultNegativeMarks": 0.5,
+  "questions": [
+    {
+      "id": "q_t1_english_00001",
+      "topic": "one_word_substitution",
+      "question": { "en": "Select the one word substitution for: \"A person who cannot be corrected.\"" },
+      "options": [
+        { "en": "Incurable" },
+        { "en": "Incorrigible" },
+        { "en": "Illegible" },
+        { "en": "Ineligible" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "'Incorrigible' means not able to be corrected or reformed, especially of a person or their behaviour. 'Incurable' applies to a disease, 'illegible' to handwriting that cannot be read, and 'ineligible' to someone who does not qualify."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00002",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": { "en": "Select the word most similar in meaning to: ABANDON" },
+      "options": [
+        { "en": "Retain" },
+        { "en": "Desert" },
+        { "en": "Cherish" },
+        { "en": "Support" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "To abandon is to leave something behind or give it up completely, which matches 'desert'. 'Retain', 'cherish' and 'support' all point in the opposite direction."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00003",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Identify the segment that contains a grammatical error:\n(A) The number of students in the class\n(B) are increasing\n(C) every year\n(D) No error"
+      },
+      "options": [
+        { "en": "A" },
+        { "en": "B" },
+        { "en": "C" },
+        { "en": "No error" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "'The number of' takes a singular verb, so segment B should read 'is increasing'. Contrast this with 'A number of students are increasing', where 'a number of' means 'many' and takes a plural verb."
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00004",
+      "topic": "idioms_phrases",
+      "question": { "en": "Select the meaning of the idiom: \"To bell the cat\"" },
+      "options": [
+        { "en": "To take on a difficult or risky task" },
+        { "en": "To make a lot of noise" },
+        { "en": "To flatter someone in authority" },
+        { "en": "To avoid responsibility" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To bell the cat' means to undertake a dangerous or difficult task on behalf of a group. It comes from the fable in which mice agree that belling the cat would warn them of its approach, but none is willing to do it."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00005",
+      "topic": "fill_in_the_blanks",
+      "question": { "en": "Fill in the blank: He has been living in Delhi ______ 2015." },
+      "options": [
+        { "en": "for" },
+        { "en": "from" },
+        { "en": "since" },
+        { "en": "by" }
+      ],
+      "correctIndex": 2,
+      "explanation": {
+        "en": "'Since' is used with a point in time (2015, Monday, morning) in the present perfect continuous. 'For' would be used with a duration, as in 'for ten years'."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00006",
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Improve the underlined part: \"Hardly had I reached the station _when_ the train left.\""
+      },
+      "options": [
+        { "en": "than the train left" },
+        { "en": "when the train left" },
+        { "en": "then the train left" },
+        { "en": "that the train left" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "'Hardly' pairs with 'when', so the sentence is already correct. The pairing to keep separate is 'no sooner ... than'. Note also the inversion after 'hardly': 'Hardly had I reached', not 'Hardly I had reached'."
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "conceptual"]
+    }
+  ]
+}

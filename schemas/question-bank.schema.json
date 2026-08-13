@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ssc-cgl-prep.local/schemas/question-bank.schema.json",
+  "title": "Question bank",
+  "description": "One file per subject per tier. Holds many topics; each question carries its own topic so the app can filter without opening hundreds of small files.",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "bankId": {
+      "$ref": "common.schema.json#/$defs/slug",
+      "description": "Stable identifier for this bank, e.g. t1_quant."
+    },
+    "tier": { "$ref": "common.schema.json#/$defs/tier" },
+    "subject": { "$ref": "common.schema.json#/$defs/subject" },
+    "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+    "defaultMarks": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Marks awarded per correct answer for every question in this bank."
+    },
+    "defaultNegativeMarks": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Marks deducted per wrong answer. 0 disables negative marking."
+    },
+    "questions": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/question" }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "bankId",
+    "tier",
+    "subject",
+    "title",
+    "defaultMarks",
+    "defaultNegativeMarks",
+    "questions"
+  ],
+  "additionalProperties": false,
+
+  "$defs": {
+    "question": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^q_[a-z0-9_]+_\\d{5}$",
+          "description": "Permanent ID, e.g. q_t1_quant_00001. On-device progress, bookmarks and notes are keyed by this. Never reuse or renumber."
+        },
+        "topic": { "$ref": "common.schema.json#/$defs/slug" },
+        "subTopic": { "$ref": "common.schema.json#/$defs/slug" },
+        "question": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "options": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 5,
+          "items": { "$ref": "common.schema.json#/$defs/localizedText" }
+        },
+        "correctIndex": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "0-based index into options. Cross-field bound check is enforced by scripts/validate.py."
+        },
+        "explanation": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "difficulty": { "$ref": "common.schema.json#/$defs/difficulty" },
+        "year": {
+          "type": ["integer", "null"],
+          "minimum": 1990,
+          "maximum": 2100,
+          "description": "Year this question actually appeared in an SSC exam. null for authored practice questions."
+        },
+        "marks": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "description": "Overrides defaultMarks. Omit unless this question genuinely differs."
+        },
+        "negativeMarks": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Overrides defaultNegativeMarks. Omit unless this question genuinely differs."
+        },
+        "imageUrl": {
+          "type": ["string", "null"],
+          "description": "Repo-relative path under static/images/, WebP, <= 50 KB. null when the question has no figure."
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "shortcut_applicable",
+              "frequently_asked",
+              "conceptual",
+              "calculation_heavy",
+              "trap",
+              "formula_based"
+            ]
+          },
+          "uniqueItems": true
+        }
+      },
+      "required": [
+        "id",
+        "topic",
+        "question",
+        "options",
+        "correctIndex",
+        "explanation",
+        "difficulty"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
