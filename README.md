@@ -30,6 +30,7 @@ app's first-launch sync; the rest download lazily when the user opens that secti
 | [`formula_sheets/quant_formulas.json`](formula_sheets/quant_formulas.json) | formula_sheet | yes | [open](https://ni18-in.github.io/ssc-cgl/formula_sheets/quant_formulas.json) |
 | [`current_affairs/latest.json`](current_affairs/latest.json) | current_affairs | yes | [open](https://ni18-in.github.io/ssc-cgl/current_affairs/latest.json) |
 | [`current_affairs/2026_08.json`](current_affairs/2026_08.json) | current_affairs | no | [open](https://ni18-in.github.io/ssc-cgl/current_affairs/2026_08.json) |
+| [`mocks/tier1/t1_mock_001.json`](mocks/tier1/t1_mock_001.json) | mock | no | *not yet published* |
 
 > **Current affairs are placeholders.** The entries in `2026_08.json` are structurally valid
 > samples with `SAMPLE —` headlines, not real news. Replace them with curated, verified items
@@ -47,7 +48,7 @@ schemas/                    JSON Schema (draft 2020-12) for every content type
 syllabus/                   Topic trees that drive the in-app syllabus tracker
 tier1/                      Tier 1 question banks (one file per subject)
 tier2/                      Tier 2 banks (paper1/ per subject, paper2, paper3)   [empty]
-mocks/                      Full-length mock tests (exact exam pattern)          [empty]
+mocks/                      Full-length mock tests (tier1/ has one demo paper)
 pyq/                        Previous year papers, one file per year+tier         [empty]
 current_affairs/            Monthly chunks + latest.json pointer
 formula_sheets/             Formula / shortcut cards
@@ -57,7 +58,7 @@ scripts/                    Manifest builder and validator
 ```
 
 Directories marked `[empty]` are part of the schema and manifest routing but have no content
-yet — they fill in during Weeks 4–6.
+yet — they fill in during Weeks 5–6.
 
 ## Schemas
 
@@ -72,9 +73,10 @@ shared definitions (`localizedText`, `difficulty`, `tier`, `subject`, `sha256`, 
 | [`syllabus.schema.json`](schemas/syllabus.schema.json) | `syllabus/*.json` |
 | [`current-affairs.schema.json`](schemas/current-affairs.schema.json) | `current_affairs/*.json` |
 | [`formula-sheet.schema.json`](schemas/formula-sheet.schema.json) | `formula_sheets/*.json` |
+| [`mock.schema.json`](schemas/mock.schema.json) | `mocks/**/*.json` |
 
-Mocks, PYQs and descriptive content have no schema yet — they are validated as well-formed
-JSON only, and gain schemas when those features land.
+PYQs and descriptive content have no schema yet — they are validated as well-formed JSON
+only, and gain schemas when those features land.
 
 ## Content workflow
 
@@ -115,6 +117,11 @@ validation it enforces what schemas cannot express:
 - question IDs unique across *every* bank
 - each question's `topic` declared in that subject's syllabus section
 - no two options with identical English text
+- every mock's `questionIds` resolving to a real question **of that section's subject**
+- mock sectional timing agreeing with per-section durations, and section durations summing to
+  the paper duration
+- a Tier 1 mock claiming the real pattern actually having 100 questions in 60 minutes, or
+  being flagged `isDemo`
 - `latest.json` matching its archived month exactly
 - files listed in the manifest actually present on disk
 

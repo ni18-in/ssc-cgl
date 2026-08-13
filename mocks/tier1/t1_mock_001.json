@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "1.0.0",
+  "mockId": "t1_mock_001",
+  "tier": "tier1",
+  "title": {
+    "en": "Tier 1 Demo Mock — 26 Questions",
+    "hi": "टियर 1 डेमो मॉक — 26 प्रश्न"
+  },
+  "durationMinutes": 16,
+  "sectionalTiming": false,
+  "isDemo": true,
+  "instructions": {
+    "en": "This is a short demo built from the questions currently published, not a full-length paper. The real SSC CGL Tier 1 is 100 questions in 60 minutes with 4 sections of 25 each. Marking here matches the real exam: +2 for a correct answer, -0.5 for a wrong one, and nothing for a question left blank. There is one timer for the whole paper and you may move between sections freely.",
+    "hi": "यह वर्तमान में प्रकाशित प्रश्नों से बना एक संक्षिप्त डेमो है, पूर्ण प्रश्नपत्र नहीं। वास्तविक एसएससी सीजीएल टियर 1 में 60 मिनट में 100 प्रश्न होते हैं, प्रत्येक 25 प्रश्नों के 4 खंड। यहाँ अंकन वास्तविक परीक्षा जैसा है: सही उत्तर पर +2, गलत पर -0.5, तथा खाली छोड़े गए प्रश्न पर कुछ नहीं। पूरे प्रश्नपत्र हेतु एक ही टाइमर है और आप खंडों के बीच स्वतंत्र रूप से जा सकते हैं।"
+  },
+  "sections": [
+    {
+      "subject": "reasoning",
+      "title": {
+        "en": "General Intelligence & Reasoning",
+        "hi": "सामान्य बुद्धि एवं तर्कशक्ति"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_reasoning_00001",
+        "q_t1_reasoning_00002",
+        "q_t1_reasoning_00003",
+        "q_t1_reasoning_00004",
+        "q_t1_reasoning_00005",
+        "q_t1_reasoning_00006"
+      ]
+    },
+    {
+      "subject": "gk",
+      "title": { "en": "General Awareness", "hi": "सामान्य जागरूकता" },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_gk_00001",
+        "q_t1_gk_00002",
+        "q_t1_gk_00003",
+        "q_t1_gk_00004",
+        "q_t1_gk_00005",
+        "q_t1_gk_00006"
+      ]
+    },
+    {
+      "subject": "quant",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "मात्रात्मक अभियोग्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_quant_00001",
+        "q_t1_quant_00002",
+        "q_t1_quant_00003",
+        "q_t1_quant_00004",
+        "q_t1_quant_00005",
+        "q_t1_quant_00006",
+        "q_t1_quant_00007",
+        "q_t1_quant_00008"
+      ]
+    },
+    {
+      "subject": "english",
+      "title": { "en": "English Comprehension", "hi": "अंग्रेजी बोधगम्यता" },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_english_00001",
+        "q_t1_english_00002",
+        "q_t1_english_00003",
+        "q_t1_english_00004",
+        "q_t1_english_00005",
+        "q_t1_english_00006"
+      ]
+    }
+  ]
+}

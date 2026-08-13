@@ -33,10 +33,11 @@ SCHEMA_FOR_KIND = {
     "question_bank": "question-bank.schema.json",
     "current_affairs": "current-affairs.schema.json",
     "formula_sheet": "formula-sheet.schema.json",
+    "mock": "mock.schema.json",
 }
 
 # Kinds that have no schema yet. They are still checked for valid JSON.
-UNSCHEMAED_KINDS = {"mock", "pyq", "descriptive"}
+UNSCHEMAED_KINDS = {"pyq", "descriptive"}
 
 
 class Report:
@@ -151,6 +152,75 @@ def check_question_bank(
     return len(data.get("questions", []))
 
 
+def check_mock(
+    data: dict,
+    rel_path: str,
+    question_index: dict[str, str],
+    report: Report,
+) -> None:
+    """Mocks reference questions by id, so a rename or retirement in a bank
+    silently empties a section unless it is caught here."""
+    sectional = data.get("sectionalTiming", False)
+    section_minutes = 0
+    total_questions = 0
+
+    for index, section in enumerate(data.get("sections", [])):
+        subject = section.get("subject")
+        where = f"{rel_path} [section {index}: {subject}]"
+
+        duration = section.get("durationMinutes")
+        if sectional and duration is None:
+            report.error(where, "sectionalTiming is on but this section has no duration")
+        if not sectional and duration is not None:
+            report.error(
+                where,
+                "durationMinutes is set but the mock uses a single shared timer",
+            )
+        if duration:
+            section_minutes += duration
+
+        ids = section.get("questionIds", [])
+        total_questions += len(ids)
+
+        for question_id in ids:
+            owner_subject = question_index.get(question_id)
+            if owner_subject is None:
+                report.error(
+                    where,
+                    f"references '{question_id}', which exists in no published "
+                    "question bank",
+                )
+            elif owner_subject != subject:
+                report.error(
+                    where,
+                    f"references '{question_id}', which is a {owner_subject} "
+                    f"question in a {subject} section",
+                )
+
+    if sectional and section_minutes != data.get("durationMinutes"):
+        report.error(
+            rel_path,
+            f"section durations total {section_minutes} min but durationMinutes "
+            f"is {data.get('durationMinutes')}",
+        )
+
+    # A mock that does not match the real paper must say so, or a candidate
+    # reads their score as readiness for the actual exam.
+    if data.get("tier") == "tier1" and not data.get("isDemo", False):
+        if total_questions != 100:
+            report.error(
+                rel_path,
+                f"a full Tier 1 mock must have 100 questions, found "
+                f"{total_questions}. Set isDemo true if this is a sample.",
+            )
+        if data.get("durationMinutes") != 60:
+            report.error(
+                rel_path,
+                f"a full Tier 1 mock runs 60 minutes, found "
+                f"{data.get('durationMinutes')}",
+            )
+
+
 def main() -> int:
     report = Report()
     registry = build_registry()
@@ -171,6 +241,22 @@ def main() -> int:
     seen_ids: dict[str, str] = {}
     question_total = 0
     files_checked = 0
+
+    # Pre-pass: index every published question id to its subject. Mocks
+    # reference ids, and manifest order does not guarantee banks come first.
+    question_index: dict[str, str] = {}
+    for entry in manifest.get("files", []):
+        if entry.get("kind") != "question_bank":
+            continue
+        bank_path = REPO_ROOT / entry["path"]
+        if not bank_path.is_file():
+            continue
+        bank = load_json(bank_path, Report())  # errors surface in the main pass
+        if not bank:
+            continue
+        for question in bank.get("questions", []):
+            if question.get("id"):
+                question_index[question["id"]] = bank.get("subject", "")
 
     for entry in manifest.get("files", []):
         rel_path = entry["path"]
@@ -197,6 +283,8 @@ def main() -> int:
             question_total += check_question_bank(
                 data, rel_path, syllabus_topics, seen_ids, report
             )
+        elif kind == "mock":
+            check_mock(data, rel_path, question_index, report)
 
     # latest.json must mirror an archived month, or the app's stable poll path
     # drifts away from the real content.

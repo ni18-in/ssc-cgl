@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ssc-cgl-prep.local/schemas/mock.schema.json",
+  "title": "Mock test",
+  "description": "A full-length test on the real exam pattern. Questions are referenced by id rather than embedded, so the bank stays the single source of truth and a content correction reaches every mock that uses it. scripts/validate.py resolves every id against the banks.",
+  "type": "object",
+  "properties": {
+    "schemaVersion": { "type": "string", "const": "1.0.0" },
+    "mockId": { "$ref": "common.schema.json#/$defs/slug" },
+    "tier": { "$ref": "common.schema.json#/$defs/tier" },
+    "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+    "durationMinutes": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Total wall-clock time. When sectionalTiming is true this must equal the sum of the section durations."
+    },
+    "sectionalTiming": {
+      "type": "boolean",
+      "description": "True when each section has its own locked timer and the candidate cannot return to a finished section (Tier 2). False for one shared timer with free movement (Tier 1)."
+    },
+    "isDemo": {
+      "type": "boolean",
+      "description": "Marks a short sample that does not follow the full exam pattern. The app labels these so a candidate is never misled about their readiness."
+    },
+    "instructions": {
+      "anyOf": [
+        { "$ref": "common.schema.json#/$defs/localizedText" },
+        { "type": "null" }
+      ]
+    },
+    "sections": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/section" }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "mockId",
+    "tier",
+    "title",
+    "durationMinutes",
+    "sectionalTiming",
+    "sections"
+  ],
+  "additionalProperties": false,
+
+  "$defs": {
+    "section": {
+      "type": "object",
+      "properties": {
+        "subject": { "$ref": "common.schema.json#/$defs/subject" },
+        "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "durationMinutes": {
+          "type": ["integer", "null"],
+          "minimum": 1,
+          "description": "Required when the mock uses sectional timing; must be null otherwise."
+        },
+        "marksPerQuestion": { "type": "number", "exclusiveMinimum": 0 },
+        "negativeMarks": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Deducted per wrong answer. Unanswered questions are never penalised."
+        },
+        "questionIds": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^q_[a-z0-9_]+_\\d{5}$"
+          },
+          "description": "Ordered. Every id must exist in a published question bank whose subject matches this section."
+        }
+      },
+      "required": [
+        "subject",
+        "title",
+        "marksPerQuestion",
+        "negativeMarks",
+        "questionIds"
+      ],
+      "additionalProperties": false
+    }
+  }
+}
