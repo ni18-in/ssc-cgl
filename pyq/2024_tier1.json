@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0.0",
+  "mockId": "pyq_2024_tier1",
+  "tier": "tier1",
+  "title": {
+    "en": "SSC CGL 2024 Tier 1 — Sample Set",
+    "hi": "एसएससी सीजीएल 2024 टियर 1 — नमूना सेट"
+  },
+  "durationMinutes": 12,
+  "sectionalTiming": false,
+  "isDemo": true,
+  "year": 2024,
+  "examDate": null,
+  "shift": null,
+  "source": "Placeholder — replace with questions transcribed from an official SSC paper and answer key",
+  "instructions": {
+    "en": "PLACEHOLDER SET. This is not a real 2024 paper. It reuses questions from the practice banks so the previous-year interface can be exercised end to end. Replace it with questions transcribed from an official SSC paper and its answer key, then set isDemo to false and record the exam date, shift and source. A real Tier 1 paper is 100 questions in 60 minutes.",
+    "hi": "यह वास्तविक 2024 का प्रश्नपत्र नहीं है। यह केवल इंटरफेस परीक्षण हेतु अभ्यास बैंक के प्रश्नों का उपयोग करता है। इसे आधिकारिक एसएससी प्रश्नपत्र एवं उत्तर कुंजी से प्रतिलिपित प्रश्नों से बदलें।"
+  },
+  "sections": [
+    {
+      "subject": "quant",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "मात्रात्मक अभियोग्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_quant_00003",
+        "q_t1_quant_00004",
+        "q_t1_quant_00007",
+        "q_t1_quant_00008"
+      ]
+    },
+    {
+      "subject": "reasoning",
+      "title": {
+        "en": "General Intelligence & Reasoning",
+        "hi": "सामान्य बुद्धि एवं तर्कशक्ति"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_reasoning_00004",
+        "q_t1_reasoning_00006"
+      ]
+    }
+  ]
+}

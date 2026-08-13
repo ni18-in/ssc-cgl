@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "lastUpdated": "2026-08-13T17:52:06Z",
-  "contentVersion": "2026.08.13.2",
+  "lastUpdated": "2026-08-13T18:42:09Z",
+  "contentVersion": "2026.08.13.3",
   "minAppVersion": "1.0.0",
   "files": [
     {
@@ -53,6 +53,14 @@
       "required": false
     },
     {
+      "path": "pyq/2024_tier1.json",
+      "kind": "pyq",
+      "sizeBytes": 2215,
+      "checksum": "24f16fec054c651a0468186bcf123ff032a8b67e7e98da71bbec0fccef22162f",
+      "lastModified": "2026-08-13T18:42:09Z",
+      "required": false
+    },
+    {
       "path": "current_affairs/2026_08.json",
       "kind": "current_affairs",
       "sizeBytes": 3674,
@@ -77,7 +85,7 @@
       "required": true
     }
   ],
-  "totalSizeBytes": 77445,
+  "totalSizeBytes": 79660,
   "forceUpdate": false,
-  "changelog": "Added Tier 1 demo mock test."
+  "changelog": "Added previous year paper support and a sample PYQ set."
 }

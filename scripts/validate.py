@@ -34,10 +34,12 @@ SCHEMA_FOR_KIND = {
     "current_affairs": "current-affairs.schema.json",
     "formula_sheet": "formula-sheet.schema.json",
     "mock": "mock.schema.json",
+    # A previous year paper is the same shape as a mock, plus provenance.
+    "pyq": "mock.schema.json",
 }
 
 # Kinds that have no schema yet. They are still checked for valid JSON.
-UNSCHEMAED_KINDS = {"pyq", "descriptive"}
+UNSCHEMAED_KINDS = {"descriptive"}
 
 
 class Report:
@@ -157,6 +159,7 @@ def check_mock(
     rel_path: str,
     question_index: dict[str, str],
     report: Report,
+    is_pyq: bool = False,
 ) -> None:
     """Mocks reference questions by id, so a rename or retirement in a bank
     silently empties a section unless it is caught here."""
@@ -196,6 +199,18 @@ def check_mock(
                     f"references '{question_id}', which is a {owner_subject} "
                     f"question in a {subject} section",
                 )
+
+    # A previous year paper without provenance is indistinguishable from an
+    # invented one, which is the whole value a candidate is trusting.
+    if is_pyq:
+        if not data.get("year"):
+            report.error(rel_path, "a previous year paper must record its 'year'")
+        if not data.get("source"):
+            report.error(
+                rel_path,
+                "a previous year paper must record its 'source' so a candidate "
+                "can tell a transcribed official paper from an authored one",
+            )
 
     if sectional and section_minutes != data.get("durationMinutes"):
         report.error(
@@ -283,8 +298,8 @@ def main() -> int:
             question_total += check_question_bank(
                 data, rel_path, syllabus_topics, seen_ids, report
             )
-        elif kind == "mock":
-            check_mock(data, rel_path, question_index, report)
+        elif kind in ("mock", "pyq"):
+            check_mock(data, rel_path, question_index, report, is_pyq=kind == "pyq")
 
     # latest.json must mirror an archived month, or the app's stable poll path
     # drifts away from the real content.

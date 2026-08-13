@@ -2,13 +2,22 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://ssc-cgl-prep.local/schemas/mock.schema.json",
   "title": "Mock test",
-  "description": "A full-length test on the real exam pattern. Questions are referenced by id rather than embedded, so the bank stays the single source of truth and a content correction reaches every mock that uses it. scripts/validate.py resolves every id against the banks.",
+  "description": "A full-length test on the real exam pattern. Also used for previous year papers (manifest kind 'pyq'), which are the same shape plus provenance fields — a past paper is a mock that really happened. Questions are referenced by id rather than embedded, so the bank stays the single source of truth and a content correction reaches every paper that uses it. scripts/validate.py resolves every id against the banks.",
   "type": "object",
   "properties": {
-    "schemaVersion": { "type": "string", "const": "1.0.0" },
-    "mockId": { "$ref": "common.schema.json#/$defs/slug" },
-    "tier": { "$ref": "common.schema.json#/$defs/tier" },
-    "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+    "schemaVersion": {
+      "type": "string",
+      "const": "1.0.0"
+    },
+    "mockId": {
+      "$ref": "common.schema.json#/$defs/slug"
+    },
+    "tier": {
+      "$ref": "common.schema.json#/$defs/tier"
+    },
+    "title": {
+      "$ref": "common.schema.json#/$defs/localizedText"
+    },
     "durationMinutes": {
       "type": "integer",
       "minimum": 1,
@@ -24,14 +33,51 @@
     },
     "instructions": {
       "anyOf": [
-        { "$ref": "common.schema.json#/$defs/localizedText" },
-        { "type": "null" }
+        {
+          "$ref": "common.schema.json#/$defs/localizedText"
+        },
+        {
+          "type": "null"
+        }
       ]
     },
     "sections": {
       "type": "array",
       "minItems": 1,
-      "items": { "$ref": "#/$defs/section" }
+      "items": {
+        "$ref": "#/$defs/section"
+      }
+    },
+    "year": {
+      "type": [
+        "integer",
+        "null"
+      ],
+      "minimum": 1990,
+      "maximum": 2100,
+      "description": "Year this paper was actually held. Required for previous year papers, null for authored mocks."
+    },
+    "examDate": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Date the paper was held, when known."
+    },
+    "shift": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Sitting identifier, e.g. 'Shift 2'. SSC runs several shifts per day and the papers differ."
+    },
+    "source": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Provenance of the paper, e.g. 'SSC official answer key'. Previous year papers must say where they came from."
     }
   },
   "required": [
@@ -44,19 +90,28 @@
     "sections"
   ],
   "additionalProperties": false,
-
   "$defs": {
     "section": {
       "type": "object",
       "properties": {
-        "subject": { "$ref": "common.schema.json#/$defs/subject" },
-        "title": { "$ref": "common.schema.json#/$defs/localizedText" },
+        "subject": {
+          "$ref": "common.schema.json#/$defs/subject"
+        },
+        "title": {
+          "$ref": "common.schema.json#/$defs/localizedText"
+        },
         "durationMinutes": {
-          "type": ["integer", "null"],
+          "type": [
+            "integer",
+            "null"
+          ],
           "minimum": 1,
           "description": "Required when the mock uses sectional timing; must be null otherwise."
         },
-        "marksPerQuestion": { "type": "number", "exclusiveMinimum": 0 },
+        "marksPerQuestion": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
         "negativeMarks": {
           "type": "number",
           "minimum": 0,
