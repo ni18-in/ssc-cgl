@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "lastUpdated": "2026-08-13T18:42:09Z",
-  "contentVersion": "2026.08.13.3",
+  "lastUpdated": "2026-08-14T12:26:43Z",
+  "contentVersion": "2026.08.14.2",
   "minAppVersion": "1.0.0",
   "files": [
     {
@@ -15,41 +15,41 @@
     {
       "path": "tier1/english.json",
       "kind": "question_bank",
-      "sizeBytes": 4784,
-      "checksum": "be97de81ba636ec81875d0e88b73f3a60e4a85f0ab2a5145c5ce900b2f08b849",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 16762,
+      "checksum": "ed26884f8951ed3a038dabf224375d396328392c254b465131d5866fad3f98bd",
+      "lastModified": "2026-08-14T12:26:43Z",
       "required": true
     },
     {
       "path": "tier1/gk.json",
       "kind": "question_bank",
-      "sizeBytes": 9585,
-      "checksum": "c2aa23d624999f021da43a95464f9d8047af9a264a2e0d51431e68cc081d80e5",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 34053,
+      "checksum": "350f2efb57f5cf124a2174ac33302d391ab7c738920517c6b333de78e87c05e4",
+      "lastModified": "2026-08-14T12:26:43Z",
       "required": true
     },
     {
       "path": "tier1/quant.json",
       "kind": "question_bank",
-      "sizeBytes": 13017,
-      "checksum": "4491652f416a69fffba95a6ca3c9360df9f6803c81e729b9136d579ccecedf2d",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 34916,
+      "checksum": "2c3cf4be8a020de08e42110ee2264597f539ac49f2ffcae7eacf766448d6cbfa",
+      "lastModified": "2026-08-14T12:26:43Z",
       "required": true
     },
     {
       "path": "tier1/reasoning.json",
       "kind": "question_bank",
-      "sizeBytes": 8960,
-      "checksum": "31dcd26892c36177bd9c4227e9013dabf5a118aadfddb51dd3b9a6cb49b1bbae",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 31960,
+      "checksum": "a719b62db5d9eaf236584d0851a8644840c6eb7105572911c3fcda0e4b2a0407",
+      "lastModified": "2026-08-14T12:26:43Z",
       "required": true
     },
     {
       "path": "mocks/tier1/t1_mock_001.json",
       "kind": "mock",
-      "sizeBytes": 3571,
-      "checksum": "43bf5e267235e257ea34d32ca1c6404bea2e452eaba828dd06fe4a59179a943f",
-      "lastModified": "2026-08-13T17:52:06Z",
+      "sizeBytes": 5005,
+      "checksum": "a2d13c5d872d742215455c10039df25774d3bd36c0c3300351275ebc884b5641",
+      "lastModified": "2026-08-14T12:26:43Z",
       "required": false
     },
     {
@@ -63,29 +63,29 @@
     {
       "path": "current_affairs/2026_08.json",
       "kind": "current_affairs",
-      "sizeBytes": 3674,
-      "checksum": "2b9f8a8f8ac7a9a81eb2af14666e0c01c6f1d386ebefbdeae9221f115665dd80",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 4600,
+      "checksum": "0f51c811727f3758e3d7353631279cd0a4e926ede0da8a5cc0ae23a61c27f5bb",
+      "lastModified": "2026-08-14T12:24:57Z",
       "required": false
     },
     {
       "path": "current_affairs/latest.json",
       "kind": "current_affairs",
-      "sizeBytes": 3674,
-      "checksum": "2b9f8a8f8ac7a9a81eb2af14666e0c01c6f1d386ebefbdeae9221f115665dd80",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 4600,
+      "checksum": "0f51c811727f3758e3d7353631279cd0a4e926ede0da8a5cc0ae23a61c27f5bb",
+      "lastModified": "2026-08-14T12:24:57Z",
       "required": true
     },
     {
       "path": "formula_sheets/quant_formulas.json",
       "kind": "formula_sheet",
-      "sizeBytes": 11069,
-      "checksum": "266560081e5abc1b28e674bfbf77cf92ce330ba173f499c1e905c5fbc84aedc9",
-      "lastModified": "2026-08-13T16:15:21Z",
+      "sizeBytes": 16555,
+      "checksum": "166b4cde2c998c680ffab1b00eac7894948e06b7ce1e2ba7322df76ff5a03705",
+      "lastModified": "2026-08-14T12:26:43Z",
       "required": true
     }
   ],
-  "totalSizeBytes": 79660,
+  "totalSizeBytes": 169777,
   "forceUpdate": false,
-  "changelog": "Added previous year paper support and a sample PYQ set."
+  "changelog": "Phase 2 expansion: added 40 new SSC CGL questions across all subjects, expanded quant formulas, and updated mock test"
 }

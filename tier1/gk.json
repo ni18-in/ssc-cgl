@@ -150,6 +150,438 @@
       "year": null,
       "imageUrl": null,
       "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00007",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "By which Constitutional Amendment Act were the Fundamental Duties added to the Constitution of India?",
+        "hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा गया था?"
+      },
+      "options": [
+        { "en": "42nd Amendment Act", "hi": "42वाँ संशोधन अधिनियम" },
+        { "en": "44th Amendment Act", "hi": "44वाँ संशोधन अधिनियम" },
+        { "en": "86th Amendment Act", "hi": "86वाँ संशोधन अधिनियम" },
+        { "en": "73rd Amendment Act", "hi": "73वाँ संशोधन अधिनियम" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Fundamental Duties were added by the 42nd Constitutional Amendment Act, 1976 under Article 51A (Part IV-A) based on the Swaran Singh Committee recommendations.",
+        "hi": "मौलिक कर्तव्यों को स्वर्ण सिंह समिति की सिफारिशों के आधार पर 42वें संविधान संशोधन अधिनियम, 1976 द्वारा अनुच्छेद 51A (भाग IV-A) में जोड़ा गया था।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00008",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The Great Bath of the Indus Valley Civilization was discovered at which site?",
+        "hi": "सिंधु घाटी सभ्यता का विशाल स्नानागार किस स्थल पर खोजा गया था?"
+      },
+      "options": [
+        { "en": "Mohenjo-daro", "hi": "मोहनजोदड़ो" },
+        { "en": "Harappa", "hi": "हड़प्पा" },
+        { "en": "Kalibangan", "hi": "कालीबंगा" },
+        { "en": "Lothal", "hi": "लोथल" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Great Bath was discovered at Mohenjo-daro (now in Pakistan) and was used for public ritual bathing.",
+        "hi": "विशाल स्नानागार मोहनजोदड़ो (वर्तमान पाकिस्तान) में खोजा गया था और इसका उपयोग सार्वजनिक धार्मिक स्नान हेतु किया जाता था।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00009",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the SI unit of electric current?",
+        "hi": "विद्युत धारा का SI मात्रक क्या है?"
+      },
+      "options": [
+        { "en": "Ampere", "hi": "एम्पीयर" },
+        { "en": "Volt", "hi": "वोल्ट" },
+        { "en": "Ohm", "hi": "ओम" },
+        { "en": "Watt", "hi": "वाट" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The SI unit of electric current is Ampere (A). Volt measures potential difference, Ohm measures resistance, and Watt measures electric power.",
+        "hi": "विद्युत धारा का SI मात्रक एम्पीयर (A) है। वोल्ट विभवांतर, ओम प्रतिरोध तथा वाट विद्युत शक्ति का मात्रक है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00010",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Kuchipudi is a classical dance form that originated in which Indian state?",
+        "hi": "कुचिपुड़ी किस भारतीय राज्य का शास्त्रीय नृत्य है?"
+      },
+      "options": [
+        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
+        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
+        { "en": "Kerala", "hi": "केरल" },
+        { "en": "Odisha", "hi": "ओडिशा" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Kuchipudi originated in Kuchelapuram village of Andhra Pradesh. Bharatanatyam belongs to Tamil Nadu, Kathakali and Mohiniyattam to Kerala, and Odissi to Odisha.",
+        "hi": "कुचिपुड़ी की उत्पत्ति आंध्र प्रदेश के कुचेलापुरम गाँव में हुई। भरतनाट्यम तमिलनाडु, कथकली एवं मोहिनीअट्टम केरल तथा ओडिसी ओडिशा से संबंधित हैं।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00011",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the chemical formula of Baking Soda?",
+        "hi": "बेकिंग सोडा का रासायनिक सूत्र क्या है?"
+      },
+      "options": [
+        { "en": "NaHCO₃", "hi": "NaHCO₃" },
+        { "en": "Na₂CO₃", "hi": "Na₂CO₃" },
+        { "en": "NaOH", "hi": "NaOH" },
+        { "en": "NaCl", "hi": "NaCl" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Baking soda is Sodium Bicarbonate (NaHCO₃). Washing soda is Sodium Carbonate (Na₂CO₃·10H₂O), and Caustic soda is Sodium Hydroxide (NaOH).",
+        "hi": "बेकिंग सोडा सोडियम बाइकार्बोनेट (NaHCO₃) है। धावन सोडा सोडियम कार्बोनेट (Na₂CO₃·10H₂O) तथा कास्टिक सोडा सोडियम हाइड्रॉक्साइड (NaOH) है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00012",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Who was the founder of the Slave Dynasty (Mamluk Dynasty) of the Delhi Sultanate?",
+        "hi": "दिल्ली सल्तनत के गुलाम वंश (मामलुक वंश) का संस्थापक कौन था?"
+      },
+      "options": [
+        { "en": "Qutb-ud-din Aibak", "hi": "कुतुबुद्दीन ऐबक" },
+        { "en": "Iltutmish", "hi": "इल्तुतमिश" },
+        { "en": "Balban", "hi": "बलबन" },
+        { "en": "Alauddin Khalji", "hi": "अलाउद्दीन खिलजी" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Qutb-ud-din Aibak founded the Slave Dynasty in 1206 AD after Muhammad Ghori's death. He started constructing the Qutub Minar in Delhi.",
+        "hi": "मोहम्मद गोरी की मृत्यु के बाद कुतुबुद्दीन ऐबक ने 1206 ई. में गुलाम वंश की स्थापना की। उसने दिल्ली में कुतुब मीनार का निर्माण शुरू कराया था।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00013",
+      "topic": "geography",
+      "subTopic": "physical_geography",
+      "question": {
+        "en": "Which layer of the atmosphere contains the protective Ozone layer?",
+        "hi": "वायुमंडल की किस परत में संरक्षणकारी ओजोन परत पाई जाती है?"
+      },
+      "options": [
+        { "en": "Stratosphere", "hi": "समताप मंडल (स्ट्रैटोस्फियर)" },
+        { "en": "Troposphere", "hi": "क्षोभमंडल (ट्रोपोस्फियर)" },
+        { "en": "Mesosphere", "hi": "मध्यमंडल (मेसोस्फियर)" },
+        { "en": "Thermosphere", "hi": "तापमंडल (थर्मोस्फियर)" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The ozone layer is present in the Stratosphere and absorbs harmful ultraviolet (UV) radiation from the Sun.",
+        "hi": "ओजोन परत समताप मंडल में स्थित है और सूर्य से आने वाली हानिकारक पराबैंगनी (UV) विकिरण को अवशोषित करती है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00014",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where is the headquarters of UNESCO located?",
+        "hi": "युनेस्को (UNESCO) का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        { "en": "Paris", "hi": "पेरिस" },
+        { "en": "Geneva", "hi": "जेनेवा" },
+        { "en": "New York", "hi": "न्यू यॉर्क" },
+        { "en": "Vienna", "hi": "विएना" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The headquarters of UNESCO is in Paris, France. It was established in 1945 to promote peace and security through international cooperation in education, arts, sciences, and culture.",
+        "hi": "युनेस्को का मुख्यालय पेरिस, फ्रांस में है। इसकी स्थापना 1945 में शिक्षा, कला, विज्ञान तथा संस्कृति में अंतरराष्ट्रीय सहयोग द्वारा शांति हेतु की गई थी।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00015",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under which Article of the Constitution of India can the President be impeached for violation of the Constitution?",
+        "hi": "संविधान के अतिक्रमण पर राष्ट्रपति के विरुद्ध महाभियोग की प्रक्रिया भारतीय संविधान के किस अनुच्छेद के अंतर्गत चलाई जाती है?"
+      },
+      "options": [
+        { "en": "Article 61", "hi": "अनुच्छेद 61" },
+        { "en": "Article 52", "hi": "अनुच्छेद 52" },
+        { "en": "Article 72", "hi": "अनुच्छेद 72" },
+        { "en": "Article 123", "hi": "अनुच्छेद 123" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 61 prescribes the procedure for impeachment of the President of India.",
+        "hi": "अनुच्छेद 61 में भारत के राष्ट्रपति पर महाभियोग चलाने की प्रक्रिया का प्रावधान है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00016",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "In which year was the practice of Sati abolished in British India by Governor-General Lord William Bentinck?",
+        "hi": "गवर्नर जनरल लॉर्ड विलियम बैंटिंक द्वारा ब्रिटिश भारत में सती प्रथा का उन्मूलन किस वर्ष किया गया था?"
+      },
+      "options": [
+        { "en": "1829", "hi": "1829" },
+        { "en": "1857", "hi": "1857" },
+        { "en": "1833", "hi": "1833" },
+        { "en": "1820", "hi": "1820" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Bengal Sati Regulation was passed in 1829 by Lord William Bentinck, heavily supported by social reformer Raja Ram Mohan Roy.",
+        "hi": "बंगाल सती विनियमन 1829 में लॉर्ड विलियम बैंटिंक द्वारा सामाजिक सुधारक राजा राममोहन राय के प्रयासों से पारित किया गया था।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00017",
+      "topic": "geography",
+      "subTopic": "physical_geography",
+      "question": {
+        "en": "Which is the hottest planet in our Solar System?",
+        "hi": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन-सा है?"
+      },
+      "options": [
+        { "en": "Venus", "hi": "शुक्र (Venus)" },
+        { "en": "Mercury", "hi": "बुध (Mercury)" },
+        { "en": "Mars", "hi": "मंगल (Mars)" },
+        { "en": "Jupiter", "hi": "बृहस्पति (Jupiter)" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Venus is the hottest planet in the Solar System due to a dense carbon dioxide atmosphere trapping heat (runaway greenhouse effect), reaching around 465°C.",
+        "hi": "सघन कार्बन डाइऑक्साइड वायुमंडल द्वारा ऊष्मा रुकने (हरितगृह प्रभाव) के कारण शुक्र सौरमंडल का सबसे गर्म ग्रह (लगभग 465°C) है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00018",
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "The First Five-Year Plan of India (1951–1956) was based on which economic model?",
+        "hi": "भारत की प्रथम पंचवर्षीय योजना (1951-1956) किस आर्थिक मॉडल पर आधारित थी?"
+      },
+      "options": [
+        { "en": "Harrod-Domar Model", "hi": "हेराड-डोमर मॉडल" },
+        { "en": "Mahalanobis Model", "hi": "महालनोबिस मॉडल" },
+        { "en": "Solow Model", "hi": "सोलो मॉडल" },
+        { "en": "Keynesian Model", "hi": "केन्सियन मॉडल" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 1st Five-Year Plan was based on the Harrod-Domar model and focused on agriculture. The 2nd plan was based on the Mahalanobis model focusing on heavy industry.",
+        "hi": "प्रथम पंचवर्षीय योजना हेराड-डोमर मॉडल पर आधारित थी तथा कृषि पर केंद्रित थी। द्वितीय योजना महालनोबिस मॉडल पर आधारित थी।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00019",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "What is the average lifespan of human Red Blood Cells (RBCs)?",
+        "hi": "मानव लाल रक्त कोशिकाओं (RBC) का औसत जीवनकाल कितना होता है?"
+      },
+      "options": [
+        { "en": "120 days", "hi": "120 दिन" },
+        { "en": "90 days", "hi": "90 दिन" },
+        { "en": "60 days", "hi": "60 दिन" },
+        { "en": "150 days", "hi": "150 दिन" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Human RBCs live for approximately 120 days, after which they are broken down in the spleen (graveyard of RBCs).",
+        "hi": "मानव RBC का जीवनकाल लगभग 120 दिन होता है, जिसके बाद प्लीहा (प्लीहा को RBC का कब्रिस्तान कहते हैं) में इनका विघटन होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00020",
+      "topic": "static_gk",
+      "subTopic": "important_days",
+      "question": {
+        "en": "Pravasi Bharatiya Divas (NRI Day) is celebrated on which date to mark Mahatma Gandhi's return to India from South Africa?",
+        "hi": "महात्मा गांधी के दक्षिण अफ्रीका से भारत लौटने की स्मृति में प्रवासी भारतीय दिवस किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        { "en": "9th January", "hi": "9 जनवरी" },
+        { "en": "15th January", "hi": "15 जनवरी" },
+        { "en": "2nd October", "hi": "2 अक्टूबर" },
+        { "en": "26th November", "hi": "26 नवंबर" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mahatma Gandhi returned to India from South Africa on 9th January 1915, commemorated as Pravasi Bharatiya Divas.",
+        "hi": "महात्मा गांधी 9 जनवरी 1915 को दक्षिण अफ्रीका से भारत लौटे थे, जिसे प्रवासी भारतीय दिवस के रूप में मनाया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00021",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "Which Gupta ruler assumed the title 'Vikramaditya' after defeating the Shakas of Western India?",
+        "hi": "पश्चिमी भारत के शकों को पराजित करने के बाद किस गुप्त शासक ने 'विक्रमादित्य' की उपाधि धारण की थी?"
+      },
+      "options": [
+        { "en": "Chandragupta II", "hi": "चंद्रगुप्त द्वितीय" },
+        { "en": "Samudragupta", "hi": "समुद्रगुप्त" },
+        { "en": "Chandragupta I", "hi": "चंद्रगुप्त प्रथम" },
+        { "en": "Skandagupta", "hi": "स्कंदगुप्त" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Chandragupta II assumed the title 'Vikramaditya' after defeating Shaka ruler Rudrasimha III.",
+        "hi": "चंद्रगुप्त द्वितीय ने शक शासक रुद्रसिंह तृतीय को पराजित कर 'विक्रमादित्य' की उपाधि धारण की थी।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00022",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Article 148 of the Constitution of India provides for which constitutional authority?",
+        "hi": "भारतीय संविधान का अनुच्छेद 148 किस संवैधानिक प्राधिकारी का प्रावधान करता है?"
+      },
+      "options": [
+        { "en": "Comptroller and Auditor General of India (CAG)", "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG)" },
+        { "en": "Attorney General of India", "hi": "भारत के महान्यायवादी" },
+        { "en": "Election Commission of India", "hi": "भारत का निर्वाचन आयोग" },
+        { "en": "Finance Commission", "hi": "वित्त आयोग" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 148 establishes the Comptroller and Auditor General of India (CAG), who audits all receipts and expenditure of the Government.",
+        "hi": "अनुच्छेद 148 भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) के पद का प्रावधान करता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00023",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Kaziranga National Park, famous for the one-horned rhinoceros, is located in which state?",
+        "hi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस राज्य में स्थित है?"
+      },
+      "options": [
+        { "en": "Assam", "hi": "असम" },
+        { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
+        { "en": "Odisha", "hi": "ओडिशा" },
+        { "en": "Meghalaya", "hi": "मेघालय" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Kaziranga National Park is located in Assam and is a UNESCO World Heritage site housing two-thirds of the world's great one-horned rhinoceroses.",
+        "hi": "काजीरंगा राष्ट्रीय उद्यान असम में स्थित है और एक यूनेस्को विश्व धरोहर स्थल है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_gk_00024",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the common name of Solid Carbon Dioxide (CO₂)?",
+        "hi": "ठोस कार्बन डाइऑक्साइड (CO₂) का सामान्य नाम क्या है?"
+      },
+      "options": [
+        { "en": "Dry Ice", "hi": "शुष्क बर्फ (Dry Ice)" },
+        { "en": "Heavy Water", "hi": "भारी जल" },
+        { "en": "Quicklime", "hi": "बिना बुझा चूना" },
+        { "en": "Slaked Lime", "hi": "बुझा हुआ चूना" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Solid carbon dioxide is known as Dry Ice because it sublimates directly into gas without melting into liquid.",
+        "hi": "ठोस कार्बन डाइऑक्साइड को शुष्क बर्फ कहते हैं क्योंकि यह बिना द्रव बने सीधे गैस में परिवर्तित (ऊर्ध्वपातन) हो जाती है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
     }
   ]
 }

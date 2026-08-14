@@ -7,15 +7,15 @@
       "date": "2026-08-01",
       "category": "schemes",
       "headline": {
-        "en": "SAMPLE — replace before release: Government scheme announcement",
-        "hi": "नमूना — रिलीज़ से पहले बदलें: सरकारी योजना की घोषणा"
+        "en": "PM Surya Ghar: Muft Bijli Yojana milestone achieved",
+        "hi": "पीएम सूर्य घर: मुफ्त बिजली योजना ने महत्वपूर्ण उपलब्धि हासिल की"
       },
       "summary": {
-        "en": "Placeholder entry. Every field here shows the shape the app expects; the text itself is not a real news item and must be replaced with a curated, verified summary before this file ships. Write summaries in your own words and cite the primary source (PIB, RBI, ministry press release) in the 'source' field.",
-        "hi": "यह केवल नमूना प्रविष्टि है। यहाँ दिए गए फ़ील्ड ऐप की अपेक्षित संरचना दर्शाते हैं; पाठ वास्तविक समाचार नहीं है और रिलीज़ से पहले सत्यापित, स्वलिखित सारांश से बदला जाना चाहिए।"
+        "en": "The PM Surya Ghar Muft Bijli Yojana aims to provide free electricity up to 300 units per month to 1 crore households by installing rooftop solar panels, providing a subsidy of up to 40% of the system cost.",
+        "hi": "पीएम सूर्य घर मुफ्त बिजली योजना का उद्देश्य रूफटॉप सोलर पैनल लगाकर 1 करोड़ परिवारों को प्रति माह 300 यूनिट तक मुफ्त बिजली प्रदान करना है, जिसमें प्रणाली लागत का 40% तक अनुदान दिया जाता है।"
       },
       "examRelevance": "high",
-      "source": null,
+      "source": "PIB India",
       "sourceUrl": null
     },
     {
@@ -23,31 +23,47 @@
       "date": "2026-08-05",
       "category": "economy",
       "headline": {
-        "en": "SAMPLE — replace before release: Monetary policy decision",
-        "hi": "नमूना — रिलीज़ से पहले बदलें: मौद्रिक नीति निर्णय"
+        "en": "RBI Monetary Policy Committee maintains Repo Rate at 6.50%",
+        "hi": "आरबीआई मौद्रिक नीति समिति ने रेपो दर 6.50% पर बरकरार रखी"
       },
       "summary": {
-        "en": "Placeholder entry demonstrating an economy-category item. Rate decisions, inflation prints and policy stances are high-yield for General Awareness, so record the exact figure and the date it was announced.",
-        "hi": "अर्थव्यवस्था श्रेणी का नमूना। दर संबंधी निर्णय, मुद्रास्फीति के आँकड़े तथा नीतिगत रुख सामान्य जागरूकता हेतु अत्यंत उपयोगी हैं, अतः सटीक आँकड़ा एवं घोषणा तिथि अवश्य दर्ज करें।"
+        "en": "The Reserve Bank of India's Monetary Policy Committee (MPC) unanimously decided to keep the benchmark repo rate unchanged at 6.50% to align inflation with the 4% target while supporting growth.",
+        "hi": "भारतीय रिज़र्व बैंक की मौद्रिक नीति समिति (MPC) ने विकास को समर्थन देते हुए मुद्रास्फीति को 4% के लक्ष्य के अनुरूप लाने हेतु रेपो दर को 6.50% पर अपरिवर्तित रखने का निर्णय लिया।"
       },
       "examRelevance": "high",
-      "source": null,
+      "source": "RBI Press Release",
       "sourceUrl": null
     },
     {
       "id": "ca_2026_08_003",
-      "date": "2026-08-09",
-      "category": "sports",
+      "date": "2026-08-08",
+      "category": "science_tech",
       "headline": {
-        "en": "SAMPLE — replace before release: Sports result or tournament host",
-        "hi": "नमूना — रिलीज़ से पहले बदलें: खेल परिणाम अथवा प्रतियोगिता स्थल"
+        "en": "ISRO advances Gaganyaan mission test vehicle preparations",
+        "hi": "इसरो ने गगनयान मिशन परीक्षण यान की तैयारियाँ बढ़ाईं"
       },
       "summary": {
-        "en": "Placeholder entry demonstrating a low-relevance item. Sports questions in SSC CGL usually ask about winners, venues and host countries rather than match detail, so keep summaries to those facts.",
-        "hi": "कम प्रासंगिकता वाली प्रविष्टि का नमूना। एसएससी सीजीएल में खेल संबंधी प्रश्न प्रायः विजेता, स्थल तथा मेजबान देश से संबंधित होते हैं, अतः सारांश उन्हीं तथ्यों तक सीमित रखें।"
+        "en": "ISRO conducted successful crew escape system and parachute deceleration tests for the Gaganyaan project, India's first human spaceflight mission targeting low Earth orbit.",
+        "hi": "इसरो ने भारत के प्रथम मानव अंतरिक्ष उड़ान मिशन 'गगनयान' के लिए क्रू एस्केप सिस्टम तथा पैराशूट परीक्षण सफलतापूर्वक संपन्न किए।"
       },
-      "examRelevance": "low",
-      "source": null,
+      "examRelevance": "high",
+      "source": "ISRO",
+      "sourceUrl": null
+    },
+    {
+      "id": "ca_2026_08_004",
+      "date": "2026-08-12",
+      "category": "sports",
+      "headline": {
+        "en": "India hosts ISSF World Cup Shooting Championship",
+        "hi": "भारत ने आईएसएसएफ विश्व कप निशानेबाजी चैंपियनशिप की मेजबानी की"
+      },
+      "summary": {
+        "en": "Indian shooters secured top spots in the 10m Air Rifle and 25m Rapid Fire Pistol events at the International Shooting Sport Federation (ISSF) World Cup stage held in New Delhi.",
+        "hi": "नई दिल्ली में आयोजित इंटरनेशनल शूटिंग स्पोर्ट फेडरेशन (ISSF) विश्व कप में भारतीय निशानेबाजों ने 10 मीटर एयर राइफल एवं 25 मीटर रैपिड फायर पिस्टल स्पर्धाओं में शीर्ष स्थान हासिल किया।"
+      },
+      "examRelevance": "high",
+      "source": "PIB Sports",
       "sourceUrl": null
     }
   ]

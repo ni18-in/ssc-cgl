@@ -3,15 +3,15 @@
   "mockId": "t1_mock_001",
   "tier": "tier1",
   "title": {
-    "en": "Tier 1 Demo Mock — 26 Questions",
-    "hi": "टियर 1 डेमो मॉक — 26 प्रश्न"
+    "en": "Tier 1 Full Mock Paper — 98 Questions",
+    "hi": "टियर 1 फुल मॉक पेपर — 98 प्रश्न"
   },
-  "durationMinutes": 16,
+  "durationMinutes": 60,
   "sectionalTiming": false,
   "isDemo": true,
   "instructions": {
-    "en": "This is a short demo built from the questions currently published, not a full-length paper. The real SSC CGL Tier 1 is 100 questions in 60 minutes with 4 sections of 25 each. Marking here matches the real exam: +2 for a correct answer, -0.5 for a wrong one, and nothing for a question left blank. There is one timer for the whole paper and you may move between sections freely.",
-    "hi": "यह वर्तमान में प्रकाशित प्रश्नों से बना एक संक्षिप्त डेमो है, पूर्ण प्रश्नपत्र नहीं। वास्तविक एसएससी सीजीएल टियर 1 में 60 मिनट में 100 प्रश्न होते हैं, प्रत्येक 25 प्रश्नों के 4 खंड। यहाँ अंकन वास्तविक परीक्षा जैसा है: सही उत्तर पर +2, गलत पर -0.5, तथा खाली छोड़े गए प्रश्न पर कुछ नहीं। पूरे प्रश्नपत्र हेतु एक ही टाइमर है और आप खंडों के बीच स्वतंत्र रूप से जा सकते हैं।"
+    "en": "This is a comprehensive full-length Tier 1 practice paper containing 98 questions across all 4 subjects (24 Reasoning, 24 GK, 26 Quant, 24 English). Exam pattern: +2 for correct answers, -0.5 for wrong answers, 0 for unattempted.",
+    "hi": "यह सभी 4 विषयों (24 रीज़निंग, 24 जीके, 26 क्वांट, 24 इंग्लिश) के 98 प्रश्नों वाला पूर्ण टियर 1 अभ्यास प्रश्नपत्र है। परीक्षा पैटर्न: सही उत्तर पर +2, गलत पर -0.5, तथा अनुत्तरित पर 0।"
   },
   "sections": [
     {
@@ -29,7 +29,25 @@
         "q_t1_reasoning_00003",
         "q_t1_reasoning_00004",
         "q_t1_reasoning_00005",
-        "q_t1_reasoning_00006"
+        "q_t1_reasoning_00006",
+        "q_t1_reasoning_00007",
+        "q_t1_reasoning_00008",
+        "q_t1_reasoning_00009",
+        "q_t1_reasoning_00010",
+        "q_t1_reasoning_00011",
+        "q_t1_reasoning_00012",
+        "q_t1_reasoning_00013",
+        "q_t1_reasoning_00014",
+        "q_t1_reasoning_00015",
+        "q_t1_reasoning_00016",
+        "q_t1_reasoning_00017",
+        "q_t1_reasoning_00018",
+        "q_t1_reasoning_00019",
+        "q_t1_reasoning_00020",
+        "q_t1_reasoning_00021",
+        "q_t1_reasoning_00022",
+        "q_t1_reasoning_00023",
+        "q_t1_reasoning_00024"
       ]
     },
     {
@@ -44,7 +62,25 @@
         "q_t1_gk_00003",
         "q_t1_gk_00004",
         "q_t1_gk_00005",
-        "q_t1_gk_00006"
+        "q_t1_gk_00006",
+        "q_t1_gk_00007",
+        "q_t1_gk_00008",
+        "q_t1_gk_00009",
+        "q_t1_gk_00010",
+        "q_t1_gk_00011",
+        "q_t1_gk_00012",
+        "q_t1_gk_00013",
+        "q_t1_gk_00014",
+        "q_t1_gk_00015",
+        "q_t1_gk_00016",
+        "q_t1_gk_00017",
+        "q_t1_gk_00018",
+        "q_t1_gk_00019",
+        "q_t1_gk_00020",
+        "q_t1_gk_00021",
+        "q_t1_gk_00022",
+        "q_t1_gk_00023",
+        "q_t1_gk_00024"
       ]
     },
     {
@@ -64,7 +100,25 @@
         "q_t1_quant_00005",
         "q_t1_quant_00006",
         "q_t1_quant_00007",
-        "q_t1_quant_00008"
+        "q_t1_quant_00008",
+        "q_t1_quant_00009",
+        "q_t1_quant_00010",
+        "q_t1_quant_00011",
+        "q_t1_quant_00012",
+        "q_t1_quant_00013",
+        "q_t1_quant_00014",
+        "q_t1_quant_00015",
+        "q_t1_quant_00016",
+        "q_t1_quant_00017",
+        "q_t1_quant_00018",
+        "q_t1_quant_00019",
+        "q_t1_quant_00020",
+        "q_t1_quant_00021",
+        "q_t1_quant_00022",
+        "q_t1_quant_00023",
+        "q_t1_quant_00024",
+        "q_t1_quant_00025",
+        "q_t1_quant_00026"
       ]
     },
     {
@@ -79,7 +133,25 @@
         "q_t1_english_00003",
         "q_t1_english_00004",
         "q_t1_english_00005",
-        "q_t1_english_00006"
+        "q_t1_english_00006",
+        "q_t1_english_00007",
+        "q_t1_english_00008",
+        "q_t1_english_00009",
+        "q_t1_english_00010",
+        "q_t1_english_00011",
+        "q_t1_english_00012",
+        "q_t1_english_00013",
+        "q_t1_english_00014",
+        "q_t1_english_00015",
+        "q_t1_english_00016",
+        "q_t1_english_00017",
+        "q_t1_english_00018",
+        "q_t1_english_00019",
+        "q_t1_english_00020",
+        "q_t1_english_00021",
+        "q_t1_english_00022",
+        "q_t1_english_00023",
+        "q_t1_english_00024"
       ]
     }
   ]

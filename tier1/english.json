@@ -125,6 +125,387 @@
       "year": null,
       "imageUrl": null,
       "tags": ["trap", "conceptual"]
+    },
+    {
+      "id": "q_t1_english_00007",
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the word opposite in meaning to: METICULOUS"
+      },
+      "options": [
+        { "en": "Careless" },
+        { "en": "Precise" },
+        { "en": "Thorough" },
+        { "en": "Methodical" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Meticulous' means showing great attention to detail; very careful and precise. Its opposite is 'careless'. 'Precise', 'thorough' and 'methodical' are synonyms."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00008",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one word substitution for: \"A person who looks at the bright side of things.\""
+      },
+      "options": [
+        { "en": "Optimist" },
+        { "en": "Pessimist" },
+        { "en": "Altruist" },
+        { "en": "Fatalist" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "An 'optimist' is a hopeful person who expects good outcomes. A 'pessimist' looks at the dark side, an 'altruist' cares for others, and a 'fatalist' believes events are predetermined."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00009",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of the idiom: \"To burn the midnight oil\""
+      },
+      "options": [
+        { "en": "To work or study late into the night" },
+        { "en": "To waste expensive fuel" },
+        { "en": "To cause unnecessary friction" },
+        { "en": "To celebrate late in the evening" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To burn the midnight oil' means to stay up late reading, studying, or working."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00010",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Identify the segment that contains a grammatical error:\n(A) Neither of the two boys\n(B) have completed\n(C) their assignment\n(D) No error"
+      },
+      "options": [
+        { "en": "A" },
+        { "en": "B" },
+        { "en": "C" },
+        { "en": "No error" }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "'Neither of' followed by a plural noun takes a singular verb. Segment B should read 'has completed'."
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00011",
+      "topic": "spelling_check",
+      "question": {
+        "en": "Select the correctly spelt word:"
+      },
+      "options": [
+        { "en": "Accommodate" },
+        { "en": "Acommodate" },
+        { "en": "Accomodate" },
+        { "en": "Acomodate" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Accommodate' is spelt with a double 'c' and a double 'm'."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00012",
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct passive voice of: \"The police arrested the thief.\""
+      },
+      "options": [
+        { "en": "The thief was arrested by the police." },
+        { "en": "The thief had been arrested by the police." },
+        { "en": "The thief is arrested by the police." },
+        { "en": "The thief was being arrested by the police." }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Simple past active ('arrested') converts to simple past passive ('was arrested')."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual"]
+    },
+    {
+      "id": "q_t1_english_00013",
+      "topic": "narration",
+      "question": {
+        "en": "Select the correct indirect form of: He said, \"I am going to market now.\""
+      },
+      "options": [
+        { "en": "He said that he was going to market then." },
+        { "en": "He said that I am going to market now." },
+        { "en": "He said that he is going to market then." },
+        { "en": "He said that he had gone to market now." }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In reported speech, present continuous 'am going' changes to past continuous 'was going', 'I' changes to 'he', and 'now' changes to 'then'."
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual"]
+    },
+    {
+      "id": "q_t1_english_00014",
+      "topic": "cloze_test",
+      "question": {
+        "en": "Fill in the blank: The authorities decided to ________ strict rules to curb traffic violations."
+      },
+      "options": [
+        { "en": "enforce" },
+        { "en": "induce" },
+        { "en": "evict" },
+        { "en": "solicit" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Enforce' means to compel observance of or compliance with a law or rule, which fits the context appropriately."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00015",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Identify the segment that contains a grammatical error:\n(A) The sceneries of\n(B) Kashmir is\n(C) very enchanting\n(D) No error"
+      },
+      "options": [
+        { "en": "A" },
+        { "en": "B" },
+        { "en": "C" },
+        { "en": "No error" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Scenery' is an uncountable noun and does not take a plural form 'sceneries'. Segment A should read 'The scenery of'."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00016",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the word most similar in meaning to: PRUDENT"
+      },
+      "options": [
+        { "en": "Cautious" },
+        { "en": "Reckless" },
+        { "en": "Foolish" },
+        { "en": "Hasty" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Prudent' means acting with or showing care and thought for the future, which matches 'cautious'."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00017",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one word substitution for: \"A person who can speak many languages.\""
+      },
+      "options": [
+        { "en": "Polyglot" },
+        { "en": "Linguist" },
+        { "en": "Philanthropist" },
+        { "en": "Contemporary" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A 'polyglot' is a person who knows and uses several languages. A 'linguist' studies language structure."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00018",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of the idiom: \"At the eleventh hour\""
+      },
+      "options": [
+        { "en": "At the very last moment" },
+        { "en": "At 11 o'clock sharp" },
+        { "en": "Early in the morning" },
+        { "en": "Unexpectedly" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'At the eleventh hour' means at the latest possible moment before it is too late."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00019",
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Improve the underlined part: \"He prefers tea _than_ coffee.\""
+      },
+      "options": [
+        { "en": "to" },
+        { "en": "than" },
+        { "en": "over" },
+        { "en": "rather than" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Prefer' is followed by the preposition 'to', not 'than'. Correct sentence: 'He prefers tea to coffee'."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["trap", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00020",
+      "topic": "spelling_check",
+      "question": {
+        "en": "Select the correctly spelt word:"
+      },
+      "options": [
+        { "en": "Bureaucracy" },
+        { "en": "Burocracy" },
+        { "en": "Bureaucrasy" },
+        { "en": "Beureaucracy" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Bureaucracy' is spelt b-u-r-e-a-u-c-r-a-c-y."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00021",
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the word opposite in meaning to: LETHARGIC"
+      },
+      "options": [
+        { "en": "Energetic" },
+        { "en": "Sluggish" },
+        { "en": "Idle" },
+        { "en": "Inactive" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Lethargic' means lacking energy or enthusiasm; its opposite is 'energetic'. 'Sluggish', 'idle' and 'inactive' are synonyms."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00022",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one word substitution for: \"A place where weapons and ammunition are stored.\""
+      },
+      "options": [
+        { "en": "Arsenal" },
+        { "en": "Hangar" },
+        { "en": "Archive" },
+        { "en": "Granary" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "An 'arsenal' is a military storehouse for weapons and ammunition. A 'hangar' stores aircraft, an 'archive' holds historical records, and a 'granary' stores grain."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00023",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of the idiom: \"To break the ice\""
+      },
+      "options": [
+        { "en": "To make people feel more comfortable in a social setting" },
+        { "en": "To start a quarrel" },
+        { "en": "To cause financial damage" },
+        { "en": "To end a relationship" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To break the ice' means to do or say something that relieves tension or gets a conversation going."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_english_00024",
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct passive voice of: \"Open the door.\""
+      },
+      "options": [
+        { "en": "Let the door be opened." },
+        { "en": "The door should open." },
+        { "en": "Please open the door." },
+        { "en": "Let door open." }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Imperative sentences expressing an order change to passive voice using 'Let + object + be + past participle'."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual"]
     }
   ]
 }

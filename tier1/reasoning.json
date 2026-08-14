@@ -148,6 +148,429 @@
       "year": null,
       "imageUrl": null,
       "tags": ["conceptual"]
+    },
+    {
+      "id": "q_t1_reasoning_00007",
+      "topic": "direction_sense",
+      "question": {
+        "en": "A person walks 5 km North, turns right and walks 12 km. How far is he from his starting point?",
+        "hi": "एक व्यक्ति उत्तर की ओर 5 किमी चलता है, फिर दाएँ मुड़कर 12 किमी चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूरी पर है?"
+      },
+      "options": [
+        { "en": "13 km", "hi": "13 किमी" },
+        { "en": "17 km", "hi": "17 किमी" },
+        { "en": "7 km", "hi": "7 किमी" },
+        { "en": "15 km", "hi": "15 किमी" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The path forms a right-angled triangle with legs 5 km and 12 km. Distance from start = √(5² + 12²) = √(25 + 144) = √169 = 13 km.",
+        "hi": "मार्ग 5 किमी तथा 12 km भुजाओं वाला समकोण त्रिभुज बनाता है। प्रारंभिक बिंदु से दूरी = √(5² + 12²) = √169 = 13 किमी।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00008",
+      "topic": "venn_diagram",
+      "question": {
+        "en": "Which category relationship is correct for: Earth, Planets, Sun?",
+        "hi": "पृथ्वी, ग्रह, सूर्य के लिए कौन-सा श्रेणी संबंध सही है?"
+      },
+      "options": [
+        { "en": "Earth is inside Planets; Sun is entirely separate", "hi": "पृथ्वी ग्रह के भीतर है; सूर्य पूर्णतः अलग है" },
+        { "en": "Earth, Planets and Sun are all mutually intersecting", "hi": "पृथ्वी, ग्रह तथा सूर्य तीनों आपस में प्रतिच्छेदी हैं" },
+        { "en": "Earth and Sun are both inside Planets", "hi": "पृथ्वी तथा सूर्य दोनों ग्रह के भीतर हैं" },
+        { "en": "Earth, Planets and Sun are three concentric circles", "hi": "पृथ्वी, ग्रह तथा सूर्य तीन संकेंद्री वृत्त हैं" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Earth is a planet, so the 'Earth' circle lies completely inside 'Planets'. The Sun is a star (not a planet), so its circle is completely disjoint.",
+        "hi": "पृथ्वी एक ग्रह है, अतः 'पृथ्वी' का वृत्त 'ग्रह' के भीतर है। सूर्य एक तारा (ग्रह नहीं) है, अतः उसका वृत्त पूर्णतः अलग है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00009",
+      "topic": "mathematical_operations",
+      "subTopic": "symbol_substitution",
+      "question": {
+        "en": "If '+' means '×', '−' means '÷', '×' means '−', and '÷' means '+', evaluate: 16 × 4 + 3 ÷ 8 − 2.",
+        "hi": "यदि '+' का अर्थ '×', '−' का अर्थ '÷', '×' का अर्थ '−' तथा '÷' का अर्थ '+' हो, तो व्यंजक का मान ज्ञात कीजिए: 16 × 4 + 3 ÷ 8 − 2।"
+      },
+      "options": [
+        { "en": "8", "hi": "8" },
+        { "en": "12", "hi": "12" },
+        { "en": "10", "hi": "10" },
+        { "en": "6", "hi": "6" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Substitute signs: 16 − 4 × 3 + 8 ÷ 2. Apply BODMAS: 16 − 12 + 4 = 4 + 4 = 8.",
+        "hi": "चिह्न बदलें: 16 − 4 × 3 + 8 ÷ 2। BODMAS नियम से: 16 − 12 + 4 = 8।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00010",
+      "topic": "cube_and_dice",
+      "question": {
+        "en": "In a standard 6-faced die, if face 1 is at the bottom and faces 2, 3, 4, and 5 are adjacent to it, which face is at the top?",
+        "hi": "मानक 6-फलकीय पासे में, यदि फलक 1 नीचे है और फलक 2, 3, 4 तथा 5 इसके संलग्न हैं, तो ऊपर कौन-सा फलक होगा?"
+      },
+      "options": [
+        { "en": "6", "hi": "6" },
+        { "en": "4", "hi": "4" },
+        { "en": "3", "hi": "3" },
+        { "en": "2", "hi": "2" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A cube has 6 faces. The 4 faces adjacent to 1 are 2, 3, 4, and 5, leaving 6 as the only opposite face (top).",
+        "hi": "घन में 6 फलक होते हैं। 1 के संलग्न 4 फलक 2, 3, 4 तथा 5 हैं, अतः एकमात्र विपरीत (ऊपरी) फलक 6 होगा।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual"]
+    },
+    {
+      "id": "q_t1_reasoning_00011",
+      "topic": "coding_decoding",
+      "subTopic": "number_coding",
+      "question": {
+        "en": "In a code language, CAT is coded as 24 and DOG is coded as 26. How will PIG be coded?",
+        "hi": "एक कूट भाषा में CAT को 24 तथा DOG को 26 लिखा जाता है। PIG को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        { "en": "32", "hi": "32" },
+        { "en": "28", "hi": "28" },
+        { "en": "30", "hi": "30" },
+        { "en": "36", "hi": "36" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Code is the sum of alphabetical positions: C(3)+A(1)+T(20) = 24; D(4)+O(15)+G(7) = 26. For PIG: P(16)+I(9)+G(7) = 32.",
+        "hi": "कूट वर्णमाला स्थिति का योग है: C(3)+A(1)+T(20) = 24; D(4)+O(15)+G(7) = 26। PIG हेतु: P(16)+I(9)+G(7) = 32।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00012",
+      "topic": "analogy",
+      "subTopic": "number_analogy",
+      "question": {
+        "en": "Select the related number from the given options: 7 : 50 :: 11 : ?",
+        "hi": "दिए गए विकल्पों में से संबंधित संख्या चुनिए: 7 : 50 :: 11 : ?"
+      },
+      "options": [
+        { "en": "122", "hi": "122" },
+        { "en": "120", "hi": "120" },
+        { "en": "124", "hi": "124" },
+        { "en": "130", "hi": "130" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is n : n² + 1. 7² + 1 = 49 + 1 = 50. Applying to 11: 11² + 1 = 121 + 1 = 122.",
+        "hi": "नियम n : n² + 1 है। 7² + 1 = 50। 11 पर लागू करने पर: 11² + 1 = 121 + 1 = 122।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00013",
+      "topic": "classification",
+      "subTopic": "number_classification",
+      "question": {
+        "en": "Select the odd number pair from the options below:",
+        "hi": "नीचे दिए गए विकल्पों में से असंगत संख्या युग्म चुनिए:"
+      },
+      "options": [
+        { "en": "14 − 196", "hi": "14 − 196" },
+        { "en": "12 − 144", "hi": "12 − 144" },
+        { "en": "15 − 225", "hi": "15 − 225" },
+        { "en": "13 − 179", "hi": "13 − 179" }
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "en": "In all pairs except (13 − 179), the second number is the square of the first number. 13² = 169, not 179.",
+        "hi": "(13 − 179) को छोड़कर सभी युग्मों में दूसरी संख्या पहली का वर्ग है। 13² = 169 होता है, 179 नहीं।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00014",
+      "topic": "series",
+      "subTopic": "alphabet_series",
+      "question": {
+        "en": "Find the next cluster of letters in the series: ABC, FGH, KLM, ?",
+        "hi": "श्रृंखला का अगला अक्षर समूह ज्ञात कीजिए: ABC, FGH, KLM, ?"
+      },
+      "options": [
+        { "en": "PQR", "hi": "PQR" },
+        { "en": "OPQ", "hi": "OPQ" },
+        { "en": "QRS", "hi": "QRS" },
+        { "en": "NOP", "hi": "NOP" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Each letter shifts forward by 5 positions: A(+5)→F(+5)→K(+5)→P; B(+5)→G(+5)→L(+5)→Q; C(+5)→H(+5)→M(+5)→R, giving PQR.",
+        "hi": "प्रत्येक अक्षर 5 स्थान आगे बढ़ता है: A→F→K→P; B→G→L→Q; C→H→M→R, जिससे PQR प्राप्त होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00015",
+      "topic": "blood_relations",
+      "question": {
+        "en": "If 'A + B' means A is the father of B, 'A − B' means A is the sister of B, and 'A × B' means A is the brother of B, which of the following expressions means P is the uncle of Q?",
+        "hi": "यदि 'A + B' का अर्थ A, B का पिता है, 'A − B' का अर्थ A, B की बहन है, और 'A × B' का अर्थ A, B का भाई है, तो कौन-सा व्यंजक दर्शाता है कि P, Q का चाचा है?"
+      },
+      "options": [
+        { "en": "P × R + Q", "hi": "P × R + Q" },
+        { "en": "P + R × Q", "hi": "P + R × Q" },
+        { "en": "P − R + Q", "hi": "P − R + Q" },
+        { "en": "P × R − Q", "hi": "P × R − Q" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "P × R means P is the brother of R, and R + Q means R is the father of Q. Thus P is the brother of Q's father, which makes P the uncle of Q.",
+        "hi": "P × R का अर्थ P, R का भाई है तथा R + Q का अर्थ R, Q का पिता है। अतः P, Q के पिता का भाई है अर्थात् P, Q का चाचा है।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked", "conceptual"]
+    },
+    {
+      "id": "q_t1_reasoning_00016",
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "In a certain code, ZEBRA is coded as 26-5-2-18-1. How will COBRA be coded?",
+        "hi": "एक निश्चित कूट में ZEBRA को 26-5-2-18-1 लिखा जाता है। COBRA को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        { "en": "3-15-2-18-1", "hi": "3-15-2-18-1" },
+        { "en": "3-14-2-18-1", "hi": "3-14-2-18-1" },
+        { "en": "3-15-3-18-1", "hi": "3-15-3-18-1" },
+        { "en": "4-15-2-18-1", "hi": "4-15-2-18-1" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Each letter is replaced by its 1-based numerical position in the English alphabet: C=3, O=15, B=2, R=18, A=1.",
+        "hi": "प्रत्येक अक्षर के स्थान पर अंग्रेजी वर्णमाला में उसकी स्थिति लिखी गई है: C=3, O=15, B=2, R=18, A=1।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00017",
+      "topic": "ranking_order",
+      "question": {
+        "en": "In a class of 45 students, Rahul's rank is 15th from the top. What is his rank from the bottom?",
+        "hi": "45 विद्यार्थियों की एक कक्षा में राहुल का स्थान ऊपर से 15वाँ है। नीचे से उसका स्थान क्या होगा?"
+      },
+      "options": [
+        { "en": "31st", "hi": "31वाँ" },
+        { "en": "30th", "hi": "30वाँ" },
+        { "en": "32nd", "hi": "32वाँ" },
+        { "en": "29th", "hi": "29वाँ" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rank from bottom = Total students − Rank from top + 1 = 45 − 15 + 1 = 31st.",
+        "hi": "नीचे से स्थान = कुल विद्यार्थी − ऊपर से स्थान + 1 = 45 − 15 + 1 = 31वाँ।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00018",
+      "topic": "word_formation",
+      "question": {
+        "en": "Arrange the following words in a logical and meaningful order:\n1. Country  2. Village  3. State  4. District  5. Continent",
+        "hi": "निम्नलिखित शब्दों को एक तर्कसंगत एवं अर्थपूर्ण क्रम में व्यवस्थित कीजिए:\n1. देश  2. गाँव  3. राज्य  4. ज़िला  5. महाद्वीप"
+      },
+      "options": [
+        { "en": "2, 4, 3, 1, 5", "hi": "2, 4, 3, 1, 5" },
+        { "en": "2, 3, 4, 1, 5", "hi": "2, 3, 4, 1, 5" },
+        { "en": "5, 1, 3, 4, 2", "hi": "5, 1, 3, 4, 2" },
+        { "en": "1, 2, 3, 4, 5", "hi": "1, 2, 3, 4, 5" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In increasing order of geographical area: Village (2) → District (4) → State (3) → Country (1) → Continent (5).",
+        "hi": "भौगोलिक क्षेत्रफल के बढ़ते क्रम में: गाँव (2) → ज़िला (4) → राज्य (3) → देश (1) → महाद्वीप (5)।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00019",
+      "topic": "mirror_water_image",
+      "question": {
+        "en": "Select the correct mirror image of the word 'REASON' when a vertical mirror is placed to its right.",
+        "hi": "यदि एक लंबवत दर्पण 'REASON' शब्द के दाईं ओर रखा जाए, तो उसका सही दर्पण प्रतिबिंब चुनिए।"
+      },
+      "options": [
+        { "en": "NOSAER (with lateral inversion of letters)", "hi": "NOSAER (अक्षरों के पार्श्व परिवर्तन के साथ)" },
+        { "en": "REASON", "hi": "REASON" },
+        { "en": "NOSAER", "hi": "NOSAER" },
+        { "en": "ROSAEN", "hi": "ROSAEN" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A mirror to the right reverses the order of characters from right to left starting with N, and each individual letter undergoes lateral inversion.",
+        "hi": "दबाएँ रखा गया दर्पण दाईं ओर से बाईं ओर अक्षरों का क्रम उलट देता है (N से शुरू) तथा प्रत्येक अक्षर का पार्श्व परिवर्तन होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00020",
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Find the next term in the series: 3, 5, 9, 17, 33, ?",
+        "hi": "श्रृंखला का अगला पद ज्ञात कीजिए: 3, 5, 9, 17, 33, ?"
+      },
+      "options": [
+        { "en": "65", "hi": "65" },
+        { "en": "63", "hi": "63" },
+        { "en": "67", "hi": "67" },
+        { "en": "55", "hi": "55" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The differences between consecutive terms double each time: +2, +4, +8, +16. Next difference is +32, giving 33 + 32 = 65.",
+        "hi": "क्रमागत पदों का अंतर दोगुना होता जाता है: +2, +4, +8, +16। अगला अंतर +32 होगा, अतः 33 + 32 = 65।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00021",
+      "topic": "classification",
+      "subTopic": "word_classification",
+      "question": {
+        "en": "Select the odd word from the options below:",
+        "hi": "नीचे दिए गए विकल्पों में से असंगत शब्द चुनिए:"
+      },
+      "options": [
+        { "en": "New York", "hi": "न्यू यॉर्क" },
+        { "en": "Tokyo", "hi": "टोक्यो" },
+        { "en": "Paris", "hi": "पेरिस" },
+        { "en": "London", "hi": "लंदन" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Tokyo (Japan), Paris (France) and London (UK) are national capitals, whereas New York is a major city in the USA but Washington D.C. is the capital.",
+        "hi": "टोक्यो, पेरिस तथा लंदन अपने-अपने देशों की राजधानियाँ हैं, जबकि न्यू यॉर्क अमेरिका का एक प्रमुख शहर है (राजधानी वाशिंगटन डी.सी. है)।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00022",
+      "topic": "analogy",
+      "subTopic": "word_analogy",
+      "question": {
+        "en": "Thermometer : Temperature :: Barometer : ?",
+        "hi": "थर्मामीटर : तापमान :: बैरोमीटर : ?"
+      },
+      "options": [
+        { "en": "Atmospheric Pressure", "hi": "वायुमंडलीय दाब" },
+        { "en": "Humidity", "hi": "आर्द्रता" },
+        { "en": "Wind Speed", "hi": "पवन चाल" },
+        { "en": "Distance", "hi": "दूरी" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A thermometer measures temperature; a barometer measures atmospheric pressure. (Hygrometer measures humidity, Anemometer measures wind speed).",
+        "hi": "थर्मामीटर तापमान मापता है; बैरोमीटर वायुमंडलीय दाब मापता है। (हाइग्रोमीटर आर्द्रता तथा एनेमोमीटर पवन चाल मापता है)।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked"]
+    },
+    {
+      "id": "q_t1_reasoning_00023",
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements: Some cats are dogs. No dog is a lion.\nConclusions: I. No cat is a lion. II. Some cats are not lions.\nWhich conclusion(s) follow?",
+        "hi": "कथन: कुछ बिल्ली कुत्ते हैं। कोई कुत्ता शेर नहीं है।\nनिष्कर्ष: I. कोई बिल्ली शेर नहीं है। II. कुछ बिल्ली शेर नहीं हैं।\nकौन-सा निष्कर्ष अनुसरण करता है?"
+      },
+      "options": [
+        { "en": "Only II follows", "hi": "केवल II अनुसरण करता है" },
+        { "en": "Only I follows", "hi": "केवल I अनुसरण करता है" },
+        { "en": "Both I and II follow", "hi": "I और II दोनों अनुसरण करते हैं" },
+        { "en": "Neither follows", "hi": "कोई अनुसरण नहीं करता" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The portion of cats that are dogs cannot be lions, so 'Some cats are not lions' (II) is definitely true. 'No cat is a lion' (I) claims all cats are separate from lions, which is not guaranteed.",
+        "hi": "बिल्लियों का वह हिस्सा जो कुत्ते हैं, शेर नहीं हो सकता, अतः 'कुछ बिल्ली शेर नहीं हैं' (II) सत्य है। संपूर्ण बिल्लियों का शेर न होना (I) आवश्यक नहीं है।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual", "trap"]
+    },
+    {
+      "id": "q_t1_reasoning_00024",
+      "topic": "embedded_figures",
+      "question": {
+        "en": "If a figure is rotated 90° clockwise three consecutive times, what is its net rotation angle?",
+        "hi": "यदि किसी आकृति को दक्षिणावर्त 90° तीन बार घुमाया जाता है, तो उसका शुद्ध घूर्णन कोण क्या है?"
+      },
+      "options": [
+        { "en": "270° clockwise", "hi": "270° दक्षिणावर्त" },
+        { "en": "180°", "hi": "180°" },
+        { "en": "360°", "hi": "360°" },
+        { "en": "90° clockwise", "hi": "90° दक्षिणावर्त" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "3 × 90° = 270° clockwise, which is equivalent to a 90° counter-clockwise rotation.",
+        "hi": "3 × 90° = 270° दक्षिणावर्त, जो कि 90° वामावर्त घूर्णन के बराबर है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual"]
     }
   ]
 }

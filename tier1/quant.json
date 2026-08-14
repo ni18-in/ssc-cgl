@@ -194,6 +194,432 @@
       "year": null,
       "imageUrl": null,
       "tags": ["frequently_asked", "conceptual"]
+    },
+    {
+      "id": "q_t1_quant_00009",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = 5, find the value of x³ + 1/x³.",
+        "hi": "यदि x + 1/x = 5 हो, तो x³ + 1/x³ का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "110", "hi": "110" },
+        { "en": "125", "hi": "125" },
+        { "en": "140", "hi": "140" },
+        { "en": "115", "hi": "115" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For x + 1/x = k, x³ + 1/x³ = k³ − 3k. Here k = 5, so x³ + 1/x³ = 5³ − 3(5) = 125 − 15 = 110.",
+        "hi": "यदि x + 1/x = k हो, तो x³ + 1/x³ = k³ − 3k होता है। यहाँ k = 5 है, अतः 5³ − 3(5) = 125 − 15 = 110।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00010",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "Two circles of radii 9 cm and 4 cm touch each other externally. Find the length of their direct common tangent.",
+        "hi": "9 सेमी तथा 4 सेमी त्रिज्या वाले दो वृत्त एक दूसरे को बाह्यतः स्पर्श करते हैं। उनकी सीधी उभयनिष्ठ स्पर्श रेखा की लंबाई ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "12 cm", "hi": "12 सेमी" },
+        { "en": "13 cm", "hi": "13 सेमी" },
+        { "en": "10 cm", "hi": "10 सेमी" },
+        { "en": "15 cm", "hi": "15 सेमी" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When two circles touch externally, the length of the direct common tangent = 2√(r₁ × r₂) = 2√(9 × 4) = 2 × 6 = 12 cm.",
+        "hi": "जब दो वृत्त बाह्यतः स्पर्श करते हैं, तो सीधी उभयनिष्ठ स्पर्श रेखा की लंबाई = 2√(r₁ × r₂) = 2√(9 × 4) = 12 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00011",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If tan θ = 4/3 and θ is an acute angle, evaluate (sin θ + cos θ) / (sin θ − cos θ).",
+        "hi": "यदि tan θ = 4/3 और θ न्यून कोण है, तो (sin θ + cos θ) / (sin θ − cos θ) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "7", "hi": "7" },
+        { "en": "5", "hi": "5" },
+        { "en": "3", "hi": "3" },
+        { "en": "1/7", "hi": "1/7" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Divide numerator and denominator by cos θ: (tan θ + 1) / (tan θ − 1) = (4/3 + 1) / (4/3 − 1) = (7/3) / (1/3) = 7.",
+        "hi": "अंश तथा हर को cos θ से भाग देने पर: (tan θ + 1) / (tan θ − 1) = (4/3 + 1) / (4/3 − 1) = (7/3) / (1/3) = 7।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00012",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If the 8-digit number 789x531y is divisible by 72, find the value of (x + y).",
+        "hi": "यदि 8-अंकीय संख्या 789x531y 72 से विभाज्य है, तो (x + y) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "3", "hi": "3" },
+        { "en": "5", "hi": "5" },
+        { "en": "7", "hi": "7" },
+        { "en": "9", "hi": "9" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For 72 divisibility, the number must be divisible by 8 and 9. For 8: last 3 digits 31y must be divisible by 8, which gives y = 2 (312/8 = 39). For 9: sum of digits (7+8+9+x+5+3+1+2 = 35+x) must be divisible by 9, so x = 1 (35+1 = 36). Thus x + y = 1 + 2 = 3.",
+        "hi": "72 से विभाज्यता हेतु संख्या 8 तथा 9 दोनों से विभाज्य होनी चाहिए। 8 से विभाज्यता हेतु: अंतिम 3 अंक 31y 8 से विभाज्य होने पर y = 2। 9 से विभाज्यता हेतु: अंकों का योग (35+x) 9 से विभाज्य होने पर x = 1। अतः x + y = 1 + 2 = 3।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["frequently_asked", "conceptual"]
+    },
+    {
+      "id": "q_t1_quant_00013",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In ΔABC, the internal angle bisectors of ∠B and ∠C intersect at incenter I. If ∠A = 70°, find ∠BIC.",
+        "hi": "ΔABC में, ∠B तथा ∠C के अंतः कोण समद्विभाजक अंतःकेंद्र I पर मिलते हैं। यदि ∠A = 70° हो, तो ∠BIC का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "125°", "hi": "125°" },
+        { "en": "110°", "hi": "110°" },
+        { "en": "135°", "hi": "135°" },
+        { "en": "140°", "hi": "140°" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For incenter I, ∠BIC = 90° + ∠A/2 = 90° + 35° = 125°.",
+        "hi": "अंतःकेंद्र I के लिए, ∠BIC = 90° + ∠A/2 = 90° + 35° = 125°।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00014",
+      "topic": "time_speed_distance",
+      "subTopic": "boats_streams",
+      "question": {
+        "en": "A boat covers 30 km downstream in 2 hours and returns upstream in 5 hours. Find the speed of the stream.",
+        "hi": "एक नाव धारा के अनुकूल 30 किमी की दूरी 2 घंटे में तथा धारा के प्रतिकूल वही दूरी 5 घंटे में तय करती है। धारा की चाल ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "4.5 km/h", "hi": "4.5 किमी/घंटा" },
+        { "en": "3 km/h", "hi": "3 किमी/घंटा" },
+        { "en": "6 km/h", "hi": "6 किमी/घंटा" },
+        { "en": "1.5 km/h", "hi": "1.5 किमी/घंटा" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Downstream speed = 30/2 = 15 km/h. Upstream speed = 30/5 = 6 km/h. Stream speed = (Downstream − Upstream) / 2 = (15 − 6) / 2 = 4.5 km/h.",
+        "hi": "धारा के अनुकूल चाल = 30/2 = 15 किमी/घंटा। धारा के प्रतिकूल चाल = 30/5 = 6 किमी/घंटा। धारा की चाल = (15 − 6) / 2 = 4.5 किमी/घंटा।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00015",
+      "topic": "simplification",
+      "question": {
+        "en": "Find the value of √(12 + √(12 + √(12 + ... ∞))).",
+        "hi": "√(12 + √(12 + √(12 + ... ∞))) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "4", "hi": "4" },
+        { "en": "3", "hi": "3" },
+        { "en": "6", "hi": "6" },
+        { "en": "12", "hi": "12" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let x = √(12 + x). Squaring both sides: x² − x − 12 = 0 → (x − 4)(x + 3) = 0. Since x > 0, x = 4. Shortcut: write 12 as the product of consecutive integers 3 × 4; for plus sign, the answer is the larger integer (4).",
+        "hi": "x = √(12 + x) मानें। वर्ग करने पर: x² − x − 12 = 0 → (x − 4)(x + 3) = 0। चूँकि x > 0, अतः x = 4। शॉर्टकट: 12 को क्रमागत संख्याओं 3 × 4 के गुणनफल में लिखें; प्लस चिह्न होने पर बड़ा मान (4) उत्तर होगा।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00016",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If a + b + c = 6 and a² + b² + c² = 14, find the value of ab + bc + ca.",
+        "hi": "यदि a + b + c = 6 तथा a² + b² + c² = 14 हो, तो ab + bc + ca का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "11", "hi": "11" },
+        { "en": "12", "hi": "12" },
+        { "en": "10", "hi": "10" },
+        { "en": "8", "hi": "8" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Use identity: (a + b + c)² = a² + b² + c² + 2(ab + bc + ca). 6² = 14 + 2(ab + bc + ca) → 36 = 14 + 2(ab + bc + ca) → 2(ab + bc + ca) = 22 → ab + bc + ca = 11.",
+        "hi": "सर्वसमिका: (a + b + c)² = a² + b² + c² + 2(ab + bc + ca)। 36 = 14 + 2(ab + bc + ca) → 2(ab + bc + ca) = 22 → ab + bc + ca = 11।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00017",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A dishonest shopkeeper sells goods at cost price but uses a false weight of 900 grams for a 1 kg weight. What is his profit percentage?",
+        "hi": "एक बेईमान दुकानदार क्रय मूल्य पर सामान बेचने का दावा करता है, परंतु 1 किग्रा के स्थान पर 900 ग्राम के नकली बाँट का प्रयोग करता है। उसका लाभ प्रतिशत क्या है?"
+      },
+      "options": [
+        { "en": "11.11%", "hi": "11.11%" },
+        { "en": "10%", "hi": "10%" },
+        { "en": "12.5%", "hi": "12.5%" },
+        { "en": "9%", "hi": "9%" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Profit % = [Error / (True Value − Error)] × 100 = [100 / (1000 − 100)] × 100 = (100 / 900) × 100 = 11.11%.",
+        "hi": "लाभ % = [त्रुटि / (सत्य मान − त्रुटि)] × 100 = [100 / (1000 − 100)] × 100 = 11.11%।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00018",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "Find the mean proportional between 9 and 25.",
+        "hi": "9 तथा 25 का मध्यानुपाती ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "15", "hi": "15" },
+        { "en": "17", "hi": "17" },
+        { "en": "12", "hi": "12" },
+        { "en": "16", "hi": "16" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mean proportional between a and b = √(a × b) = √(9 × 25) = √225 = 15.",
+        "hi": "a तथा b का मध्यानुपाती = √(a × b) = √(9 × 25) = √225 = 15।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00019",
+      "topic": "interest",
+      "subTopic": "compound_interest",
+      "question": {
+        "en": "Find the difference between compound interest and simple interest on ₹8,000 for 3 years at 10% per annum.",
+        "hi": "₹8,000 पर 10% वार्षिक दर से 3 वर्ष के चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "₹248", "hi": "₹248" },
+        { "en": "₹240", "hi": "₹240" },
+        { "en": "₹250", "hi": "₹250" },
+        { "en": "₹256", "hi": "₹256" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Difference for 3 years = P(R/100)² × (300 + R)/100 = 8000 × (10/100)² × (310/100) = 8000 × 0.01 × 3.1 = ₹248.",
+        "hi": "3 वर्ष के लिए अंतर = P(R/100)² × (300 + R)/100 = 8000 × 0.01 × 3.1 = ₹248।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00020",
+      "topic": "geometry",
+      "subTopic": "quadrilaterals",
+      "question": {
+        "en": "In a cyclic quadrilateral ABCD, if ∠A = 105°, find the measure of opposite angle ∠C.",
+        "hi": "चक्रीय चतुर्भुज ABCD में, यदि ∠A = 105° हो, तो सम्मुख कोण ∠C का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "75°", "hi": "75°" },
+        { "en": "85°", "hi": "85°" },
+        { "en": "95°", "hi": "95°" },
+        { "en": "105°", "hi": "105°" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In a cyclic quadrilateral, opposite angles add up to 180°. ∠C = 180° − 105° = 75°.",
+        "hi": "चक्रीय चतुर्भुज में सम्मुख कोणों का योग 180° होता है। ∠C = 180° − 105° = 75°।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["conceptual", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00021",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "The centroid of ΔABC is G. If the length of median AD is 18 cm, find the length of AG.",
+        "hi": "ΔABC का केंद्रक G है। यदि माध्यिका AD की लंबाई 18 सेमी है, तो AG की लंबाई ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "12 cm", "hi": "12 सेमी" },
+        { "en": "9 cm", "hi": "9 सेमी" },
+        { "en": "6 cm", "hi": "6 सेमी" },
+        { "en": "14 cm", "hi": "14 सेमी" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The centroid divides each median in a 2 : 1 ratio from the vertex. AG = (2/3) × AD = (2/3) × 18 = 12 cm.",
+        "hi": "केंद्रक प्रत्येक माध्यिका को शीर्ष से 2 : 1 के अनुपात में विभाजित करता है। AG = (2/3) × 18 = 12 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00022",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If sec θ + tan θ = 3, find the value of sec θ − tan θ.",
+        "hi": "यदि sec θ + tan θ = 3 हो, तो sec θ − tan θ का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        { "en": "1/3", "hi": "1/3" },
+        { "en": "3", "hi": "3" },
+        { "en": "2/3", "hi": "2/3" },
+        { "en": "1/9", "hi": "1/9" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Since sec²θ − tan²θ = 1, (sec θ + tan θ)(sec θ − tan θ) = 1 → sec θ − tan θ = 1/3.",
+        "hi": "चूँकि sec²θ − tan²θ = 1, (sec θ + tan θ)(sec θ − tan θ) = 1 → sec θ − tan θ = 1/3।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00023",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "A metallic sphere of radius 6 cm is melted and recast into small spheres of radius 2 cm each. How many such small spheres are formed?",
+        "hi": "6 सेमी त्रिज्या का एक धातु का गोला पिघलाकर 2 सेमी त्रिज्या के छोटे गोलों में ढाला जाता है। ऐसे कितने छोटे गोले बनेंगे?"
+      },
+      "options": [
+        { "en": "27", "hi": "27" },
+        { "en": "18", "hi": "18" },
+        { "en": "9", "hi": "9" },
+        { "en": "36", "hi": "36" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Number of small spheres = Volume of large sphere / Volume of small sphere = (4/3 π R³) / (4/3 π r³) = (R/r)³ = (6/2)³ = 3³ = 27.",
+        "hi": "छोटे गोलों की संख्या = बड़े गोले का आयतन / छोटे गोले का आयतन = (R/r)³ = (6/2)³ = 3³ = 27।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00024",
+      "topic": "mixture_alligation",
+      "question": {
+        "en": "A container has 40 litres of milk. 4 litres of milk were drawn out and replaced with water. This process was repeated once more. How much milk is left in the container?",
+        "hi": "एक बर्तन में 40 लीटर दूध है। इसमें से 4 लीटर दूध निकालकर पानी भर दिया गया। यह प्रक्रिया एक बार फिर दोहराई गई। अब बर्तन में कितना दूध शेष है?"
+      },
+      "options": [
+        { "en": "32.4 litres", "hi": "32.4 लीटर" },
+        { "en": "34 litres", "hi": "34 लीटर" },
+        { "en": "31.6 litres", "hi": "31.6 लीटर" },
+        { "en": "32 litres", "hi": "32 लीटर" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Remaining milk = Initial milk × (1 − x/C)ⁿ = 40 × (1 − 4/40)² = 40 × (0.9)² = 40 × 0.81 = 32.4 litres.",
+        "hi": "शेष दूध = 40 × (1 − 4/40)² = 40 × (0.9)² = 32.4 लीटर।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["formula_based", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00025",
+      "topic": "average",
+      "question": {
+        "en": "The average weight of 8 persons increases by 2.5 kg when a new person replaces one person weighing 65 kg. What is the weight of the new person?",
+        "hi": "8 व्यक्तियों का औसत भार 2.5 किग्रा बढ़ जाता है जब 65 किग्रा भार वाले एक व्यक्ति के स्थान पर नया व्यक्ति आता है। नए व्यक्ति का भार क्या है?"
+      },
+      "options": [
+        { "en": "85 kg", "hi": "85 किग्रा" },
+        { "en": "80 kg", "hi": "80 किग्रा" },
+        { "en": "75 kg", "hi": "75 किग्रा" },
+        { "en": "90 kg", "hi": "90 किग्रा" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Weight of new person = Replaced weight + Total increase = 65 + (8 × 2.5) = 65 + 20 = 85 kg.",
+        "hi": "नए व्यक्ति का भार = प्रतिस्थापित भार + कुल वृद्धि = 65 + (8 × 2.5) = 85 किग्रा।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
+    },
+    {
+      "id": "q_t1_quant_00026",
+      "topic": "percentage",
+      "question": {
+        "en": "If the price of sugar increases by 20%, by what percentage should a household reduce its consumption so that the expenditure remains unchanged?",
+        "hi": "यदि चीनी के मूल्य में 20% की वृद्धि होती है, तो एक परिवार को अपनी खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि व्यय अपरिवर्तित रहे?"
+      },
+      "options": [
+        { "en": "16.67%", "hi": "16.67%" },
+        { "en": "20%", "hi": "20%" },
+        { "en": "15%", "hi": "15%" },
+        { "en": "25%", "hi": "25%" }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Percentage reduction = [x / (100 + x)] × 100 = [20 / 120] × 100 = 100/6 = 16.67%.",
+        "hi": "प्रतिशत कमी = [x / (100 + x)] × 100 = [20 / 120] × 100 = 16.67%।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": ["shortcut_applicable", "frequently_asked"]
     }
   ]
 }
