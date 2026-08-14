@@ -28,20 +28,20 @@ app's first-launch sync; the rest download lazily when the user opens that secti
 | [`tier1/english.json`](tier1/english.json) | question_bank | yes | [open](https://ni18-in.github.io/ssc-cgl/tier1/english.json) |
 | [`tier1/gk.json`](tier1/gk.json) | question_bank | yes | [open](https://ni18-in.github.io/ssc-cgl/tier1/gk.json) |
 | [`formula_sheets/quant_formulas.json`](formula_sheets/quant_formulas.json) | formula_sheet | yes | [open](https://ni18-in.github.io/ssc-cgl/formula_sheets/quant_formulas.json) |
+| [`formula_sheets/reasoning_shortcuts.json`](formula_sheets/reasoning_shortcuts.json) | formula_sheet | yes | [open](https://ni18-in.github.io/ssc-cgl/formula_sheets/reasoning_shortcuts.json) |
+| [`formula_sheets/english_rules.json`](formula_sheets/english_rules.json) | formula_sheet | yes | [open](https://ni18-in.github.io/ssc-cgl/formula_sheets/english_rules.json) |
 | [`current_affairs/latest.json`](current_affairs/latest.json) | current_affairs | yes | [open](https://ni18-in.github.io/ssc-cgl/current_affairs/latest.json) |
 | [`current_affairs/2026_08.json`](current_affairs/2026_08.json) | current_affairs | no | [open](https://ni18-in.github.io/ssc-cgl/current_affairs/2026_08.json) |
 | [`mocks/tier1/t1_mock_001.json`](mocks/tier1/t1_mock_001.json) | mock | no | [open](https://ni18-in.github.io/ssc-cgl/mocks/tier1/t1_mock_001.json) |
 | [`mocks/tier1/t1_mock_002.json`](mocks/tier1/t1_mock_002.json) | mock | no | [open](https://ni18-in.github.io/ssc-cgl/mocks/tier1/t1_mock_002.json) |
+| [`mocks/tier1/t1_mock_003.json`](mocks/tier1/t1_mock_003.json) | mock | no | [open](https://ni18-in.github.io/ssc-cgl/mocks/tier1/t1_mock_003.json) |
 | [`pyq/2024_tier1.json`](pyq/2024_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2024_tier1.json) |
 | [`pyq/2023_tier1.json`](pyq/2023_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2023_tier1.json) |
 | [`pyq/2022_tier1.json`](pyq/2022_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2022_tier1.json) |
 | [`pyq/2021_tier1.json`](pyq/2021_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2021_tier1.json) |
+| [`pyq/2020_tier1.json`](pyq/2020_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2020_tier1.json) |
 
-> **Official Previous Year Papers (PYQ)**: Complete official 100-question papers for 2024 (12 Sept Shift 1), 2023 (14 July Shift 1), 2022 (01 Dec Shift 1), and 2021 (11 April Shift 1) with official exam dates, shift provenance, verified keys, and bilingual explanations.
-
-> **Current affairs are placeholders.** The entries in `2026_08.json` are structurally valid
-> samples with `SAMPLE —` headlines, not real news. Replace them with curated, verified items
-> before any release.
+> **Official Previous Year Papers (PYQ)**: Complete official 100-question papers for 2024 (12 Sept Shift 1), 2023 (14 July Shift 1), 2022 (01 Dec Shift 1), 2021 (11 April Shift 1), and 2020 (03 March Shift 1) with official exam dates, shift provenance, verified keys, and bilingual explanations.
 
 Measured transfer for the current seed set: **74 KB uncompressed → 21 KB over the wire**
 (≈28%, GitHub Pages gzips automatically). At that ratio the projected 25–30 MB full content

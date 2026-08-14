@@ -5739,6 +5739,1919 @@
       "tags": [
         "frequently_asked"
       ]
+    },
+    {
+      "id": "q_t1_gk_00151",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Which Article of the Constitution guarantees the 'Protection of Life and Personal Liberty'?",
+        "hi": "भारतीय संविधान का कौन सा अनुच्छेद 'प्राण एवं दैहिक स्वतंत्रता के संरक्षण' की गारंटी देता है?"
+      },
+      "options": [
+        {
+          "en": "Article 21",
+          "hi": "अनुच्छेद 21"
+        },
+        {
+          "en": "Article 19",
+          "hi": "अनुच्छेद 19"
+        },
+        {
+          "en": "Article 20",
+          "hi": "अनुच्छेद 20"
+        },
+        {
+          "en": "Article 22",
+          "hi": "अनुच्छेद 22"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 21 states that 'No person shall be deprived of his life or personal liberty except according to procedure established by law.' Articles 20 and 21 cannot be suspended even during a National Emergency (Article 359).",
+        "hi": "अनुच्छेद 21 जीवन और व्यक्तिगत स्वतंत्रता का अधिकार प्रदान करता है। राष्ट्रीय आपातकाल के दौरान भी अनुच्छेद 20 और 21 को निलंबित नहीं किया जा सकता।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00152",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "Who was the founder of the Maurya Empire, who overthrew the Nanda dynasty in Magadha with the assistance of Chanakya (Kautilya)?",
+        "hi": "मौर्य साम्राज्य के संस्थापक कौन थे जिन्होंने चाणक्य (कौटिल्य) की सहायता से मगध में नंद वंश को समाप्त किया था?"
+      },
+      "options": [
+        {
+          "en": "Chandragupta Maurya (322 BCE)",
+          "hi": "चंद्रगुप्त मौर्य (322 ईसा पूर्व)"
+        },
+        {
+          "en": "Bindusara",
+          "hi": "बिन्दुसार"
+        },
+        {
+          "en": "Ashoka the Great",
+          "hi": "अशोक महान"
+        },
+        {
+          "en": "Bimbisara",
+          "hi": "बिंबिसार"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Chandragupta Maurya founded the Maurya Empire around 322 BCE after defeating Dhanananda, the last Nanda ruler, guided by Chanakya.",
+        "hi": "चंद्रगुप्त मौर्य ने चाणक्य की सहायता से अंतिम नंद शासक धनानंद को पराजित कर मौर्य साम्राज्य की स्थापना की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00153",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Jog Falls (Gersoppa Falls), one of the highest plunge waterfalls in India, is located on which river in Karnataka?",
+        "hi": "भारत के सबसे ऊँचे जलप्रपातों में से एक 'जोग जलप्रपात' (गेरसप्पा) कर्नाटक में किस नदी पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Sharavathi River",
+          "hi": "शरावती नदी (Sharavathi River)"
+        },
+        {
+          "en": "Cauvery River",
+          "hi": "कावेरी नदी"
+        },
+        {
+          "en": "Krishna River",
+          "hi": "कृष्णा नदी"
+        },
+        {
+          "en": "Tungabhadra River",
+          "hi": "तुंगभद्रा नदी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Jog Falls (height 253 m) is created by the Sharavathi River in Shimoga district of Karnataka.",
+        "hi": "जोग जलप्रपात कर्नाटक के शिमोगा जिले में शरावती नदी पर स्थित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00154",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which chemical compound is commonly known as 'Bleaching Powder'?",
+        "hi": "'विरंजक चूर्ण' (Bleaching Powder) का रासायनिक नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Calcium Hypochlorite / Oxychloride [CaOCl₂]",
+          "hi": "कैल्शियम हाइपोक्लोराइट / ऑक्सीक्लोराइड [CaOCl₂]"
+        },
+        {
+          "en": "Calcium Carbonate [CaCO₃]",
+          "hi": "कैल्शियम कार्बोनेट"
+        },
+        {
+          "en": "Sodium Bicarbonate [NaHCO₃]",
+          "hi": "सोडियम बाइकार्बोनेट"
+        },
+        {
+          "en": "Calcium Hydroxide [Ca(OH)₂]",
+          "hi": "बुझा हुआ चूना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Bleaching powder is Calcium Oxychloride (CaOCl₂), prepared by passing chlorine gas over dry slaked lime [Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O].",
+        "hi": "ब्लीचिंग पाउडर का रासायनिक सूत्र CaOCl₂ (कैल्शियम ऑक्सीक्लोराइड) है, जो बुझे चूने पर क्लोरीन गैस प्रवाहित करने से बनता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00155",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Yakshagana is a traditional theatre folk-dance drama native to which Indian state?",
+        "hi": "यक्षगान (Yakshagana) किस भारतीय राज्य का पारंपरिक लोक नृत्य-नाट्य है?"
+      },
+      "options": [
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Yakshagana is a traditional theatre art form that combines dance, music, dialogue, costume, make-up, and stage techniques in coastal Karnataka.",
+        "hi": "यक्षगान कर्नाटक का प्रसिद्ध पारंपरिक लोक नृत्य नाटिका रूप है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00156",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under Article 76 of the Indian Constitution, who is the highest law officer of the Government of India?",
+        "hi": "भारतीय संविधान के अनुच्छेद 76 के तहत भारत सरकार का सर्वोच्च विधि अधिकारी कौन होता है?"
+      },
+      "options": [
+        {
+          "en": "Attorney General of India",
+          "hi": "भारत का महान्यायवादी (Attorney General)"
+        },
+        {
+          "en": "Solicitor General of India",
+          "hi": "भारत का सॉलिसिटर जनरल"
+        },
+        {
+          "en": "Chief Justice of India",
+          "hi": "भारत के मुख्य न्यायाधीश"
+        },
+        {
+          "en": "Law Minister of India",
+          "hi": "केंद्रीय कानून मंत्री"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 76 provides for the Attorney General of India, appointed by the President, who is the chief legal advisor to the government.",
+        "hi": "अनुच्छेद 76 के तहत महान्यायवादी (Attorney General) भारत सरकार का प्रथम एवं सर्वोच्च विधि अधिकारी होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00157",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Who built the famous 'Grand Trunk Road' (Sadak-e-Azam) connecting Chittagong (Bangladesh) to Kabul (Afghanistan)?",
+        "hi": "चटगांव से काबुल तक जोड़ने वाली प्रसिद्ध 'ग्रैंड ट्रंक रोड' (सड़क-ए-आजम) का निर्माण किसने करवाया था?"
+      },
+      "options": [
+        {
+          "en": "Sher Shah Suri (1540–1545)",
+          "hi": "शेरशाह सूरी"
+        },
+        {
+          "en": "Akbar",
+          "hi": "अकबर"
+        },
+        {
+          "en": "Shah Jahan",
+          "hi": "शाहजहाँ"
+        },
+        {
+          "en": "Aurangzeb",
+          "hi": "औरंगजेब"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sher Shah Suri renovated and built the historic highway known as Sadak-e-Azam (later called Grand Trunk Road by the British). He also introduced the silver coin 'Rupiya'.",
+        "hi": "शेरशाह सूरी ने सड़क-ए-आजम (GT रोड) का निर्माण करवाया तथा चांदी का सिक्का 'रुपया' जारी किया था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00158",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the SI unit of electric resistance?",
+        "hi": "विद्युत प्रतिरोध (Electrical Resistance) का SI मात्रक क्या है?"
+      },
+      "options": [
+        {
+          "en": "Ohm (Ω)",
+          "hi": "ओम (Ohm - Ω)"
+        },
+        {
+          "en": "Siemens",
+          "hi": "सीमेंस (चालकत्व)"
+        },
+        {
+          "en": "Henry",
+          "hi": "हेनरी (प्रेरकत्व)"
+        },
+        {
+          "en": "Farad",
+          "hi": "फैराड (धारिता)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Resistance is measured in Ohms (Ω) defined by Ohm's law: R = V / I (1 Ω = 1 Volt / 1 Ampere).",
+        "hi": "विद्युत प्रतिरोध का SI मात्रक ओम (Ohm) है (R = V / I)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00159",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which Indian state is the largest producer of wheat in the country?",
+        "hi": "भारत में गेहूँ का सबसे बड़ा उत्पादक राज्य कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "Uttar Pradesh",
+          "hi": "उत्तर प्रदेश"
+        },
+        {
+          "en": "Punjab (highest per hectare yield)",
+          "hi": "पंजाब (प्रति हेक्टेयर सर्वाधिक उत्पादकता)"
+        },
+        {
+          "en": "Haryana",
+          "hi": "हरियाणा"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Uttar Pradesh is the largest wheat-producing state in India by total volume, accounting for over 30% of national production. Punjab has the highest yield per hectare.",
+        "hi": "उत्तर प्रदेश कुल उत्पादन में भारत का सबसे बड़ा गेहूँ उत्पादक राज्य है, जबकि पंजाब प्रति हेक्टेयर उत्पादकता में शीर्ष पर है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00160",
+      "topic": "economy",
+      "subTopic": "banking_finance",
+      "question": {
+        "en": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on which date?",
+        "hi": "नीति आयोग (NITI Aayog) ने योजना आयोग का स्थान किस तिथि को लिया था?"
+      },
+      "options": [
+        {
+          "en": "1st January 2015",
+          "hi": "1 जनवरी 2015"
+        },
+        {
+          "en": "15th August 2014",
+          "hi": "15 अगस्त 2014"
+        },
+        {
+          "en": "1st April 2015",
+          "hi": "1 अप्रैल 2015"
+        },
+        {
+          "en": "26th January 2015",
+          "hi": "26 जनवरी 2015"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "NITI Aayog was formed on 1 January 2015 by a Cabinet resolution, replacing the 65-year-old Planning Commission of India. The Prime Minister serves as its Ex-Officio Chairperson.",
+        "hi": "1 जनवरी 2015 को योजना आयोग के स्थान पर नीति आयोग की स्थापना की गई थी। इसके पदेन अध्यक्ष प्रधानमंत्री होते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00161",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who was the first woman President of the Indian National Congress (presided over the 1917 Calcutta Session)?",
+        "hi": "भारतीय राष्ट्रीय कांग्रेस की प्रथम महिला अध्यक्ष (1917 कलकत्ता अधिवेशन) कौन थीं?"
+      },
+      "options": [
+        {
+          "en": "Annie Besant (1917)",
+          "hi": "एनी बेसेंट (1917)"
+        },
+        {
+          "en": "Sarojini Naidu (1925 Kanpur - First Indian Woman)",
+          "hi": "सरोजिनी नायडू (1925 कानपुर - प्रथम भारतीय महिला)"
+        },
+        {
+          "en": "Nellie Sengupta (1933)",
+          "hi": "नेल्ली सेनगुप्ता (1933)"
+        },
+        {
+          "en": "Kadambini Ganguly",
+          "hi": "कादम्बिनी गांगुली"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Annie Besant became the first woman Congress President in 1917 (Calcutta). Sarojini Naidu was the first Indian woman President in 1925 (Kanpur).",
+        "hi": "एनी बेसेंट 1917 में कांग्रेस की प्रथम महिला अध्यक्ष बनी थीं। सरोजिनी नायडू 1925 में प्रथम भारतीय महिला अध्यक्ष बनी थीं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00162",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which blood vessels carry oxygenated blood from the lungs back to the left atrium of the heart?",
+        "hi": "कौन सी रक्त वाहिकाएं फेफड़ों से ऑक्सीजन युक्त रक्त को हृदय के बाएं आलिंद में लाती हैं?"
+      },
+      "options": [
+        {
+          "en": "Pulmonary Veins (only veins carrying oxygenated blood)",
+          "hi": "फुफ्फुसीय शिराएं / पल्मोनरी वेन्स (Pulmonary Veins)"
+        },
+        {
+          "en": "Pulmonary Artery",
+          "hi": "फुफ्फुसीय धमनी (अशुद्ध रक्त ले जाती है)"
+        },
+        {
+          "en": "Aorta",
+          "hi": "महाधमनी (Aorta)"
+        },
+        {
+          "en": "Vena Cava",
+          "hi": "महाशिरा (Vena Cava)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pulmonary veins are the only veins that carry oxygen-rich blood (from lungs to left atrium). Pulmonary artery is the only artery carrying deoxygenated blood.",
+        "hi": "पल्मोनरी शिरा (Pulmonary Vein) एकमात्र ऐसी शिरा है जो फेफड़ों से शुद्ध (ऑक्सीजन युक्त) रक्त हृदय में लाती है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00163",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under Article 280 of the Indian Constitution, the Finance Commission is constituted by the President of India every:",
+        "hi": "भारतीय संविधान के अनुच्छेद 280 के तहत वित्त आयोग का गठन राष्ट्रपति द्वारा कितने वर्षों के अंतराल पर किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "5 years",
+          "hi": "5 वर्ष"
+        },
+        {
+          "en": "6 years",
+          "hi": "6 वर्ष"
+        },
+        {
+          "en": "3 years",
+          "hi": "3 वर्ष"
+        },
+        {
+          "en": "4 years",
+          "hi": "4 वर्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 280(1) mandates the President to constitute a Finance Commission every 5 years to recommend the sharing of tax revenues between the Union and States.",
+        "hi": "अनुच्छेद 280 के तहत राष्ट्रपति प्रत्येक 5 वर्ष में केंद्र और राज्यों के मध्य राजस्व वितरण हेतु वित्त आयोग का गठन करते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00164",
+      "topic": "static_gk",
+      "subTopic": "books_authors",
+      "question": {
+        "en": "Who wrote 'Geet Govinda', the famous 12th-century lyrical poem celebrating the love of Krishna and Radha?",
+        "hi": "12वीं शताब्दी के प्रसिद्ध संस्कृत काव्य 'गीत गोविंद' के रचयिता कौन हैं जिसमें कृष्ण और राधा के प्रेम का वर्णन है?"
+      },
+      "options": [
+        {
+          "en": "Jayadeva (court poet of Lakshmana Sena)",
+          "hi": "जयदेव (Jayadeva)"
+        },
+        {
+          "en": "Surdas",
+          "hi": "सूरदास"
+        },
+        {
+          "en": "Tulsidas",
+          "hi": "तुलसीदास"
+        },
+        {
+          "en": "Chaitanya Mahaprabhu",
+          "hi": "चैतन्य महाप्रभु"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Jayadeva, court poet of the Sena King Lakshmana Sena of Bengal, composed the lyrical masterpiece 'Gita Govinda'.",
+        "hi": "गीत गोविंद की रचना 12वीं सदी में बंगाल के लक्ष्मण सेन के दरबारी कवि जयदेव ने की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00165",
+      "topic": "geography",
+      "subTopic": "world_geography",
+      "question": {
+        "en": "Which is the longest mountain range in the world on land?",
+        "hi": "स्थल भाग पर विश्व की सबसे लंबी पर्वत श्रृंखला कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Andes (South America - ≈7,000 km)",
+          "hi": "एंडीज (दक्षिण अमेरिका - लगभग 7,000 किमी)"
+        },
+        {
+          "en": "Himalayas (Asia)",
+          "hi": "हिमालय (विश्व की सर्वोच्च)"
+        },
+        {
+          "en": "Rocky Mountains (North America)",
+          "hi": "रॉकी पर्वतमाला"
+        },
+        {
+          "en": "Alps (Europe)",
+          "hi": "आल्प्स"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Andes mountain range in South America is the longest continental mountain range in the world, spanning approx. 7,000 km. The Himalayas are the highest.",
+        "hi": "दक्षिण अमेरिका की एंडीज पर्वतमाला (लगभग 7,000 किमी) विश्व की सबसे लंबी पर्वत श्रृंखला है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00166",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the relation between the focal length (f) and radius of curvature (R) of a spherical mirror?",
+        "hi": "गोलीय दर्पण की फोकस दूरी (f) और वक्रता त्रिज्या (R) में क्या संबंध होता है?"
+      },
+      "options": [
+        {
+          "en": "f = R / 2",
+          "hi": "f = R / 2"
+        },
+        {
+          "en": "f = 2R",
+          "hi": "f = 2R"
+        },
+        {
+          "en": "f = R / 4",
+          "hi": "f = R / 4"
+        },
+        {
+          "en": "f = R²",
+          "hi": "f = R²"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For small-aperture spherical mirrors, the focal length is exactly half of its radius of curvature (f = R / 2).",
+        "hi": "गोलीय दर्पण की फोकस दूरी वक्रता त्रिज्या की आधी होती है (f = R / 2)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00167",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who was the Viceroy of India when the Quit India Resolution was passed on 8 August 1942 at Gowalia Tank Maidan, Bombay?",
+        "hi": "8 अगस्त 1942 को बॉम्बे के गवालिया टैंक मैदान में भारत छोड़ो प्रस्ताव पारित होने के समय भारत का वायसराय कौन था?"
+      },
+      "options": [
+        {
+          "en": "Lord Linlithgow",
+          "hi": "लॉर्ड लिनलिथगो (Lord Linlithgow)"
+        },
+        {
+          "en": "Lord Wavell",
+          "hi": "लॉर्ड वेवेल"
+        },
+        {
+          "en": "Lord Mountbatten",
+          "hi": "लॉर्ड माउंटबेटन"
+        },
+        {
+          "en": "Lord Willingdon",
+          "hi": "लॉर्ड विलिंगटन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Lord Linlithgow was the Viceroy of India from 1936 to 1943 during the launch of the Quit India Movement in August 1942.",
+        "hi": "1942 में भारत छोड़ो आंदोलन के समय भारत का वायसराय लॉर्ड लिनलिथगो (1936–1943) था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00168",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "How many Fundamental Duties are currently listed under Article 51A of the Indian Constitution?",
+        "hi": "भारतीय संविधान के अनुच्छेद 51A के तहत वर्तमान में कुल कितने मौलिक कर्तव्य सूचीबद्ध हैं?"
+      },
+      "options": [
+        {
+          "en": "11",
+          "hi": "11 (वर्तमान में)"
+        },
+        {
+          "en": "10",
+          "hi": "10 (मूलतः 42वें संशोधन द्वारा)"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Originally 10 Fundamental Duties were added by the 42nd Amendment in 1976. The 11th duty (duty of parent/guardian to provide education to child aged 6-14) was added by the 86th Amendment in 2002.",
+        "hi": "42वें संशोधन द्वारा 10 कर्तव्य जोड़े गए थे, तथा 86वें संशोधन (2002) द्वारा 11वाँ कर्तव्य जोड़ा गया।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00169",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which acid is present in sour milk or curd (yogurt)?",
+        "hi": "खट्टे दूध या दही में कौन सा प्राकृतिक अम्ल उपस्थित होता है?"
+      },
+      "options": [
+        {
+          "en": "Lactic Acid",
+          "hi": "लैक्टिक अम्ल (Lactic Acid)"
+        },
+        {
+          "en": "Citric Acid",
+          "hi": "साइट्रिक अम्ल"
+        },
+        {
+          "en": "Tartaric Acid",
+          "hi": "टार्टरिक अम्ल"
+        },
+        {
+          "en": "Malic Acid",
+          "hi": "मैलिक अम्ल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Lactic acid is produced in milk by Lactobacillus bacteria during the fermentation of lactose sugar.",
+        "hi": "लैक्टोबैसिलस जीवाणु द्वारा दूध के किण्वन से लैक्टिक अम्ल का निर्माण होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00170",
+      "topic": "static_gk",
+      "subTopic": "important_days",
+      "question": {
+        "en": "National Voters' Day is celebrated across India annually on which date to mark the foundation of the Election Commission of India?",
+        "hi": "भारत निर्वाचन आयोग की स्थापना दिवस के उपलक्ष्य में प्रतिवर्ष 'राष्ट्रीय मतदाता दिवस' किस तिथि को मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "25th January",
+          "hi": "25 जनवरी"
+        },
+        {
+          "en": "26th November (Constitution Day)",
+          "hi": "26 नवंबर (संविधान दिवस)"
+        },
+        {
+          "en": "15th January (Army Day)",
+          "hi": "15 जनवरी (सेना दिवस)"
+        },
+        {
+          "en": "10th December (Human Rights Day)",
+          "hi": "10 दिसंबर (मानवाधिकार दिवस)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "National Voters' Day has been celebrated on 25 January since 2011 to mark the founding of the Election Commission of India on 25 January 1950.",
+        "hi": "25 जनवरी 1950 को चुनाव आयोग की स्थापना हुई थी, अतः प्रतिवर्ष 25 जनवरी को राष्ट्रीय मतदाता दिवस मनाया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00171",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the highest dam in India, built on the Bhagirathi River in Uttarakhand?",
+        "hi": "उत्तराखंड में भागीरथी नदी पर निर्मित भारत का सबसे ऊँचा बांध कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "Tehri Dam (Height: 260.5 m)",
+          "hi": "टिहरी बांध (ऊँचाई: 260.5 मीटर)"
+        },
+        {
+          "en": "Bhakra Dam (Satluj River)",
+          "hi": "भाखड़ा बांध (सतलुज नदी)"
+        },
+        {
+          "en": "Hirakud Dam (Mahanadi)",
+          "hi": "हीराकुंड बांध (महानदी - सबसे लंबा)"
+        },
+        {
+          "en": "Sardar Sarovar Dam (Narmada)",
+          "hi": "सरदार सरोवर बांध"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Tehri Dam on the Bhagirathi River in Uttarakhand is the highest dam in India at 260.5 m (855 ft).",
+        "hi": "टिहरी बांध (भागीरथी नदी, उत्तराखंड) 260.5 मीटर ऊँचाई के साथ भारत का सबसे ऊँचा बांध है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00172",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Who administers the oath of office to the President of India under Article 60?",
+        "hi": "संविधान के अनुच्छेद 60 के तहत भारत के राष्ट्रपति को पद की शपथ कौन दिलाता है?"
+      },
+      "options": [
+        {
+          "en": "Chief Justice of India (or senior-most judge of Supreme Court)",
+          "hi": "भारत के मुख्य न्यायाधीश (CJI) या वरिष्ठतम न्यायाधीश"
+        },
+        {
+          "en": "Prime Minister of India",
+          "hi": "भारत के प्रधानमंत्री"
+        },
+        {
+          "en": "Speaker of Lok Sabha",
+          "hi": "लोकसभा अध्यक्ष"
+        },
+        {
+          "en": "Vice-President of India",
+          "hi": "भारत के उपराष्ट्रपति"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 60, the Chief Justice of India (or in their absence, the senior-most Judge of the Supreme Court available) administers the oath to the President.",
+        "hi": "अनुच्छेद 60 के तहत राष्ट्रपति को शपथ भारत के मुख्य न्यायाधीश (CJI) दिलाते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00173",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "Who wrote 'Arthashastra', the comprehensive ancient Indian treatise on statecraft, economic policy, and military strategy?",
+        "hi": "प्राचीन भारतीय राजनीति शास्त्र, अर्थनीति एवं कूटनीति पर प्रसिद्ध ग्रंथ 'अर्थशास्त्र' के रचयिता कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Kautilya (Chanakya / Vishnugupta)",
+          "hi": "कौटिल्य (चाणक्य / विष्णुगुप्त)"
+        },
+        {
+          "en": "Megasthenes",
+          "hi": "मेगास्थनीज (इंडिका के लेखक)"
+        },
+        {
+          "en": "Vishakhadatta",
+          "hi": "विशाखदत्त (मुद्राराक्षस)"
+        },
+        {
+          "en": "Kalhana",
+          "hi": "कल्हण (राजतरंगिणी)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Chanakya (Kautilya/Vishnugupta), Prime Minister in Chandragupta Maurya's court, authored the 'Arthashastra'.",
+        "hi": "अर्थशास्त्र की रचना चंद्रगुप्त मौर्य के प्रधानमंत्री चाणक्य (विष्णुगुप्त/कौटिल्य) ने की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00174",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Which optical phenomenon explains the glittering brilliance of a cut diamond?",
+        "hi": "तराशे गए हीरे की अत्यधिक चमक का कारण कौन सी प्रकाशीय परिघटना है?"
+      },
+      "options": [
+        {
+          "en": "Total Internal Reflection (with high refractive index ≈2.42)",
+          "hi": "पूर्ण आंतरिक परावर्तन (उच्च अपवर्तनांक ≈2.42 के साथ)"
+        },
+        {
+          "en": "Total dispersion of light",
+          "hi": "प्रकाश का पूर्ण विक्षेपण"
+        },
+        {
+          "en": "Interference of light",
+          "hi": "प्रकाश का व्यतिकरण"
+        },
+        {
+          "en": "Diffraction of light",
+          "hi": "प्रकाश का विवर्तन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Diamond has a very high refractive index (2.42) and a low critical angle (24.4°), causing multiple Total Internal Reflections of trapped light rays.",
+        "hi": "हीरे का क्रांतिक कोण बहुत कम (24.4°) होता है, जिससे प्रकाश की किरणें बार-बार पूर्ण आंतरिक परावर्तित होकर चमक पैदा करती हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00175",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where is the headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) located?",
+        "hi": "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक तथा सांस्कृतिक संगठन (यूनेस्को - UNESCO) का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Paris, France",
+          "hi": "पेरिस, फ्रांस (Paris)"
+        },
+        {
+          "en": "Geneva, Switzerland",
+          "hi": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+          "en": "New York, USA",
+          "hi": "न्यूयॉर्क, यूएसए"
+        },
+        {
+          "en": "London, UK",
+          "hi": "लंदन, यूके"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "UNESCO (founded 16 November 1945) is headquartered at Place de Fontenoy in Paris, France.",
+        "hi": "यूनेस्को (UNESCO) का मुख्यालय पेरिस (फ्रांस) में स्थित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00176",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "Which Greek ambassador visited the court of Chandragupta Maurya and wrote the historical book 'Indica'?",
+        "hi": "चंद्रगुप्त मौर्य के दरबार में कौन सा यूनानी राजदूत आया था जिसने ऐतिहासिक पुस्तक 'इंडिका' लिखी थी?"
+      },
+      "options": [
+        {
+          "en": "Megasthenes",
+          "hi": "मेगास्थनीज (Megasthenes)"
+        },
+        {
+          "en": "Deimachus",
+          "hi": "डायमेकस"
+        },
+        {
+          "en": "Dionysius",
+          "hi": "डायोनिसियस"
+        },
+        {
+          "en": "Fa-Hien",
+          "hi": "फाहियान"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Megasthenes was sent by Seleucus I Nicator as an ambassador to Chandragupta Maurya's capital at Pataliputra, where he authored 'Indica'.",
+        "hi": "सेल्यूकस निकेटर के राजदूत मेगास्थनीज ने पाटलिपुत्र में मौर्य प्रशासन पर 'इंडिका' पुस्तक लिखी थी।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00177",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "The concept of 'Single Citizenship' in the Indian Constitution was adopted from the constitution of:",
+        "hi": "भारतीय संविधान में 'एकल नागरिकता' (Single Citizenship) की अवधारणा किस देश के संविधान से ली गई है?"
+      },
+      "options": [
+        {
+          "en": "United Kingdom (Britain)",
+          "hi": "यूनाइटेड किंगडम (ब्रिटेन)"
+        },
+        {
+          "en": "USA (Dual citizenship)",
+          "hi": "अमेरिका (दोहरी नागरिकता)"
+        },
+        {
+          "en": "Canada",
+          "hi": "कनाडा"
+        },
+        {
+          "en": "Australia",
+          "hi": "ऑस्ट्रेलिया"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Single citizenship, parliamentary form of government, and rule of law were adopted from the British Constitution. (USA has dual citizenship).",
+        "hi": "भारत में एकल नागरिकता तथा संसदीय शासन प्रणाली ब्रिटेन के संविधान से ग्रहण की गई है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00178",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the highest peak of the Aravalli mountain range in Rajasthan?",
+        "hi": "राजस्थान में अरावली पर्वत श्रृंखला की सबसे ऊँची चोटी कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Guru Shikhar (1,722 m, Mount Abu)",
+          "hi": "गुरु शिखर (1,722 मीटर, माउंट आबू)"
+        },
+        {
+          "en": "Dhupgarh (Satpura)",
+          "hi": "धूपगढ़ (सतपुड़ा की सर्वोच्च चोटी)"
+        },
+        {
+          "en": "Dodabetta (Nilgiris)",
+          "hi": "दोड्डाबेट्टा (नीलगिरि)"
+        },
+        {
+          "en": "Kalsubai",
+          "hi": "कलसुबाई"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Guru Shikhar (1,722 m) on Mount Abu in Sirohi district of Rajasthan is the highest point of the ancient Aravalli Range.",
+        "hi": "अरावली पर्वतमाला की सर्वोच्च चोटी माउंट आबू (सिरोही) में स्थित गुरु शिखर (1,722 मीटर) है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00179",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which gas is released when dilute hydrochloric acid reacts with zinc metal?",
+        "hi": "तनु हाइड्रोक्लोरिक अम्ल की जस्ता (जिंक) धातु से अभिक्रिया होने पर कौन सी गैस निकलती है?"
+      },
+      "options": [
+        {
+          "en": "Hydrogen gas (H₂)",
+          "hi": "हाइड्रोजन गैस (H₂)"
+        },
+        {
+          "en": "Oxygen gas (O₂)",
+          "hi": "ऑक्सीजन गैस"
+        },
+        {
+          "en": "Chlorine gas (Cl₂)",
+          "hi": "क्लोरीन गैस"
+        },
+        {
+          "en": "Carbon dioxide (CO₂)",
+          "hi": "कार्बन डाइऑक्साइड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Zn + 2HCl → ZnCl₂ + H₂↑ (Hydrogen gas burns with a characteristic pop sound).",
+        "hi": "Zn + 2HCl → ZnCl₂ + H₂↑ (हाइड्रोजन गैस निकलती है जो पॉप ध्वनि के साथ जलती है)।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00180",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Kuchipudi, one of the eight major Indian classical dance forms, originated in which state?",
+        "hi": "भारत के 8 शास्त्रीय नृत्यों में से एक 'कुचिपुड़ी' (Kuchipudi) की उत्पत्ति किस राज्य में हुई?"
+      },
+      "options": [
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Kuchipudi originated in the Kuchipudi village of Krishna district in Andhra Pradesh.",
+        "hi": "कुचिपुड़ी शास्त्रीय नृत्य आंध्र प्रदेश के कृष्णा जिले के कुचिपुड़ी गाँव से उत्पन्न हुआ है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00181",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who gave the title of 'Mahatma' to Mohandas Karamchand Gandhi in 1915?",
+        "hi": "1915 में मोहनदास करमचंद गांधी को 'महात्मा' की उपाधि किसने दी थी?"
+      },
+      "options": [
+        {
+          "en": "Rabindranath Tagore",
+          "hi": "रवींद्रनाथ टैगोर"
+        },
+        {
+          "en": "Gopal Krishna Gokhale",
+          "hi": "गोपाल कृष्ण गोखले"
+        },
+        {
+          "en": "Subhas Chandra Bose (gave 'Father of the Nation')",
+          "hi": "सुभाष चंद्र बोस (राष्ट्रपिता की उपाधि)"
+        },
+        {
+          "en": "Bal Gangadhar Tilak",
+          "hi": "बाल गंगाधर तिलक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rabindranath Tagore bestowed the title 'Mahatma' upon Gandhiji in 1915. In return, Gandhiji called Tagore 'Gurudev'.",
+        "hi": "रवींद्रनाथ टैगोर ने गांधीजी को 'महात्मा' की उपाधि दी थी तथा गांधीजी ने टैगोर को 'गुरुदेव' कहा था।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00182",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under which Article of the Constitution can a High Court issue writs for the enforcement of Fundamental Rights and other legal rights?",
+        "hi": "संविधान के किस अनुच्छेद के तहत उच्च न्यायालय (High Court) मौलिक अधिकारों एवं अन्य कानूनी अधिकारों के प्रवर्तन हेतु रिट जारी कर सकता है?"
+      },
+      "options": [
+        {
+          "en": "Article 226",
+          "hi": "अनुच्छेद 226"
+        },
+        {
+          "en": "Article 32 (Supreme Court)",
+          "hi": "अनुच्छेद 32 (सर्वोच्च न्यायालय)"
+        },
+        {
+          "en": "Article 136",
+          "hi": "अनुच्छेद 136"
+        },
+        {
+          "en": "Article 143",
+          "hi": "अनुच्छेद 143"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 226 empowers High Courts to issue writs (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari) for Fundamental Rights and ordinary legal rights (wider than Article 32).",
+        "hi": "अनुच्छेद 226 के तहत उच्च न्यायालय रिट जारी कर सकता है, जबकि अनुच्छेद 32 के तहत सर्वोच्च न्यायालय रिट जारी करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00183",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which component of blood is responsible for blood clotting (coagulation) at the site of injury?",
+        "hi": "चोट लगने पर रक्त का थक्का (Clotting) जमाने के लिए रक्त का कौन सा घटक उत्तरदायी होता है?"
+      },
+      "options": [
+        {
+          "en": "Platelets (Thrombocytes)",
+          "hi": "प्लेटलेट्स / बिम्बाणु (Thrombocytes)"
+        },
+        {
+          "en": "Red Blood Cells (Erythrocytes)",
+          "hi": "लाल रक्त कणिकाएं (RBC)"
+        },
+        {
+          "en": "White Blood Cells (Leukocytes)",
+          "hi": "श्वेत रक्त कणिकाएं (WBC)"
+        },
+        {
+          "en": "Blood Plasma",
+          "hi": "रक्त प्लाज्मा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Platelets (thrombocytes) along with fibrinogen and Vitamin K facilitate blood clot formation to prevent excessive bleeding.",
+        "hi": "प्लेटलेट्स (बिम्बाणु) फाइब्रिनोजेन और विटामिन K के साथ मिलकर रक्त का थक्का जमाते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00184",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "The famous Nathu La Pass connecting India (Sikkim) with China (Tibet Autonomous Region) is situated in which state?",
+        "hi": "भारत (सिक्किम) को चीन (तिब्बत) से जोड़ने वाला प्रसिद्ध नाथू ला दर्रा किस राज्य में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Sikkim",
+          "hi": "सिक्किम"
+        },
+        {
+          "en": "Arunachal Pradesh",
+          "hi": "अरुणाचल प्रदेश"
+        },
+        {
+          "en": "Himachal Pradesh",
+          "hi": "हिमाचल प्रदेश"
+        },
+        {
+          "en": "Uttarakhand",
+          "hi": "उत्तराखंड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Nathu La is a Himalayan mountain pass in East Sikkim district, historically part of the ancient Silk Road.",
+        "hi": "नाथू ला दर्रा सिक्किम में स्थित है जो भारत और तिब्बत (चीन) के बीच व्यापारिक मार्ग है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00185",
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "The 'Lorenz Curve' is an economic graphical representation used to measure:",
+        "hi": "अर्थशास्त्र में 'लॉरेंज वक्र' (Lorenz Curve) का उपयोग किसे मापने के लिए किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Income and wealth inequality (Gini Coefficient)",
+          "hi": "आय और धन की असमानता (गिनी गुणांक)"
+        },
+        {
+          "en": "Inflation and unemployment relationship (Phillips curve)",
+          "hi": "मुद्रास्फीति और बेरोजगारी (फिलिप्स वक्र)"
+        },
+        {
+          "en": "Tax rates and tax revenue (Laffer curve)",
+          "hi": "कर दर और कर राजस्व (लाफर वक्र)"
+        },
+        {
+          "en": "Demand and supply elasticity",
+          "hi": "मांग और आपूर्ति की लोच"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Lorenz curve represents cumulative distribution of wealth or income. The area between the Lorenz curve and line of perfect equality gives the Gini Coefficient.",
+        "hi": "लॉरेंज वक्र आय या धन के वितरण में असमानता को दर्शाता है (जिससे गिनी गुणांक निकाला जाता है)।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00186",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "In which battle in 1576 did the Mughal forces under Man Singh I defeat Maharana Pratap of Mewar?",
+        "hi": "1576 में किस प्रसिद्ध युद्ध में मानसिंह प्रथम के नेतृत्व वाली मुगल सेना ने मेवाड़ के महाराणा प्रताप को पराजित किया था?"
+      },
+      "options": [
+        {
+          "en": "Battle of Haldighati (18 June 1576)",
+          "hi": "हल्दीघाटी का युद्ध (18 जून 1576)"
+        },
+        {
+          "en": "Battle of Khanwa (1527)",
+          "hi": "खानवा का युद्ध"
+        },
+        {
+          "en": "Battle of Chausa (1539)",
+          "hi": "चौसा का युद्ध"
+        },
+        {
+          "en": "Second Battle of Panipat (1556)",
+          "hi": "पानीपत का दूसरा युद्ध"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Battle of Haldighati was fought on 18 June 1576 between Maharana Pratap of Mewar and the Mughal army led by Raja Man Singh of Amber.",
+        "hi": "18 जून 1576 को हल्दीघाटी का ऐतिहासिक युद्ध महाराणा प्रताप और अकबर की सेना (सेनापति मानसिंह) के बीच लड़ा गया था।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00187",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Which mirror is used as a rear-view mirror in automobiles to provide a wider field of view?",
+        "hi": "वाहनों में पीछे का दृश्य देखने (Rear-view) के लिए किस दर्पण का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Convex Mirror (always forms virtual, erect, diminished images)",
+          "hi": "उत्तल दर्पण (Convex Mirror - आभासी, सीधा और छोटा प्रतिबिंब)"
+        },
+        {
+          "en": "Concave Mirror (used in headlights/dentists)",
+          "hi": "अवतल दर्पण"
+        },
+        {
+          "en": "Plane Mirror",
+          "hi": "समतल दर्पण"
+        },
+        {
+          "en": "Cylindrical Mirror",
+          "hi": "बेलनाकार दर्पण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Convex mirrors always form erect, diminished virtual images and bulge outwards, giving drivers a much wider field of view.",
+        "hi": "उत्तल दर्पण हमेशा सीधा और छोटा प्रतिबिंब बनाता है तथा इसका दृष्टि क्षेत्र बहुत व्यापक होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00188",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "The 73rd Constitutional Amendment Act, 1992 introduced which Part and Schedule into the Indian Constitution regarding Panchayati Raj?",
+        "hi": "73वें संविधान संशोधन अधिनियम, 1992 द्वारा पंचायती राज व्यवस्था हेतु भारतीय संविधान में कौन सा भाग और अनुसूची जोड़ी गई?"
+      },
+      "options": [
+        {
+          "en": "Part IX and Eleventh Schedule",
+          "hi": "भाग IX और 11वीं अनुसूची (29 विषय)"
+        },
+        {
+          "en": "Part IX-A and Twelfth Schedule (74th Amendment - Municipalities)",
+          "hi": "भाग IX-A और 12वीं अनुसूची (नगरपालिका)"
+        },
+        {
+          "en": "Part IV and Tenth Schedule",
+          "hi": "भाग IV और 10वीं अनुसूची"
+        },
+        {
+          "en": "Part X and Eighth Schedule",
+          "hi": "भाग X और 8वीं अनुसूची"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 73rd Amendment, 1992 added Part IX (Articles 243 to 243O) and the 11th Schedule containing 29 functional items for Panchayats.",
+        "hi": "73वें संशोधन द्वारा भाग IX और 11वीं अनुसूची जोड़ी गई जिसमें पंचायतों के लिए 29 कार्यक्षेत्र निर्धारित हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00189",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the commercial name of solid carbon dioxide (CO₂)?",
+        "hi": "ठोस कार्बन डाइऑक्साइड (Solid CO₂) का व्यावसायिक नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Dry Ice",
+          "hi": "शुष्क बर्फ (Dry Ice)"
+        },
+        {
+          "en": "Heavy Water (D₂O)",
+          "hi": "भारी जल"
+        },
+        {
+          "en": "Quick Lime",
+          "hi": "बिना बुझा चूना"
+        },
+        {
+          "en": "Slaked Lime",
+          "hi": "बुझा हुआ चूना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Solid CO₂ is called Dry Ice because it sublimes directly into gas at −78.5°C without melting into a liquid at standard atmospheric pressure.",
+        "hi": "ठोस CO₂ को शुष्क बर्फ कहते हैं क्योंकि यह बिना द्रव में बदले सीधे गैस में ऊर्ध्वपातित (Sublime) हो जाती है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00190",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Lavani and Koli are traditional folk dance forms of which Indian state?",
+        "hi": "लावणी और कोली किस भारतीय राज्य के पारंपरिक लोक नृत्य हैं?"
+      },
+      "options": [
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        },
+        {
+          "en": "Gujarat (Garba / Dandiya)",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Goa",
+          "hi": "गोवा"
+        },
+        {
+          "en": "Rajasthan (Ghoomar)",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Lavani is a popular traditional folk song and dance of Maharashtra performed to the beats of the Dholki.",
+        "hi": "लावणी और कोली महाराष्ट्र के अत्यंत लोकप्रिय लोक नृत्य हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00191",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which biosphere reserve located in Tamil Nadu was the first biosphere reserve established in India in 1986?",
+        "hi": "1986 में स्थापित भारत का प्रथम जैवमंडल आरक्षित क्षेत्र (Biosphere Reserve) कौन सा था?"
+      },
+      "options": [
+        {
+          "en": "Nilgiri Biosphere Reserve",
+          "hi": "नीलगिरि जैवमंडल आरक्षित क्षेत्र (1986)"
+        },
+        {
+          "en": "Gulf of Mannar",
+          "hi": "मन्नार की खाड़ी"
+        },
+        {
+          "en": "Sundarbans",
+          "hi": "सुंदरवन"
+        },
+        {
+          "en": "Nanda Devi",
+          "hi": "नंदा देवी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Nilgiri Biosphere Reserve (spanning Tamil Nadu, Kerala, and Karnataka) was the first Biosphere Reserve set up in India in 1986.",
+        "hi": "नीलगिरि (तमिलनाडु, केरल, कर्नाटक) भारत का पहला बायोस्फीयर रिजर्व था जिसकी स्थापना 1986 में हुई थी।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00192",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The Ajanta Caves in Aurangabad (Chhatrapati Sambhajinagar), Maharashtra depict murals and sculptures related to:",
+        "hi": "महाराष्ट्र के औरंगाबाद (छत्रपति संभाजीनगर) में स्थित अजंता की गुफाएं मुख्य रूप से किससे संबंधित हैं?"
+      },
+      "options": [
+        {
+          "en": "Jataka tales and life of Lord Buddha",
+          "hi": "जातक कथाएं एवं भगवान बुद्ध का जीवन"
+        },
+        {
+          "en": "Jain Tirthankaras",
+          "hi": "जैन तीर्थंकर"
+        },
+        {
+          "en": "Shaivism only",
+          "hi": "केवल शैव मत"
+        },
+        {
+          "en": "Vedic rituals",
+          "hi": "वैदिक अनुष्ठान"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 30 rock-cut Buddhist cave monuments at Ajanta (dated from 2nd century BCE to 480 CE) are renowned for masterpieces of Buddhist religious art and Jataka tales.",
+        "hi": "अजंता की गुफाएं बौद्ध धर्म और भगवान बुद्ध के पूर्व जन्मों (जातक कथाओं) के भित्ति चित्रों के लिए प्रसिद्ध हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00193",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which vector mosquito transmits Dengue fever, Chikungunya, and Zika virus?",
+        "hi": "डेंगू बुखार, चिकनगुनिया और जीका वायरस का संचरण किस मच्छर द्वारा होता है?"
+      },
+      "options": [
+        {
+          "en": "Aedes aegypti (day-biting mosquito)",
+          "hi": "मादा एडीज एजिप्टी (Aedes aegypti)"
+        },
+        {
+          "en": "Female Anopheles (transmits Malaria)",
+          "hi": "मादा एनाफिलीज (मलेरिया वाहक)"
+        },
+        {
+          "en": "Culex mosquito (transmits Filaria)",
+          "hi": "क्यूलेक्स (फाइलेरिया वाहक)"
+        },
+        {
+          "en": "Mansonia",
+          "hi": "मैनसोनिया"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Aedes aegypti transmits Dengue and Chikungunya viruses. Female Anopheles transmits Plasmodium (Malaria parasite).",
+        "hi": "एडीज एजिप्टी मच्छर डेंगू तथा चिकनगुनिया वायरस का वाहक है, जबकि मादा एनाफिलीज मलेरिया की वाहक है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00194",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "What is the maximum strength of the Lok Sabha as per the Constitution of India?",
+        "hi": "भारतीय संविधान के अनुसार लोकसभा की अधिकतम सदस्य संख्या कितनी हो सकती है?"
+      },
+      "options": [
+        {
+          "en": "550 (530 from States + 20 from UTs)",
+          "hi": "550 (530 राज्यों से + 20 केंद्र शासित प्रदेशों से)"
+        },
+        {
+          "en": "552 (before 104th Amendment abolished 2 Anglo-Indians)",
+          "hi": "552 (104वें संशोधन से पूर्व)"
+        },
+        {
+          "en": "545",
+          "hi": "545"
+        },
+        {
+          "en": "250 (Rajya Sabha max)",
+          "hi": "250 (राज्यसभा अधिकतम)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Following the 104th Constitutional Amendment Act, 2019 which abolished Anglo-Indian nominations, the maximum constitutional strength of Lok Sabha is 550 (530 States + 20 UTs).",
+        "hi": "104वें संशोधन द्वारा 2 एंग्लो-इंडियन नामांकन समाप्त होने के बाद लोकसभा की अधिकतम सदस्य संख्या 550 है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00195",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who established the 'Ramakrishna Mission' at Belur Math near Kolkata in 1897?",
+        "hi": "1897 में कोलकाता के निकट बेलूर मठ में 'रामकृष्ण मिशन' की स्थापना किसने की थी?"
+      },
+      "options": [
+        {
+          "en": "Swami Vivekananda",
+          "hi": "स्वामी विवेकानंद"
+        },
+        {
+          "en": "Ramakrishna Paramahamsa",
+          "hi": "रामकृष्ण परमहंस"
+        },
+        {
+          "en": "Swami Dayanand Saraswati",
+          "hi": "स्वामी दयानंद सरस्वती"
+        },
+        {
+          "en": "Keshab Chandra Sen",
+          "hi": "केशव चंद्र सेन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Swami Vivekananda founded the Ramakrishna Mission on 1 May 1897 in memory of his spiritual guru, Sri Ramakrishna Paramahamsa.",
+        "hi": "स्वामी विवेकानंद ने अपने गुरु रामकृष्ण परमहंस की स्मृति में 1 मई 1897 को रामकृष्ण मिशन की स्थापना की।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00196",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Which law states that 'at constant temperature, the electric current flowing through a conductor is directly proportional to the potential difference across its ends'?",
+        "hi": "किस नियम के अनुसार 'नियत ताप पर किसी चालक से प्रवाहित विद्युत धारा उसके सिरों के विभवांतर के समानुपाती होती है'?"
+      },
+      "options": [
+        {
+          "en": "Ohm's Law (V = IR)",
+          "hi": "ओम का नियम (V = IR)"
+        },
+        {
+          "en": "Joule's Law of Heating",
+          "hi": "जूल का तापन नियम"
+        },
+        {
+          "en": "Faraday's Law of Induction",
+          "hi": "फैराडे का प्रेरण नियम"
+        },
+        {
+          "en": "Ampere's Circuital Law",
+          "hi": "एम्पीयर का नियम"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Ohm's Law states V ∝ I (or V = IR), formulated by German physicist Georg Simon Ohm in 1827.",
+        "hi": "ओम के नियम के अनुसार V = IR होता है जहाँ R चालक का प्रतिरोध है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00197",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "The famous hill station 'Ooty' (Udhagamandalam) is situated in which mountain range in Tamil Nadu?",
+        "hi": "प्रसिद्ध पर्वतीय स्थल 'ऊटी' (उधगमंडलम) तमिलनाडु की किस पर्वत श्रृंखला में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Nilgiri Hills (Blue Mountains)",
+          "hi": "नीलगिरि पर्वत (Nilgiri Hills)"
+        },
+        {
+          "en": "Cardamom Hills",
+          "hi": "इलायची की पहाड़ियाँ (कार्डमम)"
+        },
+        {
+          "en": "Anamalai Hills",
+          "hi": "अन्नामलाई पहाड़ियाँ"
+        },
+        {
+          "en": "Palani Hills",
+          "hi": "पलानी पहाड़ियाँ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Ooty (Udhagamandalam) is located in the Nilgiri Hills of Tamil Nadu at an altitude of 2,240 metres.",
+        "hi": "ऊटी तमिलनाडु की नीलगिरि पहाड़ियों (Blue Mountains) में स्थित प्रसिद्ध हिल स्टेशन है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00198",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Who presided as the Temporary President of the Constituent Assembly during its inaugural meeting on 9 December 1946?",
+        "hi": "9 दिसंबर 1946 को संविधान सभा की प्रथम बैठक में अस्थायी अध्यक्ष के रूप में किसने अध्यक्षता की थी?"
+      },
+      "options": [
+        {
+          "en": "Dr. Sachchidananda Sinha (senior-most member)",
+          "hi": "डॉ. सच्चिदानंद सिन्हा (वरिष्ठतम सदस्य)"
+        },
+        {
+          "en": "Dr. Rajendra Prasad (elected Permanent President on 11 Dec 1946)",
+          "hi": "डॉ. राजेंद्र प्रसाद (11 दिसंबर को निर्वाचित स्थायी अध्यक्ष)"
+        },
+        {
+          "en": "Dr. B.R. Ambedkar",
+          "hi": "डॉ. बी.आर. अंबेडकर"
+        },
+        {
+          "en": "H.C. Mukherjee (Vice-President)",
+          "hi": "एच.सी. मुखर्जी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Following French practice, the oldest member Dr. Sachchidananda Sinha was elected temporary President on 9 Dec 1946. On 11 Dec 1946, Dr. Rajendra Prasad was elected permanent President.",
+        "hi": "9 दिसंबर 1946 को वरिष्ठतम सदस्य डॉ. सच्चिदानंद सिन्हा अस्थायी अध्यक्ष बने तथा 11 दिसंबर को डॉ. राजेंद्र प्रसाद स्थायी अध्यक्ष निर्वाचित हुए।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00199",
+      "topic": "economy",
+      "subTopic": "budget_taxation",
+      "question": {
+        "en": "In the Union Budget of India, the Economic Survey is presented in Parliament by the Finance Minister:",
+        "hi": "भारत के केंद्रीय बजट में 'आर्थिक सर्वेक्षण' (Economic Survey) संसद में कब प्रस्तुत किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "One day before the Union Budget presentation",
+          "hi": "केंद्रीय बजट प्रस्तुति से एक दिन पहले"
+        },
+        {
+          "en": "On the same day along with Budget speech",
+          "hi": "बजट के साथ उसी दिन"
+        },
+        {
+          "en": "At the conclusion of Financial Year on 31st March",
+          "hi": "31 मार्च को"
+        },
+        {
+          "en": "During the Monsoon Session of Parliament",
+          "hi": "मानसून सत्र में"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Economic Survey, prepared by the Chief Economic Adviser (CEA), reviews the economic performance of the past year and is traditionally tabled one day before the Budget.",
+        "hi": "आर्थिक सर्वेक्षण मुख्य आर्थिक सलाहकार (CEA) के मार्गदर्शन में तैयार किया जाता है और बजट से एक दिन पूर्व पेश किया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00200",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which allotrope of carbon is an excellent conductor of electricity due to free delocalized electrons?",
+        "hi": "मुक्त इलेक्ट्रॉनों की उपस्थिति के कारण कार्बन का कौन सा अपररूप विद्युत का सुचालक होता है?"
+      },
+      "options": [
+        {
+          "en": "Graphite (hexagonal layered planar structure)",
+          "hi": "ग्रेफाइट (Graphite - षट्कोणीय परतदार संरचना)"
+        },
+        {
+          "en": "Diamond (tetrahedral, non-conductor)",
+          "hi": "हीरा (विद्युत का कुचालक)"
+        },
+        {
+          "en": "Coal",
+          "hi": "कोयला"
+        },
+        {
+          "en": "Coke",
+          "hi": "कोक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In graphite, each carbon atom is bonded to three others in planar hexagonal sheets, leaving one free valence electron per carbon atom to conduct electricity.",
+        "hi": "ग्रेफाइट में प्रत्येक कार्बन तीन अन्य कार्बनों से जुड़ा होता है तथा चौथा इलेक्ट्रॉन मुक्त होकर विद्युत चालन करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
     }
   ]
 }

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "1.0.0",
+  "mockId": "t1_mock_003",
+  "tier": "tier1",
+  "title": {
+    "en": "SSC CGL Tier 1 — Full Mock Test 3",
+    "hi": "एसएससी सीजीएल टियर 1 — फुल मॉक टेस्ट 3"
+  },
+  "durationMinutes": 60,
+  "sectionalTiming": false,
+  "isDemo": false,
+  "instructions": {
+    "en": "Official Tier 1 Pattern: 100 Questions (25 Reasoning, 25 General Awareness, 25 Quantitative Aptitude, 25 English Comprehension). Duration: 60 minutes. Marking Scheme: +2 for each correct answer, -0.50 negative marking for each incorrect answer, 0 for unattempted questions.",
+    "hi": "आधिकारिक टियर 1 पैटर्न: 100 प्रश्न (25 रीज़निंग, 25 सामान्य जागरूकता, 25 गणित, 25 अंग्रेजी)। अवधि: 60 मिनट। अंकन योजना: प्रत्येक सही उत्तर पर +2, प्रत्येक गलत उत्तर पर -0.50 नकारात्मक अंकन, अनुत्तरित पर 0।"
+  },
+  "sections": [
+    {
+      "subject": "reasoning",
+      "title": {
+        "en": "General Intelligence & Reasoning",
+        "hi": "सामान्य बुद्धि एवं तर्कशक्ति"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_reasoning_00151",
+        "q_t1_reasoning_00152",
+        "q_t1_reasoning_00153",
+        "q_t1_reasoning_00154",
+        "q_t1_reasoning_00155",
+        "q_t1_reasoning_00156",
+        "q_t1_reasoning_00157",
+        "q_t1_reasoning_00158",
+        "q_t1_reasoning_00159",
+        "q_t1_reasoning_00160",
+        "q_t1_reasoning_00161",
+        "q_t1_reasoning_00162",
+        "q_t1_reasoning_00163",
+        "q_t1_reasoning_00164",
+        "q_t1_reasoning_00165",
+        "q_t1_reasoning_00166",
+        "q_t1_reasoning_00167",
+        "q_t1_reasoning_00168",
+        "q_t1_reasoning_00169",
+        "q_t1_reasoning_00170",
+        "q_t1_reasoning_00171",
+        "q_t1_reasoning_00172",
+        "q_t1_reasoning_00173",
+        "q_t1_reasoning_00174",
+        "q_t1_reasoning_00175"
+      ]
+    },
+    {
+      "subject": "gk",
+      "title": {
+        "en": "General Awareness",
+        "hi": "सामान्य जागरूकता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_gk_00151",
+        "q_t1_gk_00152",
+        "q_t1_gk_00153",
+        "q_t1_gk_00154",
+        "q_t1_gk_00155",
+        "q_t1_gk_00156",
+        "q_t1_gk_00157",
+        "q_t1_gk_00158",
+        "q_t1_gk_00159",
+        "q_t1_gk_00160",
+        "q_t1_gk_00161",
+        "q_t1_gk_00162",
+        "q_t1_gk_00163",
+        "q_t1_gk_00164",
+        "q_t1_gk_00165",
+        "q_t1_gk_00166",
+        "q_t1_gk_00167",
+        "q_t1_gk_00168",
+        "q_t1_gk_00169",
+        "q_t1_gk_00170",
+        "q_t1_gk_00171",
+        "q_t1_gk_00172",
+        "q_t1_gk_00173",
+        "q_t1_gk_00174",
+        "q_t1_gk_00175"
+      ]
+    },
+    {
+      "subject": "quant",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "मात्रात्मक अभियोग्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_quant_00151",
+        "q_t1_quant_00152",
+        "q_t1_quant_00153",
+        "q_t1_quant_00154",
+        "q_t1_quant_00155",
+        "q_t1_quant_00156",
+        "q_t1_quant_00157",
+        "q_t1_quant_00158",
+        "q_t1_quant_00159",
+        "q_t1_quant_00160",
+        "q_t1_quant_00161",
+        "q_t1_quant_00162",
+        "q_t1_quant_00163",
+        "q_t1_quant_00164",
+        "q_t1_quant_00165",
+        "q_t1_quant_00166",
+        "q_t1_quant_00167",
+        "q_t1_quant_00168",
+        "q_t1_quant_00169",
+        "q_t1_quant_00170",
+        "q_t1_quant_00171",
+        "q_t1_quant_00172",
+        "q_t1_quant_00173",
+        "q_t1_quant_00174",
+        "q_t1_quant_00175"
+      ]
+    },
+    {
+      "subject": "english",
+      "title": {
+        "en": "English Comprehension",
+        "hi": "अंग्रेजी समझ"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_english_00151",
+        "q_t1_english_00152",
+        "q_t1_english_00153",
+        "q_t1_english_00154",
+        "q_t1_english_00155",
+        "q_t1_english_00156",
+        "q_t1_english_00157",
+        "q_t1_english_00158",
+        "q_t1_english_00159",
+        "q_t1_english_00160",
+        "q_t1_english_00161",
+        "q_t1_english_00162",
+        "q_t1_english_00163",
+        "q_t1_english_00164",
+        "q_t1_english_00165",
+        "q_t1_english_00166",
+        "q_t1_english_00167",
+        "q_t1_english_00168",
+        "q_t1_english_00169",
+        "q_t1_english_00170",
+        "q_t1_english_00171",
+        "q_t1_english_00172",
+        "q_t1_english_00173",
+        "q_t1_english_00174",
+        "q_t1_english_00175"
+      ]
+    }
+  ]
+}

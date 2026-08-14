@@ -5499,6 +5499,1883 @@
       "tags": [
         "frequently_asked"
       ]
+    },
+    {
+      "id": "q_t1_english_00151",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Select the segment that contains a grammatical error:\nHe is one of those writers (A) / who has won (B) / international acclaim for their novels. (C) / No error (D)",
+        "hi": "उस भाग का चयन कीजिए जिसमें व्याकरण संबंधी त्रुटि है:\nHe is one of those writers (A) / who has won (B) / international acclaim for their novels. (C) / No error (D)"
+      },
+      "options": [
+        {
+          "en": "who has won (B)",
+          "hi": "who has won (B)"
+        },
+        {
+          "en": "He is one of those writers (A)",
+          "hi": "He is one of those writers (A)"
+        },
+        {
+          "en": "international acclaim for their novels (C)",
+          "hi": "international acclaim for their novels (C)"
+        },
+        {
+          "en": "No error (D)",
+          "hi": "No error (D)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When a relative pronoun ('who/which/that') follows 'one of those + plural noun', the verb agrees with the plural antecedent ('writers'). It must be 'who have won', not 'who has won'.",
+        "hi": "'One of those + plural noun + who' के बाद क्रिया बहुवचन (have won) आती है क्योंकि Antecedent 'writers' बहुवचन है।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_english_00152",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the most appropriate meaning of:\n'To burn one's bridges/boats'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'To burn one's bridges/boats'"
+      },
+      "options": [
+        {
+          "en": "To destroy all possibility of returning to a previous situation",
+          "hi": "पीछे लौटने या पुरानी स्थिति में जाने के सभी रास्ते बंद कर लेना"
+        },
+        {
+          "en": "To build a boat over a river",
+          "hi": "नदी पर नाव बनाना"
+        },
+        {
+          "en": "To celebrate a military victory",
+          "hi": "विजय का जश्न मनाना"
+        },
+        {
+          "en": "To cause accidental fire on water",
+          "hi": "पानी पर आग लगाना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To burn one's bridges' means to take an action that is impossible to reverse, cutting off any possibility of retreat.",
+        "hi": "'Burn one's bridges' का अर्थ पीछे हटने के सभी रास्ते समाप्त कर देना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00153",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'A person who talks in sleep'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'A person who talks in sleep'"
+      },
+      "options": [
+        {
+          "en": "Somniloquist",
+          "hi": "नींद में बोलने वाला (Somniloquist)"
+        },
+        {
+          "en": "Somnambulist",
+          "hi": "नींद में चलने वाला (Somnambulist)"
+        },
+        {
+          "en": "Ventriloquist",
+          "hi": "अप्रत्यक्ष स्वर वक्ता (Ventriloquist)"
+        },
+        {
+          "en": "Polyglot",
+          "hi": "बहुभाषी (Polyglot)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Somniloquist' (somna = sleep + loqui = speak) is one who talks in sleep. 'Somnambulist' walks in sleep.",
+        "hi": "नींद में बड़बड़ाने या बोलने वाले व्यक्ति को 'Somniloquist' कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00154",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the most appropriate SYNONYM of:\n'ADVERSITY'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त पर्यायवाची चुनिए:\n'ADVERSITY'"
+      },
+      "options": [
+        {
+          "en": "Misfortune / Hardship",
+          "hi": "विपत्ति / दुर्भाग्य (Misfortune)"
+        },
+        {
+          "en": "Prosperity",
+          "hi": "समृद्धि (Prosperity)"
+        },
+        {
+          "en": "Affluence",
+          "hi": "संपन्नता (Affluence)"
+        },
+        {
+          "en": "Happiness",
+          "hi": "प्रसन्नता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Adversity' means a difficult or unpleasant situation (misfortune, hardship, affliction).",
+        "hi": "'Adversity' का अर्थ विपत्ति या दुर्भाग्य (Misfortune/Hardship) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00155",
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the most appropriate ANTONYM of:\n'AMIABLE'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त विलोम चुनिए:\n'AMIABLE'"
+      },
+      "options": [
+        {
+          "en": "Unfriendly / Hostile",
+          "hi": "अमित्रवत / रूखा (Unfriendly)"
+        },
+        {
+          "en": "Friendly",
+          "hi": "मित्रवत"
+        },
+        {
+          "en": "Cordial",
+          "hi": "हार्दिक"
+        },
+        {
+          "en": "Affable",
+          "hi": "मिलनसार"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Amiable' means having or displaying a friendly and pleasant manner. Its antonym is 'Unfriendly', 'Hostile', or 'Disagreeable'.",
+        "hi": "'Amiable' का अर्थ मिलनसार या सौहार्दपूर्ण होता है। इसका विलोम 'Unfriendly' (अमित्रवत) है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00156",
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct passive form:\n'They have repaired the broken bridge over the river.'",
+        "hi": "वाक्य का सही पैसिव वॉइस रूप चुनिए:\n'They have repaired the broken bridge over the river.'"
+      },
+      "options": [
+        {
+          "en": "The broken bridge over the river has been repaired by them.",
+          "hi": "The broken bridge over the river has been repaired by them."
+        },
+        {
+          "en": "The broken bridge over the river had been repaired by them.",
+          "hi": "The broken bridge over the river had been repaired by them."
+        },
+        {
+          "en": "The broken bridge over the river was repaired by them.",
+          "hi": "The broken bridge over the river was repaired by them."
+        },
+        {
+          "en": "The broken bridge over the river is repaired by them.",
+          "hi": "The broken bridge over the river is repaired by them."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Present Perfect active ('have repaired') converts to 'has been repaired' (singular subject 'The broken bridge').",
+        "hi": "Present Perfect Passive: 'has/have + been + V3' (has been repaired)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00157",
+      "topic": "narration",
+      "question": {
+        "en": "Select the correct indirect speech form:\nHe said to her, 'Are you coming to the concert tonight?'",
+        "hi": "सही अप्रत्यक्ष कथन रूप चुनिए:\nHe said to her, 'Are you coming to the concert tonight?'"
+      },
+      "options": [
+        {
+          "en": "He asked her if she was coming to the concert that night.",
+          "hi": "He asked her if she was coming to the concert that night."
+        },
+        {
+          "en": "He asked her that if she was coming to the concert tonight.",
+          "hi": "He asked her that if she was coming to the concert tonight."
+        },
+        {
+          "en": "He told her whether she is coming to the concert that night.",
+          "hi": "He told her whether she is coming to the concert that night."
+        },
+        {
+          "en": "He inquired her if you were coming to the concert that night.",
+          "hi": "He inquired her if you were coming to the concert that night."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Yes/No question: 'said to' -> 'asked', conjunction 'if/whether' (never use 'that if'), 'are you coming' -> 'she was coming', and 'tonight' -> 'that night'.",
+        "hi": "Yes/No प्रश्नवाचक वाक्यों में 'if/whether' का प्रयोग होता है तथा 'tonight' बदलकर 'that night' हो जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00158",
+      "topic": "spelling_check",
+      "question": {
+        "en": "Select the INCORRECTLY spelt word:",
+        "hi": "अशुद्ध वर्तनी वाले शब्द का चयन कीजिए:"
+      },
+      "options": [
+        {
+          "en": "Guarranty",
+          "hi": "Guarranty"
+        },
+        {
+          "en": "Guarantee",
+          "hi": "Guarantee"
+        },
+        {
+          "en": "Warranty",
+          "hi": "Warranty"
+        },
+        {
+          "en": "Bureaucracy",
+          "hi": "Bureaucracy"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The correct spelling is 'Guarantee' (G-U-A-R-A-N-T-E-E). 'Guarranty' is misspelled.",
+        "hi": "सही वर्तनी 'Guarantee' (G-U-A-R-A-N-T-E-E) है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00159",
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Select the best replacement for the underlined part:\nShe did not know the reason **why did he leave the job** so abruptly.",
+        "hi": "रेखांकित भाग के स्थान पर सही विकल्प चुनिए:\nShe did not know the reason **why did he leave the job** so abruptly."
+      },
+      "options": [
+        {
+          "en": "why he left the job",
+          "hi": "why he left the job"
+        },
+        {
+          "en": "why had he left the job",
+          "hi": "why had he left the job"
+        },
+        {
+          "en": "that why he left the job",
+          "hi": "that why he left the job"
+        },
+        {
+          "en": "No improvement",
+          "hi": "No improvement"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In indirect noun clauses, normal assertive order (Subject + Verb = 'why he left') is used instead of inverted question order ('why did he leave').",
+        "hi": "Noun clause में प्रश्नवाचक इनवर्जन नहीं होता, अतः 'why he left' सही रूप है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00160",
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the most appropriate preposition:\nHe insisted ________ paying for the entire dinner bill.",
+        "hi": "उपयुक्त Preposition चुनिए:\nHe insisted ________ paying for the entire dinner bill."
+      },
+      "options": [
+        {
+          "en": "on",
+          "hi": "on"
+        },
+        {
+          "en": "for",
+          "hi": "for"
+        },
+        {
+          "en": "to",
+          "hi": "to"
+        },
+        {
+          "en": "in",
+          "hi": "in"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The verb 'insist' takes the fixed preposition 'on' followed by a gerund ('insisted on paying').",
+        "hi": "'Insist' के साथ निश्चित Preposition 'on' का प्रयोग होता है (insist on doing something)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00161",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of:\n'To see eye to eye'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'To see eye to eye'"
+      },
+      "options": [
+        {
+          "en": "To agree fully with someone",
+          "hi": "किसी से पूर्णतः सहमत होना"
+        },
+        {
+          "en": "To stare angrily at an opponent",
+          "hi": "गुस्से से घूरना"
+        },
+        {
+          "en": "To get eye vision examined",
+          "hi": "आँख की जांच कराना"
+        },
+        {
+          "en": "To avoid looking at someone",
+          "hi": "नजरें चुराना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To see eye to eye' means to be in full agreement with someone.",
+        "hi": "'See eye to eye' का अर्थ किसी बात पर पूरी तरह एकमत या सहमत होना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00162",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'A person who compiles dictionaries'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'A person who compiles dictionaries'"
+      },
+      "options": [
+        {
+          "en": "Lexicographer",
+          "hi": "कोशकार / शब्दकोश संकलनकर्ता (Lexicographer)"
+        },
+        {
+          "en": "Calligrapher",
+          "hi": "सुलेखक (Calligrapher)"
+        },
+        {
+          "en": "Cartographer",
+          "hi": "मानचित्रकार (Cartographer)"
+        },
+        {
+          "en": "Choreographer",
+          "hi": "नृत्य निर्देशक (Choreographer)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A 'Lexicographer' compiles dictionaries. A 'Cartographer' draws maps; a 'Calligrapher' does artistic handwriting.",
+        "hi": "शब्दकोश संकलित करने वाले व्यक्ति को 'Lexicographer' कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00163",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Spot the error segment:\nThe furniture in the newly bought apartment (A) / are made of (B) / high-quality teak wood. (C) / No error (D)",
+        "hi": "त्रुटि पहचानिए:\nThe furniture in the newly bought apartment (A) / are made of (B) / high-quality teak wood. (C) / No error (D)"
+      },
+      "options": [
+        {
+          "en": "are made of (B)",
+          "hi": "are made of (B)"
+        },
+        {
+          "en": "The furniture in the newly bought apartment (A)",
+          "hi": "The furniture in the newly bought apartment (A)"
+        },
+        {
+          "en": "high-quality teak wood (C)",
+          "hi": "high-quality teak wood (C)"
+        },
+        {
+          "en": "No error (D)",
+          "hi": "No error (D)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Furniture' is an uncountable singular noun that takes a singular verb ('is made of', not 'are made of').",
+        "hi": "'Furniture' अगणनीय एकवचन संज्ञा (Uncountable noun) है, अतः इसके साथ 'is' का प्रयोग होगा।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00164",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the most appropriate SYNONYM of:\n'EXPLICIT'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त पर्यायवाची चुनिए:\n'EXPLICIT'"
+      },
+      "options": [
+        {
+          "en": "Clear / Unambiguous",
+          "hi": "सुस्पष्ट / प्रत्यक्ष (Clear)"
+        },
+        {
+          "en": "Vague",
+          "hi": "अस्पष्ट (Vague)"
+        },
+        {
+          "en": "Implicit",
+          "hi": "अंतर्निहित (Implicit)"
+        },
+        {
+          "en": "Obscure",
+          "hi": "धुंधला (Obscure)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Explicit' means stated clearly and in detail, leaving no room for confusion or doubt (clear, unambiguous).",
+        "hi": "'Explicit' का अर्थ पूर्णतः स्पष्ट और प्रत्यक्ष (Clear) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00165",
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the most appropriate ANTONYM of:\n'GULLIBLE'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त विलोम चुनिए:\n'GULLIBLE'"
+      },
+      "options": [
+        {
+          "en": "Cynical / Astute / Skeptical",
+          "hi": "संशयवादी / चतुर (Cynical/Skeptical)"
+        },
+        {
+          "en": "Credulous",
+          "hi": "भोला-भाला (Credulous)"
+        },
+        {
+          "en": "Naive",
+          "hi": "सीधा-साधा (Naive)"
+        },
+        {
+          "en": "Trusting",
+          "hi": "आसानी से विश्वास करने वाला"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Gullible' means easily persuaded to believe something; credulous. Its antonym is 'Cynical', 'Skeptical', or 'Astute'.",
+        "hi": "'Gullible' का अर्थ आसानी से धोखा खाने वाला (भोला) होता है। इसका विलोम 'Cynical/Skeptical' (संशयवादी) है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00166",
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct active voice form:\n'The national flag was hoisted by the Prime Minister at the Red Fort.'",
+        "hi": "वाक्य का सही कर्तृवाच्य (Active voice) रूप चुनिए:\n'The national flag was hoisted by the Prime Minister at the Red Fort.'"
+      },
+      "options": [
+        {
+          "en": "The Prime Minister hoisted the national flag at the Red Fort.",
+          "hi": "The Prime Minister hoisted the national flag at the Red Fort."
+        },
+        {
+          "en": "The Prime Minister has hoisted the national flag at the Red Fort.",
+          "hi": "The Prime Minister has hoisted the national flag at the Red Fort."
+        },
+        {
+          "en": "The Prime Minister was hoisting the national flag at the Red Fort.",
+          "hi": "The Prime Minister was hoisting the national flag at the Red Fort."
+        },
+        {
+          "en": "The Prime Minister had hoisted the national flag at the Red Fort.",
+          "hi": "The Prime Minister had hoisted the national flag at the Red Fort."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Simple Past passive ('was hoisted') reverts to Simple Past active ('hoisted').",
+        "hi": "'was hoisted' का एक्टिव रूप 'hoisted' होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00167",
+      "topic": "narration",
+      "question": {
+        "en": "Select the correct indirect speech form:\nThe officer said to the soldier, 'Stand at ease.'",
+        "hi": "सही अप्रत्यक्ष कथन रूप चुनिए:\nThe officer said to the soldier, 'Stand at ease.'"
+      },
+      "options": [
+        {
+          "en": "The officer commanded the soldier to stand at ease.",
+          "hi": "The officer commanded the soldier to stand at ease."
+        },
+        {
+          "en": "The officer told the soldier that stand at ease.",
+          "hi": "The officer told the soldier that stand at ease."
+        },
+        {
+          "en": "The officer requested the soldier to stand at ease.",
+          "hi": "The officer requested the soldier to stand at ease."
+        },
+        {
+          "en": "The officer asked the soldier that please stand at ease.",
+          "hi": "The officer asked the soldier that please stand at ease."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For military orders: 'said to' -> 'commanded / ordered' + object + 'to + V1 (stand at ease)'.",
+        "hi": "सैन्य आदेशों में 'commanded + to + V1' का प्रयोग होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00168",
+      "topic": "spelling_check",
+      "question": {
+        "en": "Select the CORRECTLY spelt word:",
+        "hi": "सही वर्तनी वाले शब्द का चयन कीजिए:"
+      },
+      "options": [
+        {
+          "en": "Surveillance",
+          "hi": "Surveillance"
+        },
+        {
+          "en": "Surveillence",
+          "hi": "Surveillence"
+        },
+        {
+          "en": "Survaliance",
+          "hi": "Survaliance"
+        },
+        {
+          "en": "Surveilance",
+          "hi": "Surveilance"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The correct spelling is 'Surveillance' (S-U-R-V-E-I-L-L-A-N-C-E, with 'e-i' and double 'l').",
+        "hi": "सही वर्तनी 'Surveillance' (निगरानी) है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00169",
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Select the best option to improve the underlined part:\nHe did nothing but **cried** all day long.",
+        "hi": "रेखांकित भाग के स्थान पर सही विकल्प चुनिए:\nHe did nothing but **cried** all day long."
+      },
+      "options": [
+        {
+          "en": "cry",
+          "hi": "cry"
+        },
+        {
+          "en": "to cry",
+          "hi": "to cry"
+        },
+        {
+          "en": "crying",
+          "hi": "crying"
+        },
+        {
+          "en": "No improvement",
+          "hi": "No improvement"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "After expressions like 'do/did/does nothing but', a bare infinitive (V1 without 'to') is used: 'did nothing but cry'.",
+        "hi": "'Did nothing but' के बाद Bare Infinitive (V1 - cry) का प्रयोग होता है।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00170",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'A person who renounces a religious or political belief or principle'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'A person who renounces a religious or political belief or principle'"
+      },
+      "options": [
+        {
+          "en": "Apostate",
+          "hi": "स्वधर्मत्यागी (Apostate)"
+        },
+        {
+          "en": "Apostle",
+          "hi": "प्रेरित / धर्मदूत (Apostle)"
+        },
+        {
+          "en": "Atheist",
+          "hi": "नास्तिक (Atheist)"
+        },
+        {
+          "en": "Ascetic",
+          "hi": "तपस्वी (Ascetic)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "An 'Apostate' is a person who forsakes or renounces their religion, cause, or party.",
+        "hi": "अपने धर्म या राजनीतिक विश्वास को त्यागने वाले को 'Apostate' (स्वधर्मत्यागी) कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00171",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of:\n'To cry wolf'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'To cry wolf'"
+      },
+      "options": [
+        {
+          "en": "To raise a false alarm when there is no actual danger",
+          "hi": "झूठा शोर मचाना जब कोई वास्तविक खतरा न हो"
+        },
+        {
+          "en": "To weep loudly like an animal",
+          "hi": "जानवर की तरह रोना"
+        },
+        {
+          "en": "To attack an innocent person",
+          "hi": "निर्दोष पर हमला करना"
+        },
+        {
+          "en": "To become brave during crisis",
+          "hi": "संकट में साहसी बनना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To cry wolf' means to give a false alarm so that people will not believe you when there is genuine danger.",
+        "hi": "'Cry wolf' का अर्थ झूठी चेतावनी या झूठा शोर मचाना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00172",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Find the error segment:\nTen miles are (A) / a long distance (B) / to cover on foot. (C) / No error (D)",
+        "hi": "त्रुटि पहचानिए:\nTen miles are (A) / a long distance (B) / to cover on foot. (C) / No error (D)"
+      },
+      "options": [
+        {
+          "en": "Ten miles are (A)",
+          "hi": "Ten miles are (A)"
+        },
+        {
+          "en": "a long distance (B)",
+          "hi": "a long distance (B)"
+        },
+        {
+          "en": "to cover on foot (C)",
+          "hi": "to cover on foot (C)"
+        },
+        {
+          "en": "No error (D)",
+          "hi": "No error (D)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When a plural quantity denotes a single unified amount, distance, or period of time, it takes a singular verb ('Ten miles is a long distance').",
+        "hi": "जब दूरी, समय या धनराशि को एक इकाई के रूप में व्यक्त किया जाता है तो एकवचन क्रिया 'is' का प्रयोग होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00173",
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the correct option to fill the blank:\nThe police were unable to find any ________ evidence against the suspect.",
+        "hi": "रिक्त स्थान हेतु उपयुक्त शब्द चुनिए:\nThe police were unable to find any ________ evidence against the suspect."
+      },
+      "options": [
+        {
+          "en": "concrete / tangible",
+          "hi": "ठोस / प्रत्यक्ष (concrete)"
+        },
+        {
+          "en": "abstract",
+          "hi": "अमूर्त (abstract)"
+        },
+        {
+          "en": "imaginary",
+          "hi": "काल्पनिक"
+        },
+        {
+          "en": "subtle",
+          "hi": "सूक्ष्म"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Concrete evidence' refers to solid, definite, and reliable proof.",
+        "hi": "ठोस एवं पुख्ता सबूतों के लिए 'Concrete evidence' का प्रयोग किया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00174",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'A person who loves and helps mankind unconditionally'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'A person who loves and helps mankind unconditionally'"
+      },
+      "options": [
+        {
+          "en": "Philanthropist",
+          "hi": "परोपकारी / मानव प्रेमी (Philanthropist)"
+        },
+        {
+          "en": "Misanthrope",
+          "hi": "मानव द्वेषी (Misanthrope)"
+        },
+        {
+          "en": "Misogynist",
+          "hi": "महिला द्वेषी (Misogynist)"
+        },
+        {
+          "en": "Mercenary",
+          "hi": "किराए का सैनिक / स्वार्थी (Mercenary)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A 'Philanthropist' (philo = love + anthropos = mankind) is a person who seeks to promote the welfare of others, especially by donating money to good causes.",
+        "hi": "मानव जाति के कल्याण हेतु कार्य करने वाले परोपकारी को 'Philanthropist' कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00175",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of:\n'To read between the lines'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'To read between the lines'"
+      },
+      "options": [
+        {
+          "en": "To understand the hidden or unexpressed meaning",
+          "hi": "छिपे हुए या अंतर्निहित भाव को समझना"
+        },
+        {
+          "en": "To read every alternate line of text",
+          "hi": "एक छोड़कर एक पंक्ति पढ़ना"
+        },
+        {
+          "en": "To correct spelling errors in a book",
+          "hi": "किताब में वर्तनी सुधारना"
+        },
+        {
+          "en": "To read very slowly",
+          "hi": "बहुत धीमे पढ़ना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To read between the lines' means to perceive a meaning that is not stated explicitly but is implied.",
+        "hi": "'Read between the lines' का अर्थ शब्दों के पीछे छिपे वास्तविक भाव को समझना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00176",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Find the grammatical error:\nEvery student (A) / have to submit (B) / the project by tomorrow. (C) / No error (D)",
+        "hi": "व्याकरण की दृष्टि से अशुद्ध भाग ज्ञात कीजिए:\nEvery student (A) / have to submit (B) / the project by tomorrow. (C) / No error (D)"
+      },
+      "options": [
+        {
+          "en": "have to submit (B)",
+          "hi": "have to submit (B)"
+        },
+        {
+          "en": "Every student (A)",
+          "hi": "Every student (A)"
+        },
+        {
+          "en": "the project by tomorrow (C)",
+          "hi": "the project by tomorrow (C)"
+        },
+        {
+          "en": "No error (D)",
+          "hi": "No error (D)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Every' is a distributive adjective and takes a singular noun and singular verb ('Every student has to submit').",
+        "hi": "'Every student' एकवचन है, अतः इसके साथ 'has to submit' का प्रयोग होगा।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00177",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the most appropriate meaning of:\n'A stone's throw away'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'A stone's throw away'"
+      },
+      "options": [
+        {
+          "en": "At a very short distance",
+          "hi": "बहुत थोड़ी दूरी पर / अत्यंत निकट"
+        },
+        {
+          "en": "Throwing stones in anger",
+          "hi": "पत्थर फेंकना"
+        },
+        {
+          "en": "A very remote isolated place",
+          "hi": "अति दूरस्थ स्थान"
+        },
+        {
+          "en": "A dangerous situation",
+          "hi": "खतरनाक स्थिति"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'A stone's throw' means a very short distance away.",
+        "hi": "'A stone's throw away' का अर्थ बहुत निकट (थोड़ी दूरी पर) होना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00178",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'The study of coins and medals'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'The study of coins and medals'"
+      },
+      "options": [
+        {
+          "en": "Numismatics",
+          "hi": "मुद्राशास्त्र (Numismatics)"
+        },
+        {
+          "en": "Philately",
+          "hi": "डाक टिकट संग्रह (Philately)"
+        },
+        {
+          "en": "Epigraphy",
+          "hi": "पुरालेखशास्त्र (Epigraphy)"
+        },
+        {
+          "en": "Archaeology",
+          "hi": "पुरातत्वशास्त्र (Archaeology)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Numismatics' is the study or collection of coins, tokens, and paper money. 'Philately' is stamp collecting; 'Epigraphy' is the study of inscriptions.",
+        "hi": "सिक्कों और पदकों के अध्ययन को 'Numismatics' (मुद्राशास्त्र) कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00179",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the most appropriate SYNONYM of:\n'COPIOUS'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त पर्यायवाची चुनिए:\n'COPIOUS'"
+      },
+      "options": [
+        {
+          "en": "Abundant / Plentiful",
+          "hi": "प्रचुर / अत्यधिक (Abundant)"
+        },
+        {
+          "en": "Scanty",
+          "hi": "अल्प (Scanty)"
+        },
+        {
+          "en": "Meagre",
+          "hi": "न्यून (Meagre)"
+        },
+        {
+          "en": "Scarce",
+          "hi": "दुर्लभ (Scarce)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Copious' means abundant in supply or quantity (plentiful, ample, profuse).",
+        "hi": "'Copious' का अर्थ प्रचुर मात्रा में (Abundant) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00180",
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the most appropriate ANTONYM of:\n'DESPAIR'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त विलोम चुनिए:\n'DESPAIR'"
+      },
+      "options": [
+        {
+          "en": "Hope",
+          "hi": "आशा / उम्मीद (Hope)"
+        },
+        {
+          "en": "Misery",
+          "hi": "दुख"
+        },
+        {
+          "en": "Gloom",
+          "hi": "उदासी"
+        },
+        {
+          "en": "Anguish",
+          "hi": "पीड़ा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Despair' means the complete loss or absence of hope. Its antonym is 'Hope' or 'Optimism'.",
+        "hi": "'Despair' (निराशा) का विलोम 'Hope' (आशा) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00181",
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct passive form:\n'Did you invite her to the wedding?'",
+        "hi": "वाक्य का सही पैसिव वॉइस रूप चुनिए:\n'Did you invite her to the wedding?'"
+      },
+      "options": [
+        {
+          "en": "Was she invited by you to the wedding?",
+          "hi": "Was she invited by you to the wedding?"
+        },
+        {
+          "en": "Is she invited by you to the wedding?",
+          "hi": "Is she invited by you to the wedding?"
+        },
+        {
+          "en": "Had she been invited by you to the wedding?",
+          "hi": "Had she been invited by you to the wedding?"
+        },
+        {
+          "en": "Were you invited by her to the wedding?",
+          "hi": "Were you invited by her to the wedding?"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Simple Past question passive structure: 'Was/Were + Subject + V3 (invited) + by + agent?'.",
+        "hi": "Simple Past प्रश्नवाचक का पैसिव रूप: 'Was she invited by you?'।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00182",
+      "topic": "narration",
+      "question": {
+        "en": "Select the correct indirect speech form:\nShe said, 'I cannot come to the party tomorrow.'",
+        "hi": "सही अप्रत्यक्ष कथन रूप चुनिए:\nShe said, 'I cannot come to the party tomorrow.'"
+      },
+      "options": [
+        {
+          "en": "She said that she could not come to the party the next day.",
+          "hi": "She said that she could not come to the party the next day."
+        },
+        {
+          "en": "She said that she cannot come to the party tomorrow.",
+          "hi": "She said that she cannot come to the party tomorrow."
+        },
+        {
+          "en": "She told that I could not come to the party the following day.",
+          "hi": "She told that I could not come to the party the following day."
+        },
+        {
+          "en": "She said that she could not come to the party tomorrow.",
+          "hi": "She said that she could not come to the party tomorrow."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'cannot' changes to 'could not', 'I' changes to 'she', and 'tomorrow' changes to 'the next day' or 'the following day'.",
+        "hi": "'cannot' बदलकर 'could not' तथा 'tomorrow' बदलकर 'the next day' हो जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00183",
+      "topic": "spelling_check",
+      "question": {
+        "en": "Select the INCORRECTLY spelt word:",
+        "hi": "अशुद्ध वर्तनी वाले शब्द का चयन कीजिए:"
+      },
+      "options": [
+        {
+          "en": "Definately",
+          "hi": "Definately"
+        },
+        {
+          "en": "Definitely",
+          "hi": "Definitely"
+        },
+        {
+          "en": "Definite",
+          "hi": "Definite"
+        },
+        {
+          "en": "Definition",
+          "hi": "Definition"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The correct spelling is 'Definitely' (D-E-F-I-N-I-T-E-L-Y, with 'i' instead of 'a').",
+        "hi": "सही वर्तनी 'Definitely' (D-E-F-I-N-I-T-E-L-Y) है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00184",
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Select the best option to improve the underlined part:\nHe gave me **a ten-rupees note** for buying snacks.",
+        "hi": "रेखांकित भाग का सही सुधार चुनिए:\nHe gave me **a ten-rupees note** for buying snacks."
+      },
+      "options": [
+        {
+          "en": "a ten-rupee note",
+          "hi": "a ten-rupee note"
+        },
+        {
+          "en": "ten-rupees notes",
+          "hi": "ten-rupees notes"
+        },
+        {
+          "en": "a ten-rupee notes",
+          "hi": "a ten-rupee notes"
+        },
+        {
+          "en": "No improvement",
+          "hi": "No improvement"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When a numeral and a noun form a compound modifier before a noun ('note'), the modifying noun remains singular ('a ten-rupee note', not 'ten-rupees').",
+        "hi": "विशेषण के रूप में प्रयुक्त होने पर 'ten-rupee' एकवचन में रहता है (a ten-rupee note)।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00185",
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the most appropriate option:\nThe government will soon ________ new guidelines for digital transactions.",
+        "hi": "रिक्त स्थान हेतु उपयुक्त शब्द चुनिए:\nThe government will soon ________ new guidelines for digital transactions."
+      },
+      "options": [
+        {
+          "en": "issue",
+          "hi": "जारी करना (issue)"
+        },
+        {
+          "en": "discharge",
+          "hi": "मुक्त करना"
+        },
+        {
+          "en": "dismiss",
+          "hi": "खारिज करना"
+        },
+        {
+          "en": "expel",
+          "hi": "निष्कासित करना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Official policies, orders, or guidelines are 'issued' by authorities.",
+        "hi": "दिशानिर्देश या अधिसूचनाएं जारी करने के लिए 'Issue' का प्रयोग होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00186",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of:\n'To pull someone's leg'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'To pull someone's leg'"
+      },
+      "options": [
+        {
+          "en": "To tease or fool someone playfully",
+          "hi": "हंसी-मजाक में किसी की खिंचाई करना"
+        },
+        {
+          "en": "To trip someone physically on ground",
+          "hi": "पैर खींचकर गिराना"
+        },
+        {
+          "en": "To injure someone's limb",
+          "hi": "पैर में चोट लगाना"
+        },
+        {
+          "en": "To challenge someone to run",
+          "hi": "दौड़ने की चुनौती देना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To pull someone's leg' is an idiom meaning to tease or play a friendly joke on someone.",
+        "hi": "'Pull someone's leg' का अर्थ टांग खींचना या मजाक करना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00187",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'An excessive or abnormal fear of water'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'An excessive or abnormal fear of water'"
+      },
+      "options": [
+        {
+          "en": "Hydrophobia",
+          "hi": "जलभय (Hydrophobia)"
+        },
+        {
+          "en": "Claustrophobia",
+          "hi": "संवृत स्थान भय (Claustrophobia)"
+        },
+        {
+          "en": "Acrophobia",
+          "hi": "ऊंचाई का भय (Acrophobia)"
+        },
+        {
+          "en": "Nyctophobia",
+          "hi": "अंधकार का भय (Nyctophobia)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Hydrophobia' (hydro = water + phobia = fear) is extreme fear of water (often seen in rabies). 'Claustrophobia' = closed spaces; 'Acrophobia' = heights.",
+        "hi": "पानी के अत्यधिक भय को 'Hydrophobia' (जलभय) कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00188",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Identify the error segment:\nDespite of his hard work, (A) / he could not achieve (B) / the desired score. (C) / No error (D)",
+        "hi": "त्रुटि पहचानिए:\nDespite of his hard work, (A) / he could not achieve (B) / the desired score. (C) / No error (D)"
+      },
+      "options": [
+        {
+          "en": "Despite of his hard work (A)",
+          "hi": "Despite of his hard work (A)"
+        },
+        {
+          "en": "he could not achieve (B)",
+          "hi": "he could not achieve (B)"
+        },
+        {
+          "en": "the desired score (C)",
+          "hi": "the desired score (C)"
+        },
+        {
+          "en": "No error (D)",
+          "hi": "No error (D)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Despite' is never followed by 'of'. It is either 'Despite his hard work' or 'In spite of his hard work'.",
+        "hi": "'Despite' के साथ 'of' का प्रयोग कभी नहीं होता ('In spite of' या केवल 'Despite')।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00189",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the most appropriate SYNONYM of:\n'FUTILE'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त पर्यायवाची चुनिए:\n'FUTILE'"
+      },
+      "options": [
+        {
+          "en": "Useless / Pointless / Fruitless",
+          "hi": "व्यर्थ / निष्फल (Useless)"
+        },
+        {
+          "en": "Fruitful",
+          "hi": "फलदायी (Fruitful)"
+        },
+        {
+          "en": "Productive",
+          "hi": "उत्पादक (Productive)"
+        },
+        {
+          "en": "Effective",
+          "hi": "प्रभावी (Effective)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Futile' means incapable of producing any useful result; pointless, vain, useless.",
+        "hi": "'Futile' का अर्थ व्यर्थ या निष्फल (Useless/Fruitless) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00190",
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the most appropriate ANTONYM of:\n'LENIENT'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त विलोम चुनिए:\n'LENIENT'"
+      },
+      "options": [
+        {
+          "en": "Strict / Severe / Harsh",
+          "hi": "कठोर / सख्त (Strict)"
+        },
+        {
+          "en": "Forgiving",
+          "hi": "क्षमाशील"
+        },
+        {
+          "en": "Merciful",
+          "hi": "दयालु"
+        },
+        {
+          "en": "Tolerant",
+          "hi": "सहनशील"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Lenient' means more merciful or tolerant than expected. Its antonym is 'Strict', 'Harsh', or 'Severe'.",
+        "hi": "'Lenient' (उदार/नरम) का विलोम 'Strict' (कठोर/सख्त) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00191",
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct passive form:\n'The gardener has pruned all the rose bushes.'",
+        "hi": "वाक्य का सही पैसिव वॉइस रूप चुनिए:\n'The gardener has pruned all the rose bushes.'"
+      },
+      "options": [
+        {
+          "en": "All the rose bushes have been pruned by the gardener.",
+          "hi": "All the rose bushes have been pruned by the gardener."
+        },
+        {
+          "en": "All the rose bushes has been pruned by the gardener.",
+          "hi": "All the rose bushes has been pruned by the gardener."
+        },
+        {
+          "en": "All the rose bushes were pruned by the gardener.",
+          "hi": "All the rose bushes were pruned by the gardener."
+        },
+        {
+          "en": "All the rose bushes had been pruned by the gardener.",
+          "hi": "All the rose bushes had been pruned by the gardener."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'All the rose bushes' is plural, so Present Perfect passive uses 'have been pruned'.",
+        "hi": "बहुवचन कर्ता के साथ 'have been pruned' का प्रयोग होगा।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00192",
+      "topic": "narration",
+      "question": {
+        "en": "Select the correct indirect speech form:\nThe old man said, 'Honesty is the best policy.'",
+        "hi": "सही अप्रत्यक्ष कथन रूप चुनिए:\nThe old man said, 'Honesty is the best policy.'"
+      },
+      "options": [
+        {
+          "en": "The old man said that honesty is the best policy.",
+          "hi": "The old man said that honesty is the best policy."
+        },
+        {
+          "en": "The old man said that honesty was the best policy.",
+          "hi": "The old man said that honesty was the best policy."
+        },
+        {
+          "en": "The old man told that honesty had been the best policy.",
+          "hi": "The old man told that honesty had been the best policy."
+        },
+        {
+          "en": "The old man said that honesty would be the best policy.",
+          "hi": "The old man said that honesty would be the best policy."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Proverbs and universal moral truths remain unchanged in present tense in indirect speech ('honesty is the best policy').",
+        "hi": "कहावत या नैतिक सत्य होने के कारण क्रिया का काल अपरिवर्तित रहता है ('honesty is the best policy')।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00193",
+      "topic": "spelling_check",
+      "question": {
+        "en": "Select the CORRECTLY spelt word:",
+        "hi": "सही वर्तनी वाले शब्द का चयन कीजिए:"
+      },
+      "options": [
+        {
+          "en": "Connoisseur",
+          "hi": "Connoisseur"
+        },
+        {
+          "en": "Connoiseur",
+          "hi": "Connoiseur"
+        },
+        {
+          "en": "Conoisseur",
+          "hi": "Conoisseur"
+        },
+        {
+          "en": "Connosseur",
+          "hi": "Connosseur"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The correct spelling is 'Connoisseur' (C-O-N-N-O-I-S-S-E-U-R, meaning an expert judge in matters of taste).",
+        "hi": "सही वर्तनी 'Connoisseur' (कला का पारखी) है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00194",
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Select the best option to improve the underlined part:\nShe did not know whether **he will come or not**.",
+        "hi": "रेखांकित भाग का सही सुधार चुनिए:\nShe did not know whether **he will come or not**."
+      },
+      "options": [
+        {
+          "en": "he would come or not",
+          "hi": "he would come or not"
+        },
+        {
+          "en": "he shall come or not",
+          "hi": "he shall come or not"
+        },
+        {
+          "en": "he comes or not",
+          "hi": "he comes or not"
+        },
+        {
+          "en": "No improvement",
+          "hi": "No improvement"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When the main clause is in past tense ('did not know'), future in the subordinate clause changes from 'will' to past modal 'would'.",
+        "hi": "मुख्य उपवाक्य भूतकाल में होने पर 'will' का भूतकालिक रूप 'would' प्रयुक्त होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00195",
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the most appropriate preposition:\nHe was acquitted ________ all charges of corruption.",
+        "hi": "उपयुक्त Preposition चुनिए:\nHe was acquitted ________ all charges of corruption."
+      },
+      "options": [
+        {
+          "en": "of",
+          "hi": "of"
+        },
+        {
+          "en": "from",
+          "hi": "from"
+        },
+        {
+          "en": "with",
+          "hi": "with"
+        },
+        {
+          "en": "by",
+          "hi": "by"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The verb 'acquit' takes the fixed preposition 'of' (e.g. 'acquitted of all charges').",
+        "hi": "'Acquitted' के साथ निश्चित Preposition 'of' का प्रयोग होता है (acquitted of charges)।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00196",
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of:\n'To face the music'",
+        "hi": "मुहावरे का सही अर्थ चुनिए:\n'To face the music'"
+      },
+      "options": [
+        {
+          "en": "To accept unpleasant consequences or criticism for one's actions",
+          "hi": "किए गए गलत कार्य के अप्रिय परिणाम या आलोचना को भुगतना"
+        },
+        {
+          "en": "To listen to a classical musical concert",
+          "hi": "संगीत कार्यक्रम सुनना"
+        },
+        {
+          "en": "To play a musical instrument",
+          "hi": "वाद्य यंत्र बजाना"
+        },
+        {
+          "en": "To enjoy light melodious tunes",
+          "hi": "धुनों का आनंद लेना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To face the music' means to be confronted with the unpleasant consequences of one's actions.",
+        "hi": "'Face the music' का अर्थ अपने गलत कार्यों के परिणामों का सामना करना (डांट या सजा भुगतना) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00197",
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the one-word substitute for:\n'A person who compiles a collection of maps in book form'",
+        "hi": "वाक्यांश के लिए एक शब्द चुनिए:\n'A person who draws or produces maps'"
+      },
+      "options": [
+        {
+          "en": "Cartographer",
+          "hi": "मानचित्रकार (Cartographer)"
+        },
+        {
+          "en": "Calligrapher",
+          "hi": "सुलेखक"
+        },
+        {
+          "en": "Geographer",
+          "hi": "भूगोलवेत्ता"
+        },
+        {
+          "en": "Topographer",
+          "hi": "स्थलाकृतिकार"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A 'Cartographer' is a person who draws or produces maps.",
+        "hi": "मानचित्र बनाने वाले व्यक्ति को 'Cartographer' (मानचित्रकार) कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00198",
+      "topic": "error_spotting",
+      "question": {
+        "en": "Find the grammatical error:\nHe worked hard (A) / lest he should not fail (B) / in the final examination. (C) / No error (D)",
+        "hi": "त्रुटि पहचानिए:\nHe worked hard (A) / lest he should not fail (B) / in the final examination. (C) / No error (D)"
+      },
+      "options": [
+        {
+          "en": "lest he should not fail (B)",
+          "hi": "lest he should not fail (B)"
+        },
+        {
+          "en": "He worked hard (A)",
+          "hi": "He worked hard (A)"
+        },
+        {
+          "en": "in the final examination (C)",
+          "hi": "in the final examination (C)"
+        },
+        {
+          "en": "No error (D)",
+          "hi": "No error (D)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Lest' is inherently negative meaning 'so that not'. It is paired with 'should' without 'not' ('lest he should fail'). Using 'not' with 'lest' is a double negative error.",
+        "hi": "'Lest' स्वयं नकारात्मक अर्थ रखता है, अतः इसके साथ 'should' आता है परंतु 'not' का प्रयोग वर्जित है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_english_00199",
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the most appropriate SYNONYM of:\n'METICULOUS'",
+        "hi": "दिए गए शब्द का सर्वाधिक उपयुक्त पर्यायवाची चुनिए:\n'METICULOUS'"
+      },
+      "options": [
+        {
+          "en": "Painstaking / Careful / Precise",
+          "hi": "अति सावधान / सटीक (Painstaking)"
+        },
+        {
+          "en": "Careless",
+          "hi": "लापरवाह"
+        },
+        {
+          "en": "Hasty",
+          "hi": "जल्दबाज"
+        },
+        {
+          "en": "Sloppy",
+          "hi": "अव्यवस्थित"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Meticulous' means showing great attention to detail; very careful and precise (painstaking, scrupulous).",
+        "hi": "'Meticulous' का अर्थ अत्यंत सावधान, सूक्ष्मदर्शी (Painstaking) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_english_00200",
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the correct option to fill the blank:\nShe could not refrain ________ shedding tears on hearing the tragic news.",
+        "hi": "उपयुक्त Preposition चुनिए:\nShe could not refrain ________ shedding tears on hearing the tragic news."
+      },
+      "options": [
+        {
+          "en": "from",
+          "hi": "from"
+        },
+        {
+          "en": "to",
+          "hi": "to"
+        },
+        {
+          "en": "with",
+          "hi": "with"
+        },
+        {
+          "en": "in",
+          "hi": "in"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Verbs of avoidance like 'refrain', 'abstain', 'desist' take the preposition 'from' followed by a gerund.",
+        "hi": "'Refrain' के साथ निश्चित Preposition 'from' का प्रयोग होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
     }
   ]
 }

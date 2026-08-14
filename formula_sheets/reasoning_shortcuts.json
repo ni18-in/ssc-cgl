@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "1.0.0",
+  "sheetId": "reasoning_shortcuts",
+  "subject": "reasoning",
+  "title": {
+    "en": "Reasoning Shortcuts & Quick Tricks",
+    "hi": "तर्कशक्ति शॉर्टकट एवं त्वरित ट्रिक्स"
+  },
+  "groups": [
+    {
+      "topic": "coding_decoding",
+      "title": {
+        "en": "Alphabet Positional Values & Opposites",
+        "hi": "वर्णमाला के स्थानीय मान एवं विपरीत अक्षर"
+      },
+      "cards": [
+        {
+          "id": "f_reas_0001",
+          "label": {
+            "en": "EJOTY Rule for Positional Values",
+            "hi": "स्थानीय मान के लिए EJOTY नियम"
+          },
+          "latex": "\\text{E}=5,\\;\\text{J}=10,\\;\\text{O}=15,\\;\\text{T}=20,\\;\\text{Y}=25",
+          "plain": "E=5, J=10, O=15, T=20, Y=25 (Multiples of 5)",
+          "note": {
+            "en": "Use EJOTY and CFILORUX (multiples of 3: C=3, F=6, I=9, L=12, O=15, R=18, U=21, X=24) to locate any letter's position quickly.",
+            "hi": "EJOTY तथा CFILORUX (3 के गुणज) की सहायता से किसी भी अक्षर का स्थानीय मान तेजी से ज्ञात करें।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_reas_0002",
+          "label": {
+            "en": "Opposite / Reverse Letters (Sum = 27)",
+            "hi": "विपरीत अक्षर नियम (योग = 27)"
+          },
+          "latex": "\\text{Pos}(A) + \\text{Pos}(Z) = 1 + 26 = 27",
+          "plain": "Position(Forward) + Position(Reverse) = 27. (AZ, BY, CX, DW, EV, FU, GT, HS, IR, JQ, KP, LO, MN)",
+          "note": {
+            "en": "To find reverse pair of any letter: 27 − Forward Position. Mnemonics: A-Z, Boy, Crux, Dew, Even, Fun, GT Road, High School, Indian Railway, Jungle Queen, Kanpur, Love, Man.",
+            "hi": "विपरीत अक्षर = 27 − सामान्य स्थानीय मान। स्मरण सूत्र: A-Z, Boy, Crux, Dew, Even, Fun, GT-Road, High-School, Indian-Railway, Jungle-Queen, Kanpur, Love, Man।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "cube_and_dice",
+      "title": {
+        "en": "Cube Cutting Formulas",
+        "hi": "घन कर्तन सूत्र"
+      },
+      "cards": [
+        {
+          "id": "f_reas_0003",
+          "label": {
+            "en": "Painted Cube Cut into Smaller Cubes",
+            "hi": "रंगे हुए बड़े घन को छोटे घनों में काटना"
+          },
+          "latex": "n = \\frac{\\text{Side of Big Cube}}{\\text{Side of Small Cube}}",
+          "plain": "Total small cubes = n³. 3-faces painted = 8 (corners). 2-faces painted = 12(n - 2) (edges). 1-face painted = 6(n - 2)² (surfaces). 0-faces painted = (n - 2)³ (core).",
+          "note": {
+            "en": "For a painted cube of side n: 3-face painted is ALWAYS 8 (at the 8 corners). 2-face = 12(n−2). 1-face = 6(n−2)². 0-face (unpainted) = (n−2)³.",
+            "hi": "n भुजा वाले रंगे घन के लिए: 3-सतह रंगे = 8 (कोनों पर), 2-सतह रंगे = 12(n−2), 1-सतह रंगे = 6(n−2)², 0-सतह (बिना रंगे) = (n−2)³।"
+          },
+          "kind": "formula"
+        },
+        {
+          "id": "f_reas_0004",
+          "label": {
+            "en": "Standard vs General Dice Rules",
+            "hi": "मानक पासा बनाम सामान्य पासा नियम"
+          },
+          "latex": "\\text{Standard Dice: Opposite Sum} = 7",
+          "plain": "Standard Dice: Sum of opposite faces = 7 (1 opposite 6, 2 opposite 5, 3 opposite 4). Adjacent faces sum != 7.",
+          "note": {
+            "en": "In two views of a single dice with 1 common face: Rotate clockwise from common face in both views to find remaining opposite pairs.",
+            "hi": "यदि दो स्थितियों में 1 फलक समान हो, तो समान फलक से दक्षिणावर्त (Clockwise) घूमने पर प्राप्त क्रम परस्पर विपरीत फलक होते हैं।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "ranking_order",
+      "title": {
+        "en": "Ranking & Order Formulas",
+        "hi": "पंक्ति एवं क्रम परीक्षण सूत्र"
+      },
+      "cards": [
+        {
+          "id": "f_reas_0005",
+          "label": {
+            "en": "Total Persons in a Row",
+            "hi": "पंक्ति में कुल व्यक्तियों की संख्या"
+          },
+          "latex": "\\text{Total} = \\text{Left} + \\text{Right} - 1",
+          "plain": "Total = Rank from Top/Left + Rank from Bottom/Right - 1",
+          "note": {
+            "en": "When one person's position is given from both ends. To find other end: Other Rank = Total − Given Rank + 1.",
+            "hi": "कुल व्यक्ति = बायाँ स्थान + दायाँ स्थान − 1। दूसरा सिरा = कुल − दिया गया स्थान + 1।"
+          },
+          "kind": "formula"
+        },
+        {
+          "id": "f_reas_0006",
+          "label": {
+            "en": "Interchanging Positions in a Row",
+            "hi": "पंक्ति में स्थान परिवर्तन"
+          },
+          "latex": "\\text{Total} = \\text{New Pos}(A) + \\text{Old Pos}(B) - 1",
+          "plain": "Total = A's new position + B's old position - 1. Number of persons between them = |New Pos(A) - Old Pos(A)| - 1.",
+          "note": {
+            "en": "When two persons swap positions, total is sum of new position of one + old position of other − 1.",
+            "hi": "स्थान बदलने पर कुल = A का नया स्थान + B का पुराना स्थान − 1। उनके बीच व्यक्ति = |A का नया स्थान − A का पुराना स्थान| − 1।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "direction_sense",
+      "title": {
+        "en": "Direction & Shadow Rules",
+        "hi": "दिशा एवं परछाई संबंधी नियम"
+      },
+      "cards": [
+        {
+          "id": "f_reas_0007",
+          "label": {
+            "en": "Shadow Rules at Sunrise and Sunset",
+            "hi": "सूर्योदय एवं सूर्यास्त के समय परछाई के नियम"
+          },
+          "latex": "\\text{Sunrise (Sun in East)} \\implies \\text{Shadow in West}",
+          "plain": "Morning/Sunrise: Shadow always falls towards WEST. Evening/Sunset: Shadow always falls towards EAST. At 12:00 Noon: No shadow formed.",
+          "note": {
+            "en": "At sunrise: If a person faces North, shadow is to their Left; if facing South, shadow is to their Right. At sunset: If facing North, shadow is to their Right; if facing South, shadow is to their Left.",
+            "hi": "सूर्योदय पर परछाई पश्चिम में बनती है (उत्तर मुखी व्यक्ति के बायीं ओर, दक्षिण मुखी के दायीं ओर)। सूर्यास्त पर परछाई पूर्व में बनती है। दोपहर 12 बजे कोई परछाई नहीं बनती।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    }
+  ]
+}

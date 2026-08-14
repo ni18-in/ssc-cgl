@@ -1,0 +1,145 @@
+{
+  "schemaVersion": "1.0.0",
+  "sheetId": "english_rules",
+  "subject": "english",
+  "title": {
+    "en": "English Grammar Golden Rules & Cheat Sheet",
+    "hi": "अंग्रेजी व्याकरण के स्वर्णिम नियम एवं त्वरित सारांश"
+  },
+  "groups": [
+    {
+      "topic": "error_spotting",
+      "title": {
+        "en": "Subject-Verb Agreement Rules",
+        "hi": "कर्ता-क्रिया सामंजस्य नियम"
+      },
+      "cards": [
+        {
+          "id": "f_eng_0001",
+          "label": {
+            "en": "Conjunctions that take the First Subject",
+            "hi": "प्रथम कर्ता के अनुसार क्रिया निर्धारित करने वाले संयोजक"
+          },
+          "latex": null,
+          "plain": "Subjects joined by 'as well as', 'along with', 'together with', 'with', 'accompanied by', 'in addition to', 'like', 'unlike', 'except', 'besides' -> Verb agrees with the FIRST Subject.",
+          "note": {
+            "en": "Example: 'The captain along with the crew members was saved.' ('was' agrees with singular 'captain').",
+            "hi": "उदा: 'The captain along with the crew was saved.' (क्रिया प्रथम कर्ता 'captain' के अनुसार एकवचन होगी)।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_eng_0002",
+          "label": {
+            "en": "Conjunctions that take the Nearest Subject",
+            "hi": "निकटतम कर्ता के अनुसार क्रिया निर्धारित करने वाले संयोजक"
+          },
+          "latex": null,
+          "plain": "Subjects joined by 'either... or', 'neither... nor', 'not only... but also', 'or', 'nor' -> Verb agrees with the NEAREST Subject.",
+          "note": {
+            "en": "Example: 'Neither the manager nor the employees were present.' ('were' agrees with nearest 'employees').",
+            "hi": "उदा: 'Neither the teacher nor the students were present.' (क्रिया निकटतम कर्ता 'students' के अनुसार बहुवचन होगी)।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_eng_0003",
+          "label": {
+            "en": "Uncountable Nouns taking Singular Verbs",
+            "hi": "हमेशा एकवचन में प्रयुक्त होने वाली अगणनीय संज्ञाएँ"
+          },
+          "latex": null,
+          "plain": "Furniture, Advice, Information, Luggage, Baggage, Scenery, Poetry, Machinery, Work, News, Hair, Bread, Stationery, Crockery are uncountable singular nouns (never take 'a/an' or plural 's/es').",
+          "note": {
+            "en": "Incorrect: 'The sceneries of Kashmir are beautiful.' Correct: 'The scenery of Kashmir is beautiful.'",
+            "hi": "इनके साथ कभी 's/es' या 'a/an' नहीं लगाते तथा क्रिया हमेशा एकवचन (is/was/has) आती है।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "sentence_improvement",
+      "title": {
+        "en": "Inversion & Correlative Conjunctions",
+        "hi": "इनवर्जन एवं सहसंबंधी संयोजक नियम"
+      },
+      "cards": [
+        {
+          "id": "f_eng_0004",
+          "label": {
+            "en": "Correlative Conjunction Pairs",
+            "hi": "निश्चित सहसंबंधी संयोजक युग्म"
+          },
+          "latex": null,
+          "plain": "Scarcely / Hardly ... WHEN | No sooner ... THAN | Not only ... BUT ALSO | Barely ... WHEN | Lest ... SHOULD (without 'not') | Although / Though ... YET (or comma) | Between ... AND | From ... TO",
+          "note": {
+            "en": "Never use 'then' with 'No sooner' (use 'than'). Never use 'not' with 'lest'. Never use 'and' with 'from' (use 'to').",
+            "hi": "'No sooner' के साथ हमेशा 'than' आता है (then नहीं)। 'Lest' के साथ 'should' आता है ('not' नहीं)।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_eng_0005",
+          "label": {
+            "en": "Inversion Rule (Auxiliary before Subject)",
+            "hi": "इनवर्जन नियम (कर्ता से पूर्व सहायक क्रिया)"
+          },
+          "latex": null,
+          "plain": "When a sentence starts with negative adverbs (Hardly, Scarcely, Seldom, Rarely, Never, Little, No sooner, Under no circumstances) -> Auxiliary Verb + Subject + Main Verb.",
+          "note": {
+            "en": "Example: 'Hardly had he arrived when it started raining.' (Not: 'Hardly he had arrived').",
+            "hi": "जब वाक्य नकारात्मक क्रियाविशेषण से शुरू हो, तो 'Hardly had he seen...' (इनवर्जन) रूप प्रयुक्त होता है।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "voice",
+      "title": {
+        "en": "Active & Passive Voice Tense Conversion",
+        "hi": "कर्तृवाच्य एवं कर्मवाच्य काल परिवर्तन नियम"
+      },
+      "cards": [
+        {
+          "id": "f_eng_0006",
+          "label": {
+            "en": "Voice Transformation Chart",
+            "hi": "वाच्य परिवर्तन तालिका"
+          },
+          "latex": null,
+          "plain": "Simple Present: is/am/are + V3 | Simple Past: was/were + V3 | Continuous: being + V3 | Perfect: been + V3 | Modals (can/may/must): modal + be + V3.",
+          "note": {
+            "en": "Note: Perfect Continuous tenses and Future Continuous have NO passive voice forms in standard English examinations.",
+            "hi": "Passive Voice में मुख्य क्रिया हमेशा Past Participle (V3) में होती है तथा Tense के अनुसार 'be' का उचित रूप जुड़ता है।"
+          },
+          "kind": "formula"
+        }
+      ]
+    },
+    {
+      "topic": "narration",
+      "title": {
+        "en": "Direct & Indirect Speech Rules",
+        "hi": "प्रत्यक्ष एवं अप्रत्यक्ष कथन नियम"
+      },
+      "cards": [
+        {
+          "id": "f_eng_0007",
+          "label": {
+            "en": "Tense and Time Word Shift in Indirect Speech",
+            "hi": "अप्रत्यक्ष कथन में काल एवं समय सूचक शब्दों का परिवर्तन"
+          },
+          "latex": null,
+          "plain": "Present Simple -> Past Simple | Present Continuous -> Past Continuous | Present Perfect -> Past Perfect | Past Simple -> Past Perfect | will/shall -> would/should | can -> could | may -> might | now -> then | today -> that day | tomorrow -> the next day | yesterday -> the previous day | here -> there | this -> that.",
+          "note": {
+            "en": "Exception: Universal truths, proverbs, and habitual historical facts DO NOT change tense (e.g. 'The teacher said that the sun rises in the east').",
+            "hi": "अपवाद: सार्वभौमिक सत्य, मुहावरे एवं ऐतिहासिक तथ्यों में Tense नहीं बदलता है।"
+          },
+          "kind": "formula"
+        }
+      ]
+    }
+  ]
+}

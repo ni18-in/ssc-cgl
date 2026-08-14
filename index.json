@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
-  "lastUpdated": "2026-08-14T14:59:08Z",
-  "contentVersion": "2026.08.14.7",
+  "lastUpdated": "2026-08-14T17:19:40Z",
+  "contentVersion": "2026.08.14.12",
   "minAppVersion": "1.0.0",
   "files": [
     {
@@ -15,33 +15,33 @@
     {
       "path": "tier1/english.json",
       "kind": "question_bank",
-      "sizeBytes": 190589,
-      "checksum": "fb608450993ded06397abb79d8085be24f6a5294338d9205347e6289384c1449",
-      "lastModified": "2026-08-14T14:56:36Z",
+      "sizeBytes": 257269,
+      "checksum": "b9977d2b5cbb5eb4b1b7acc3ca07cf461f8384e6015c7e2066dddbec6b68b255",
+      "lastModified": "2026-08-14T17:18:41Z",
       "required": true
     },
     {
       "path": "tier1/gk.json",
       "kind": "question_bank",
-      "sizeBytes": 241067,
-      "checksum": "73a51db8f3fa791d2574e1fcd2d572a201886028ff3a7477a21947e7a74f1b3e",
-      "lastModified": "2026-08-14T14:56:36Z",
+      "sizeBytes": 321604,
+      "checksum": "c71d49aba22e7d29c09250be105b4c109103f3e63a7b538cf744a60fdf7bfd75",
+      "lastModified": "2026-08-14T17:18:41Z",
       "required": true
     },
     {
       "path": "tier1/quant.json",
       "kind": "question_bank",
-      "sizeBytes": 208076,
-      "checksum": "6c0d2cfcdfab871a056e3e730fd79537c6f6aa14409b9276e579feeed2f75548",
-      "lastModified": "2026-08-14T14:56:36Z",
+      "sizeBytes": 274264,
+      "checksum": "81e4ffc10465abea55f0c6fb41ea58bacbcc49185380c3db04265bfbd3deac45",
+      "lastModified": "2026-08-14T17:18:41Z",
       "required": true
     },
     {
       "path": "tier1/reasoning.json",
       "kind": "question_bank",
-      "sizeBytes": 215620,
-      "checksum": "f3de003bde241443aa56b0e85fcb92205dc98b63d4a6fd90955818faa88dc5cd",
-      "lastModified": "2026-08-14T14:56:36Z",
+      "sizeBytes": 284048,
+      "checksum": "55534deb85a032227d7261af8f92443c092670f64de6ec6e49d69413805aec93",
+      "lastModified": "2026-08-14T17:18:41Z",
       "required": true
     },
     {
@@ -58,6 +58,22 @@
       "sizeBytes": 5229,
       "checksum": "ac388c7ad43a6f14f64279a90dc3e8d8aeec7ec08608c15986bd7379c2f44eef",
       "lastModified": "2026-08-14T14:56:36Z",
+      "required": false
+    },
+    {
+      "path": "mocks/tier1/t1_mock_003.json",
+      "kind": "mock",
+      "sizeBytes": 5211,
+      "checksum": "caff081fd455821bb4fe5aaca3a3e5eb6378a5391ebaf4f1fd24a05659391dc5",
+      "lastModified": "2026-08-14T17:19:19Z",
+      "required": false
+    },
+    {
+      "path": "pyq/2020_tier1.json",
+      "kind": "pyq",
+      "sizeBytes": 5533,
+      "checksum": "7712d2c4a1b4d5b5e946297aa21268a8a8947d2fd1049ec89169136bdb1a21bd",
+      "lastModified": "2026-08-14T17:19:19Z",
       "required": false
     },
     {
@@ -95,17 +111,25 @@
     {
       "path": "current_affairs/2026_08.json",
       "kind": "current_affairs",
-      "sizeBytes": 4600,
-      "checksum": "0f51c811727f3758e3d7353631279cd0a4e926ede0da8a5cc0ae23a61c27f5bb",
-      "lastModified": "2026-08-14T12:24:57Z",
+      "sizeBytes": 6880,
+      "checksum": "2fa86c569c064ce3ec6ff0eedd1ed845a7e7e04c0df22617de0788c46ffd93fb",
+      "lastModified": "2026-08-14T17:18:59Z",
       "required": false
     },
     {
       "path": "current_affairs/latest.json",
       "kind": "current_affairs",
-      "sizeBytes": 4600,
-      "checksum": "0f51c811727f3758e3d7353631279cd0a4e926ede0da8a5cc0ae23a61c27f5bb",
-      "lastModified": "2026-08-14T12:24:57Z",
+      "sizeBytes": 6880,
+      "checksum": "2fa86c569c064ce3ec6ff0eedd1ed845a7e7e04c0df22617de0788c46ffd93fb",
+      "lastModified": "2026-08-14T17:18:59Z",
+      "required": true
+    },
+    {
+      "path": "formula_sheets/english_rules.json",
+      "kind": "formula_sheet",
+      "sizeBytes": 7865,
+      "checksum": "c7a1076709fd3695d9dae9c895c1f5594cc565b491908d4b6267bd40c281271b",
+      "lastModified": "2026-08-14T17:18:59Z",
       "required": true
     },
     {
@@ -115,9 +139,17 @@
       "checksum": "4cdb79d582b59e7a3664eee00bb9b21105b7bbb790d459dbc8394d031af6d858",
       "lastModified": "2026-08-14T14:56:36Z",
       "required": true
+    },
+    {
+      "path": "formula_sheets/reasoning_shortcuts.json",
+      "kind": "formula_sheet",
+      "sizeBytes": 7998,
+      "checksum": "673cfaa632ea3b83fb70828ff7310f02e9bf5f17a8225d88c619126cbfa4f5af",
+      "lastModified": "2026-08-14T17:18:59Z",
+      "required": true
     }
   ],
-  "totalSizeBytes": 937383,
+  "totalSizeBytes": 1250383,
   "forceUpdate": false,
-  "changelog": "Content update."
+  "changelog": "Updated master manifest with 18 verified files, 800 total questions, 5 full 100-Q PYQ papers, 3 full 100-Q mocks, 3 formula sheets, and expanded current affairs capsules"
 }

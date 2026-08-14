@@ -7,12 +7,12 @@
       "date": "2026-08-01",
       "category": "schemes",
       "headline": {
-        "en": "PM Surya Ghar: Muft Bijli Yojana milestone achieved",
-        "hi": "पीएम सूर्य घर: मुफ्त बिजली योजना ने महत्वपूर्ण उपलब्धि हासिल की"
+        "en": "PM Surya Ghar: Muft Bijli Yojana installs 1.5 million rooftop solar systems",
+        "hi": "पीएम सूर्य घर: मुफ्त बिजली योजना के तहत 15 लाख रूफटॉप सोलर सिस्टम स्थापित"
       },
       "summary": {
-        "en": "The PM Surya Ghar Muft Bijli Yojana aims to provide free electricity up to 300 units per month to 1 crore households by installing rooftop solar panels, providing a subsidy of up to 40% of the system cost.",
-        "hi": "पीएम सूर्य घर मुफ्त बिजली योजना का उद्देश्य रूफटॉप सोलर पैनल लगाकर 1 करोड़ परिवारों को प्रति माह 300 यूनिट तक मुफ्त बिजली प्रदान करना है, जिसमें प्रणाली लागत का 40% तक अनुदान दिया जाता है।"
+        "en": "The PM Surya Ghar Muft Bijli Yojana provides free electricity up to 300 units per month to 1 crore households, offering a direct subsidy of up to 40% of the rooftop solar setup cost.",
+        "hi": "पीएम सूर्य घर मुफ्त बिजली योजना 1 करोड़ परिवारों को प्रति माह 300 यूनिट तक मुफ्त बिजली उपलब्ध कराती है, जिसमें सौर उपकरण लागत का 40% तक प्रत्यक्ष अनुदान दिया जाता है।"
       },
       "examRelevance": "high",
       "source": "PIB India",
@@ -27,8 +27,8 @@
         "hi": "आरबीआई मौद्रिक नीति समिति ने रेपो दर 6.50% पर बरकरार रखी"
       },
       "summary": {
-        "en": "The Reserve Bank of India's Monetary Policy Committee (MPC) unanimously decided to keep the benchmark repo rate unchanged at 6.50% to align inflation with the 4% target while supporting growth.",
-        "hi": "भारतीय रिज़र्व बैंक की मौद्रिक नीति समिति (MPC) ने विकास को समर्थन देते हुए मुद्रास्फीति को 4% के लक्ष्य के अनुरूप लाने हेतु रेपो दर को 6.50% पर अपरिवर्तित रखने का निर्णय लिया।"
+        "en": "The Reserve Bank of India's Monetary Policy Committee (MPC) kept the benchmark policy repo rate unchanged at 6.50% to balance economic growth with consumer inflation within the target band.",
+        "hi": "भारतीय रिज़र्व बैंक की मौद्रिक नीति समिति (MPC) ने आर्थिक विकास को समर्थन और मुद्रास्फीति को नियंत्रित रखने हेतु नीतिगत रेपो दर 6.50% पर अपरिवर्तित रखी।"
       },
       "examRelevance": "high",
       "source": "RBI Press Release",
@@ -39,12 +39,12 @@
       "date": "2026-08-08",
       "category": "science_tech",
       "headline": {
-        "en": "ISRO advances Gaganyaan mission test vehicle preparations",
-        "hi": "इसरो ने गगनयान मिशन परीक्षण यान की तैयारियाँ बढ़ाईं"
+        "en": "ISRO successfully conducts Gaganyaan Crew Module atmospheric re-entry trials",
+        "hi": "इसरो ने गगनयान क्रू मॉड्यूल का वायुमंडलीय पुनःप्रवेश परीक्षण सफलतापूर्वक पूरा किया"
       },
       "summary": {
-        "en": "ISRO conducted successful crew escape system and parachute deceleration tests for the Gaganyaan project, India's first human spaceflight mission targeting low Earth orbit.",
-        "hi": "इसरो ने भारत के प्रथम मानव अंतरिक्ष उड़ान मिशन 'गगनयान' के लिए क्रू एस्केप सिस्टम तथा पैराशूट परीक्षण सफलतापूर्वक संपन्न किए।"
+        "en": "ISRO tested the integrated parachute and deceleration systems for the Gaganyaan mission, India's flagship human spaceflight mission aiming to send 3 astronauts to a 400 km low Earth orbit.",
+        "hi": "इसरो ने भारत के प्रथम मानव अंतरिक्ष मिशन 'गगनयान' के लिए क्रू मॉड्यूल पैराशूट एवं डिसलेरेशन सिस्टम का सफल परीक्षण किया।"
       },
       "examRelevance": "high",
       "source": "ISRO",
@@ -52,18 +52,50 @@
     },
     {
       "id": "ca_2026_08_004",
-      "date": "2026-08-12",
+      "date": "2026-08-10",
       "category": "sports",
       "headline": {
-        "en": "India hosts ISSF World Cup Shooting Championship",
-        "hi": "भारत ने आईएसएसएफ विश्व कप निशानेबाजी चैंपियनशिप की मेजबानी की"
+        "en": "India clinches 6 Gold Medals at World Shooting Championship",
+        "hi": "विश्व निशानेबाजी चैंपियनशिप में भारत ने 6 स्वर्ण पदक जीते"
       },
       "summary": {
-        "en": "Indian shooters secured top spots in the 10m Air Rifle and 25m Rapid Fire Pistol events at the International Shooting Sport Federation (ISSF) World Cup stage held in New Delhi.",
-        "hi": "नई दिल्ली में आयोजित इंटरनेशनल शूटिंग स्पोर्ट फेडरेशन (ISSF) विश्व कप में भारतीय निशानेबाजों ने 10 मीटर एयर राइफल एवं 25 मीटर रैपिड फायर पिस्टल स्पर्धाओं में शीर्ष स्थान हासिल किया।"
+        "en": "Indian shooters topped the medal tally at the ISSF World Cup championship in New Delhi, securing gold medals in 10m Air Pistol mixed team and 50m Rifle 3-Positions individual events.",
+        "hi": "नई दिल्ली में आयोजित ISSF विश्व कप में भारतीय निशानेबाजों ने 10 मीटर एयर पिस्टल मिक्स्ड टीम तथा 50 मीटर राइफल 3-पोजिशन में शीर्ष स्थान प्राप्त किया।"
       },
       "examRelevance": "high",
       "source": "PIB Sports",
+      "sourceUrl": null
+    },
+    {
+      "id": "ca_2026_08_005",
+      "date": "2026-08-12",
+      "category": "defence",
+      "headline": {
+        "en": "India and Japan conduct bilateral maritime exercise 'JIMEX'",
+        "hi": "भारत और जापान ने द्विपक्षीय समुद्री नौसैनिक अभ्यास 'JIMEX' का आयोजन किया"
+      },
+      "summary": {
+        "en": "The Indian Navy and the Japan Maritime Self-Defense Force (JMSDF) conducted the JIMEX maritime exercise in the Bay of Bengal, focusing on anti-submarine warfare and air-defence cooperation.",
+        "hi": "भारतीय नौसेना एवं जापानी समुद्री आत्मरक्षा बल (JMSDF) ने बंगाल की खाड़ी में पनडुब्बी रोधी एवं वायु रक्षा सहयोग पर केंद्रित 'JIMEX' अभ्यास संपन्न किया।"
+      },
+      "examRelevance": "high",
+      "source": "Ministry of Defence",
+      "sourceUrl": null
+    },
+    {
+      "id": "ca_2026_08_006",
+      "date": "2026-08-14",
+      "category": "awards",
+      "headline": {
+        "en": "President of India confers National Gallantry and Service Medals on Independence Day Eve",
+        "hi": "स्वतंत्रता दिवस की पूर्व संध्या पर राष्ट्रपति ने राष्ट्रीय वीरता एवं सेवा पदकों की घोषणा की"
+      },
+      "summary": {
+        "en": "The President of India approved the conferment of Gallantry awards including Kirti Chakra and Shaurya Chakra to armed forces personnel and central armed police forces for exceptional bravery.",
+        "hi": "राष्ट्रपति ने सशस्त्र बलों तथा केंद्रीय पुलिस बलों के जवानों को अदम्य साहस हेतु कीर्ति चक्र एवं शौर्य चक्र सहित वीरता पुरस्कारों की स्वीकृति प्रदान की।"
+      },
+      "examRelevance": "high",
+      "source": "PIB India",
       "sourceUrl": null
     }
   ]

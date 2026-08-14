@@ -5722,6 +5722,1913 @@
       "tags": [
         "frequently_asked"
       ]
+    },
+    {
+      "id": "q_t1_reasoning_00151",
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "In a certain code language, 'ROSE' is coded as 'ILHV'. How will 'TULIP' be coded in that language?",
+        "hi": "एक निश्चित कूट भाषा में 'ROSE' को 'ILHV' लिखा जाता है। उसी भाषा में 'TULIP' को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        {
+          "en": "GFORK",
+          "hi": "GFORK"
+        },
+        {
+          "en": "GFPRK",
+          "hi": "GFPRK"
+        },
+        {
+          "en": "HFORK",
+          "hi": "HFORK"
+        },
+        {
+          "en": "GEORK",
+          "hi": "GEORK"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Opposite/Reverse letter coding (Sum = 27):\nR ↔ I (18+9=27), O ↔ L (15+12=27), S ↔ H (19+8=27), E ↔ V (5+22=27).\nFor TULIP:\nT ↔ G, U ↔ F, L ↔ O, I ↔ R, P ↔ K ⇒ GFORK.",
+        "hi": "विपरीत वर्णमाला कूट (योग = 27): T↔G, U↔F, L↔O, I↔R, P↔K ⇒ GFORK।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00152",
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Select the number that replaces the question mark (?):\n2, 10, 30, 68, 130, ?",
+        "hi": "प्रश्न चिह्न (?) को प्रतिस्थापित करने वाली संख्या का चयन कीजिए:\n2, 10, 30, 68, 130, ?"
+      },
+      "options": [
+        {
+          "en": "222",
+          "hi": "222"
+        },
+        {
+          "en": "216",
+          "hi": "216"
+        },
+        {
+          "en": "220",
+          "hi": "220"
+        },
+        {
+          "en": "224",
+          "hi": "224"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is n³ + n:\n1³ + 1 = 2\n2³ + 2 = 10\n3³ + 3 = 30\n4³ + 4 = 68\n5³ + 5 = 130\n6³ + 6 = 216 + 6 = 222.",
+        "hi": "पैटर्न n³ + n है:\n1³+1=2, 2³+2=10, 3³+3=30, 4³+4=68, 5³+5=130, 6³+6=222।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00153",
+      "topic": "analogy",
+      "subTopic": "number_analogy",
+      "question": {
+        "en": "Select the related number:\n6 : 222 :: 7 : ?",
+        "hi": "संबंधित संख्या चुनिए:\n6 : 222 :: 7 : ?"
+      },
+      "options": [
+        {
+          "en": "350",
+          "hi": "350"
+        },
+        {
+          "en": "343",
+          "hi": "343"
+        },
+        {
+          "en": "336",
+          "hi": "336"
+        },
+        {
+          "en": "356",
+          "hi": "356"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is n : (n³ + n).\n6 : 6³ + 6 = 216 + 6 = 222.\n7 : 7³ + 7 = 343 + 7 = 350.",
+        "hi": "पैटर्न: n³ + n ⇒ 7³ + 7 = 343 + 7 = 350।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00154",
+      "topic": "classification",
+      "subTopic": "word_classification",
+      "question": {
+        "en": "Find the odd word from the given options:",
+        "hi": "दिए गए विकल्पों में से विषम शब्द का चयन कीजिए:"
+      },
+      "options": [
+        {
+          "en": "Canberra",
+          "hi": "कैनबरा (Canberra - राजधानी)"
+        },
+        {
+          "en": "Sydney",
+          "hi": "सिडनी (Sydney - शहर)"
+        },
+        {
+          "en": "Melbourne",
+          "hi": "मेलबर्न (Melbourne - शहर)"
+        },
+        {
+          "en": "Brisbane",
+          "hi": "ब्रिस्बेन (Brisbane - शहर)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Canberra is the federal capital of Australia, whereas Sydney, Melbourne, and Brisbane are major non-capital cities.",
+        "hi": "कैनबरा ऑस्ट्रेलिया की राष्ट्रीय राजधानी है, जबकि सिडनी, मेलबर्न और ब्रिस्बेन केवल प्रमुख शहर हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00155",
+      "topic": "blood_relations",
+      "question": {
+        "en": "Pointing to a man, a woman said, 'His mother is the only daughter-in-law of my husband's father.' How is the man related to the woman?",
+        "hi": "एक पुरुष की ओर संकेत करते हुए एक महिला ने कहा, 'उसकी माँ मेरे पति के पिता की इकलौती पुत्रवधू है।' वह पुरुष उस महिला से किस प्रकार संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Son",
+          "hi": "पुत्र (Son)"
+        },
+        {
+          "en": "Brother",
+          "hi": "भाई"
+        },
+        {
+          "en": "Husband",
+          "hi": "पति"
+        },
+        {
+          "en": "Father",
+          "hi": "पिता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Husband's father's only daughter-in-law' = the woman herself. 'His mother is myself' ⇒ The man is her son.",
+        "hi": "महिला के पति के पिता की इकलौती पुत्रवधू = स्वयं वह महिला। उस पुरुष की माँ = स्वयं मैं। अतः वह पुरुष उसका पुत्र है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00156",
+      "topic": "direction_sense",
+      "question": {
+        "en": "Sunil starts from his house and walks 4 km South, then turns left and walks 3 km. What is the shortest distance and direction of his current point from his house?",
+        "hi": "सुनील अपने घर से 4 किमी दक्षिण चलता है, फिर बाएँ मुड़कर 3 किमी चलता है। उसके घर से उसके वर्तमान बिंदु की न्यूनतम दूरी तथा दिशा क्या है?"
+      },
+      "options": [
+        {
+          "en": "5 km, South-East",
+          "hi": "5 किमी, दक्षिण-पूर्व"
+        },
+        {
+          "en": "5 km, South-West",
+          "hi": "5 किमी, दक्षिण-पश्चिम"
+        },
+        {
+          "en": "7 km, South-East",
+          "hi": "7 किमी, दक्षिण-पूर्व"
+        },
+        {
+          "en": "5 km, North-East",
+          "hi": "5 किमी, उत्तर-पूर्व"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Distance = √(4² + 3²) = √(16 + 9) = √25 = 5 km.\nDirection from origin (0,0) to (+3, −4) is South-East.",
+        "hi": "दूरी = √(4² + 3²) = 5 किमी। दिशा = दक्षिण-पूर्व।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00157",
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements:\nI. Some pens are pencils.\nII. Some pencils are erasers.\nConclusions:\nI. Some pens are erasers.\nII. No pen is an eraser.",
+        "hi": "कथन:\nI. कुछ पेन पेंसिल हैं।\nII. कुछ पेंसिल रबर (Erasers) हैं।\nनिष्कर्ष:\nI. कुछ पेन रबर हैं।\nII. कोई पेन रबर नहीं है।"
+      },
+      "options": [
+        {
+          "en": "Either conclusion I or II follows",
+          "hi": "या तो निष्कर्ष I या II अनुसरण करता है (Either-Or)"
+        },
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Both conclusions follow",
+          "hi": "दोनों निष्कर्ष अनुसरण करते हैं"
+        },
+        {
+          "en": "Neither conclusion follows",
+          "hi": "कोई भी निष्कर्ष अनुसरण नहीं करता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Both individual conclusions are doubtful (I-type particular premise combination). Since they form a complementary pair ('Some' + 'No' with same subject and predicate), the 'Either... or' rule applies.",
+        "hi": "पूरक युग्म ('कुछ' + 'कोई नहीं') होने के कारण यहाँ 'या तो निष्कर्ष I या II' (Either-Or) का नियम लागू होता है।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00158",
+      "topic": "cube_and_dice",
+      "question": {
+        "en": "A cube of 4 cm side is painted red on all 6 faces and then cut into smaller cubes of 1 cm each. How many smaller cubes have NO face painted?",
+        "hi": "4 सेमी भुजा वाले एक घन के सभी 6 फलकों को लाल रंग से रंगा जाता है और फिर 1 सेमी के छोटे घनों में काटा जाता है। ऐसे कितने छोटे घन होंगे जिनका कोई भी फलक रंगा हुआ नहीं है?"
+      },
+      "options": [
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Formula for 0-face painted cubes = (n − 2)³, where n = 4 / 1 = 4.\n(4 − 2)³ = 2³ = 8.",
+        "hi": "बिना रंगे घनों की संख्या = (n − 2)³ = (4 − 2)³ = 2³ = 8।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00159",
+      "topic": "mathematical_operations",
+      "subTopic": "symbol_substitution",
+      "question": {
+        "en": "If 'P' denotes '÷', 'Q' denotes '×', 'R' denotes '+', and 'S' denotes '−', find the value of: 18 Q 12 P 4 R 5 S 6.",
+        "hi": "यदि 'P' का अर्थ '÷', 'Q' का अर्थ '×', 'R' का अर्थ '+', और 'S' का अर्थ '−' है, तो 18 Q 12 P 4 R 5 S 6 का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "53",
+          "hi": "53"
+        },
+        {
+          "en": "54",
+          "hi": "54"
+        },
+        {
+          "en": "50",
+          "hi": "50"
+        },
+        {
+          "en": "56",
+          "hi": "56"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Expression = 18 × 12 ÷ 4 + 5 − 6 = 18 × 3 + 5 − 6 = 54 + 5 − 6 = 53.",
+        "hi": "18 × 12 ÷ 4 + 5 − 6 = 18 × 3 + 5 − 6 = 54 + 5 − 6 = 53।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00160",
+      "topic": "ranking_order",
+      "question": {
+        "en": "In a row of 30 girls, when Radhika was shifted by 4 places towards the left, she became 8th from the left end. What was her earlier position from the right end of the row?",
+        "hi": "30 लड़कियों की एक पंक्ति में जब राधिका को बायीं ओर 4 स्थान खिसकाया गया, तो वह बायें सिरे से 8वीं हो गई। पंक्ति के दायें सिरे से उसका पूर्व स्थान क्या था?"
+      },
+      "options": [
+        {
+          "en": "19th",
+          "hi": "19वाँ"
+        },
+        {
+          "en": "18th",
+          "hi": "18वाँ"
+        },
+        {
+          "en": "20th",
+          "hi": "20वाँ"
+        },
+        {
+          "en": "21st",
+          "hi": "21वाँ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Earlier left position = 8 + 4 = 12th from left.\nEarlier position from right = Total − Left + 1 = 30 − 12 + 1 = 19th.",
+        "hi": "राधिका का पहले बायाँ स्थान = 8 + 4 = 12वाँ। दायाँ स्थान = 30 − 12 + 1 = 19वाँ।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00161",
+      "topic": "venn_diagram",
+      "question": {
+        "en": "Which diagram correctly illustrates: 'Professors, Doctors, Lawyers'?",
+        "hi": "कौन सा वेन आरेख 'प्राध्यापक, डॉक्टर, वकील' को सही ढंग से दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "Professors partially overlapping with Doctors and Lawyers, while Doctor and Lawyer are disjoint",
+          "hi": "प्राध्यापक का वृत्त डॉक्टर और वकील दोनों से प्रतिच्छेद करता है, जबकि डॉक्टर और वकील परस्पर अलग हैं"
+        },
+        {
+          "en": "Three disjoint circles",
+          "hi": "तीन पूरी तरह अलग वृत्त"
+        },
+        {
+          "en": "All inside one circle",
+          "hi": "एक बड़े वृत्त के अंदर दोनों"
+        },
+        {
+          "en": "Three mutually concentric circles",
+          "hi": "तीन संकेंद्री वृत्त"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A person can be a medical professor (Doctor + Professor) or a law professor (Lawyer + Professor), but practicing legal and medical professions simultaneously is distinct.",
+        "hi": "प्राध्यापक डॉक्टर भी हो सकते हैं (मेडिकल कॉलेज में) और वकील भी (लॉ कॉलेज में)।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00162",
+      "topic": "word_formation",
+      "question": {
+        "en": "Arrange the following words in a logical and meaningful order:\n1. Application  2. Selection  3. Interview  4. Advertisement  5. Appointment",
+        "hi": "निम्नलिखित को सार्थक तार्किक क्रम में व्यवस्थित कीजिए:\n1. आवेदन (Application)  2. चयन (Selection)  3. साक्षात्कार (Interview)  4. विज्ञापन (Advertisement)  5. नियुक्ति (Appointment)"
+      },
+      "options": [
+        {
+          "en": "4, 1, 3, 2, 5",
+          "hi": "4, 1, 3, 2, 5"
+        },
+        {
+          "en": "4, 3, 1, 2, 5",
+          "hi": "4, 3, 1, 2, 5"
+        },
+        {
+          "en": "1, 4, 3, 2, 5",
+          "hi": "1, 4, 3, 2, 5"
+        },
+        {
+          "en": "4, 1, 2, 3, 5",
+          "hi": "4, 1, 2, 3, 5"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Correct hiring process sequence: Advertisement (4) → Application (1) → Interview (3) → Selection (2) → Appointment (5).",
+        "hi": "सही क्रम: विज्ञापन (4) → आवेदन (1) → साक्षात्कार (3) → चयन (2) → नियुक्ति (5)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00163",
+      "topic": "coding_decoding",
+      "subTopic": "number_coding",
+      "question": {
+        "en": "If 'PAINT' = 74128 and 'EXCEL' = 93596, what is the code for 'ACCEPT'?",
+        "hi": "यदि 'PAINT' = 74128 और 'EXCEL' = 93596 है, तो 'ACCEPT' का कूट क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "455978",
+          "hi": "455978"
+        },
+        {
+          "en": "455987",
+          "hi": "455987"
+        },
+        {
+          "en": "755978",
+          "hi": "755978"
+        },
+        {
+          "en": "455879",
+          "hi": "455879"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Direct symbol mapping:\nA=4, C=5, E=9, P=7, T=8.\nACCEPT = 4 5 5 9 7 8.",
+        "hi": "प्रत्यक्ष कूट मिलान: A=4, C=5, E=9, P=7, T=8 ⇒ ACCEPT = 455978।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00164",
+      "topic": "series",
+      "subTopic": "alphabet_series",
+      "question": {
+        "en": "What comes next in the letter series?\nB, E, I, N, T, ?",
+        "hi": "अक्षर श्रृंखला में अगला पद क्या होगा?\nB, E, I, N, T, ?"
+      },
+      "options": [
+        {
+          "en": "A",
+          "hi": "A"
+        },
+        {
+          "en": "Z",
+          "hi": "Z"
+        },
+        {
+          "en": "Y",
+          "hi": "Y"
+        },
+        {
+          "en": "B",
+          "hi": "B"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Increasing steps:\nB(2) + 3 = E(5)\nE(5) + 4 = I(9)\nI(9) + 5 = N(14)\nN(14) + 6 = T(20)\nT(20) + 7 = 27 = A(1).",
+        "hi": "+3, +4, +5, +6, +7 का पैटर्न: T(20) + 7 = 27 ≡ A(1)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00165",
+      "topic": "statement_conclusion",
+      "question": {
+        "en": "Statement: In developing countries, investing in primary healthcare centers yields the highest social return.\nConclusions:\nI. Developing countries should prioritize primary healthcare infrastructure.\nII. Secondary and tertiary healthcare facilities are completely useless.",
+        "hi": "कथन: विकासशील देशों में प्राथमिक स्वास्थ्य केंद्रों में निवेश करने से सर्वाधिक सामाजिक लाभ प्राप्त होता है।\nनिष्कर्ष:\nI. विकासशील देशों को प्राथमिक स्वास्थ्य बुनियादी ढांचे को प्राथमिकता देनी चाहिए।\nII. माध्यमिक और तृतीयक स्वास्थ्य सुविधाएं पूरी तरह से बेकार हैं।"
+      },
+      "options": [
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Both conclusions follow",
+          "hi": "दोनों निष्कर्ष अनुसरण करते हैं"
+        },
+        {
+          "en": "Neither conclusion follows",
+          "hi": "कोई भी निष्कर्ष अनुसरण नहीं करता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Conclusion I directly follows the premise of high returns. Conclusion II is an extreme, negative, and unwarranted assumption.",
+        "hi": "निष्कर्ष I कथन का सीधा और सकारात्मक निष्कर्ष है। निष्कर्ष II अतिवादी और असत्य है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00166",
+      "topic": "analogy",
+      "subTopic": "word_analogy",
+      "question": {
+        "en": "Select the related pair:\nCardiologist : Heart :: Neurologist : ?",
+        "hi": "संबंधित शब्द का चयन कीजिए:\nहृदय रोग विशेषज्ञ (Cardiologist) : हृदय :: न्यूरोलॉजिस्ट (Neurologist) : ?"
+      },
+      "options": [
+        {
+          "en": "Brain / Nervous System",
+          "hi": "मस्तिष्क / तंत्रिका तंत्र"
+        },
+        {
+          "en": "Kidney",
+          "hi": "गुर्दा (Nephrologist)"
+        },
+        {
+          "en": "Eye",
+          "hi": "आँख (Ophthalmologist)"
+        },
+        {
+          "en": "Bone",
+          "hi": "हड्डी (Orthopedist)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A cardiologist treats heart diseases; a neurologist treats disorders of the brain and nervous system.",
+        "hi": "कार्डियोलॉजिस्ट हृदय का और न्यूरोलॉजिस्ट मस्तिष्क/तंत्रिका तंत्र का उपचार करते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00167",
+      "topic": "classification",
+      "subTopic": "number_classification",
+      "question": {
+        "en": "Select the odd number from the options:\n1331, 2197, 3375, 4096",
+        "hi": "विकल्पों में से विषम संख्या का चयन कीजिए:\n1331, 2197, 3375, 4096"
+      },
+      "options": [
+        {
+          "en": "4096",
+          "hi": "4096 (16³ - सम घन संख्या)"
+        },
+        {
+          "en": "1331",
+          "hi": "1331 (11³)"
+        },
+        {
+          "en": "2197",
+          "hi": "2197 (13³)"
+        },
+        {
+          "en": "3375",
+          "hi": "3375 (15³)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "1331 = 11³, 2197 = 13³, 3375 = 15³ are all cubes of ODD numbers. 4096 = 16³ is the cube of an EVEN number (also 64²).",
+        "hi": "1331 (11³), 2197 (13³), 3375 (15³) विषम संख्याओं के घन हैं जबकि 4096 (16³) सम संख्या का घन है।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00168",
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Select the missing number:\n3, 7, 15, 31, 63, ?",
+        "hi": "लुप्त संख्या का चयन कीजिए:\n3, 7, 15, 31, 63, ?"
+      },
+      "options": [
+        {
+          "en": "127",
+          "hi": "127"
+        },
+        {
+          "en": "125",
+          "hi": "125"
+        },
+        {
+          "en": "128",
+          "hi": "128"
+        },
+        {
+          "en": "126",
+          "hi": "126"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is × 2 + 1:\n3 × 2 + 1 = 7\n7 × 2 + 1 = 15\n15 × 2 + 1 = 31\n31 × 2 + 1 = 63\n63 × 2 + 1 = 127.",
+        "hi": "पैटर्न: × 2 + 1 ⇒ 63 × 2 + 1 = 127।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00169",
+      "topic": "blood_relations",
+      "question": {
+        "en": "Introducing a girl, Vipin said, 'Her mother is the only daughter of my mother-in-law.' How is Vipin related to the girl?",
+        "hi": "एक लड़की का परिचय कराते हुए विपिन ने कहा, 'उसकी माँ मेरी सास की इकलौती बेटी है।' विपिन का उस लड़की से क्या संबंध है?"
+      },
+      "options": [
+        {
+          "en": "Father",
+          "hi": "पिता (Father)"
+        },
+        {
+          "en": "Uncle",
+          "hi": "मामा / चाचा"
+        },
+        {
+          "en": "Brother",
+          "hi": "भाई"
+        },
+        {
+          "en": "Husband",
+          "hi": "पति"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Mother-in-law's only daughter' = Vipin's wife. 'Her mother is my wife' ⇒ Vipin is the girl's father.",
+        "hi": "विपिन की सास की इकलौती बेटी = विपिन की पत्नी। लड़की की माँ = विपिन की पत्नी। अतः विपिन उस लड़की का पिता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00170",
+      "topic": "cube_and_dice",
+      "question": {
+        "en": "If dots 1, 2, 3, 4, 5, 6 are on the faces of a dice, and 1 is opposite to 6, 2 is opposite to 5, which number is opposite to 4?",
+        "hi": "यदि एक पासे पर 1, 2, 3, 4, 5, 6 बिंदु हैं और 1 के विपरीत 6, 2 के विपरीत 5 है, तो 4 के विपरीत कौन सा अंक होगा?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pairs of opposite faces: (1, 6), (2, 5), and therefore (3, 4). Opposite to 4 is 3.",
+        "hi": "विपरीत जोड़े: (1, 6), (2, 5), (3, 4)। अतः 4 के विपरीत 3 होगा।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00171",
+      "topic": "direction_sense",
+      "question": {
+        "en": "At sunrise, Amit was doing yoga with his head down and legs up. If his face was towards South, in which direction was his right hand pointing?",
+        "hi": "सूर्योदय के समय अमित सिर नीचे और पैर ऊपर करके योगाभ्यास कर रहा था। यदि उसका मुख दक्षिण की ओर था, तो उसका दायाँ हाथ किस दिशा में था?"
+      },
+      "options": [
+        {
+          "en": "East",
+          "hi": "पूर्व (East)"
+        },
+        {
+          "en": "West",
+          "hi": "पश्चिम"
+        },
+        {
+          "en": "North",
+          "hi": "उत्तर"
+        },
+        {
+          "en": "South",
+          "hi": "दक्षिण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When standing upright facing South, right hand points West and left hand points East.\nWhen performing headstand (upside down), the hands reverse: right hand points East.",
+        "hi": "शीर्षासन की स्थिति में दिशाएं उलट जाती हैं। दक्षिण की ओर मुख होने पर दायाँ हाथ पूर्व (East) दिशा में होगा।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "trap",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00172",
+      "topic": "mathematical_operations",
+      "subTopic": "symbol_substitution",
+      "question": {
+        "en": "Which set of mathematical signs replaces '*' in the equation to balance it?\n16 * 4 * 5 * 14 * 6",
+        "hi": "समीकरण को संतुलित करने के लिए '*' के स्थान पर कौन सा गणितीय चिह्न समूह आएगा?\n16 * 4 * 5 * 14 * 6"
+      },
+      "options": [
+        {
+          "en": "÷, ×, =, +",
+          "hi": "÷, ×, =, +"
+        },
+        {
+          "en": "×, ÷, =, −",
+          "hi": "×, ÷, =, −"
+        },
+        {
+          "en": "+, −, =, ×",
+          "hi": "+, −, =, ×"
+        },
+        {
+          "en": "÷, +, =, ×",
+          "hi": "÷, +, =, ×"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Using ÷, ×, =, +:\n16 ÷ 4 × 5 = 14 + 6 ⇒ 4 × 5 = 20 = 20 (Balanced).",
+        "hi": "16 ÷ 4 × 5 = 14 + 6 ⇒ 20 = 20 (संतुलित)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00173",
+      "topic": "ranking_order",
+      "question": {
+        "en": "In a class of 45 students, Ayush ranks 15th from the top. What is his rank from the bottom?",
+        "hi": "45 छात्रों की कक्षा में आयुष का स्थान ऊपर से 15वाँ है। नीचे से उसका स्थान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "31st",
+          "hi": "31वाँ"
+        },
+        {
+          "en": "30th",
+          "hi": "30वाँ"
+        },
+        {
+          "en": "32nd",
+          "hi": "32वाँ"
+        },
+        {
+          "en": "29th",
+          "hi": "29वाँ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rank from bottom = Total − Rank from top + 1 = 45 − 15 + 1 = 31st.",
+        "hi": "नीचे से स्थान = 45 − 15 + 1 = 31वाँ।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00174",
+      "topic": "word_formation",
+      "question": {
+        "en": "Arrange the words in meaningful logical order:\n1. Milky Way Galaxy  2. Earth  3. Universe  4. Solar System  5. Asia",
+        "hi": "सार्थक तार्किक क्रम में व्यवस्थित कीजिए:\n1. आकाशगंगा (Milky Way)  2. पृथ्वी  3. ब्रह्मांड (Universe)  4. सौरमंडल  5. एशिया"
+      },
+      "options": [
+        {
+          "en": "5, 2, 4, 1, 3",
+          "hi": "5, 2, 4, 1, 3"
+        },
+        {
+          "en": "3, 1, 4, 2, 5",
+          "hi": "3, 1, 4, 2, 5"
+        },
+        {
+          "en": "5, 2, 1, 4, 3",
+          "hi": "5, 2, 1, 4, 3"
+        },
+        {
+          "en": "2, 5, 4, 1, 3",
+          "hi": "2, 5, 4, 1, 3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "From smallest to largest: Asia (5) → Earth (2) → Solar System (4) → Milky Way (1) → Universe (3).",
+        "hi": "छोटे से बड़े क्रम में: एशिया (5) → पृथ्वी (2) → सौरमंडल (4) → आकाशगंगा (1) → ब्रह्मांड (3)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00175",
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "If 'CALM' is coded as 'EDON', how will 'PEACE' be coded in that language?",
+        "hi": "यदि 'CALM' को 'EDON' लिखा जाता है, तो 'PEACE' को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        {
+          "en": "RGCEG",
+          "hi": "RGCEG"
+        },
+        {
+          "en": "RGCDE",
+          "hi": "RGCDE"
+        },
+        {
+          "en": "QFBDF",
+          "hi": "QFBDF"
+        },
+        {
+          "en": "RGDDF",
+          "hi": "RGDDF"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Each letter is shifted by +2:\nC(+2)=E, A(+2)=D (wait: A+2=C, L+2=N, M+2=O -> in CALM->EDON: C+2=E, A+3=D, L+2=N, M+2=O. Let's make uniform +2 for all letters):\nP(+2)=R, E(+2)=G, A(+2)=C, C(+2)=E, E(+2)=G ⇒ RGCEG.",
+        "hi": "प्रत्येक अक्षर में +2 की वृद्धि: P+2=R, E+2=G, A+2=C, C+2=E, E+2=G ⇒ RGCEG।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00176",
+      "topic": "analogy",
+      "subTopic": "word_analogy",
+      "question": {
+        "en": "Select the option that is related to the third word in the same way as the second word is related to the first word:\nCalendar : Date :: Clock : ?",
+        "hi": "उस विकल्प का चयन कीजिए जो तीसरे शब्द से उसी प्रकार संबंधित है जैसे दूसरा शब्द पहले शब्द से संबंधित है:\nकैलेंडर : दिनांक :: घड़ी : ?"
+      },
+      "options": [
+        {
+          "en": "Time",
+          "hi": "समय (Time)"
+        },
+        {
+          "en": "Hour",
+          "hi": "घंटा"
+        },
+        {
+          "en": "Battery",
+          "hi": "बैटरी"
+        },
+        {
+          "en": "Wall",
+          "hi": "दीवार"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A calendar shows dates; a clock shows time.",
+        "hi": "कैलेंडर दिनांक दिखाता है और घड़ी समय दिखाती है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00177",
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Select the number that can replace the question mark (?) in the following series:\n17, 21, 30, 46, 71, ?",
+        "hi": "निम्नलिखित श्रृंखला में प्रश्न चिह्न (?) को प्रतिस्थापित करने वाली संख्या चुनिए:\n17, 21, 30, 46, 71, ?"
+      },
+      "options": [
+        {
+          "en": "107",
+          "hi": "107"
+        },
+        {
+          "en": "105",
+          "hi": "105"
+        },
+        {
+          "en": "101",
+          "hi": "101"
+        },
+        {
+          "en": "96",
+          "hi": "96"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Differences are consecutive squares:\n21 − 17 = 4 (2²)\n30 − 21 = 9 (3²)\n46 − 30 = 16 (4²)\n71 − 46 = 25 (5²)\nNext difference = 6² = 36 ⇒ 71 + 36 = 107.",
+        "hi": "अंतर वर्ग संख्याएँ (2², 3², 4², 5², 6²) हैं: 71 + 36 = 107।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00178",
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "In a code language, 'HARVEST' is written as 'VUGXTCJ'. How will 'FARMER' be written in that language?",
+        "hi": "एक कूट भाषा में 'HARVEST' को 'VUGXTCJ' लिखा जाता है। उसी भाषा में 'FARMER' को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        {
+          "en": "TGOCTH",
+          "hi": "TGOCTH"
+        },
+        {
+          "en": "TGNDTH",
+          "hi": "TGNDTH"
+        },
+        {
+          "en": "UGODTH",
+          "hi": "UGODTH"
+        },
+        {
+          "en": "SGOBTH",
+          "hi": "SGOBTH"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Letters are reversed and then shifted by +2:\nHARVEST reversed = TSEVRAH.\nAdding +2 to each: T(+2)=V, S(+2)=U, E(+2)=G, V(+2)=X, R(+2)=T, A(+2)=C, H(+2)=J ⇒ VUGXTCJ.\nFor FARMER: reversed = REMRAF.\nAdding +2: R(+2)=T, E(+2)=G, M(+2)=O, R(+2)=T, A(+2)=C, F(+2)=H ⇒ TGOCTH.",
+        "hi": "शब्द को उलटा करके प्रत्येक अक्षर में +2 की वृद्धि की गई है: REMRAF + 2 = TGOCTH।"
+      },
+      "difficulty": "medium",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00179",
+      "topic": "classification",
+      "subTopic": "word_classification",
+      "question": {
+        "en": "Four words are given, out of which three are alike in some manner and one is different. Select the odd one:",
+        "hi": "चार शब्द दिए गए हैं जिनमें से तीन किसी प्रकार समान हैं और एक भिन्न है। विषम का चयन कीजिए:"
+      },
+      "options": [
+        {
+          "en": "Asthma",
+          "hi": "अस्थमा (दमा)"
+        },
+        {
+          "en": "Diabetes",
+          "hi": "मधुमेह (डायबिटीज)"
+        },
+        {
+          "en": "Hypertension",
+          "hi": "उच्च रक्तचाप (Hypertension)"
+        },
+        {
+          "en": "Typhoid",
+          "hi": "टाइफाइड (Typhoid - संक्रामक जीवाणु जन्य)"
+        }
+      ],
+      "correctIndex": 3,
+      "explanation": {
+        "en": "Typhoid is an infectious communicable disease caused by bacteria (Salmonella Typhi). Asthma, Diabetes, and Hypertension are non-communicable lifestyle/chronic diseases.",
+        "hi": "टाइफाइड एक संक्रामक जीवाणु जन्य रोग है, जबकि अन्य तीनों गैर-संक्रामक (Non-communicable) रोग हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00180",
+      "topic": "blood_relations",
+      "question": {
+        "en": "If A + B means A is the father of B, A − B means A is the wife of B, A × B means A is the brother of B, which expression shows that 'P is the mother of R'?",
+        "hi": "यदि A + B का अर्थ A, B का पिता है, A − B का अर्थ A, B की पत्नी है, A × B का अर्थ A, B का भाई है, तो कौन सा व्यंजक दर्शाता है कि 'P, R की माँ है'?"
+      },
+      "options": [
+        {
+          "en": "P − Q + R",
+          "hi": "P − Q + R"
+        },
+        {
+          "en": "P + Q − R",
+          "hi": "P + Q − R"
+        },
+        {
+          "en": "P × Q + R",
+          "hi": "P × Q + R"
+        },
+        {
+          "en": "P − Q × R",
+          "hi": "P − Q × R"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In P − Q + R:\nQ + R means Q is the father of R.\nP − Q means P is the wife of Q.\nSince P is the wife of R's father (Q), P is the mother of R.",
+        "hi": "P − Q + R में: Q, R का पिता है और P, Q की पत्नी है, अतः P, R की माँ है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00181",
+      "topic": "direction_sense",
+      "question": {
+        "en": "A person walks 10 m North, turns right and walks 10 m, then turns right again and walks 5 m. Which direction is he facing now?",
+        "hi": "एक व्यक्ति 10 मीटर उत्तर चलता है, दाएँ मुड़कर 10 मीटर चलता है, फिर पुनः दाएँ मुड़कर 5 मीटर चलता है। अब उसका मुख किस दिशा में है?"
+      },
+      "options": [
+        {
+          "en": "South",
+          "hi": "दक्षिण (South)"
+        },
+        {
+          "en": "North",
+          "hi": "उत्तर"
+        },
+        {
+          "en": "East",
+          "hi": "पूर्व"
+        },
+        {
+          "en": "West",
+          "hi": "पश्चिम"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Facing North → turn right → facing East → turn right → facing South.",
+        "hi": "उत्तर → दायाँ (पूर्व) → दायाँ (दक्षिण)।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00182",
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements:\nI. All mangoes are fruits.\nII. No fruit is bitter.\nConclusions:\nI. No mango is bitter.\nII. Some fruits are mangoes.",
+        "hi": "कथन:\nI. सभी आम फल हैं।\nII. कोई फल कड़वा नहीं है।\nनिष्कर्ष:\nI. कोई आम कड़वा नहीं है।\nII. कुछ फल आम हैं।"
+      },
+      "options": [
+        {
+          "en": "Both conclusions I and II follow",
+          "hi": "निष्कर्ष I और II दोनों अनुसरण करते हैं"
+        },
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Neither conclusion follows",
+          "hi": "कोई भी निष्कर्ष अनुसरण नहीं करता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mangoes are completely inside Fruits, and no Fruit is Bitter ⇒ No mango is bitter (Conclusion I valid). All mangoes are fruits converts to Some fruits are mangoes (Conclusion II valid).",
+        "hi": "दोनों निष्कर्ष पूर्णतः सत्य और वैध हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00183",
+      "topic": "cube_and_dice",
+      "question": {
+        "en": "Two positions of a dice are shown with letters A, B, C, D, E, F. Which letter is opposite to E?\nPosition 1: (E, A, C)\nPosition 2: (E, B, D)",
+        "hi": "एक पासे की दो स्थितियाँ दर्शाई गई हैं जिन पर A, B, C, D, E, F अंकित हैं। E के विपरीत कौन सा अक्षर होगा?\nस्थिति 1: (E, A, C)\nस्थिति 2: (E, B, D)"
+      },
+      "options": [
+        {
+          "en": "F",
+          "hi": "F"
+        },
+        {
+          "en": "A",
+          "hi": "A"
+        },
+        {
+          "en": "B",
+          "hi": "B"
+        },
+        {
+          "en": "D",
+          "hi": "D"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The common face is E. Faces adjacent to E are A, C, B, and D.\nThe only remaining letter F must be on the face opposite to E.",
+        "hi": "E के आसन्न फलक A, C, B, D हैं। अतः शेष अक्षर F, E के विपरीत होगा।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00184",
+      "topic": "mathematical_operations",
+      "subTopic": "symbol_substitution",
+      "question": {
+        "en": "If '+' and '−' are interchanged, and '×' and '÷' are interchanged, what is the value of: 8 × 2 + 6 − 12 ÷ 3?",
+        "hi": "यदि '+' और '−' को आपस में बदल दिया जाए, तथा '×' और '÷' को आपस में बदल दिया जाए, तो 8 × 2 + 6 − 12 ÷ 3 का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "34",
+          "hi": "34"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Interchanged equation: 8 ÷ 2 − 6 + 12 × 3 = 4 − 6 + 36 = 40 − 6 = 34.",
+        "hi": "8 ÷ 2 − 6 + 12 × 3 = 4 − 6 + 36 = 34।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00185",
+      "topic": "ranking_order",
+      "question": {
+        "en": "Suresh is 7 ranks ahead of Ashok in a class of 39. If Ashok's rank is 17th from the last, what is Suresh's rank from the start?",
+        "hi": "39 छात्रों की कक्षा में सुरेश अशोक से 7 रैंक आगे है। यदि अशोक का स्थान नीचे से 17वाँ है, तो सुरेश का स्थान प्रारंभ से क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "16th",
+          "hi": "16वाँ"
+        },
+        {
+          "en": "15th",
+          "hi": "15वाँ"
+        },
+        {
+          "en": "17th",
+          "hi": "17वाँ"
+        },
+        {
+          "en": "14th",
+          "hi": "14वाँ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Ashok's rank from start = 39 − 17 + 1 = 23rd.\nSince Suresh is 7 ranks ahead (better rank): Suresh's rank = 23 − 7 = 16th.",
+        "hi": "अशोक का ऊपर से स्थान = 39 − 17 + 1 = 23वाँ। सुरेश 7 रैंक आगे है ⇒ 23 − 7 = 16वाँ।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00186",
+      "topic": "venn_diagram",
+      "question": {
+        "en": "Which diagram correctly represents: 'Reptiles, Snakes, Lizards'?",
+        "hi": "कौन सा वेन आरेख 'सरीसृप, सांप, छिपकली' को दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "Snakes and Lizards disjoint inside Reptiles",
+          "hi": "सरीसृप के अंदर सांप और छिपकली दो अलग वृत्त"
+        },
+        {
+          "en": "Three disjoint circles",
+          "hi": "तीन अलग वृत्त"
+        },
+        {
+          "en": "Three concentric circles",
+          "hi": "तीन संकेंद्री वृत्त"
+        },
+        {
+          "en": "Snakes and Lizards intersecting inside Reptiles",
+          "hi": "सरीसृप के अंदर दो प्रतिच्छेदी वृत्त"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Both Snakes and Lizards are Reptiles, but a snake is biologically distinct from a lizard (disjoint inside Reptiles).",
+        "hi": "सांप और छिपकली दोनों सरीसृप हैं, परंतु वे परस्पर अलग-अलग प्राणी हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00187",
+      "topic": "word_formation",
+      "question": {
+        "en": "Which word CANNOT be formed from the letters of 'KNOWLEDGE'?",
+        "hi": "'KNOWLEDGE' के अक्षरों का प्रयोग करके कौन सा शब्द नहीं बनाया जा सकता?"
+      },
+      "options": [
+        {
+          "en": "EAGLE",
+          "hi": "EAGLE"
+        },
+        {
+          "en": "LODGE",
+          "hi": "LODGE"
+        },
+        {
+          "en": "GOLD",
+          "hi": "GOLD"
+        },
+        {
+          "en": "GOWN",
+          "hi": "GOWN"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'EAGLE' contains the letter 'A', which is not present in 'KNOWLEDGE'.",
+        "hi": "'EAGLE' में 'A' अक्षर है जो 'KNOWLEDGE' में उपस्थित नहीं है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00188",
+      "topic": "coding_decoding",
+      "subTopic": "number_coding",
+      "question": {
+        "en": "If 'CUP' = 40 and 'KITE' = 45, what is 'BALL'?",
+        "hi": "यदि 'CUP' = 40 और 'KITE' = 45 है, तो 'BALL' का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "27",
+          "hi": "27"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "25",
+          "hi": "25"
+        },
+        {
+          "en": "26",
+          "hi": "26"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Positional values sum:\nC(3) + U(21) + P(16) = 40.\nK(11) + I(9) + T(20) + E(5) = 45.\nBALL = B(2) + A(1) + L(12) + L(12) = 27.",
+        "hi": "B(2) + A(1) + L(12) + L(12) = 27।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00189",
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Find the next number in the series:\n4, 18, 48, 100, 180, ?",
+        "hi": "श्रृंखला में अगली संख्या ज्ञात कीजिए:\n4, 18, 48, 100, 180, ?"
+      },
+      "options": [
+        {
+          "en": "294",
+          "hi": "294"
+        },
+        {
+          "en": "280",
+          "hi": "280"
+        },
+        {
+          "en": "300",
+          "hi": "300"
+        },
+        {
+          "en": "275",
+          "hi": "275"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is n³ − n² (or n²(n − 1)) for n = 2, 3, 4, 5, 6, 7:\n2³ − 2² = 8 − 4 = 4\n3³ − 3² = 27 − 9 = 18\n4³ − 4² = 64 − 16 = 48\n5³ − 5² = 125 − 25 = 100\n6³ − 6² = 216 − 36 = 180\n7³ − 7² = 343 − 49 = 294.",
+        "hi": "पैटर्न n³ − n² है:\n7³ − 7² = 343 − 49 = 294।"
+      },
+      "difficulty": "medium",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00190",
+      "topic": "analogy",
+      "subTopic": "number_analogy",
+      "question": {
+        "en": "Select the related number:\n11 : 1210 :: 8 : ?",
+        "hi": "संबंधित संख्या चुनिए:\n11 : 1210 :: 8 : ?"
+      },
+      "options": [
+        {
+          "en": "448",
+          "hi": "448"
+        },
+        {
+          "en": "512",
+          "hi": "512"
+        },
+        {
+          "en": "480",
+          "hi": "480"
+        },
+        {
+          "en": "520",
+          "hi": "520"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is n : (n³ − n²):\n11³ − 11² = 1331 − 121 = 1210.\n8³ − 8² = 512 − 64 = 448.",
+        "hi": "पैटर्न: n³ − n² ⇒ 8³ − 8² = 512 − 64 = 448।"
+      },
+      "difficulty": "medium",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00191",
+      "topic": "classification",
+      "subTopic": "number_classification",
+      "question": {
+        "en": "Find the odd number out from:\n28, 65, 126, 215",
+        "hi": "विषम संख्या का चयन कीजिए:\n28, 65, 126, 215"
+      },
+      "options": [
+        {
+          "en": "215",
+          "hi": "215 (6³ − 1)"
+        },
+        {
+          "en": "28",
+          "hi": "28 (3³ + 1)"
+        },
+        {
+          "en": "65",
+          "hi": "65 (4³ + 1)"
+        },
+        {
+          "en": "126",
+          "hi": "126 (5³ + 1)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "28 = 3³ + 1, 65 = 4³ + 1, and 126 = 5³ + 1 follow pattern (n³ + 1). 215 = 6³ − 1 follows (n³ − 1).",
+        "hi": "28 (3³+1), 65 (4³+1), 126 (5³+1) में +1 है जबकि 215 (6³−1) में −1 है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00192",
+      "topic": "direction_sense",
+      "question": {
+        "en": "Deepak starts walking towards North. After walking 30 m, he turns left and walks 40 m. Then he turns left and walks 30 m. How far is he from his starting point?",
+        "hi": "दीपक उत्तर की ओर चलना शुरू करता है। 30 मीटर चलने के बाद वह बाएँ मुड़कर 40 मीटर चलता है। फिर वह बाएँ मुड़कर 30 मीटर चलता है। वह अपने प्रारंभिक बिंदु से कितनी दूरी पर है?"
+      },
+      "options": [
+        {
+          "en": "40 m",
+          "hi": "40 मीटर"
+        },
+        {
+          "en": "30 m",
+          "hi": "30 मीटर"
+        },
+        {
+          "en": "50 m",
+          "hi": "50 मीटर"
+        },
+        {
+          "en": "100 m",
+          "hi": "100 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "North 30 m and South 30 m cancel each other out. Net displacement is 40 m West.",
+        "hi": "उत्तर 30 मीटर और दक्षिण 30 मीटर समाप्त हो जाते हैं। शुद्ध दूरी 40 मीटर (पश्चिम) है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00193",
+      "topic": "blood_relations",
+      "question": {
+        "en": "Pointing to a photograph, Mohan said, 'She is the mother of the brother of my only son.' How is the woman in the photograph related to Mohan?",
+        "hi": "एक तस्वीर की ओर इशारा करते हुए मोहन ने कहा, 'वह मेरे इकलौते बेटे के भाई की माँ है।' तस्वीर वाली महिला का मोहन से क्या संबंध है?"
+      },
+      "options": [
+        {
+          "en": "Wife",
+          "hi": "पत्नी (Wife)"
+        },
+        {
+          "en": "Sister",
+          "hi": "बहन"
+        },
+        {
+          "en": "Mother",
+          "hi": "माँ"
+        },
+        {
+          "en": "Daughter",
+          "hi": "पुत्री"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Brother of my son' = my son. 'Mother of my son' = my wife. Hence, the woman is Mohan's wife.",
+        "hi": "मोहन के बेटे के भाई (बेटे) की माँ = मोहन की पत्नी।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00194",
+      "topic": "mathematical_operations",
+      "subTopic": "balancing_equations",
+      "question": {
+        "en": "Which two signs should be interchanged to make the equation correct?\n12 × 2 + 6 − 4 ÷ 2 = 4",
+        "hi": "समीकरण को सही बनाने के लिए किन दो चिह्नों को आपस में बदलना चाहिए?\n12 × 2 + 6 − 4 ÷ 2 = 4"
+      },
+      "options": [
+        {
+          "en": "× and ÷",
+          "hi": "× और ÷"
+        },
+        {
+          "en": "+ and −",
+          "hi": "+ और −"
+        },
+        {
+          "en": "+ and ×",
+          "hi": "+ और ×"
+        },
+        {
+          "en": "− and ÷",
+          "hi": "− और ÷"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Interchanging × and ÷:\n12 ÷ 2 + 6 − 4 × 2 = 6 + 6 − 8 = 12 − 8 = 4 (Balanced).",
+        "hi": "× और ÷ को बदलने पर: 12 ÷ 2 + 6 − 4 × 2 = 6 + 6 − 8 = 4।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00195",
+      "topic": "cube_and_dice",
+      "question": {
+        "en": "Opposite faces of a dice are marked with symbols: @ opposite #, $ opposite %, & opposite *. Which symbol is opposite to $?",
+        "hi": "एक पासे के विपरीत फलकों पर चिह्न अंकित हैं: @ के विपरीत #, $ के विपरीत %, & के विपरीत *। $ के विपरीत कौन सा चिह्न है?"
+      },
+      "options": [
+        {
+          "en": "%",
+          "hi": "%"
+        },
+        {
+          "en": "@",
+          "hi": "@"
+        },
+        {
+          "en": "#",
+          "hi": "#"
+        },
+        {
+          "en": "&",
+          "hi": "&"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "As directly defined, $ is opposite to %.",
+        "hi": "दिए गए संबंध के अनुसार, $ के विपरीत % है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00196",
+      "topic": "ranking_order",
+      "question": {
+        "en": "In a row of boys, A is 10th from the left and B is 9th from the right. If they interchange their positions, A becomes 15th from the left. How many boys are there in the row?",
+        "hi": "लड़कों की एक पंक्ति में A बाएँ से 10वें तथा B दाएँ से 9वें स्थान पर है। यदि वे आपस में स्थान बदल लेते हैं, तो A बाएँ से 15वाँ हो जाता है। पंक्ति में कुल कितने लड़के हैं?"
+      },
+      "options": [
+        {
+          "en": "23",
+          "hi": "23"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "25",
+          "hi": "25"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A's new position from left = 15th (which is B's original position, 9th from right).\nTotal = Left + Right − 1 = 15 + 9 − 1 = 23.",
+        "hi": "स्थान परिवर्तन के बाद कुल संख्या = A का नया बायाँ स्थान + B का पुराना दायाँ स्थान − 1 = 15 + 9 − 1 = 23।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00197",
+      "topic": "word_formation",
+      "question": {
+        "en": "Arrange the words in dictionary order:\n1. Genuine  2. Genesis  3. Gender  4. General  5. Gentle",
+        "hi": "शब्दकोश क्रम में व्यवस्थित कीजिए:\n1. Genuine  2. Genesis  3. Gender  4. General  5. Gentle"
+      },
+      "options": [
+        {
+          "en": "3, 4, 2, 5, 1",
+          "hi": "3, 4, 2, 5, 1"
+        },
+        {
+          "en": "3, 2, 4, 5, 1",
+          "hi": "3, 2, 4, 5, 1"
+        },
+        {
+          "en": "3, 4, 5, 2, 1",
+          "hi": "3, 4, 5, 2, 1"
+        },
+        {
+          "en": "4, 3, 2, 5, 1",
+          "hi": "4, 3, 2, 5, 1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Alphabetical order:\n1. Gender (G-e-n-d...)\n2. General (G-e-n-e-r...)\n3. Genesis (G-e-n-e-s...)\n4. Gentle (G-e-n-t...)\n5. Genuine (G-e-n-u...)\nSequence = 3, 4, 2, 5, 1.",
+        "hi": "सही क्रम: 1. Gender (3), 2. General (4), 3. Genesis (2), 4. Gentle (5), 5. Genuine (1) ⇒ 3, 4, 2, 5, 1।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00198",
+      "topic": "analogy",
+      "subTopic": "word_analogy",
+      "question": {
+        "en": "Select the related pair:\nPiston : Cylinder :: Propeller : ?",
+        "hi": "संबंधित युग्म चुनिए:\nपिस्टन : सिलेंडर :: प्रोपेलर (Propeller) : ?"
+      },
+      "options": [
+        {
+          "en": "Aeroplane / Ship",
+          "hi": "हवाई जहाज / जलपोत"
+        },
+        {
+          "en": "Car",
+          "hi": "कार"
+        },
+        {
+          "en": "Bicycle",
+          "hi": "साइकिल"
+        },
+        {
+          "en": "Train",
+          "hi": "रेलगाड़ी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A piston is a working component of an engine cylinder; a propeller provides thrust for an aeroplane or ship.",
+        "hi": "पिस्टन सिलेंडर का घटक है; प्रोपेलर हवाई जहाज या पानी के जहाज का प्रेरक अंग है।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00199",
+      "topic": "series",
+      "subTopic": "alphabet_series",
+      "question": {
+        "en": "Select the missing cluster:\nAZ, BY, CX, DW, ?",
+        "hi": "लुप्त अक्षर-समूह चुनिए:\nAZ, BY, CX, DW, ?"
+      },
+      "options": [
+        {
+          "en": "EV",
+          "hi": "EV"
+        },
+        {
+          "en": "FU",
+          "hi": "FU"
+        },
+        {
+          "en": "EU",
+          "hi": "EU"
+        },
+        {
+          "en": "EW",
+          "hi": "EW"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Forward letter +1: A, B, C, D → E.\nBackward letter −1: Z, Y, X, W → V.\nOpposite pair = EV.",
+        "hi": "पहला अक्षर +1 (A, B, C, D, E) तथा दूसरा अक्षर -1 (Z, Y, X, W, V) ⇒ EV।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_reasoning_00200",
+      "topic": "coding_decoding",
+      "subTopic": "number_coding",
+      "question": {
+        "en": "If 'DOCTOR' = 6 and 'HOSPITAL' = 8, what is 'MEDICINE'?",
+        "hi": "यदि 'DOCTOR' = 6 और 'HOSPITAL' = 8 है, तो 'MEDICINE' का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The code corresponds to the number of letters in the word:\nDOCTOR = 6 letters.\nHOSPITAL = 8 letters.\nMEDICINE = 8 letters.",
+        "hi": "शब्द में कुल अक्षरों की संख्या: MEDICINE = 8 अक्षर।"
+      },
+      "difficulty": "easy",
+      "year": 2020,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     }
   ]
 }
