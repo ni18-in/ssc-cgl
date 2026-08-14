@@ -3,15 +3,15 @@
   "mockId": "t1_mock_001",
   "tier": "tier1",
   "title": {
-    "en": "Tier 1 Full Mock Paper — 98 Questions",
-    "hi": "टियर 1 फुल मॉक पेपर — 98 प्रश्न"
+    "en": "SSC CGL Tier 1 — Full Mock Test 1",
+    "hi": "एसएससी सीजीएल टियर 1 — फुल मॉक टेस्ट 1"
   },
   "durationMinutes": 60,
   "sectionalTiming": false,
-  "isDemo": true,
+  "isDemo": false,
   "instructions": {
-    "en": "This is a comprehensive full-length Tier 1 practice paper containing 98 questions across all 4 subjects (24 Reasoning, 24 GK, 26 Quant, 24 English). Exam pattern: +2 for correct answers, -0.5 for wrong answers, 0 for unattempted.",
-    "hi": "यह सभी 4 विषयों (24 रीज़निंग, 24 जीके, 26 क्वांट, 24 इंग्लिश) के 98 प्रश्नों वाला पूर्ण टियर 1 अभ्यास प्रश्नपत्र है। परीक्षा पैटर्न: सही उत्तर पर +2, गलत पर -0.5, तथा अनुत्तरित पर 0।"
+    "en": "Official Tier 1 Pattern: 100 Questions (25 Reasoning, 25 General Awareness, 25 Quantitative Aptitude, 25 English Comprehension). Duration: 60 minutes. Marking Scheme: +2 for each correct answer, -0.50 negative marking for each incorrect answer, 0 for unattempted questions.",
+    "hi": "आधिकारिक टियर 1 पैटर्न: 100 प्रश्न (25 रीज़निंग, 25 सामान्य जागरूकता, 25 गणित, 25 अंग्रेजी)। अवधि: 60 मिनट। अंकन योजना: प्रत्येक सही उत्तर पर +2, प्रत्येक गलत उत्तर पर -0.50 नकारात्मक अंकन, अनुत्तरित पर 0।"
   },
   "sections": [
     {
@@ -47,12 +47,16 @@
         "q_t1_reasoning_00021",
         "q_t1_reasoning_00022",
         "q_t1_reasoning_00023",
-        "q_t1_reasoning_00024"
+        "q_t1_reasoning_00024",
+        "q_t1_reasoning_00025"
       ]
     },
     {
       "subject": "gk",
-      "title": { "en": "General Awareness", "hi": "सामान्य जागरूकता" },
+      "title": {
+        "en": "General Awareness",
+        "hi": "सामान्य जागरूकता"
+      },
       "durationMinutes": null,
       "marksPerQuestion": 2,
       "negativeMarks": 0.5,
@@ -80,7 +84,8 @@
         "q_t1_gk_00021",
         "q_t1_gk_00022",
         "q_t1_gk_00023",
-        "q_t1_gk_00024"
+        "q_t1_gk_00024",
+        "q_t1_gk_00025"
       ]
     },
     {
@@ -117,13 +122,15 @@
         "q_t1_quant_00022",
         "q_t1_quant_00023",
         "q_t1_quant_00024",
-        "q_t1_quant_00025",
-        "q_t1_quant_00026"
+        "q_t1_quant_00025"
       ]
     },
     {
       "subject": "english",
-      "title": { "en": "English Comprehension", "hi": "अंग्रेजी बोधगम्यता" },
+      "title": {
+        "en": "English Comprehension",
+        "hi": "अंग्रेजी बोधगम्यता"
+      },
       "durationMinutes": null,
       "marksPerQuestion": 2,
       "negativeMarks": 0.5,
@@ -151,7 +158,8 @@
         "q_t1_english_00021",
         "q_t1_english_00022",
         "q_t1_english_00023",
-        "q_t1_english_00024"
+        "q_t1_english_00024",
+        "q_t1_english_00025"
       ]
     }
   ]

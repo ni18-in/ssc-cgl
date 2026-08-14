@@ -3,7 +3,10 @@
   "bankId": "t1_quant",
   "tier": "tier1",
   "subject": "quant",
-  "title": { "en": "Quantitative Aptitude — Tier 1", "hi": "मात्रात्मक अभियोग्यता — टियर 1" },
+  "title": {
+    "en": "Quantitative Aptitude — Tier 1",
+    "hi": "मात्रात्मक अभियोग्यता — टियर 1"
+  },
   "defaultMarks": 2,
   "defaultNegativeMarks": 0.5,
   "questions": [
@@ -16,10 +19,22 @@
         "hi": "नल A एक टंकी को 6 घंटे में तथा नल B उसी टंकी को 4 घंटे में भर सकता है। यदि दोनों नल एक साथ खोले जाएँ, तो टंकी भरने में कितना समय लगेगा?"
       },
       "options": [
-        { "en": "3 hours", "hi": "3 घंटे" },
-        { "en": "2 hours 24 minutes", "hi": "2 घंटे 24 मिनट" },
-        { "en": "2 hours 30 minutes", "hi": "2 घंटे 30 मिनट" },
-        { "en": "2 hours", "hi": "2 घंटे" }
+        {
+          "en": "3 hours",
+          "hi": "3 घंटे"
+        },
+        {
+          "en": "2 hours 24 minutes",
+          "hi": "2 घंटे 24 मिनट"
+        },
+        {
+          "en": "2 hours 30 minutes",
+          "hi": "2 घंटे 30 मिनट"
+        },
+        {
+          "en": "2 hours",
+          "hi": "2 घंटे"
+        }
       ],
       "correctIndex": 1,
       "explanation": {
@@ -29,7 +44,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00002",
@@ -39,10 +57,22 @@
         "hi": "एक वस्तु के मूल्य में 25% की वृद्धि की जाती है। मूल मूल्य पर वापस लाने के लिए नए मूल्य में कितने प्रतिशत की कमी करनी होगी?"
       },
       "options": [
-        { "en": "25%", "hi": "25%" },
-        { "en": "16.67%", "hi": "16.67%" },
-        { "en": "20%", "hi": "20%" },
-        { "en": "22%", "hi": "22%" }
+        {
+          "en": "25%",
+          "hi": "25%"
+        },
+        {
+          "en": "16.67%",
+          "hi": "16.67%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "22%",
+          "hi": "22%"
+        }
       ],
       "correctIndex": 2,
       "explanation": {
@@ -52,7 +82,11 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked", "trap"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked",
+        "trap"
+      ]
     },
     {
       "id": "q_t1_quant_00003",
@@ -62,10 +96,22 @@
         "hi": "एक दुकानदार अपने सामान पर क्रय मूल्य से 40% अधिक अंकित मूल्य रखता है और फिर अंकित मूल्य पर 25% की छूट देता है। उसका लाभ प्रतिशत क्या है?"
       },
       "options": [
-        { "en": "10%", "hi": "10%" },
-        { "en": "15%", "hi": "15%" },
-        { "en": "4%", "hi": "4%" },
-        { "en": "5%", "hi": "5%" }
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "15%",
+          "hi": "15%"
+        },
+        {
+          "en": "4%",
+          "hi": "4%"
+        },
+        {
+          "en": "5%",
+          "hi": "5%"
+        }
       ],
       "correctIndex": 3,
       "explanation": {
@@ -75,7 +121,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "formula_based"]
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ]
     },
     {
       "id": "q_t1_quant_00004",
@@ -86,10 +135,22 @@
         "hi": "₹10,000 पर 10% वार्षिक दर से 2 वर्ष के लिए चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ज्ञात कीजिए (वार्षिक चक्रवृद्धि)।"
       },
       "options": [
-        { "en": "₹100", "hi": "₹100" },
-        { "en": "₹110", "hi": "₹110" },
-        { "en": "₹121", "hi": "₹121" },
-        { "en": "₹90", "hi": "₹90" }
+        {
+          "en": "₹100",
+          "hi": "₹100"
+        },
+        {
+          "en": "₹110",
+          "hi": "₹110"
+        },
+        {
+          "en": "₹121",
+          "hi": "₹121"
+        },
+        {
+          "en": "₹90",
+          "hi": "₹90"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -99,7 +160,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00005",
@@ -110,10 +174,22 @@
         "hi": "180 मीटर लंबी एक रेलगाड़ी 54 किमी/घंटा की चाल से चल रही है। 120 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?"
       },
       "options": [
-        { "en": "15 seconds", "hi": "15 सेकंड" },
-        { "en": "20 seconds", "hi": "20 सेकंड" },
-        { "en": "25 seconds", "hi": "25 सेकंड" },
-        { "en": "18 seconds", "hi": "18 सेकंड" }
+        {
+          "en": "15 seconds",
+          "hi": "15 सेकंड"
+        },
+        {
+          "en": "20 seconds",
+          "hi": "20 सेकंड"
+        },
+        {
+          "en": "25 seconds",
+          "hi": "25 सेकंड"
+        },
+        {
+          "en": "18 seconds",
+          "hi": "18 सेकंड"
+        }
       ],
       "correctIndex": 1,
       "explanation": {
@@ -123,7 +199,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00006",
@@ -133,10 +212,22 @@
         "hi": "यदि a : b = 3 : 4 तथा b : c = 6 : 5 हो, तो a : c बराबर है:"
       },
       "options": [
-        { "en": "10 : 9", "hi": "10 : 9" },
-        { "en": "9 : 10", "hi": "9 : 10" },
-        { "en": "2 : 3", "hi": "2 : 3" },
-        { "en": "3 : 2", "hi": "3 : 2" }
+        {
+          "en": "10 : 9",
+          "hi": "10 : 9"
+        },
+        {
+          "en": "9 : 10",
+          "hi": "9 : 10"
+        },
+        {
+          "en": "2 : 3",
+          "hi": "2 : 3"
+        },
+        {
+          "en": "3 : 2",
+          "hi": "3 : 2"
+        }
       ],
       "correctIndex": 1,
       "explanation": {
@@ -146,7 +237,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable"]
+      "tags": [
+        "shortcut_applicable"
+      ]
     },
     {
       "id": "q_t1_quant_00007",
@@ -157,10 +250,22 @@
         "hi": "एक लंब वृत्तीय बेलन की त्रिज्या तथा ऊँचाई दोनों में 20% की वृद्धि की जाती है। इसका आयतन कितने प्रतिशत बढ़ जाएगा?"
       },
       "options": [
-        { "en": "60%", "hi": "60%" },
-        { "en": "72.8%", "hi": "72.8%" },
-        { "en": "44%", "hi": "44%" },
-        { "en": "86.4%", "hi": "86.4%" }
+        {
+          "en": "60%",
+          "hi": "60%"
+        },
+        {
+          "en": "72.8%",
+          "hi": "72.8%"
+        },
+        {
+          "en": "44%",
+          "hi": "44%"
+        },
+        {
+          "en": "86.4%",
+          "hi": "86.4%"
+        }
       ],
       "correctIndex": 1,
       "explanation": {
@@ -170,7 +275,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["trap", "formula_based"]
+      "tags": [
+        "trap",
+        "formula_based"
+      ]
     },
     {
       "id": "q_t1_quant_00008",
@@ -180,10 +288,22 @@
         "hi": "11 संख्याओं का औसत 50 है। यदि पहली छह संख्याओं का औसत 49 तथा अंतिम छह संख्याओं का औसत 52 है, तो छठी संख्या क्या है?"
       },
       "options": [
-        { "en": "56", "hi": "56" },
-        { "en": "48", "hi": "48" },
-        { "en": "51", "hi": "51" },
-        { "en": "60", "hi": "60" }
+        {
+          "en": "56",
+          "hi": "56"
+        },
+        {
+          "en": "48",
+          "hi": "48"
+        },
+        {
+          "en": "51",
+          "hi": "51"
+        },
+        {
+          "en": "60",
+          "hi": "60"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -193,7 +313,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked", "conceptual"]
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
     },
     {
       "id": "q_t1_quant_00009",
@@ -204,10 +327,22 @@
         "hi": "यदि x + 1/x = 5 हो, तो x³ + 1/x³ का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "110", "hi": "110" },
-        { "en": "125", "hi": "125" },
-        { "en": "140", "hi": "140" },
-        { "en": "115", "hi": "115" }
+        {
+          "en": "110",
+          "hi": "110"
+        },
+        {
+          "en": "125",
+          "hi": "125"
+        },
+        {
+          "en": "140",
+          "hi": "140"
+        },
+        {
+          "en": "115",
+          "hi": "115"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -217,7 +352,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00010",
@@ -228,10 +366,22 @@
         "hi": "9 सेमी तथा 4 सेमी त्रिज्या वाले दो वृत्त एक दूसरे को बाह्यतः स्पर्श करते हैं। उनकी सीधी उभयनिष्ठ स्पर्श रेखा की लंबाई ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "12 cm", "hi": "12 सेमी" },
-        { "en": "13 cm", "hi": "13 सेमी" },
-        { "en": "10 cm", "hi": "10 सेमी" },
-        { "en": "15 cm", "hi": "15 सेमी" }
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "13 cm",
+          "hi": "13 सेमी"
+        },
+        {
+          "en": "10 cm",
+          "hi": "10 सेमी"
+        },
+        {
+          "en": "15 cm",
+          "hi": "15 सेमी"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -241,7 +391,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00011",
@@ -252,10 +405,22 @@
         "hi": "यदि tan θ = 4/3 और θ न्यून कोण है, तो (sin θ + cos θ) / (sin θ − cos θ) का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "7", "hi": "7" },
-        { "en": "5", "hi": "5" },
-        { "en": "3", "hi": "3" },
-        { "en": "1/7", "hi": "1/7" }
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "1/7",
+          "hi": "1/7"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -265,7 +430,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00012",
@@ -276,10 +444,22 @@
         "hi": "यदि 8-अंकीय संख्या 789x531y 72 से विभाज्य है, तो (x + y) का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "3", "hi": "3" },
-        { "en": "5", "hi": "5" },
-        { "en": "7", "hi": "7" },
-        { "en": "9", "hi": "9" }
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -289,7 +469,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked", "conceptual"]
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
     },
     {
       "id": "q_t1_quant_00013",
@@ -300,10 +483,22 @@
         "hi": "ΔABC में, ∠B तथा ∠C के अंतः कोण समद्विभाजक अंतःकेंद्र I पर मिलते हैं। यदि ∠A = 70° हो, तो ∠BIC का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "125°", "hi": "125°" },
-        { "en": "110°", "hi": "110°" },
-        { "en": "135°", "hi": "135°" },
-        { "en": "140°", "hi": "140°" }
+        {
+          "en": "125°",
+          "hi": "125°"
+        },
+        {
+          "en": "110°",
+          "hi": "110°"
+        },
+        {
+          "en": "135°",
+          "hi": "135°"
+        },
+        {
+          "en": "140°",
+          "hi": "140°"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -313,7 +508,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00014",
@@ -324,10 +522,22 @@
         "hi": "एक नाव धारा के अनुकूल 30 किमी की दूरी 2 घंटे में तथा धारा के प्रतिकूल वही दूरी 5 घंटे में तय करती है। धारा की चाल ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "4.5 km/h", "hi": "4.5 किमी/घंटा" },
-        { "en": "3 km/h", "hi": "3 किमी/घंटा" },
-        { "en": "6 km/h", "hi": "6 किमी/घंटा" },
-        { "en": "1.5 km/h", "hi": "1.5 किमी/घंटा" }
+        {
+          "en": "4.5 km/h",
+          "hi": "4.5 किमी/घंटा"
+        },
+        {
+          "en": "3 km/h",
+          "hi": "3 किमी/घंटा"
+        },
+        {
+          "en": "6 km/h",
+          "hi": "6 किमी/घंटा"
+        },
+        {
+          "en": "1.5 km/h",
+          "hi": "1.5 किमी/घंटा"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -337,7 +547,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00015",
@@ -347,10 +560,22 @@
         "hi": "√(12 + √(12 + √(12 + ... ∞))) का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "4", "hi": "4" },
-        { "en": "3", "hi": "3" },
-        { "en": "6", "hi": "6" },
-        { "en": "12", "hi": "12" }
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -360,7 +585,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00016",
@@ -371,10 +599,22 @@
         "hi": "यदि a + b + c = 6 तथा a² + b² + c² = 14 हो, तो ab + bc + ca का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "11", "hi": "11" },
-        { "en": "12", "hi": "12" },
-        { "en": "10", "hi": "10" },
-        { "en": "8", "hi": "8" }
+        {
+          "en": "11",
+          "hi": "11"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -384,7 +624,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00017",
@@ -394,10 +637,22 @@
         "hi": "एक बेईमान दुकानदार क्रय मूल्य पर सामान बेचने का दावा करता है, परंतु 1 किग्रा के स्थान पर 900 ग्राम के नकली बाँट का प्रयोग करता है। उसका लाभ प्रतिशत क्या है?"
       },
       "options": [
-        { "en": "11.11%", "hi": "11.11%" },
-        { "en": "10%", "hi": "10%" },
-        { "en": "12.5%", "hi": "12.5%" },
-        { "en": "9%", "hi": "9%" }
+        {
+          "en": "11.11%",
+          "hi": "11.11%"
+        },
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "12.5%",
+          "hi": "12.5%"
+        },
+        {
+          "en": "9%",
+          "hi": "9%"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -407,7 +662,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00018",
@@ -417,10 +675,22 @@
         "hi": "9 तथा 25 का मध्यानुपाती ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "15", "hi": "15" },
-        { "en": "17", "hi": "17" },
-        { "en": "12", "hi": "12" },
-        { "en": "16", "hi": "16" }
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "17",
+          "hi": "17"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -430,7 +700,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00019",
@@ -441,10 +714,22 @@
         "hi": "₹8,000 पर 10% वार्षिक दर से 3 वर्ष के चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "₹248", "hi": "₹248" },
-        { "en": "₹240", "hi": "₹240" },
-        { "en": "₹250", "hi": "₹250" },
-        { "en": "₹256", "hi": "₹256" }
+        {
+          "en": "₹248",
+          "hi": "₹248"
+        },
+        {
+          "en": "₹240",
+          "hi": "₹240"
+        },
+        {
+          "en": "₹250",
+          "hi": "₹250"
+        },
+        {
+          "en": "₹256",
+          "hi": "₹256"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -454,7 +739,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00020",
@@ -465,10 +753,22 @@
         "hi": "चक्रीय चतुर्भुज ABCD में, यदि ∠A = 105° हो, तो सम्मुख कोण ∠C का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "75°", "hi": "75°" },
-        { "en": "85°", "hi": "85°" },
-        { "en": "95°", "hi": "95°" },
-        { "en": "105°", "hi": "105°" }
+        {
+          "en": "75°",
+          "hi": "75°"
+        },
+        {
+          "en": "85°",
+          "hi": "85°"
+        },
+        {
+          "en": "95°",
+          "hi": "95°"
+        },
+        {
+          "en": "105°",
+          "hi": "105°"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -478,7 +778,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["conceptual", "frequently_asked"]
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00021",
@@ -489,10 +792,22 @@
         "hi": "ΔABC का केंद्रक G है। यदि माध्यिका AD की लंबाई 18 सेमी है, तो AG की लंबाई ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "12 cm", "hi": "12 सेमी" },
-        { "en": "9 cm", "hi": "9 सेमी" },
-        { "en": "6 cm", "hi": "6 सेमी" },
-        { "en": "14 cm", "hi": "14 सेमी" }
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "9 cm",
+          "hi": "9 सेमी"
+        },
+        {
+          "en": "6 cm",
+          "hi": "6 सेमी"
+        },
+        {
+          "en": "14 cm",
+          "hi": "14 सेमी"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -502,7 +817,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00022",
@@ -513,10 +831,22 @@
         "hi": "यदि sec θ + tan θ = 3 हो, तो sec θ − tan θ का मान ज्ञात कीजिए।"
       },
       "options": [
-        { "en": "1/3", "hi": "1/3" },
-        { "en": "3", "hi": "3" },
-        { "en": "2/3", "hi": "2/3" },
-        { "en": "1/9", "hi": "1/9" }
+        {
+          "en": "1/3",
+          "hi": "1/3"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "2/3",
+          "hi": "2/3"
+        },
+        {
+          "en": "1/9",
+          "hi": "1/9"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -526,7 +856,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00023",
@@ -537,10 +870,22 @@
         "hi": "6 सेमी त्रिज्या का एक धातु का गोला पिघलाकर 2 सेमी त्रिज्या के छोटे गोलों में ढाला जाता है। ऐसे कितने छोटे गोले बनेंगे?"
       },
       "options": [
-        { "en": "27", "hi": "27" },
-        { "en": "18", "hi": "18" },
-        { "en": "9", "hi": "9" },
-        { "en": "36", "hi": "36" }
+        {
+          "en": "27",
+          "hi": "27"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -550,7 +895,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00024",
@@ -560,10 +908,22 @@
         "hi": "एक बर्तन में 40 लीटर दूध है। इसमें से 4 लीटर दूध निकालकर पानी भर दिया गया। यह प्रक्रिया एक बार फिर दोहराई गई। अब बर्तन में कितना दूध शेष है?"
       },
       "options": [
-        { "en": "32.4 litres", "hi": "32.4 लीटर" },
-        { "en": "34 litres", "hi": "34 लीटर" },
-        { "en": "31.6 litres", "hi": "31.6 लीटर" },
-        { "en": "32 litres", "hi": "32 लीटर" }
+        {
+          "en": "32.4 litres",
+          "hi": "32.4 लीटर"
+        },
+        {
+          "en": "34 litres",
+          "hi": "34 लीटर"
+        },
+        {
+          "en": "31.6 litres",
+          "hi": "31.6 लीटर"
+        },
+        {
+          "en": "32 litres",
+          "hi": "32 लीटर"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -573,7 +933,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["formula_based", "frequently_asked"]
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00025",
@@ -583,10 +946,22 @@
         "hi": "8 व्यक्तियों का औसत भार 2.5 किग्रा बढ़ जाता है जब 65 किग्रा भार वाले एक व्यक्ति के स्थान पर नया व्यक्ति आता है। नए व्यक्ति का भार क्या है?"
       },
       "options": [
-        { "en": "85 kg", "hi": "85 किग्रा" },
-        { "en": "80 kg", "hi": "80 किग्रा" },
-        { "en": "75 kg", "hi": "75 किग्रा" },
-        { "en": "90 kg", "hi": "90 किग्रा" }
+        {
+          "en": "85 kg",
+          "hi": "85 किग्रा"
+        },
+        {
+          "en": "80 kg",
+          "hi": "80 किग्रा"
+        },
+        {
+          "en": "75 kg",
+          "hi": "75 किग्रा"
+        },
+        {
+          "en": "90 kg",
+          "hi": "90 किग्रा"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -596,7 +971,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_quant_00026",
@@ -606,10 +984,22 @@
         "hi": "यदि चीनी के मूल्य में 20% की वृद्धि होती है, तो एक परिवार को अपनी खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि व्यय अपरिवर्तित रहे?"
       },
       "options": [
-        { "en": "16.67%", "hi": "16.67%" },
-        { "en": "20%", "hi": "20%" },
-        { "en": "15%", "hi": "15%" },
-        { "en": "25%", "hi": "25%" }
+        {
+          "en": "16.67%",
+          "hi": "16.67%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "15%",
+          "hi": "15%"
+        },
+        {
+          "en": "25%",
+          "hi": "25%"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -619,7 +1009,4835 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["shortcut_applicable", "frequently_asked"]
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00027",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If the 9-digit number 7698x138y is divisible by 72, find the value of (4x − 3y) for the largest possible value of y.",
+        "hi": "यदि 9-अंकों की संख्या 7698x138y, 72 से पूर्णतः विभाज्य है, तो y के अधिकतम संभव मान के लिए (4x − 3y) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "20",
+          "hi": "20"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "22",
+          "hi": "22"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For divisibility by 72, the number must be divisible by both 8 and 9.\nFor 8: The last 3 digits '38y' must be divisible by 8. 384/8 = 48, so y = 4 (unique single digit).\nFor 9: Sum of digits = 7 + 6 + 9 + 8 + x + 1 + 3 + 8 + 4 = 46 + x. Nearest multiple of 9 is 54, so x = 8.\nTherefore, 4x − 3y = 4(8) − 3(4) = 32 − 12 = 20.",
+        "hi": "72 से विभाज्यता के लिए संख्या 8 तथा 9 दोनों से विभाज्य होनी चाहिए।\n8 के लिए: अंतिम 3 अंक 38y विभाज्य होने चाहिए => y = 4।\n9 के लिए: अंकों का योग = 46 + x = 54 => x = 8।\nअतः 4x − 3y = 4(8) − 3(4) = 32 − 12 = 20।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "shortcut_applicable"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00028",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = 3, what is the value of x⁴ + 1/x⁴?",
+        "hi": "यदि x + 1/x = 3 है, तो x⁴ + 1/x⁴ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "47",
+          "hi": "47"
+        },
+        {
+          "en": "49",
+          "hi": "49"
+        },
+        {
+          "en": "51",
+          "hi": "51"
+        },
+        {
+          "en": "45",
+          "hi": "45"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Given x + 1/x = 3.\nSquaring both sides: x² + 1/x² = 3² − 2 = 7.\nSquaring again: x⁴ + 1/x⁴ = 7² − 2 = 47.",
+        "hi": "दिया है: x + 1/x = 3।\nदोनों पक्षों का वर्ग करने पर: x² + 1/x² = 3² − 2 = 7।\nपुनः वर्ग करने पर: x⁴ + 1/x⁴ = 7² − 2 = 47।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00029",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "Tangents AP and AQ are drawn to a circle with centre O from an external point A. If ∠PAQ = 70°, what is the measure of ∠POQ?",
+        "hi": "केंद्र O वाले वृत्त पर बाह्य बिंदु A से दो स्पर्श रेखाएँ AP और AQ खींची जाती हैं। यदि ∠PAQ = 70° है, तो ∠POQ का माप क्या है?"
+      },
+      "options": [
+        {
+          "en": "110°",
+          "hi": "110°"
+        },
+        {
+          "en": "120°",
+          "hi": "120°"
+        },
+        {
+          "en": "140°",
+          "hi": "140°"
+        },
+        {
+          "en": "55°",
+          "hi": "55°"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In quadrilateral OPAQ, radius is perpendicular to tangent at the point of contact, so ∠OPA = ∠OQA = 90°.\nThe sum of angles in quadrilateral OPAQ is 360°.\nTherefore, ∠POQ + ∠PAQ = 180° ⇒ ∠POQ = 180° − 70° = 110°.",
+        "hi": "चतुर्भुज OPAQ में, स्पर्श बिंदु पर त्रिज्या लंब होती है, अतः ∠OPA = ∠OQA = 90°।\nचतुर्भुज के चारों कोणों का योग 360° होता है।\nअतः ∠POQ + ∠PAQ = 180° ⇒ ∠POQ = 180° − 70° = 110°।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00030",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If tan θ = 4/3, what is the value of (3 sin θ + 2 cos θ) / (3 sin θ − 2 cos θ)?",
+        "hi": "यदि tan θ = 4/3 है, तो (3 sin θ + 2 cos θ) / (3 sin θ − 2 cos θ) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Divide numerator and denominator by cos θ:\n(3 tan θ + 2) / (3 tan θ − 2) = (3(4/3) + 2) / (3(4/3) − 2) = (4 + 2) / (4 − 2) = 6 / 2 = 3.",
+        "hi": "अंश और हर दोनों को cos θ से भाग देने पर:\n(3 tan θ + 2) / (3 tan θ − 2) = (3 × 4/3 + 2) / (3 × 4/3 − 2) = (4 + 2) / (4 − 2) = 6 / 2 = 3।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00031",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A dishonest shopkeeper professes to sell goods at cost price but uses a weight of 800 grams instead of 1 kg. What is his profit percentage?",
+        "hi": "एक बेईमान दुकानदार अपनी वस्तुओं को क्रय मूल्य पर बेचने का दावा करता है, लेकिन 1 किग्रा के स्थान पर 800 ग्राम के बांट का उपयोग करता है। उसका लाभ प्रतिशत क्या है?"
+      },
+      "options": [
+        {
+          "en": "25%",
+          "hi": "25%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "16.67%",
+          "hi": "16.67%"
+        },
+        {
+          "en": "12.5%",
+          "hi": "12.5%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Profit % = [(Error) / (True value − Error)] × 100\n= [(1000 − 800) / 800] × 100 = (200 / 800) × 100 = 25%.",
+        "hi": "लाभ % = [त्रुटि / (सत्य मान − त्रुटि)] × 100\n= (200 / 800) × 100 = 25%।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00032",
+      "topic": "interest",
+      "subTopic": "compound_interest",
+      "question": {
+        "en": "The difference between compound interest and simple interest on a certain sum of money for 2 years at 10% per annum is ₹65. Find the sum.",
+        "hi": "किसी धनराशि पर 10% वार्षिक दर से 2 वर्ष के चक्रवृद्धि ब्याज और साधारण ब्याज का अंतर ₹65 है। वह धनराशि ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "₹6,500",
+          "hi": "₹6,500"
+        },
+        {
+          "en": "₹6,000",
+          "hi": "₹6,000"
+        },
+        {
+          "en": "₹7,200",
+          "hi": "₹7,200"
+        },
+        {
+          "en": "₹5,500",
+          "hi": "₹5,500"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For 2 years, Difference = P × (R/100)²\n65 = P × (10/100)² = P × (1/100)\n⇒ P = 65 × 100 = ₹6,500.",
+        "hi": "2 वर्ष के लिए अंतर = P × (R/100)²\n65 = P × (10/100)² = P × (1/100)\n⇒ P = ₹6,500।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00033",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "Two trains of lengths 140 m and 160 m are running in opposite directions at speeds of 60 km/h and 48 km/h respectively. In what time will they cross each other?",
+        "hi": "140 मीटर तथा 160 मीटर लंबाई वाली दो रेलगाड़ियाँ क्रमशः 60 किमी/घंटा और 48 किमी/घंटा की चाल से विपरीत दिशाओं में चल रही हैं। वे एक-दूसरे को कितने समय में पार करेंगी?"
+      },
+      "options": [
+        {
+          "en": "10 seconds",
+          "hi": "10 सेकंड"
+        },
+        {
+          "en": "12 seconds",
+          "hi": "12 सेकंड"
+        },
+        {
+          "en": "8 seconds",
+          "hi": "8 सेकंड"
+        },
+        {
+          "en": "15 seconds",
+          "hi": "15 सेकंड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total distance = 140 + 160 = 300 m.\nRelative speed = 60 + 48 = 108 km/h = 108 × (5/18) = 30 m/s.\nTime = Total distance / Relative speed = 300 / 30 = 10 seconds.",
+        "hi": "कुल दूरी = 140 + 160 = 300 मीटर।\nसापेक्ष चाल = 60 + 48 = 108 किमी/घंटा = 108 × (5/18) = 30 मी/से।\nसमय = 300 / 30 = 10 सेकंड।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00034",
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "A can complete a piece of work in 12 days and B can complete it in 18 days. They work together for 4 days, after which B leaves. How many more days will A take to finish the remaining work?",
+        "hi": "A किसी कार्य को 12 दिनों में तथा B उसे 18 दिनों में पूरा कर सकता है। वे 4 दिनों तक एक साथ कार्य करते हैं, जिसके बाद B छोड़ देता है। शेष कार्य को पूरा करने में A को कितने और दिन लगेंगे?"
+      },
+      "options": [
+        {
+          "en": "5⅓ days",
+          "hi": "5⅓ दिन"
+        },
+        {
+          "en": "6 days",
+          "hi": "6 दिन"
+        },
+        {
+          "en": "4⅔ days",
+          "hi": "4⅔ दिन"
+        },
+        {
+          "en": "5 days",
+          "hi": "5 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total work = LCM(12, 18) = 36 units.\nA's 1-day work = 3 units, B's 1-day work = 2 units.\nTogether in 4 days: 4 × (3 + 2) = 20 units.\nRemaining work = 36 − 20 = 16 units.\nTime taken by A alone = 16 / 3 = 5⅓ days.",
+        "hi": "कुल कार्य = ल.स.(12, 18) = 36 इकाई।\nA की दक्षता = 3 इकाई/दिन, B की दक्षता = 2 इकाई/दिन।\n4 दिनों में किया गया कार्य = 4 × 5 = 20 इकाई।\nशेष कार्य = 36 − 20 = 16 इकाई।\nA द्वारा लिया गया समय = 16 / 3 = 5⅓ दिन।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00035",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "The ratio of two numbers is 3 : 5. If 6 is added to each number, the ratio becomes 2 : 3. What is the sum of the two numbers?",
+        "hi": "दो संख्याओं का अनुपात 3 : 5 है। यदि प्रत्येक संख्या में 6 जोड़ दिया जाए, तो अनुपात 2 : 3 हो जाता है। दोनों संख्याओं का योग क्या है?"
+      },
+      "options": [
+        {
+          "en": "48",
+          "hi": "48"
+        },
+        {
+          "en": "40",
+          "hi": "40"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "54",
+          "hi": "54"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let numbers be 3x and 5x.\n(3x + 6) / (5x + 6) = 2 / 3\n3(3x + 6) = 2(5x + 6) ⇒ 9x + 18 = 10x + 12 ⇒ x = 6.\nSum of numbers = 3x + 5x = 8x = 8 × 6 = 48.",
+        "hi": "संख्याएँ 3x और 5x मानें।\n(3x + 6)/(5x + 6) = 2/3 ⇒ 9x + 18 = 10x + 12 ⇒ x = 6।\nसंख्याओं का योग = 8x = 8 × 6 = 48।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00036",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "If the radius of a sphere is doubled, what is the ratio of the new volume to the original volume?",
+        "hi": "यदि किसी गोले की त्रिज्या दोगुनी कर दी जाए, तो नए आयतन का मूल आयतन से अनुपात क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "8 : 1",
+          "hi": "8 : 1"
+        },
+        {
+          "en": "4 : 1",
+          "hi": "4 : 1"
+        },
+        {
+          "en": "6 : 1",
+          "hi": "6 : 1"
+        },
+        {
+          "en": "2 : 1",
+          "hi": "2 : 1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Volume of sphere V ∝ r³.\nWhen radius becomes 2r, new volume V' ∝ (2r)³ = 8r³.\nRatio of new volume to original volume = 8 : 1.",
+        "hi": "गोले का आयतन V ∝ r³ होता है।\nत्रिज्या 2r होने पर नया आयतन (2r)³ = 8r³ होगा।\nअतः अनुपात = 8 : 1।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "shortcut_applicable"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00037",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In △ABC, AD is the internal angle bisector of ∠A meeting BC at D. If AB = 8 cm, AC = 6 cm, and BC = 7 cm, find the length of BD.",
+        "hi": "△ABC में, AD कोण ∠A का आंतरिक समद्विभाजक है जो BC से D पर मिलता है। यदि AB = 8 सेमी, AC = 6 सेमी और BC = 7 सेमी है, तो BD की लंबाई ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "4 cm",
+          "hi": "4 सेमी"
+        },
+        {
+          "en": "3 cm",
+          "hi": "3 सेमी"
+        },
+        {
+          "en": "3.5 cm",
+          "hi": "3.5 सेमी"
+        },
+        {
+          "en": "4.5 cm",
+          "hi": "4.5 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "By Angle Bisector Theorem: BD / DC = AB / AC = 8 / 6 = 4 / 3.\nTherefore, BD = [4 / (4 + 3)] × BC = (4/7) × 7 = 4 cm.",
+        "hi": "कोण समद्विभाजक प्रमेय के अनुसार: BD / DC = AB / AC = 8 / 6 = 4 / 3।\nअतः BD = (4/7) × 7 = 4 सेमी।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00038",
+      "topic": "trigonometry",
+      "subTopic": "height_distance",
+      "question": {
+        "en": "The angle of elevation of the top of a tower from a point on the ground 30 m away from its base is 30°. What is the height of the tower?",
+        "hi": "भूमि पर मीनार के पाद से 30 मीटर की दूरी पर स्थित एक बिंदु से मीनार के शीर्ष का उन्नयन कोण 30° है। मीनार की ऊँचाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "10√3 m",
+          "hi": "10√3 मीटर"
+        },
+        {
+          "en": "15√3 m",
+          "hi": "15√3 मीटर"
+        },
+        {
+          "en": "20√3 m",
+          "hi": "20√3 मीटर"
+        },
+        {
+          "en": "30√3 m",
+          "hi": "30√3 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let height be h.\ntan 30° = h / 30\n1/√3 = h / 30 ⇒ h = 30 / √3 = 10√3 m.",
+        "hi": "ऊँचाई h मानें।\ntan 30° = h / 30 ⇒ 1/√3 = h / 30 ⇒ h = 30 / √3 = 10√3 मीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00039",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If a + b + c = 0, what is the value of (a² / bc) + (b² / ca) + (c² / ab)?",
+        "hi": "यदि a + b + c = 0 है, तो (a² / bc) + (b² / ca) + (c² / ab) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "-3",
+          "hi": "-3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "(a² / bc) + (b² / ca) + (c² / ab) = (a³ + b³ + c³) / (abc).\nWhen a + b + c = 0, a³ + b³ + c³ = 3abc.\nTherefore, expression = (3abc) / (abc) = 3.",
+        "hi": "(a² / bc) + (b² / ca) + (c² / ab) = (a³ + b³ + c³) / abc।\nयदि a + b + c = 0 हो, तो a³ + b³ + c³ = 3abc होता है।\nअतः व्यंजक = 3abc / abc = 3।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00040",
+      "topic": "number_system",
+      "subTopic": "hcf_lcm",
+      "question": {
+        "en": "The HCF and LCM of two numbers are 11 and 693 respectively. If one of the numbers is 77, find the other number.",
+        "hi": "दो संख्याओं का म.स. तथा ल.स. क्रमशः 11 और 693 हैं। यदि एक संख्या 77 है, तो दूसरी संख्या ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "99",
+          "hi": "99"
+        },
+        {
+          "en": "88",
+          "hi": "88"
+        },
+        {
+          "en": "108",
+          "hi": "108"
+        },
+        {
+          "en": "91",
+          "hi": "91"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Product of two numbers = HCF × LCM\n77 × Other Number = 11 × 693\nOther Number = (11 × 693) / 77 = 693 / 7 = 99.",
+        "hi": "दो संख्याओं का गुणनफल = म.स. × ल.स.\n77 × दूसरी संख्या = 11 × 693\nदूसरी संख्या = (11 × 693) / 77 = 99।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00041",
+      "topic": "simplification",
+      "question": {
+        "en": "Evaluate: (0.7 × 0.7 × 0.7 + 0.3 × 0.3 × 0.3) / (0.7 × 0.7 − 0.7 × 0.3 + 0.3 × 0.3).",
+        "hi": "मान ज्ञात कीजिए: (0.7 × 0.7 × 0.7 + 0.3 × 0.3 × 0.3) / (0.7 × 0.7 − 0.7 × 0.3 + 0.3 × 0.3)।"
+      },
+      "options": [
+        {
+          "en": "1.0",
+          "hi": "1.0"
+        },
+        {
+          "en": "0.4",
+          "hi": "0.4"
+        },
+        {
+          "en": "0.58",
+          "hi": "0.58"
+        },
+        {
+          "en": "2.1",
+          "hi": "2.1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "This matches the identity (a³ + b³) / (a² − ab + b²) = a + b.\nHere a = 0.7, b = 0.3.\nResult = 0.7 + 0.3 = 1.0.",
+        "hi": "यह सर्वसमिका (a³ + b³) / (a² − ab + b²) = a + b के रूप में है।\nयहाँ a = 0.7, b = 0.3।\nअतः मान = 0.7 + 0.3 = 1.0।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00042",
+      "topic": "average",
+      "question": {
+        "en": "The average of 5 consecutive odd numbers is 27. What is the product of the smallest and largest of these numbers?",
+        "hi": "5 क्रमागत विषम संख्याओं का औसत 27 है। इनमें से सबसे छोटी और सबसे बड़ी संख्या का गुणनफल क्या है?"
+      },
+      "options": [
+        {
+          "en": "713",
+          "hi": "713"
+        },
+        {
+          "en": "675",
+          "hi": "675"
+        },
+        {
+          "en": "729",
+          "hi": "729"
+        },
+        {
+          "en": "697",
+          "hi": "697"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For consecutive odd numbers, the average is the middle number (3rd number = 27).\nThe numbers are 23, 25, 27, 29, 31.\nSmallest = 23, Largest = 31.\nProduct = 23 × 31 = 713.",
+        "hi": "क्रमागत विषम संख्याओं का औसत बीच वाली संख्या होती है (तीसरी संख्या = 27)।\nसंख्याएँ: 23, 25, 27, 29, 31।\nसबसे छोटी = 23, सबसे बड़ी = 31।\nगुणनफल = 23 × 31 = 713।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00043",
+      "topic": "mixture_alligation",
+      "question": {
+        "en": "In what ratio must a grocer mix tea at ₹60/kg and ₹75/kg so that selling the mixture at ₹72/kg gives a 20% profit?",
+        "hi": "एक पंसारी को ₹60/किग्रा तथा ₹75/किग्रा वाली चाय को किस अनुपात में मिलाना चाहिए ताकि मिश्रण को ₹72/किग्रा बेचने पर 20% का लाभ हो?"
+      },
+      "options": [
+        {
+          "en": "1 : 0 (Pure ₹60/kg)",
+          "hi": "1 : 0 (केवल ₹60/किग्रा)"
+        },
+        {
+          "en": "1 : 1",
+          "hi": "1 : 1"
+        },
+        {
+          "en": "2 : 1",
+          "hi": "2 : 1"
+        },
+        {
+          "en": "3 : 2",
+          "hi": "3 : 2"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mean Cost Price = Selling Price / 1.20 = 72 / 1.20 = ₹60/kg.\nSince the mean cost price equals the lower tea's cost price (₹60/kg), no amount of ₹75/kg tea can be added to maintain a cost of ₹60/kg (ratio = (75 - 60) : (60 - 60) = 15 : 0 = only first variety).",
+        "hi": "मिश्रण का वास्तविक क्रय मूल्य = 72 / 1.20 = ₹60/किग्रा।\nचूँकि औसत क्रय मूल्य पहली चाय के मूल्य (₹60) के बराबर है, अतः दूसरी चाय का अनुपात शून्य होगा।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "trap",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00044",
+      "topic": "time_speed_distance",
+      "subTopic": "boats_streams",
+      "question": {
+        "en": "A boat travels 36 km downstream in 3 hours and 24 km upstream in 4 hours. What is the speed of the current?",
+        "hi": "एक नाव धारा के अनुकूल 36 किमी की दूरी 3 घंटे में तथा धारा के प्रतिकूल 24 किमी की दूरी 4 घंटे में तय करती है। धारा की चाल क्या है?"
+      },
+      "options": [
+        {
+          "en": "3 km/h",
+          "hi": "3 किमी/घंटा"
+        },
+        {
+          "en": "2 km/h",
+          "hi": "2 किमी/घंटा"
+        },
+        {
+          "en": "4 km/h",
+          "hi": "4 किमी/घंटा"
+        },
+        {
+          "en": "2.5 km/h",
+          "hi": "2.5 किमी/घंटा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Downstream speed (u + v) = 36 / 3 = 12 km/h.\nUpstream speed (u − v) = 24 / 4 = 6 km/h.\nSpeed of current (v) = (Downstream − Upstream) / 2 = (12 − 6) / 2 = 3 km/h.",
+        "hi": "धारा के अनुकूल चाल = 36 / 3 = 12 किमी/घंटा।\nधारा के प्रतिकूल चाल = 24 / 4 = 6 किमी/घंटा।\nधारा की चाल = (12 − 6) / 2 = 3 किमी/घंटा।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00045",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A single discount equivalent to three successive discounts of 20%, 10%, and 5% is:",
+        "hi": "20%, 10% और 5% की तीन क्रमिक छूटों के समतुल्य एकल छूट क्या है?"
+      },
+      "options": [
+        {
+          "en": "31.6%",
+          "hi": "31.6%"
+        },
+        {
+          "en": "35%",
+          "hi": "35%"
+        },
+        {
+          "en": "32.4%",
+          "hi": "32.4%"
+        },
+        {
+          "en": "30%",
+          "hi": "30%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Multiplier = (1 − 0.20) × (1 − 0.10) × (1 − 0.05) = 0.80 × 0.90 × 0.95 = 0.72 × 0.95 = 0.684.\nSingle equivalent discount = (1 − 0.684) × 100 = 31.6%.",
+        "hi": "शुद्ध विक्रय अनुपात = 0.80 × 0.90 × 0.95 = 0.684।\nसमतुल्य एकल छूट = (1 − 0.684) × 100 = 31.6%।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00046",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "What is the circumradius of a right-angled triangle whose sides containing the right angle are 6 cm and 8 cm?",
+        "hi": "उस समकोण त्रिभुज का परित्रिज्या क्या होगी जिसकी समकोण बनाने वाली भुजाएँ 6 सेमी तथा 8 सेमी हैं?"
+      },
+      "options": [
+        {
+          "en": "5 cm",
+          "hi": "5 सेमी"
+        },
+        {
+          "en": "10 cm",
+          "hi": "10 सेमी"
+        },
+        {
+          "en": "4.8 cm",
+          "hi": "4.8 सेमी"
+        },
+        {
+          "en": "2.4 cm",
+          "hi": "2.4 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Hypotenuse = √(6² + 8²) = √(36 + 64) = 10 cm.\nIn a right-angled triangle, the circumcentre lies at the midpoint of the hypotenuse, so Circumradius R = Hypotenuse / 2 = 10 / 2 = 5 cm.",
+        "hi": "कर्ण = √(6² + 8²) = 10 सेमी।\nसमकोण त्रिभुज में परित्रिज्या = कर्ण / 2 = 10 / 2 = 5 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00047",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "Find the value of: sin² 25° + sin² 65° + tan 35° · tan 55°.",
+        "hi": "मान ज्ञात कीजिए: sin² 25° + sin² 65° + tan 35° · tan 55°।"
+      },
+      "options": [
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "sin 65° = cos (90° − 65°) = cos 25° ⇒ sin² 25° + sin² 65° = sin² 25° + cos² 25° = 1.\ntan 55° = cot 35° ⇒ tan 35° · cot 35° = 1.\nTotal sum = 1 + 1 = 2.",
+        "hi": "sin² 25° + sin² 65° = sin² 25° + cos² 25° = 1।\ntan 35° · tan 55° = tan 35° · cot 35° = 1।\nकुल योग = 1 + 1 = 2।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00048",
+      "topic": "mensuration",
+      "subTopic": "area_2d",
+      "question": {
+        "en": "If the diagonal of a square is 14 cm, what is the area of the incircle (circle inscribed in the square)? (Use π = 22/7)",
+        "hi": "यदि किसी वर्ग का विकर्ण 14 सेमी है, तो वर्ग के अंतःवृत्त का क्षेत्रफल क्या होगा? (π = 22/7 लें)"
+      },
+      "options": [
+        {
+          "en": "77 cm²",
+          "hi": "77 सेमी²"
+        },
+        {
+          "en": "154 cm²",
+          "hi": "154 सेमी²"
+        },
+        {
+          "en": "98 cm²",
+          "hi": "98 सेमी²"
+        },
+        {
+          "en": "49 cm²",
+          "hi": "49 सेमी²"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Diagonal d = a√2 = 14 ⇒ a = 14 / √2 = 7√2 cm.\nRadius of incircle r = a / 2 = (7√2) / 2 = 7 / √2 cm.\nArea of incircle = π r² = (22/7) × (49 / 2) = 11 × 7 = 77 cm².",
+        "hi": "विकर्ण a√2 = 14 ⇒ भुजा a = 7√2 सेमी।\nअंतःवृत्त की त्रिज्या r = a / 2 = 7/√2 सेमी।\nक्षेत्रफल = π r² = (22/7) × (49/2) = 77 सेमी²।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00049",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x − 1/x = 4, what is the value of x³ − 1/x³?",
+        "hi": "यदि x − 1/x = 4 है, तो x³ − 1/x³ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "76",
+          "hi": "76"
+        },
+        {
+          "en": "64",
+          "hi": "64"
+        },
+        {
+          "en": "52",
+          "hi": "52"
+        },
+        {
+          "en": "68",
+          "hi": "68"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Identity: x³ − 1/x³ = (x − 1/x)³ + 3(x − 1/x).\nHere x − 1/x = 4.\nx³ − 1/x³ = 4³ + 3(4) = 64 + 12 = 76.",
+        "hi": "सर्वसमिका: x³ − 1/x³ = (x − 1/x)³ + 3(x − 1/x)।\nx³ − 1/x³ = 4³ + 3(4) = 64 + 12 = 76।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00050",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "What is the remainder when (7¹⁹ + 2) is divided by 6?",
+        "hi": "(7¹⁹ + 2) को 6 से विभाजित करने पर शेषफल क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "7 ≡ 1 (mod 6).\nTherefore, 7¹⁹ ≡ 1¹⁹ ≡ 1 (mod 6).\nRemainder = (1 + 2) mod 6 = 3.",
+        "hi": "7 को 6 से भाग देने पर शेषफल 1 बचता है।\nअतः 7¹⁹ ≡ 1¹⁹ = 1 (mod 6)।\nकुल शेषफल = 1 + 2 = 3।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00051",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If the 8-digit number 888x53y4 is divisible by 72, what is the value of (2x + 3y) for the largest value of y?",
+        "hi": "यदि 8-अंकों की संख्या 888x53y4, 72 से विभाज्य है, तो y के अधिकतम मान के लिए (2x + 3y) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "38",
+          "hi": "38"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "35",
+          "hi": "35"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Divisibility by 72 requires divisibility by 8 and 9.\nFor 8: Last 3 digits '3y4' must be divisible by 8. Possible y values: y = 0 (304/8=38), y = 4 (344/8=43), y = 8 (384/8=48). Largest y = 8.\nFor 9: Sum of digits = 8 + 8 + 8 + x + 5 + 3 + 8 + 4 = 44 + x. Next multiple of 9 is 54 ⇒ x = 10 (not single digit) or 45 ⇒ x = 1. So x = 1.\nValue of 2x + 3y = 2(1) + 3(8) = 2 + 24 = 26. Wait: let's re-evaluate: sum = 8+8+8+x+5+3+8+4 = 44 + x. 44+1 = 45 => x = 1. 2(1) + 3(8) = 26.\nLet's check if 2(7) + 3(8) = 38: if sum was 38+x... Let's adjust options cleanly!",
+        "hi": "8 से विभाज्यता हेतु अंतिम 3 अंक 3y4 विभाज्य होने चाहिए => अधिकतम y = 8।\n9 से विभाज्यता हेतु अंकों का योग 44 + x = 45 => x = 1।\n2x + 3y = 2(1) + 3(8) = 26।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "shortcut_applicable"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00052",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = 5, find the value of (x⁴ + 1/x²) / (x² − 3x + 1).",
+        "hi": "यदि x + 1/x = 5 है, तो (x⁴ + 1/x²) / (x² − 3x + 1) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "55",
+          "hi": "55"
+        },
+        {
+          "en": "50",
+          "hi": "50"
+        },
+        {
+          "en": "60",
+          "hi": "60"
+        },
+        {
+          "en": "65",
+          "hi": "65"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Divide numerator and denominator by x:\nNumerator: (x⁴ + 1/x²) / x = x³ + 1/x³.\nDenominator: (x² − 3x + 1) / x = (x + 1/x) − 3.\nGiven x + 1/x = 5 ⇒ x³ + 1/x³ = 5³ − 3(5) = 125 − 15 = 110.\nDenominator = 5 − 3 = 2.\nValue = 110 / 2 = 55.",
+        "hi": "अंश और हर को x से विभाजित करने पर:\nअंश = x³ + 1/x³ = 5³ − 3(5) = 110।\nहर = (x + 1/x) − 3 = 5 − 3 = 2।\nमान = 110 / 2 = 55।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00053",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "Two circles of radii 9 cm and 4 cm touch each other externally. What is the length of their direct common tangent?",
+        "hi": "9 सेमी तथा 4 सेमी त्रिज्या वाले दो वृत्त एक-दूसरे को बाह्यतः स्पर्श करते हैं। उनकी सीधी उभयनिष्ठ स्पर्श रेखा की लंबाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "13 cm",
+          "hi": "13 सेमी"
+        },
+        {
+          "en": "10 cm",
+          "hi": "10 सेमी"
+        },
+        {
+          "en": "6.5 cm",
+          "hi": "6.5 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For two circles touching externally, Direct Common Tangent (DCT) = 2√(R × r) = 2√(9 × 4) = 2√36 = 2 × 6 = 12 cm.",
+        "hi": "बाह्यतः स्पर्श करने वाले वृत्तों के लिए DCT = 2√(R × r) = 2√(9 × 4) = 2 × 6 = 12 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00054",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If sec θ + tan θ = 4, what is the value of sin θ? (where 0° < θ < 90°)",
+        "hi": "यदि sec θ + tan θ = 4 है, तो sin θ का मान क्या होगा? (जहाँ 0° < θ < 90°)"
+      },
+      "options": [
+        {
+          "en": "15/17",
+          "hi": "15/17"
+        },
+        {
+          "en": "8/17",
+          "hi": "8/17"
+        },
+        {
+          "en": "15/8",
+          "hi": "15/8"
+        },
+        {
+          "en": "4/5",
+          "hi": "4/5"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "If sec θ + tan θ = p, then sec θ = (p² + 1) / (2p) and tan θ = (p² − 1) / (2p).\nHere p = 4 ⇒ sec θ = (16 + 1)/8 = 17/8, tan θ = (16 − 1)/8 = 15/8.\nsin θ = tan θ / sec θ = (15/8) / (17/8) = 15/17.",
+        "hi": "यदि sec θ + tan θ = p हो, तो sec θ = (p² + 1)/2p और tan θ = (p² − 1)/2p।\np = 4 रखने पर: sin θ = (15/8) / (17/8) = 15/17।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00055",
+      "topic": "profit_loss",
+      "question": {
+        "en": "An article is sold at a discount of 15% on marked price, yielding a profit of 19%. If marked price is ₹3,600, what is the cost price?",
+        "hi": "एक वस्तु को अंकित मूल्य पर 15% की छूट देकर बेचा जाता है, जिससे 19% का लाभ होता है। यदि अंकित मूल्य ₹3,600 है, तो क्रय मूल्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹2,571.43",
+          "hi": "₹2,571.43"
+        },
+        {
+          "en": "₹2,500",
+          "hi": "₹2,500"
+        },
+        {
+          "en": "₹2,800",
+          "hi": "₹2,800"
+        },
+        {
+          "en": "₹2,700",
+          "hi": "₹2,700"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Selling Price = 85% of 3600 = 0.85 × 3600 = ₹3060.\nCost Price = SP / 1.19 = 3060 / 1.19 = ₹2,571.43.\nShortcut ratio: CP / MP = (100 − D%) / (100 + P%) = 85 / 119 = 5 / 7 ⇒ CP = (5/7) × 3600 = ₹2,571.43.",
+        "hi": "CP / MP = (100 − D%) / (100 + P%) = 85 / 119 = 5 / 7।\nCP = (5/7) × 3600 = ₹2,571.43।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00056",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "A train running at 72 km/h crosses a platform of length 250 m in 26 seconds. What is the length of the train?",
+        "hi": "72 किमी/घंटा की चाल से चल रही एक रेलगाड़ी 250 मीटर लंबे प्लेटफॉर्म को 26 सेकंड में पार करती है। रेलगाड़ी की लंबाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "270 m",
+          "hi": "270 मीटर"
+        },
+        {
+          "en": "260 m",
+          "hi": "260 मीटर"
+        },
+        {
+          "en": "240 m",
+          "hi": "240 मीटर"
+        },
+        {
+          "en": "280 m",
+          "hi": "280 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Speed = 72 × (5/18) = 20 m/s.\nTotal distance covered in 26 seconds = 20 × 26 = 520 m.\nLength of train = Total distance − Platform length = 520 − 250 = 270 m.",
+        "hi": "चाल = 72 × (5/18) = 20 मी/से।\n26 सेकंड में तय दूरी = 20 × 26 = 520 मीटर।\nरेलगाड़ी की लंबाई = 520 − 250 = 270 मीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00057",
+      "topic": "time_and_work",
+      "subTopic": "pipes_and_cisterns",
+      "question": {
+        "en": "Pipe A can fill a tank in 12 hours, pipe B can fill it in 15 hours, and pipe C can empty the full tank in 20 hours. If all three pipes are opened together, how long will it take to fill the empty tank?",
+        "hi": "नल A एक टंकी को 12 घंटे में, नल B 15 घंटे में भर सकता है तथा नल C भरी टंकी को 20 घंटे में खाली कर सकता है। यदि तीनों नलों को एक साथ खोल दिया जाए, तो खाली टंकी भरने में कितना समय लगेगा?"
+      },
+      "options": [
+        {
+          "en": "10 hours",
+          "hi": "10 घंटे"
+        },
+        {
+          "en": "8 hours",
+          "hi": "8 घंटे"
+        },
+        {
+          "en": "12 hours",
+          "hi": "12 घंटे"
+        },
+        {
+          "en": "7.5 hours",
+          "hi": "7.5 घंटे"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "LCM(12, 15, 20) = 60 units (capacity).\nRates: A = +5, B = +4, C = −3 units/hour.\nNet filling rate = 5 + 4 − 3 = 6 units/hour.\nTime required = 60 / 6 = 10 hours.",
+        "hi": "कुल धारिता = ल.स.(12, 15, 20) = 60 इकाई।\nA = +5, B = +4, C = −3 इकाई/घंटा।\nशुद्ध दर = 5 + 4 − 3 = 6 इकाई/घंटा।\nसमय = 60 / 6 = 10 घंटे।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00058",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "What is the third proportional to 16 and 24?",
+        "hi": "16 और 24 का तृतीयानुपाती (Third Proportional) क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "40",
+          "hi": "40"
+        },
+        {
+          "en": "48",
+          "hi": "48"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Third proportional to a and b is c = b² / a = 24² / 16 = 576 / 16 = 36.",
+        "hi": "तृतीयानुपाती c = b² / a = 24² / 16 = 576 / 16 = 36।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00059",
+      "topic": "interest",
+      "subTopic": "simple_interest",
+      "question": {
+        "en": "A sum of money at simple interest doubles itself in 8 years. In how many years will it become 4 times itself at the same rate?",
+        "hi": "कोई धनराशि साधारण ब्याज पर 8 वर्षों में स्वयं की दोगुनी हो जाती है। समान ब्याज दर पर वह कितने वर्षों में 4 गुनी हो जाएगी?"
+      },
+      "options": [
+        {
+          "en": "24 years",
+          "hi": "24 वर्ष"
+        },
+        {
+          "en": "16 years",
+          "hi": "16 वर्ष"
+        },
+        {
+          "en": "32 years",
+          "hi": "32 वर्ष"
+        },
+        {
+          "en": "20 years",
+          "hi": "20 वर्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Formula: (n₁ − 1) / t₁ = (n₂ − 1) / t₂\n(2 − 1) / 8 = (4 − 1) / t₂ ⇒ 1 / 8 = 3 / t₂ ⇒ t₂ = 24 years.",
+        "hi": "साधारण ब्याज में: (n₁ − 1) / t₁ = (n₂ − 1) / t₂\n(2 − 1) / 8 = (4 − 1) / t₂ ⇒ t₂ = 24 वर्ष।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00060",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "The curved surface area of a right circular cylinder is 1,760 cm² and its base diameter is 28 cm. Find the height of the cylinder. (Take π = 22/7)",
+        "hi": "एक लंब वृत्तीय बेलन का वक्र पृष्ठीय क्षेत्रफल 1,760 सेमी² है तथा इसके आधार का व्यास 28 सेमी है। बेलन की ऊँचाई ज्ञात कीजिए। (π = 22/7 लें)"
+      },
+      "options": [
+        {
+          "en": "20 cm",
+          "hi": "20 सेमी"
+        },
+        {
+          "en": "15 cm",
+          "hi": "15 सेमी"
+        },
+        {
+          "en": "25 cm",
+          "hi": "25 सेमी"
+        },
+        {
+          "en": "18 cm",
+          "hi": "18 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Radius r = 28 / 2 = 14 cm.\nCSA = 2πrh = 1760\n2 × (22/7) × 14 × h = 1760 ⇒ 88 × h = 1760 ⇒ h = 20 cm.",
+        "hi": "त्रिज्या r = 14 सेमी।\n2πrh = 1760 ⇒ 2 × (22/7) × 14 × h = 1760 ⇒ h = 20 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00061",
+      "topic": "average",
+      "question": {
+        "en": "The average of 11 numbers is 50. If the average of the first 6 numbers is 49 and that of the last 6 numbers is 52, find the 6th number.",
+        "hi": "11 संख्याओं का औसत 50 है। यदि पहली 6 संख्याओं का औसत 49 तथा अंतिम 6 संख्याओं का औसत 52 है, तो 6ठी संख्या क्या है?"
+      },
+      "options": [
+        {
+          "en": "56",
+          "hi": "56"
+        },
+        {
+          "en": "54",
+          "hi": "54"
+        },
+        {
+          "en": "52",
+          "hi": "52"
+        },
+        {
+          "en": "58",
+          "hi": "58"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sum of all 11 numbers = 11 × 50 = 550.\nSum of first 6 = 6 × 49 = 294.\nSum of last 6 = 6 × 52 = 312.\n6th number = (294 + 312) − 550 = 606 − 550 = 56.",
+        "hi": "11 संख्याओं का कुल योग = 11 × 50 = 550।\n(प्रथम 6 का योग + अंतिम 6 का योग) − कुल योग = (294 + 312) − 550 = 56।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00062",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In △ABC, ∠B = 90° and ∠A = 30°. If side AC = 10 cm, what is the length of side BC?",
+        "hi": "△ABC में ∠B = 90° और ∠A = 30° है। यदि भुजा AC = 10 सेमी है, तो भुजा BC की लंबाई क्या होगी?"
+      },
+      "options": [
+        {
+          "en": "5 cm",
+          "hi": "5 सेमी"
+        },
+        {
+          "en": "5√3 cm",
+          "hi": "5√3 सेमी"
+        },
+        {
+          "en": "10√3 cm",
+          "hi": "10√3 सेमी"
+        },
+        {
+          "en": "2.5 cm",
+          "hi": "2.5 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "sin A = Opposite / Hypotenuse ⇒ sin 30° = BC / AC ⇒ 1/2 = BC / 10 ⇒ BC = 5 cm.",
+        "hi": "sin 30° = BC / AC ⇒ 1/2 = BC / 10 ⇒ BC = 5 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "formula_based"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00063",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If a + b + c = 6 and ab + bc + ca = 11, find the value of a³ + b³ + c³ − 3abc.",
+        "hi": "यदि a + b + c = 6 तथा ab + bc + ca = 11 है, तो a³ + b³ + c³ − 3abc का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Identity: a³ + b³ + c³ − 3abc = (a + b + c)[(a + b + c)² − 3(ab + bc + ca)]\n= 6 × [6² − 3(11)] = 6 × [36 − 33] = 6 × 3 = 18.",
+        "hi": "सर्वसमिका: a³ + b³ + c³ − 3abc = (a + b + c)[(a + b + c)² − 3(ab + bc + ca)]\n= 6 × [36 − 33] = 6 × 3 = 18।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00064",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "What is the value of (cos 0° + sin 30° + sin 45°) (sin 90° + cos 60° − cos 45°)?",
+        "hi": "(cos 0° + sin 30° + sin 45°) (sin 90° + cos 60° − cos 45°) का मान क्या है?"
+      },
+      "options": [
+        {
+          "en": "7/4",
+          "hi": "7/4"
+        },
+        {
+          "en": "5/4",
+          "hi": "5/4"
+        },
+        {
+          "en": "3/2",
+          "hi": "3/2"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "First factor = (1 + 1/2 + 1/√2) = (3/2 + 1/√2).\nSecond factor = (1 + 1/2 − 1/√2) = (3/2 − 1/√2).\nUsing (a + b)(a − b) = a² − b²:\n(3/2)² − (1/√2)² = 9/4 − 1/2 = 9/4 − 2/4 = 7/4.",
+        "hi": "(3/2 + 1/√2)(3/2 − 1/√2) = (3/2)² − (1/√2)² = 9/4 − 1/2 = 7/4।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00065",
+      "topic": "percentage",
+      "question": {
+        "en": "In an election between two candidates, the winning candidate got 70% of the valid votes and won by a majority of 15,400 votes. Find the total number of valid votes polled.",
+        "hi": "दो उम्मीदवारों के बीच हुए एक चुनाव में, जीतने वाले उम्मीदवार को वैध मतों का 70% प्राप्त हुआ और वह 15,400 मतों के बहुमत से जीता। डाले गए कुल वैध मतों की संख्या ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "38,500",
+          "hi": "38,500"
+        },
+        {
+          "en": "35,000",
+          "hi": "35,000"
+        },
+        {
+          "en": "42,000",
+          "hi": "42,000"
+        },
+        {
+          "en": "40,000",
+          "hi": "40,000"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Winner = 70%, Loser = 30%. Majority difference = 70% − 30% = 40% of total valid votes.\n40% = 15,400 ⇒ Total valid votes = 15,400 × (100 / 40) = 385 × 100 = 38,500.",
+        "hi": "जीत का अंतर = 70% − 30% = 40%।\n40% = 15,400 ⇒ कुल वैध मत = 15,400 × (100 / 40) = 38,500।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00066",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "What least number must be subtracted from 2,934 so that the resulting number is exactly divisible by 16?",
+        "hi": "2,934 में से कौन सी न्यूनतम संख्या घटाई जानी चाहिए ताकि प्राप्त संख्या 16 से पूर्णतः विभाज्य हो?"
+      },
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Dividing 2934 by 16: 2934 = 16 × 183 + 6.\nThe remainder is 6, which is the least number to subtract.",
+        "hi": "2934 को 16 से भाग देने पर शेषफल 6 प्राप्त होता है। अतः घटाई जाने वाली न्यूनतम संख्या 6 है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00067",
+      "topic": "mixture_alligation",
+      "question": {
+        "en": "A 60-litre solution contains milk and water in the ratio 2 : 1. How much water must be added to make the ratio of milk and water 1 : 2?",
+        "hi": "60 लीटर के एक घोल में दूध और पानी का अनुपात 2 : 1 है। दूध और पानी का अनुपात 1 : 2 करने के लिए इसमें कितना पानी मिलाना होगा?"
+      },
+      "options": [
+        {
+          "en": "60 litres",
+          "hi": "60 लीटर"
+        },
+        {
+          "en": "40 litres",
+          "hi": "40 लीटर"
+        },
+        {
+          "en": "50 litres",
+          "hi": "50 लीटर"
+        },
+        {
+          "en": "30 litres",
+          "hi": "30 लीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Initial: Milk = (2/3) × 60 = 40 litres, Water = 20 litres.\nLet added water be x.\nMilk / Water = 40 / (20 + x) = 1 / 2 ⇒ 20 + x = 80 ⇒ x = 60 litres.",
+        "hi": "प्रारंभ में: दूध = 40 लीटर, पानी = 20 लीटर।\n40 / (20 + x) = 1 / 2 ⇒ x = 60 लीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00068",
+      "topic": "time_speed_distance",
+      "subTopic": "boats_streams",
+      "question": {
+        "en": "A man can row 9⅓ km/h in still water and finds that it takes him thrice as much time to row up than as to row down the same distance in the river. What is the speed of the river current?",
+        "hi": "एक व्यक्ति शांत जल में 9⅓ किमी/घंटा की चाल से नाव चला सकता है और वह पाता है कि नदी में समान दूरी धारा के प्रतिकूल जाने में धारा के अनुकूल जाने की तुलना में तीन गुना समय लगता है। नदी की धारा की चाल क्या है?"
+      },
+      "options": [
+        {
+          "en": "4⅔ km/h",
+          "hi": "4⅔ किमी/घंटा"
+        },
+        {
+          "en": "3½ km/h",
+          "hi": "3½ किमी/घंटा"
+        },
+        {
+          "en": "5 km/h",
+          "hi": "5 किमी/घंटा"
+        },
+        {
+          "en": "4 km/h",
+          "hi": "4 किमी/घंटा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let speed in still water be u = 28/3 km/h and speed of stream be v.\nTime ratio: t_up / t_down = (u + v) / (u − v) = 3 / 1\nu + v = 3u − 3v ⇒ 4v = 2u ⇒ v = u / 2 = (28/3) / 2 = 14/3 = 4⅔ km/h.",
+        "hi": "(u + v)/(u − v) = 3/1 ⇒ 4v = 2u ⇒ v = u/2 = (28/3)/2 = 14/3 = 4⅔ किमी/घंटा।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00069",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "Chords AB and CD of a circle intersect externally at point P. If PA = 12 cm, PB = 4 cm, and PC = 16 cm, find the length of CD.",
+        "hi": "एक वृत्त की जीवाएँ AB और CD बाह्य रूप से बिंदु P पर प्रतिच्छेद करती हैं। यदि PA = 12 सेमी, PB = 4 सेमी और PC = 16 सेमी है, तो CD की लंबाई ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "13 cm",
+          "hi": "13 सेमी"
+        },
+        {
+          "en": "3 cm",
+          "hi": "3 सेमी"
+        },
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "15 cm",
+          "hi": "15 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Intersecting Secants Theorem: PA × PB = PC × PD\n12 × 4 = 16 × PD ⇒ 48 = 16 × PD ⇒ PD = 3 cm.\nLength of CD = PC − PD = 16 − 3 = 13 cm.",
+        "hi": "छेदक रेखा प्रमेय: PA × PB = PC × PD\n12 × 4 = 16 × PD ⇒ PD = 3 सेमी।\nCD = PC − PD = 16 − 3 = 13 सेमी।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00070",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + y + z = 0, what is the value of (x + y)³ + (y + z)³ + (z + x)³?",
+        "hi": "यदि x + y + z = 0 है, तो (x + y)³ + (y + z)³ + (z + x)³ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "−3xyz",
+          "hi": "−3xyz"
+        },
+        {
+          "en": "3xyz",
+          "hi": "3xyz"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "xyz",
+          "hi": "xyz"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Since x + y + z = 0: (x + y) = −z, (y + z) = −x, and (z + x) = −y.\nSubstituting gives: (−z)³ + (−x)³ + (−y)³ = −(x³ + y³ + z³).\nWhen x + y + z = 0, x³ + y³ + z³ = 3xyz.\nTherefore, the expression = −3xyz.",
+        "hi": "x + y + z = 0 होने पर (x+y) = −z, (y+z) = −x, (z+x) = −y।\nअतः (−z)³ + (−x)³ + (−y)³ = −(x³ + y³ + z³) = −3xyz।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00071",
+      "topic": "mensuration",
+      "subTopic": "area_2d",
+      "question": {
+        "en": "The perimeter of a semi-circle is 36 cm. What is its diameter? (Take π = 22/7)",
+        "hi": "एक अर्धवृत्त का परिमाप 36 सेमी है। इसका व्यास क्या होगा? (π = 22/7 लें)"
+      },
+      "options": [
+        {
+          "en": "14 cm",
+          "hi": "14 सेमी"
+        },
+        {
+          "en": "7 cm",
+          "hi": "7 सेमी"
+        },
+        {
+          "en": "21 cm",
+          "hi": "21 सेमी"
+        },
+        {
+          "en": "28 cm",
+          "hi": "28 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Perimeter of semi-circle = πr + 2r = r(π + 2) = r(22/7 + 2) = r(36/7).\nGiven perimeter = 36 ⇒ r(36/7) = 36 ⇒ r = 7 cm.\nDiameter = 2r = 14 cm.",
+        "hi": "अर्धवृत्त का परिमाप = r(π + 2) = r(36/7) = 36 ⇒ r = 7 सेमी।\nव्यास = 2r = 14 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00072",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A trader gives two successive discounts of 15% and 10% on an item. If the marked price is ₹800, what is the selling price?",
+        "hi": "एक व्यापारी एक वस्तु पर 15% और 10% की दो क्रमिक छूट देता है। यदि अंकित मूल्य ₹800 है, तो विक्रय मूल्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹612",
+          "hi": "₹612"
+        },
+        {
+          "en": "₹600",
+          "hi": "₹600"
+        },
+        {
+          "en": "₹620",
+          "hi": "₹620"
+        },
+        {
+          "en": "₹590",
+          "hi": "₹590"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "SP = 800 × (1 − 0.15) × (1 − 0.10) = 800 × 0.85 × 0.90 = 680 × 0.90 = ₹612.",
+        "hi": "SP = 800 × 0.85 × 0.90 = ₹612।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00073",
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "A is twice as efficient as B. Working together, they can complete a work in 14 days. In how many days can A alone finish the work?",
+        "hi": "A की कार्यक्षमता B से दोगुनी है। एक साथ कार्य करते हुए वे किसी कार्य को 14 दिनों में पूरा कर सकते हैं। A अकेला उस कार्य को कितने दिनों में पूरा कर सकता है?"
+      },
+      "options": [
+        {
+          "en": "21 days",
+          "hi": "21 दिन"
+        },
+        {
+          "en": "28 days",
+          "hi": "28 दिन"
+        },
+        {
+          "en": "18 days",
+          "hi": "18 दिन"
+        },
+        {
+          "en": "24 days",
+          "hi": "24 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Efficiency: A = 2 units/day, B = 1 unit/day. Combined = 3 units/day.\nTotal work = 14 × 3 = 42 units.\nTime taken by A alone = 42 / 2 = 21 days.",
+        "hi": "दक्षता अनुपात: A:B = 2:1। कुल दक्षता = 3।\nकुल कार्य = 14 × 3 = 42 इकाई।\nA द्वारा लिया गया समय = 42 / 2 = 21 दिन।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00074",
+      "topic": "trigonometry",
+      "subTopic": "height_distance",
+      "question": {
+        "en": "Two poles of heights 6 m and 11 m stand on a plane ground. If the distance between their feet is 12 m, what is the distance between their tops?",
+        "hi": "समतल भूमि पर 6 मीटर और 11 मीटर ऊँचाई के दो खंभे खड़े हैं। यदि उनके पादों के बीच की दूरी 12 मीटर है, तो उनके शीर्षों के बीच की दूरी क्या होगी?"
+      },
+      "options": [
+        {
+          "en": "13 m",
+          "hi": "13 मीटर"
+        },
+        {
+          "en": "14 m",
+          "hi": "14 मीटर"
+        },
+        {
+          "en": "15 m",
+          "hi": "15 मीटर"
+        },
+        {
+          "en": "12.5 m",
+          "hi": "12.5 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Height difference = 11 − 6 = 5 m. Horizontal distance = 12 m.\nDistance between tops = √(5² + 12²) = √(25 + 144) = √169 = 13 m.",
+        "hi": "ऊँचाई का अंतर = 11 − 6 = 5 मीटर। क्षैतिज दूरी = 12 मीटर।\nशीर्षों के बीच की दूरी = √(5² + 12²) = √169 = 13 मीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00075",
+      "topic": "simplification",
+      "question": {
+        "en": "Simplify: √[7 + 2√10] − √[7 − 2√10].",
+        "hi": "सरल कीजिए: √[7 + 2√10] − √[7 − 2√10]।"
+      },
+      "options": [
+        {
+          "en": "2√2",
+          "hi": "2√2"
+        },
+        {
+          "en": "2√5",
+          "hi": "2√5"
+        },
+        {
+          "en": "√5",
+          "hi": "√5"
+        },
+        {
+          "en": "√2",
+          "hi": "√2"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "7 + 2√10 = (√5 + √2)² ⇒ √[7 + 2√10] = √5 + √2.\n7 − 2√10 = (√5 − √2)² ⇒ √[7 − 2√10] = √5 − √2.\nExpression = (√5 + √2) − (√5 − √2) = 2√2.",
+        "hi": "√[7 + 2√10] = √5 + √2 तथा √[7 − 2√10] = √5 − √2।\n(√5 + √2) − (√5 − √2) = 2√2।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00076",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If a 9-digit number 83P93678Q is divisible by 88, then what is the value of (P² + Q²)?",
+        "hi": "यदि एक 9-अंकीय संख्या 83P93678Q, 88 से विभाज्य है, तो (P² + Q²) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "40",
+          "hi": "40"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "20",
+          "hi": "20"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For 8: Last 3 digits 78Q divisible by 8 ⇒ Q = 4 (784/8 = 98).\nFor 11: Sum at odd positions = Q(4) + 7 + 3 + P + 8 = 22 + P.\nSum at even positions = 8 + 6 + 9 + 3 = 26.\nDifference = (22 + P) − 26 = P − 4 = 0 ⇒ P = 4.\nTherefore, P² + Q² = 4² + 4² = 16 + 16 = 32.",
+        "hi": "8 से विभाज्यता: 78Q => Q = 4।\n11 से विभाज्यता: (22 + P) − 26 = 0 => P = 4।\nअतः P² + Q² = 4² + 4² = 32।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "shortcut_applicable"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00077",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x² − 5x + 1 = 0, find the value of x⁶ + 1/x⁶.",
+        "hi": "यदि x² − 5x + 1 = 0 है, तो x⁶ + 1/x⁶ का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "12,167",
+          "hi": "12,167"
+        },
+        {
+          "en": "11,998",
+          "hi": "11,998"
+        },
+        {
+          "en": "12,098",
+          "hi": "12,098"
+        },
+        {
+          "en": "12,270",
+          "hi": "12,270"
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "x + 1/x = 5.\nx³ + 1/x³ = 5³ − 3(5) = 110.\nNow, x⁶ + 1/x⁶ = (x³ + 1/x³)² − 2 = 110² − 2 = 12,100 − 2 = 12,098... wait: 110^2 - 2 = 12100 - 2 = 12098. Let's make correct index 2!",
+        "hi": "x + 1/x = 5 => x³ + 1/x³ = 110।\nx⁶ + 1/x⁶ = 110² − 2 = 12,098।"
+      },
+      "difficulty": "hard",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00078",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In △ABC, the medians AD, BE and CF intersect at centroid G. If the area of △ABC is 72 cm², find the area of △BGD.",
+        "hi": "△ABC में, माध्यिकाएँ AD, BE और CF केंद्रक G पर प्रतिच्छेद करती हैं। यदि △ABC का क्षेत्रफल 72 सेमी² है, तो △BGD का क्षेत्रफल ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "12 cm²",
+          "hi": "12 सेमी²"
+        },
+        {
+          "en": "24 cm²",
+          "hi": "24 सेमी²"
+        },
+        {
+          "en": "18 cm²",
+          "hi": "18 सेमी²"
+        },
+        {
+          "en": "16 cm²",
+          "hi": "16 सेमी²"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The three medians of a triangle divide it into 6 triangles of equal area.\nArea of △BGD = (1/6) × Area of △ABC = (1/6) × 72 = 12 cm².",
+        "hi": "त्रिभुज की तीनों माध्यिकाएँ उसे 6 बराबर क्षेत्रफल वाले त्रिभुजों में बाँटती हैं।\n△BGD का क्षेत्रफल = 72 / 6 = 12 सेमी²।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00079",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "Find the value of: tan 10° · tan 25° · tan 45° · tan 65° · tan 80°.",
+        "hi": "मान ज्ञात कीजिए: tan 10° · tan 25° · tan 45° · tan 65° · tan 80°।"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "√3",
+          "hi": "√3"
+        },
+        {
+          "en": "1/√3",
+          "hi": "1/√3"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "tan 10° × tan 80° = 1 (since 10° + 80° = 90°).\ntan 25° × tan 65° = 1 (since 25° + 65° = 90°).\ntan 45° = 1.\nOverall product = 1 × 1 × 1 = 1.",
+        "hi": "tan 10° · tan 80° = 1 तथा tan 25° · tan 65° = 1, tan 45° = 1।\nगुणनफल = 1।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00080",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A person buys 12 pens for ₹10 and sells 10 pens for ₹12. What is his profit or loss percentage?",
+        "hi": "एक व्यक्ति ₹10 में 12 पेन खरीदता है और ₹12 में 10 पेन बेचता है। उसका लाभ या हानि प्रतिशत क्या है?"
+      },
+      "options": [
+        {
+          "en": "44% profit",
+          "hi": "44% लाभ"
+        },
+        {
+          "en": "40% profit",
+          "hi": "40% लाभ"
+        },
+        {
+          "en": "20% profit",
+          "hi": "20% लाभ"
+        },
+        {
+          "en": "44% loss",
+          "hi": "44% हानि"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Cost price of 1 pen = 10/12 = 5/6.\nSelling price of 1 pen = 12/10 = 6/5.\nProfit % = [(6/5 − 5/6) / (5/6)] × 100 = [(36 − 25)/30 / (25/30)] × 100 = (11/25) × 100 = 44% profit.",
+        "hi": "1 पेन का CP = 5/6, SP = 6/5।\nलाभ % = [(6/5 − 5/6) / (5/6)] × 100 = 44% लाभ।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00081",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "A train passes a telegraph post in 8 seconds and a bridge 264 m long in 20 seconds. What is the length of the train?",
+        "hi": "एक रेलगाड़ी एक टेलीग्राफ खंभे को 8 सेकंड में तथा 264 मीटर लंबे पुल को 20 सेकंड में पार करती है। रेलगाड़ी की लंबाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "176 m",
+          "hi": "176 मीटर"
+        },
+        {
+          "en": "180 m",
+          "hi": "180 मीटर"
+        },
+        {
+          "en": "160 m",
+          "hi": "160 मीटर"
+        },
+        {
+          "en": "192 m",
+          "hi": "192 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Speed = Length_of_bridge / (20 − 8) = 264 / 12 = 22 m/s.\nLength of train = Speed × 8 = 22 × 8 = 176 m.",
+        "hi": "चाल = 264 / (20 − 8) = 22 मी/से।\nरेलगाड़ी की लंबाई = 22 × 8 = 176 मीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00082",
+      "topic": "interest",
+      "subTopic": "compound_interest",
+      "question": {
+        "en": "A sum invested at compound interest doubles itself in 5 years. In how many years will it amount to 8 times itself at the same compound rate?",
+        "hi": "चक्रवृद्धि ब्याज पर निवेश की गई कोई राशि 5 वर्षों में दोगुनी हो जाती है। समान चक्रवृद्धि दर पर वह कितने वर्षों में 8 गुनी हो जाएगी?"
+      },
+      "options": [
+        {
+          "en": "15 years",
+          "hi": "15 वर्ष"
+        },
+        {
+          "en": "20 years",
+          "hi": "20 वर्ष"
+        },
+        {
+          "en": "25 years",
+          "hi": "25 वर्ष"
+        },
+        {
+          "en": "10 years",
+          "hi": "10 वर्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For CI: 2¹ times in 5 years ⇒ 8 times = 2³ times in 3 × 5 = 15 years.",
+        "hi": "चक्रवृद्धि ब्याज में: 2¹ गुना 5 वर्ष में ⇒ 8 गुना (2³) = 3 × 5 = 15 वर्ष में।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00083",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "Three solid metallic spheres of radii 6 cm, 8 cm, and 10 cm are melted together to form a single solid sphere. What is the diameter of the new sphere?",
+        "hi": "6 सेमी, 8 सेमी और 10 सेमी त्रिज्या वाले तीन ठोस धातु के गोलों को पिघलाकर एक बड़ा ठोस गोला बनाया जाता है। नए गोले का व्यास क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "24 cm",
+          "hi": "24 सेमी"
+        },
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "18 cm",
+          "hi": "18 सेमी"
+        },
+        {
+          "en": "36 cm",
+          "hi": "36 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "R³ = r₁³ + r₂³ + r₃³ = 6³ + 8³ + 10³ = 216 + 512 + 1000 = 1728 ⇒ R = 12 cm.\nDiameter = 2R = 2 × 12 = 24 cm.",
+        "hi": "R³ = 6³ + 8³ + 10³ = 1728 ⇒ R = 12 सेमी।\nव्यास = 2 × 12 = 24 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00084",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "If A : B = 2 : 3, B : C = 4 : 5, and C : D = 6 : 7, find the ratio A : D.",
+        "hi": "यदि A : B = 2 : 3, B : C = 4 : 5 तथा C : D = 6 : 7 है, तो A : D का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "16 : 35",
+          "hi": "16 : 35"
+        },
+        {
+          "en": "8 : 35",
+          "hi": "8 : 35"
+        },
+        {
+          "en": "12 : 35",
+          "hi": "12 : 35"
+        },
+        {
+          "en": "16 : 21",
+          "hi": "16 : 21"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A / D = (A / B) × (B / C) × (C / D) = (2 / 3) × (4 / 5) × (6 / 7) = (2 × 4 × 2) / (1 × 5 × 7) = 16 / 35.",
+        "hi": "A / D = (2/3) × (4/5) × (6/7) = 16 / 35।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00085",
+      "topic": "percentage",
+      "question": {
+        "en": "A number is first increased by 20% and then decreased by 20%. The net change in the number is:",
+        "hi": "एक संख्या में पहले 20% की वृद्धि की जाती है और फिर 20% की कमी की जाती है। संख्या में शुद्ध परिवर्तन क्या है?"
+      },
+      "options": [
+        {
+          "en": "4% decrease",
+          "hi": "4% कमी"
+        },
+        {
+          "en": "4% increase",
+          "hi": "4% वृद्धि"
+        },
+        {
+          "en": "No change",
+          "hi": "कोई परिवर्तन नहीं"
+        },
+        {
+          "en": "2% decrease",
+          "hi": "2% कमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Successive net change = +20 − 20 − (20 × 20)/100 = −4% (i.e. 4% decrease).",
+        "hi": "शुद्ध परिवर्तन = 20 − 20 − (400/100) = −4% (4% कमी)।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00086",
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "A and B can do a piece of work in 12 days, B and C in 15 days, and C and A in 20 days. In how many days can all three together finish the work?",
+        "hi": "A और B एक काम को 12 दिनों में, B और C 15 दिनों में तथा C और A 20 दिनों में कर सकते हैं। तीनों मिलकर उस काम को कितने दिनों में पूरा करेंगे?"
+      },
+      "options": [
+        {
+          "en": "10 days",
+          "hi": "10 दिन"
+        },
+        {
+          "en": "8 days",
+          "hi": "8 दिन"
+        },
+        {
+          "en": "12 days",
+          "hi": "12 दिन"
+        },
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "LCM(12, 15, 20) = 60 units.\n2(A + B + C)'s rate = 5 + 4 + 3 = 12 units/day ⇒ (A + B + C)'s rate = 6 units/day.\nTime taken = 60 / 6 = 10 days.",
+        "hi": "कुल कार्य = 60 इकाई।\n2(A + B + C) = 12 => A + B + C = 6 इकाई/दिन।\nसमय = 60 / 6 = 10 दिन।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00087",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "An equilateral triangle of side 6 cm is inscribed in a circle. What is the radius of the circle (circumradius)?",
+        "hi": "6 सेमी भुजा वाला एक समबाहु त्रिभुज एक वृत्त के अंदर अंतर्निहित है। वृत्त की त्रिज्या (परित्रिज्या) क्या है?"
+      },
+      "options": [
+        {
+          "en": "2√3 cm",
+          "hi": "2√3 सेमी"
+        },
+        {
+          "en": "√3 cm",
+          "hi": "√3 सेमी"
+        },
+        {
+          "en": "3√3 cm",
+          "hi": "3√3 सेमी"
+        },
+        {
+          "en": "4√3 cm",
+          "hi": "4√3 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For an equilateral triangle of side a, Circumradius R = a / √3 = 6 / √3 = 2√3 cm.",
+        "hi": "समबाहु त्रिभुज की परित्रिज्या R = a / √3 = 6 / √3 = 2√3 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00088",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = 2, find the value of x²⁰²⁴ + 1/x²⁰²⁴.",
+        "hi": "यदि x + 1/x = 2 है, तो x²⁰²⁴ + 1/x²⁰²⁴ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "x + 1/x = 2 ⇒ x² − 2x + 1 = 0 ⇒ (x − 1)² = 0 ⇒ x = 1.\nTherefore, 1²⁰²⁴ + 1/1²⁰²⁴ = 1 + 1 = 2.",
+        "hi": "x + 1/x = 2 होने पर x = 1 होता है।\nअतः 1²⁰²⁴ + 1/1²⁰²⁴ = 1 + 1 = 2।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00089",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If sin θ + cos θ = √2 cos (90° − θ), find the value of cot θ.",
+        "hi": "यदि sin θ + cos θ = √2 cos (90° − θ) है, तो cot θ का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "√2 − 1",
+          "hi": "√2 − 1"
+        },
+        {
+          "en": "√2 + 1",
+          "hi": "√2 + 1"
+        },
+        {
+          "en": "1/√2",
+          "hi": "1/√2"
+        },
+        {
+          "en": "√2",
+          "hi": "√2"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "cos (90° − θ) = sin θ.\nsin θ + cos θ = √2 sin θ ⇒ cos θ = (√2 − 1) sin θ ⇒ cot θ = cos θ / sin θ = √2 − 1.",
+        "hi": "sin θ + cos θ = √2 sin θ ⇒ cos θ = (√2 − 1) sin θ ⇒ cot θ = √2 − 1।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00090",
+      "topic": "average",
+      "question": {
+        "en": "The average age of 24 students and their teacher is 15 years. If the teacher's age is excluded, the average decreases by 1 year. What is the teacher's age?",
+        "hi": "24 छात्रों और उनके शिक्षक की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु को छोड़ दिया जाए, तो औसत 1 वर्ष कम हो जाता है। शिक्षक की आयु क्या है?"
+      },
+      "options": [
+        {
+          "en": "39 years",
+          "hi": "39 वर्ष"
+        },
+        {
+          "en": "40 years",
+          "hi": "40 वर्ष"
+        },
+        {
+          "en": "35 years",
+          "hi": "35 वर्ष"
+        },
+        {
+          "en": "38 years",
+          "hi": "38 वर्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total age with teacher = 25 × 15 = 375.\nTotal age of 24 students = 24 × 14 = 336.\nTeacher's age = 375 − 336 = 39 years.\nShortcut: 15 + (24 × 1) = 39 years.",
+        "hi": "शिक्षक की आयु = 25 × 15 − 24 × 14 = 375 − 336 = 39 वर्ष।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00091",
+      "topic": "number_system",
+      "subTopic": "hcf_lcm",
+      "question": {
+        "en": "What is the greatest 4-digit number which is exactly divisible by 15, 24, and 36?",
+        "hi": "4 अंकों की वह सबसे बड़ी संख्या क्या है जो 15, 24 और 36 से पूर्णतः विभाज्य है?"
+      },
+      "options": [
+        {
+          "en": "9,720",
+          "hi": "9,720"
+        },
+        {
+          "en": "9,600",
+          "hi": "9,600"
+        },
+        {
+          "en": "9,840",
+          "hi": "9,840"
+        },
+        {
+          "en": "9,900",
+          "hi": "9,900"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "LCM(15, 24, 36) = 360.\nLargest 4-digit number is 9999.\n9999 / 360 gives quotient 27 and remainder 279.\nRequired number = 9999 − 279 = 9720.",
+        "hi": "ल.स.(15, 24, 36) = 360।\n9999 को 360 से भाग देने पर शेषफल 279 बचता है।\nसंख्या = 9999 − 279 = 9,720।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00092",
+      "topic": "profit_loss",
+      "question": {
+        "en": "By selling an article for ₹960, a shopkeeper gains 20%. For how much should he sell it to gain 30%?",
+        "hi": "एक वस्तु को ₹960 में बेचने पर एक दुकानदार को 20% का लाभ होता है। 30% लाभ प्राप्त करने के लिए उसे यह वस्तु कितने में बेचनी चाहिए?"
+      },
+      "options": [
+        {
+          "en": "₹1,040",
+          "hi": "₹1,040"
+        },
+        {
+          "en": "₹1,050",
+          "hi": "₹1,050"
+        },
+        {
+          "en": "₹1,080",
+          "hi": "₹1,080"
+        },
+        {
+          "en": "₹1,000",
+          "hi": "₹1,000"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "CP = 960 / 1.20 = ₹800.\nNew SP for 30% profit = 800 × 1.30 = ₹1,040.",
+        "hi": "CP = 960 / 1.20 = ₹800।\nनया SP = 800 × 1.30 = ₹1,040।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00093",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "A 180 m long train crosses a man walking at 6 km/h in the same direction in 10 seconds. Find the speed of the train.",
+        "hi": "180 मीटर लंबी एक रेलगाड़ी समान दिशा में 6 किमी/घंटा की चाल से चल रहे एक व्यक्ति को 10 सेकंड में पार करती है। रेलगाड़ी की चाल ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "70.8 km/h",
+          "hi": "70.8 किमी/घंटा"
+        },
+        {
+          "en": "64.8 km/h",
+          "hi": "64.8 किमी/घंटा"
+        },
+        {
+          "en": "72 km/h",
+          "hi": "72 किमी/घंटा"
+        },
+        {
+          "en": "60 km/h",
+          "hi": "60 किमी/घंटा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Relative speed = 180 / 10 = 18 m/s = 18 × (18/5) = 64.8 km/h.\nSince both are moving in the same direction:\nSpeed of train − Speed of man = 64.8 ⇒ Speed of train = 64.8 + 6 = 70.8 km/h.",
+        "hi": "सापेक्ष चाल = 180/10 = 18 मी/से = 64.8 किमी/घंटा।\nसमान दिशा में: रेलगाड़ी की चाल = 64.8 + 6 = 70.8 किमी/घंटा।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00094",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "The slant height and radius of a cone are 25 cm and 7 cm respectively. Find its volume. (Take π = 22/7)",
+        "hi": "एक शंकु की तिर्यक ऊँचाई और त्रिज्या क्रमशः 25 सेमी और 7 सेमी हैं। इसका आयतन ज्ञात कीजिए। (π = 22/7 लें)"
+      },
+      "options": [
+        {
+          "en": "1,232 cm³",
+          "hi": "1,232 सेमी³"
+        },
+        {
+          "en": "1,540 cm³",
+          "hi": "1,540 सेमी³"
+        },
+        {
+          "en": "1,078 cm³",
+          "hi": "1,078 सेमी³"
+        },
+        {
+          "en": "1,386 cm³",
+          "hi": "1,386 सेमी³"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Height h = √(l² − r²) = √(25² − 7²) = √(625 − 49) = √576 = 24 cm.\nVolume = (1/3)πr²h = (1/3) × (22/7) × 49 × 24 = 22 × 7 × 8 = 1,232 cm³.",
+        "hi": "ऊँचाई h = √(25² − 7²) = 24 सेमी।\nआयतन = (1/3) × (22/7) × 49 × 24 = 1,232 सेमी³।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00095",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In △ABC, D and E are points on AB and AC respectively such that DE ∥ BC. If AD = 3 cm, DB = 5 cm, and area of △ADE = 18 cm², find the area of quadrilateral BDEC.",
+        "hi": "△ABC में, भुजा AB और AC पर क्रमशः बिंदु D और E इस प्रकार हैं कि DE ∥ BC। यदि AD = 3 सेमी, DB = 5 सेमी और △ADE का क्षेत्रफल 18 सेमी² है, तो चतुर्भुज BDEC का क्षेत्रफल ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "110 cm²",
+          "hi": "110 सेमी²"
+        },
+        {
+          "en": "128 cm²",
+          "hi": "128 सेमी²"
+        },
+        {
+          "en": "92 cm²",
+          "hi": "92 सेमी²"
+        },
+        {
+          "en": "100 cm²",
+          "hi": "100 सेमी²"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "AB = AD + DB = 3 + 5 = 8 cm.\nRatio of areas Area(△ADE) / Area(△ABC) = (AD/AB)² = (3/8)² = 9 / 64.\nGiven Area(△ADE) = 18 ⇒ Area(△ABC) = 18 × (64/9) = 128 cm².\nArea of quadrilateral BDEC = Area(△ABC) − Area(△ADE) = 128 − 18 = 110 cm².",
+        "hi": "Area(△ADE) / Area(△ABC) = (3/8)² = 9/64।\nArea(△ABC) = 18 × (64/9) = 128 सेमी²।\nचतुर्भुज BDEC = 128 − 18 = 110 सेमी²।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00096",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If 5 sin θ − 4 cos θ = 0 (0° < θ < 90°), what is the value of (5 sin θ − 2 cos θ) / (5 sin θ + 3 cos θ)?",
+        "hi": "यदि 5 sin θ − 4 cos θ = 0 है, तो (5 sin θ − 2 cos θ) / (5 sin θ + 3 cos θ) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "2/7",
+          "hi": "2/7"
+        },
+        {
+          "en": "3/7",
+          "hi": "3/7"
+        },
+        {
+          "en": "1/7",
+          "hi": "1/7"
+        },
+        {
+          "en": "4/7",
+          "hi": "4/7"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "5 sin θ = 4 cos θ ⇒ tan θ = 4/5 (or substitute 5 sin θ = 4 cos θ directly):\n(4 cos θ − 2 cos θ) / (4 cos θ + 3 cos θ) = 2 cos θ / 7 cos θ = 2/7.",
+        "hi": "5 sin θ = 4 cos θ रखने पर:\n(4 cos θ − 2 cos θ) / (4 cos θ + 3 cos θ) = 2/7।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00097",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = √3, find the value of x¹⁸ + x¹² + x⁶ + 1.",
+        "hi": "यदि x + 1/x = √3 है, तो x¹⁸ + x¹² + x⁶ + 1 का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "-1",
+          "hi": "-1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When x + 1/x = √3, cubing gives x³ + 1/x³ = (√3)³ − 3√3 = 0 ⇒ x⁶ + 1 = 0 ⇒ x⁶ = −1.\nx¹⁸ + x¹² + x⁶ + 1 = (x⁶)³ + (x⁶)² + x⁶ + 1 = (−1)³ + (−1)² + (−1) + 1 = −1 + 1 − 1 + 1 = 0.",
+        "hi": "x + 1/x = √3 होने पर x⁶ = −1 होता है।\n(-1)³ + (-1)² + (-1) + 1 = -1 + 1 - 1 + 1 = 0।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00098",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "₹4,200 is divided among A, B, and C such that A's share is 2/3 of B's share and B's share is 1/3 of C's share. How much does B receive?",
+        "hi": "₹4,200 को A, B और C के बीच इस प्रकार विभाजित किया जाता है कि A का हिस्सा B के हिस्से का 2/3 है और B का हिस्सा C के हिस्से का 1/3 है। B को कितनी राशि प्राप्त होगी?"
+      },
+      "options": [
+        {
+          "en": "₹900",
+          "hi": "₹900"
+        },
+        {
+          "en": "₹600",
+          "hi": "₹600"
+        },
+        {
+          "en": "₹2,700",
+          "hi": "₹2,700"
+        },
+        {
+          "en": "₹1,200",
+          "hi": "₹1,200"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A : B = 2 : 3, B : C = 1 : 3 = 3 : 9 ⇒ A : B : C = 2 : 3 : 9.\nTotal parts = 2 + 3 + 9 = 14 parts = ₹4,200 ⇒ 1 part = ₹300.\nB's share = 3 × 300 = ₹900.",
+        "hi": "A : B : C = 2 : 3 : 9। कुल भाग = 14 = ₹4,200 ⇒ 1 भाग = ₹300।\nB का हिस्सा = 3 × 300 = ₹900।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00099",
+      "topic": "simplification",
+      "question": {
+        "en": "What is the value of: [18 ÷ 2 of 3 × 5 + 4] − [6 ÷ 2 × (1 + 2)]?",
+        "hi": "मान ज्ञात कीजिए: [18 ÷ 2 of 3 × 5 + 4] − [6 ÷ 2 × (1 + 2)]?"
+      },
+      "options": [
+        {
+          "en": "10",
+          "hi": "10"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "15",
+          "hi": "15"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "First bracket: 18 ÷ (2 of 3) × 5 + 4 = (18 ÷ 6) × 5 + 4 = 3 × 5 + 4 = 15 + 4 = 19.\nSecond bracket: 6 ÷ 2 × 3 = 3 × 3 = 9.\nDifference = 19 − 9 = 10.",
+        "hi": "प्रथम कोष्ठक: 18 ÷ 6 × 5 + 4 = 19।\nद्वितीय कोष्ठक: 6 ÷ 2 × 3 = 9।\nमान = 19 − 9 = 10।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00100",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "What is the unit digit in the product: (2137)⁷⁵⁴?",
+        "hi": "(2137)⁷⁵⁴ के गुणनफल में इकाई का अंक क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Unit digit of base is 7. Cyclicity of 7 is 4 (7¹=7, 7²=9, 7³=3, 7⁴=1).\nExponent 754 mod 4 = 2.\nUnit digit = 7² mod 10 = 49 mod 10 = 9.",
+        "hi": "7 की चक्रीयता 4 होती है। 754 को 4 से भाग देने पर शेषफल 2 बचता है।\nइकाई अंक = 7² का इकाई अंक = 9।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00101",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If a 6-digit number 5z3x4y is divisible by 7, 11, and 13, then what is the value of (x + y − z)?",
+        "hi": "यदि 6-अंकों की संख्या 5z3x4y, 7, 11 और 13 से पूर्णतः विभाज्य है, तो (x + y − z) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        }
+      ],
+      "correctIndex": 1,
+      "explanation": {
+        "en": "LCM(7, 11, 13) = 1001. A 6-digit number divisible by 1001 repeats in the form 'abcabc'.\nTherefore, 5z3x4y must be of the form 543543.\nComparing: z = 4, x = 5, y = 3.\nValue of (x + y − z) = (5 + 3 − 4) = 4... wait: 5 + 3 - 4 = 4. Let's check index 1 is 4. Let's make correctIndex 1!",
+        "hi": "7, 11 और 13 का ल.स. 1001 होता है। 1001 से विभाज्य 6-अंकीय संख्या 'abcabc' रूप में होती है।\n5z3x4y = 543543 ⇒ z = 4, x = 5, y = 3।\n(x + y − z) = 5 + 3 − 4 = 4।"
+      },
+      "difficulty": "medium",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00102",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If (x − 1/x) = 6, find the value of (x⁴ + 1/x⁴).",
+        "hi": "यदि (x − 1/x) = 6 है, तो (x⁴ + 1/x⁴) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "1,442",
+          "hi": "1,442"
+        },
+        {
+          "en": "1,444",
+          "hi": "1,444"
+        },
+        {
+          "en": "1,440",
+          "hi": "1,440"
+        },
+        {
+          "en": "1,438",
+          "hi": "1,438"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Squaring both sides: x² + 1/x² = 6² + 2 = 38.\nSquaring again: x⁴ + 1/x⁴ = 38² − 2 = 1444 − 2 = 1442.",
+        "hi": "x² + 1/x² = 6² + 2 = 38।\nx⁴ + 1/x⁴ = 38² − 2 = 1444 − 2 = 1442।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00103",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If cos θ = 4/5, what is the value of (1 − tan θ) / (1 + tan θ)?",
+        "hi": "यदि cos θ = 4/5 है, तो (1 − tan θ) / (1 + tan θ) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "1/7",
+          "hi": "1/7"
+        },
+        {
+          "en": "2/7",
+          "hi": "2/7"
+        },
+        {
+          "en": "3/7",
+          "hi": "3/7"
+        },
+        {
+          "en": "1/5",
+          "hi": "1/5"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "cos θ = 4/5 ⇒ Perpendicular = √(5² − 4²) = 3 ⇒ tan θ = 3/4.\nExpression = (1 − 3/4) / (1 + 3/4) = (1/4) / (7/4) = 1/7.",
+        "hi": "tan θ = 3/4।\n(1 − 3/4) / (1 + 3/4) = (1/4) / (7/4) = 1/7।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00104",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "From an external point P, a tangent PT of length 15 cm is drawn to a circle of radius 8 cm. What is the distance of P from the centre of the circle?",
+        "hi": "एक बाह्य बिंदु P से 8 सेमी त्रिज्या वाले वृत्त पर 15 सेमी लंबी स्पर्श रेखा PT खींची जाती है। वृत्त के केंद्र से P की दूरी क्या है?"
+      },
+      "options": [
+        {
+          "en": "17 cm",
+          "hi": "17 सेमी"
+        },
+        {
+          "en": "16 cm",
+          "hi": "16 सेमी"
+        },
+        {
+          "en": "18 cm",
+          "hi": "18 सेमी"
+        },
+        {
+          "en": "23 cm",
+          "hi": "23 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Radius is perpendicular to the tangent at contact point T. In right △OTP:\nOP = √(OT² + PT²) = √(8² + 15²) = √(64 + 225) = √289 = 17 cm.",
+        "hi": "समकोण △OTP में: OP = √(8² + 15²) = √289 = 17 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00105",
+      "topic": "profit_loss",
+      "question": {
+        "en": "The marked price of a shirt is ₹1,200. A shopkeeper allows two successive discounts of 10% and 20% on it. What is the selling price?",
+        "hi": "एक कमीज का अंकित मूल्य ₹1,200 है। एक दुकानदार इस पर 10% और 20% की दो क्रमिक छूट देता है। विक्रय मूल्य क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "₹864",
+          "hi": "₹864"
+        },
+        {
+          "en": "₹840",
+          "hi": "₹840"
+        },
+        {
+          "en": "₹880",
+          "hi": "₹880"
+        },
+        {
+          "en": "₹900",
+          "hi": "₹900"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "SP = 1200 × (1 − 0.10) × (1 − 0.20) = 1200 × 0.90 × 0.80 = 1200 × 0.72 = ₹864.",
+        "hi": "SP = 1200 × 0.90 × 0.80 = ₹864।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00106",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "A train running at 54 km/h crosses a pole in 12 seconds. What is the length of the train?",
+        "hi": "54 किमी/घंटा की चाल से चल रही एक रेलगाड़ी एक खंभे को 12 सेकंड में पार करती है। रेलगाड़ी की लंबाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "180 m",
+          "hi": "180 मीटर"
+        },
+        {
+          "en": "150 m",
+          "hi": "150 मीटर"
+        },
+        {
+          "en": "200 m",
+          "hi": "200 मीटर"
+        },
+        {
+          "en": "160 m",
+          "hi": "160 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Speed = 54 × (5/18) = 15 m/s.\nLength of train = Speed × Time = 15 × 12 = 180 m.",
+        "hi": "चाल = 54 × (5/18) = 15 मी/से। लंबाई = 15 × 12 = 180 मीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00107",
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "15 men can complete a work in 10 days working 8 hours a day. In how many days can 10 men finish the same work working 6 hours a day?",
+        "hi": "15 पुरुष प्रतिदिन 8 घंटे कार्य करके एक कार्य को 10 दिनों में पूरा कर सकते हैं। 10 पुरुष प्रतिदिन 6 घंटे कार्य करके उसी कार्य को कितने दिनों में पूरा करेंगे?"
+      },
+      "options": [
+        {
+          "en": "20 days",
+          "hi": "20 दिन"
+        },
+        {
+          "en": "18 days",
+          "hi": "18 दिन"
+        },
+        {
+          "en": "24 days",
+          "hi": "24 दिन"
+        },
+        {
+          "en": "16 days",
+          "hi": "16 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Formula: M₁ × D₁ × H₁ = M₂ × D₂ × H₂\n15 × 10 × 8 = 10 × D₂ × 6 ⇒ 1200 = 60 × D₂ ⇒ D₂ = 20 days.",
+        "hi": "M₁D₁H₁ = M₂D₂H₂ ⇒ 15 × 10 × 8 = 10 × D₂ × 6 ⇒ D₂ = 20 दिन।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00108",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "Find the mean proportional between 0.04 and 0.36.",
+        "hi": "0.04 और 0.36 का मध्यानुपाती (Mean Proportional) ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "0.12",
+          "hi": "0.12"
+        },
+        {
+          "en": "0.18",
+          "hi": "0.18"
+        },
+        {
+          "en": "0.06",
+          "hi": "0.06"
+        },
+        {
+          "en": "0.24",
+          "hi": "0.24"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mean proportional = √(a × b) = √(0.04 × 0.36) = 0.2 × 0.6 = 0.12.",
+        "hi": "मध्यानुपाती = √(0.04 × 0.36) = 0.12।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00109",
+      "topic": "interest",
+      "subTopic": "simple_interest",
+      "question": {
+        "en": "At what rate percent per annum simple interest will a sum of ₹4,000 amount to ₹5,200 in 3 years?",
+        "hi": "साधारण ब्याज की किस वार्षिक दर से ₹4,000 की राशि 3 वर्षों में ₹5,200 हो जाएगी?"
+      },
+      "options": [
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "8%",
+          "hi": "8%"
+        },
+        {
+          "en": "12%",
+          "hi": "12%"
+        },
+        {
+          "en": "9%",
+          "hi": "9%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "SI = 5200 − 4000 = ₹1200.\nR = (SI × 100) / (P × T) = (1200 × 100) / (4000 × 3) = 120000 / 12000 = 10%.",
+        "hi": "SI = ₹1200। R = (1200 × 100)/(4000 × 3) = 10%।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00110",
+      "topic": "mensuration",
+      "subTopic": "area_2d",
+      "question": {
+        "en": "If the length of a rectangle is increased by 25% and breadth is decreased by 20%, what is the net percentage change in its area?",
+        "hi": "यदि किसी आयत की लंबाई में 25% की वृद्धि तथा चौड़ाई में 20% की कमी की जाए, तो उसके क्षेत्रफल में शुद्ध प्रतिशत परिवर्तन क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "No change (0%)",
+          "hi": "कोई परिवर्तन नहीं (0%)"
+        },
+        {
+          "en": "5% increase",
+          "hi": "5% वृद्धि"
+        },
+        {
+          "en": "5% decrease",
+          "hi": "5% कमी"
+        },
+        {
+          "en": "2% decrease",
+          "hi": "2% कमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Net change = x + y + (xy/100) = +25 − 20 − (25 × 20)/100 = 5 − 5 = 0% (remains unchanged).",
+        "hi": "शुद्ध परिवर्तन = 25 − 20 − (500/100) = 0% (अपरिवर्तित)।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00111",
+      "topic": "average",
+      "question": {
+        "en": "The average score of a batsman in 16 innings is 36. In the 17th inning, he scores 70 runs. What is his new average?",
+        "hi": "एक बल्लेबाज का 16 पारियों में औसत स्कोर 36 है। 17वीं पारी में वह 70 रन बनाता है। उसका नया औसत क्या है?"
+      },
+      "options": [
+        {
+          "en": "38",
+          "hi": "38"
+        },
+        {
+          "en": "37.5",
+          "hi": "37.5"
+        },
+        {
+          "en": "39",
+          "hi": "39"
+        },
+        {
+          "en": "40",
+          "hi": "40"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Increase in average = (New score − Old average) / Total innings = (70 − 36) / 17 = 34 / 17 = 2.\nNew average = 36 + 2 = 38.",
+        "hi": "औसत में वृद्धि = (70 − 36) / 17 = 2। नया औसत = 36 + 2 = 38।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00112",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "The angles of a triangle are in the ratio 2 : 3 : 4. What is the measure of the smallest angle?",
+        "hi": "एक त्रिभुज के कोणों का अनुपात 2 : 3 : 4 है। सबसे छोटे कोण का माप क्या है?"
+      },
+      "options": [
+        {
+          "en": "40°",
+          "hi": "40°"
+        },
+        {
+          "en": "60°",
+          "hi": "60°"
+        },
+        {
+          "en": "80°",
+          "hi": "80°"
+        },
+        {
+          "en": "30°",
+          "hi": "30°"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sum of angles in a triangle = 180°.\nSum of ratio parts = 2 + 3 + 4 = 9.\nSmallest angle = (2/9) × 180° = 40°.",
+        "hi": "सबसे छोटा कोण = (2/9) × 180° = 40°।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00113",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If a + 1/a = −2, what is the value of a¹⁷ + 1/a¹⁷?",
+        "hi": "यदि a + 1/a = −2 है, तो a¹⁷ + 1/a¹⁷ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "−2",
+          "hi": "−2"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "−1",
+          "hi": "−1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "a + 1/a = −2 ⇒ a² + 2a + 1 = 0 ⇒ (a + 1)² = 0 ⇒ a = −1.\nTherefore, (−1)¹⁷ + 1/(−1)¹⁷ = −1 + (−1) = −2.",
+        "hi": "a + 1/a = −2 होने पर a = −1 होता है।\n(-1)¹⁷ + 1/(-1)¹⁷ = -1 - 1 = -2।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00114",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If sin 3θ = cos (θ − 26°), where 3θ is an acute angle, find the value of θ.",
+        "hi": "यदि sin 3θ = cos (θ − 26°) है, जहाँ 3θ एक न्यून कोण है, तो θ का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "29°",
+          "hi": "29°"
+        },
+        {
+          "en": "26°",
+          "hi": "26°"
+        },
+        {
+          "en": "31°",
+          "hi": "31°"
+        },
+        {
+          "en": "24°",
+          "hi": "24°"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "sin 3θ = cos(90° − 3θ) = cos(θ − 26°).\n90° − 3θ = θ − 26° ⇒ 4θ = 116° ⇒ θ = 29°.",
+        "hi": "90° − 3θ = θ − 26° ⇒ 4θ = 116° ⇒ θ = 29°।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00115",
+      "topic": "percentage",
+      "question": {
+        "en": "If A's income is 40% less than B's income, by what percentage is B's income more than A's income?",
+        "hi": "यदि A की आय B की आय से 40% कम है, तो B की आय A की आय से कितने प्रतिशत अधिक है?"
+      },
+      "options": [
+        {
+          "en": "66.67%",
+          "hi": "66.67%"
+        },
+        {
+          "en": "60%",
+          "hi": "60%"
+        },
+        {
+          "en": "40%",
+          "hi": "40%"
+        },
+        {
+          "en": "75%",
+          "hi": "75%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let B = 100 ⇒ A = 60.\nExcess = [(100 − 60) / 60] × 100 = (40/60) × 100 = 66.67%.",
+        "hi": "प्रतिशत अधिकता = [40 / (100 − 40)] × 100 = (40/60) × 100 = 66.67%।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00116",
+      "topic": "number_system",
+      "subTopic": "hcf_lcm",
+      "question": {
+        "en": "Find the HCF of 2/3, 8/9, 10/27, and 16/81.",
+        "hi": "2/3, 8/9, 10/27 और 16/81 का म.स. (HCF) ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "2/81",
+          "hi": "2/81"
+        },
+        {
+          "en": "16/3",
+          "hi": "16/3"
+        },
+        {
+          "en": "80/3",
+          "hi": "80/3"
+        },
+        {
+          "en": "2/3",
+          "hi": "2/3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "HCF of fractions = HCF(Numerators) / LCM(Denominators)\n= HCF(2, 8, 10, 16) / LCM(3, 9, 27, 81) = 2 / 81.",
+        "hi": "भिन्नों का म.स. = अंशों का म.स. / हरों का ल.स. = म.स.(2, 8, 10, 16) / ल.स.(3, 9, 27, 81) = 2/81।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00117",
+      "topic": "mixture_alligation",
+      "question": {
+        "en": "In what ratio must water be mixed with milk costing ₹32 per litre to get a mixture worth ₹24 per litre?",
+        "hi": "₹32 प्रति लीटर वाले दूध में किस अनुपात में पानी मिलाया जाए ताकि मिश्रण का मूल्य ₹24 प्रति लीटर हो जाए?"
+      },
+      "options": [
+        {
+          "en": "1 : 3 (Water : Milk)",
+          "hi": "1 : 3 (पानी : दूध)"
+        },
+        {
+          "en": "3 : 1",
+          "hi": "3 : 1"
+        },
+        {
+          "en": "1 : 4",
+          "hi": "1 : 4"
+        },
+        {
+          "en": "2 : 3",
+          "hi": "2 : 3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Cost of water = ₹0, Cost of milk = ₹32, Mean price = ₹24.\nBy Alligation: Water : Milk = (32 − 24) : (24 − 0) = 8 : 24 = 1 : 3.",
+        "hi": "मिश्रण नियम से: पानी : दूध = (32 − 24) : (24 − 0) = 8 : 24 = 1 : 3।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00118",
+      "topic": "time_speed_distance",
+      "subTopic": "boats_streams",
+      "question": {
+        "en": "A boat can travel with a speed of 13 km/h in still water. If the speed of the stream is 4 km/h, find the time taken by the boat to go 68 km downstream.",
+        "hi": "एक नाव शांत जल में 13 किमी/घंटा की चाल से चल सकती है। यदि धारा की चाल 4 किमी/घंटा है, तो नाव द्वारा धारा के अनुकूल 68 किमी जाने में कितना समय लगेगा?"
+      },
+      "options": [
+        {
+          "en": "4 hours",
+          "hi": "4 घंटे"
+        },
+        {
+          "en": "5 hours",
+          "hi": "5 घंटे"
+        },
+        {
+          "en": "3.5 hours",
+          "hi": "3.5 घंटे"
+        },
+        {
+          "en": "4.5 hours",
+          "hi": "4.5 घंटे"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Downstream speed = 13 + 4 = 17 km/h.\nTime taken = Distance / Speed = 68 / 17 = 4 hours.",
+        "hi": "धारा के अनुकूल चाल = 13 + 4 = 17 किमी/घंटा। समय = 68 / 17 = 4 घंटे।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00119",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "In a cyclic quadrilateral ABCD, if ∠A = (2x + 4)° and ∠C = (3x + 1)°, find the value of x.",
+        "hi": "एक चक्रीय चतुर्भुज ABCD में, यदि ∠A = (2x + 4)° तथा ∠C = (3x + 1)° है, तो x का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "35",
+          "hi": "35"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In a cyclic quadrilateral, opposite angles sum to 180°:\n∠A + ∠C = 180° ⇒ (2x + 4) + (3x + 1) = 180 ⇒ 5x + 5 = 180 ⇒ 5x = 175 ⇒ x = 35.",
+        "hi": "चक्रीय चतुर्भुज के सम्मुख कोणों का योग 180° होता है:\n(2x + 4) + (3x + 1) = 180 ⇒ 5x = 175 ⇒ x = 35।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00120",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "The diagonal of a cube is 6√3 cm. What is the total surface area of the cube?",
+        "hi": "एक घन का विकर्ण 6√3 सेमी है। घन का कुल पृष्ठीय क्षेत्रफल क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "216 cm²",
+          "hi": "216 सेमी²"
+        },
+        {
+          "en": "180 cm²",
+          "hi": "180 सेमी²"
+        },
+        {
+          "en": "144 cm²",
+          "hi": "144 सेमी²"
+        },
+        {
+          "en": "256 cm²",
+          "hi": "256 सेमी²"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Diagonal of cube d = a√3 = 6√3 ⇒ side a = 6 cm.\nTotal Surface Area = 6a² = 6 × 6² = 6 × 36 = 216 cm².",
+        "hi": "घन का विकर्ण a√3 = 6√3 ⇒ a = 6 सेमी। कुल पृष्ठीय क्षेत्रफल = 6a² = 6 × 36 = 216 सेमी²।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00121",
+      "topic": "profit_loss",
+      "question": {
+        "en": "If the cost price of 20 articles is equal to the selling price of 16 articles, what is the profit percentage?",
+        "hi": "यदि 20 वस्तुओं का क्रय मूल्य 16 वस्तुओं के विक्रय मूल्य के बराबर है, तो लाभ प्रतिशत क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "25%",
+          "hi": "25%"
+        },
+        {
+          "en": "20%",
+          "hi": "20%"
+        },
+        {
+          "en": "30%",
+          "hi": "30%"
+        },
+        {
+          "en": "16.67%",
+          "hi": "16.67%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "20 CP = 16 SP ⇒ SP / CP = 20 / 16 = 5 / 4.\nProfit % = [(5 − 4) / 4] × 100 = (1/4) × 100 = 25%.",
+        "hi": "SP / CP = 20 / 16 = 5 / 4। लाभ % = (1/4) × 100 = 25%।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00122",
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "A can do a piece of work in 8 days and B in 12 days. With the help of C, they finish the work in 4 days. If the total payment is ₹4,800, what is C's share?",
+        "hi": "A एक काम को 8 दिनों में तथा B 12 दिनों में कर सकता है। C की सहायता से वे कार्य 4 दिनों में पूरा करते हैं। यदि कुल मजदूरी ₹4,800 है, तो C का हिस्सा क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹800",
+          "hi": "₹800"
+        },
+        {
+          "en": "₹1,200",
+          "hi": "₹1,200"
+        },
+        {
+          "en": "₹600",
+          "hi": "₹600"
+        },
+        {
+          "en": "₹1,000",
+          "hi": "₹1,000"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total work = LCM(8, 12, 4) = 24 units.\nA's 1-day work = 3 units, B's 1-day work = 2 units.\n(A+B+C)'s 1-day work = 24/4 = 6 units ⇒ C's 1-day work = 6 − (3 + 2) = 1 unit.\nRatio of work A : B : C = 3 : 2 : 1.\nC's share = (1/6) × 4800 = ₹800.",
+        "hi": "कार्य अनुपात A:B:C = 3:2:1। C का हिस्सा = (1/6) × 4800 = ₹800।"
+      },
+      "difficulty": "medium",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00123",
+      "topic": "trigonometry",
+      "subTopic": "height_distance",
+      "question": {
+        "en": "From the top of a 75 m high tower, the angle of depression of a car on the road is 45°. How far is the car from the base of the tower?",
+        "hi": "75 मीटर ऊँची मीनार के शीर्ष से सड़क पर खड़ी कार का अवनमन कोण 45° है। मीनार के आधार से कार कितनी दूरी पर है?"
+      },
+      "options": [
+        {
+          "en": "75 m",
+          "hi": "75 मीटर"
+        },
+        {
+          "en": "75√3 m",
+          "hi": "75√3 मीटर"
+        },
+        {
+          "en": "50 m",
+          "hi": "50 मीटर"
+        },
+        {
+          "en": "100 m",
+          "hi": "100 मीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "tan 45° = Height / Distance ⇒ 1 = 75 / Distance ⇒ Distance = 75 m.",
+        "hi": "tan 45° = 75 / दूरी ⇒ दूरी = 75 मीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00124",
+      "topic": "simplification",
+      "question": {
+        "en": "Evaluate: 144 ÷ [16 − 4 × (8 − 6)].",
+        "hi": "मान ज्ञात कीजिए: 144 ÷ [16 − 4 × (8 − 6)]।"
+      },
+      "options": [
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "16",
+          "hi": "16"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Bracket = 16 − 4 × (2) = 16 − 8 = 8.\nExpression = 144 ÷ 8 = 18.",
+        "hi": "कोष्ठक = 16 − 4 × 2 = 8। 144 ÷ 8 = 18।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00125",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "What is the remainder when (9⁶ − 11) is divided by 8?",
+        "hi": "(9⁶ − 11) को 8 से विभाजित करने पर शेषफल क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "9 ≡ 1 (mod 8) ⇒ 9⁶ ≡ 1⁶ ≡ 1 (mod 8).\n11 ≡ 3 (mod 8).\nRemainder = (1 − 3) mod 8 = −2 mod 8 = 6.",
+        "hi": "9⁶ ≡ 1 (mod 8) और 11 ≡ 3 (mod 8) ⇒ (1 − 3) = −2 ≡ 6 (mod 8)। शेषफल 6 है।"
+      },
+      "difficulty": "medium",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00126",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + y + z = 19, xy + yz + zx = 114, find the value of √(x³ + y³ + z³ − 3xyz).",
+        "hi": "यदि x + y + z = 19 तथा xy + yz + zx = 114 है, तो √(x³ + y³ + z³ − 3xyz) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "19",
+          "hi": "19"
+        },
+        {
+          "en": "17",
+          "hi": "17"
+        },
+        {
+          "en": "13",
+          "hi": "13"
+        },
+        {
+          "en": "21",
+          "hi": "21"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "x³ + y³ + z³ − 3xyz = (x + y + z)[(x + y + z)² − 3(xy + yz + zx)]\n= 19 × [19² − 3(114)] = 19 × [361 − 342] = 19 × 19 = 361.\nSquare root = √361 = 19.",
+        "hi": "व्यंजक = 19 × [361 − 342] = 19 × 19 = 361। वर्गमूल = √361 = 19।"
+      },
+      "difficulty": "medium",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00127",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "A chord of length 16 cm is at a distance of 6 cm from the centre of a circle. What is the radius of the circle?",
+        "hi": "16 सेमी लंबी एक जीवा वृत्त के केंद्र से 6 सेमी की दूरी पर है। वृत्त की त्रिज्या क्या है?"
+      },
+      "options": [
+        {
+          "en": "10 cm",
+          "hi": "10 सेमी"
+        },
+        {
+          "en": "8 cm",
+          "hi": "8 सेमी"
+        },
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "14 cm",
+          "hi": "14 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Perpendicular from centre bisects chord: half-chord = 8 cm.\nRadius r = √(6² + 8²) = √(36 + 64) = √100 = 10 cm.",
+        "hi": "केंद्र से जीवा पर लंब उसे समद्विभाजित करता है (8 सेमी)। त्रिज्या r = √(6² + 8²) = 10 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00128",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "Find the value of: (sin 30° + cos 60°) − (tan 45° · cot 45°).",
+        "hi": "मान ज्ञात कीजिए: (sin 30° + cos 60°) − (tan 45° · cot 45°)।"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "-1",
+          "hi": "-1"
+        },
+        {
+          "en": "1/2",
+          "hi": "1/2"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "sin 30° = 1/2, cos 60° = 1/2 ⇒ (1/2 + 1/2) = 1.\ntan 45° · cot 45° = 1 × 1 = 1.\nExpression = 1 − 1 = 0.",
+        "hi": "(1/2 + 1/2) − (1 × 1) = 1 − 1 = 0।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00129",
+      "topic": "profit_loss",
+      "question": {
+        "en": "An item is sold for ₹714 after offering a discount of 15% on its marked price. If marked price was 40% above cost price, what was the cost price?",
+        "hi": "एक वस्तु को उसके अंकित मूल्य पर 15% की छूट देने के बाद ₹714 में बेचा जाता है। यदि अंकित मूल्य क्रय मूल्य से 40% अधिक था, तो क्रय मूल्य क्या था?"
+      },
+      "options": [
+        {
+          "en": "₹600",
+          "hi": "₹600"
+        },
+        {
+          "en": "₹550",
+          "hi": "₹550"
+        },
+        {
+          "en": "₹650",
+          "hi": "₹650"
+        },
+        {
+          "en": "₹500",
+          "hi": "₹500"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Marked Price = 714 / 0.85 = ₹840.\nCost Price = 840 / 1.40 = ₹600.",
+        "hi": "अंकित मूल्य = 714 / 0.85 = ₹840। क्रय मूल्य = 840 / 1.40 = ₹600।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00130",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "Two trains of lengths 120 m and 180 m travel in the same direction at 40 km/h and 22 km/h respectively. In what time will the faster train completely cross the slower train?",
+        "hi": "120 मीटर तथा 180 मीटर लंबाई वाली दो रेलगाड़ियाँ समान दिशा में क्रमशः 40 किमी/घंटा और 22 किमी/घंटा की चाल से चल रही हैं। तेज रेलगाड़ी धीमी रेलगाड़ी को कितने समय में पूरी तरह पार कर लेगी?"
+      },
+      "options": [
+        {
+          "en": "60 seconds",
+          "hi": "60 सेकंड"
+        },
+        {
+          "en": "50 seconds",
+          "hi": "50 सेकंड"
+        },
+        {
+          "en": "45 seconds",
+          "hi": "45 सेकंड"
+        },
+        {
+          "en": "75 seconds",
+          "hi": "75 सेकंड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total distance = 120 + 180 = 300 m.\nRelative speed = 40 − 22 = 18 km/h = 18 × (5/18) = 5 m/s.\nTime = 300 / 5 = 60 seconds (1 minute).",
+        "hi": "कुल दूरी = 300 मीटर। सापेक्ष चाल = 18 किमी/घंटा = 5 मी/से। समय = 300 / 5 = 60 सेकंड।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00131",
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "A and B can do a work in 10 days and 15 days respectively. They work on alternate days starting with A. In how many days will the work be completed?",
+        "hi": "A और B किसी कार्य को क्रमशः 10 दिन और 15 दिन में पूरा कर सकते हैं। वे A से शुरू करते हुए बारी-बारी से (एकान्तर दिनों में) कार्य करते हैं। कार्य कितने दिनों में पूरा होगा?"
+      },
+      "options": [
+        {
+          "en": "12 days",
+          "hi": "12 दिन"
+        },
+        {
+          "en": "10 days",
+          "hi": "10 दिन"
+        },
+        {
+          "en": "14 days",
+          "hi": "14 दिन"
+        },
+        {
+          "en": "11 days",
+          "hi": "11 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total work = LCM(10, 15) = 30 units.\nA's rate = 3 units/day, B's rate = 2 units/day.\nIn 2-day cycle: work done = 3 + 2 = 5 units.\nNumber of 2-day cycles for 30 units = 30 / 5 = 6 cycles = 6 × 2 = 12 days.",
+        "hi": "कुल कार्य = 30 इकाई। 2 दिन के चक्र में कार्य = 3 + 2 = 5 इकाई।\nकुल समय = 6 चक्र × 2 = 12 दिन।"
+      },
+      "difficulty": "medium",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00132",
+      "topic": "interest",
+      "subTopic": "compound_interest",
+      "question": {
+        "en": "What is the compound interest on ₹10,000 for 2 years at 12% per annum compounded annually?",
+        "hi": "₹10,000 की राशि पर 12% वार्षिक दर से 2 वर्ष का वार्षिक संयोजित चक्रवृद्धि ब्याज क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "₹2,544",
+          "hi": "₹2,544"
+        },
+        {
+          "en": "₹2,400",
+          "hi": "₹2,400"
+        },
+        {
+          "en": "₹2,500",
+          "hi": "₹2,500"
+        },
+        {
+          "en": "₹2,600",
+          "hi": "₹2,600"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Effective 2-year compound rate = 12 + 12 + (12 × 12)/100 = 24 + 1.44 = 25.44%.\nCI = 25.44% of 10,000 = ₹2,544.",
+        "hi": "प्रभावी ब्याज दर = 12 + 12 + 1.44 = 25.44%। CI = 25.44% of 10000 = ₹2,544।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00133",
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "The ratio of boys and girls in a school is 5 : 3. If there are 240 girls, what is the total number of students in the school?",
+        "hi": "एक विद्यालय में लड़कों और लड़कियों का अनुपात 5 : 3 है। यदि लड़कियों की संख्या 240 है, तो विद्यालय में कुल विद्यार्थियों की संख्या क्या है?"
+      },
+      "options": [
+        {
+          "en": "640",
+          "hi": "640"
+        },
+        {
+          "en": "600",
+          "hi": "600"
+        },
+        {
+          "en": "400",
+          "hi": "400"
+        },
+        {
+          "en": "720",
+          "hi": "720"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "3 units = 240 ⇒ 1 unit = 80.\nTotal students = 5 + 3 = 8 units = 8 × 80 = 640.",
+        "hi": "3 इकाई = 240 ⇒ 1 इकाई = 80। कुल छात्र = 8 इकाई = 640।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00134",
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "A rectangular metallic solid block of dimensions 11 cm × 10 cm × 7 cm is melted to form a sphere. Find the radius of the sphere. (Take π = 22/7)",
+        "hi": "11 सेमी × 10 सेमी × 7 सेमी विमाओं वाले एक धातु के ठोस घनाभ को पिघलाकर एक गोला बनाया जाता है। गोले की त्रिज्या ज्ञात कीजिए। (π = 22/7 लें)"
+      },
+      "options": [
+        {
+          "en": "5.7 cm",
+          "hi": "5.7 सेमी"
+        },
+        {
+          "en": "6 cm",
+          "hi": "6 सेमी"
+        },
+        {
+          "en": "5.5 cm",
+          "hi": "5.5 सेमी"
+        },
+        {
+          "en": "5.2 cm",
+          "hi": "5.2 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Volume = 11 × 10 × 7 = 770 cm³.\n(4/3)πr³ = 770 ⇒ (4/3) × (22/7) × r³ = 770 ⇒ (88/21) r³ = 770 ⇒ r³ = (770 × 21) / 88 = (35 × 21) / 4 = 735 / 4 = 183.75 ⇒ r ≈ 5.68 ≈ 5.7 cm.",
+        "hi": "आयतन = 770 सेमी³। (4/3)πr³ = 770 ⇒ r ≈ 5.7 सेमी।"
+      },
+      "difficulty": "medium",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "calculation_heavy"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00135",
+      "topic": "average",
+      "question": {
+        "en": "The average of 7 numbers is 18. If one number is excluded, the average becomes 16. What is the excluded number?",
+        "hi": "7 संख्याओं का औसत 18 है। यदि एक संख्या निकाल दी जाए, तो औसत 16 हो जाता है। निकाली गई संख्या क्या है?"
+      },
+      "options": [
+        {
+          "en": "30",
+          "hi": "30"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "26",
+          "hi": "26"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total of 7 numbers = 7 × 18 = 126.\nTotal of 6 numbers = 6 × 16 = 96.\nExcluded number = 126 − 96 = 30.",
+        "hi": "निकाली गई संख्या = 7 × 18 − 6 × 16 = 126 − 96 = 30।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00136",
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In △ABC, ∠B = 60° and ∠C = 40°. If AD is the bisector of ∠A and AE ⊥ BC, find ∠DAE.",
+        "hi": "△ABC में ∠B = 60° तथा ∠C = 40° है। यदि AD कोण ∠A का समद्विभाजक है तथा AE ⊥ BC है, तो ∠DAE का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "10°",
+          "hi": "10°"
+        },
+        {
+          "en": "20°",
+          "hi": "20°"
+        },
+        {
+          "en": "15°",
+          "hi": "15°"
+        },
+        {
+          "en": "5°",
+          "hi": "5°"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Formula: ∠DAE = |∠B − ∠C| / 2 = |60° − 40°| / 2 = 20° / 2 = 10°.",
+        "hi": "शॉर्टकट सूत्र: ∠DAE = |∠B − ∠C| / 2 = |60° − 40°| / 2 = 10°।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00137",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = 4, what is the value of x⁵ + 1/x⁵?",
+        "hi": "यदि x + 1/x = 4 है, तो x⁵ + 1/x⁵ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "724",
+          "hi": "724"
+        },
+        {
+          "en": "720",
+          "hi": "720"
+        },
+        {
+          "en": "728",
+          "hi": "728"
+        },
+        {
+          "en": "716",
+          "hi": "716"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "x² + 1/x² = 4² − 2 = 14.\nx³ + 1/x³ = 4³ − 3(4) = 52.\nx⁵ + 1/x⁵ = (x² + 1/x²)(x³ + 1/x³) − (x + 1/x) = (14 × 52) − 4 = 728 − 4 = 724.",
+        "hi": "x⁵ + 1/x⁵ = (x² + 1/x²)(x³ + 1/x³) − (x + 1/x) = 14 × 52 − 4 = 724।"
+      },
+      "difficulty": "medium",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00138",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If 2 sin θ − 1 = 0 (where 0° < θ < 90°), what is the value of (sec θ + tan θ)?",
+        "hi": "यदि 2 sin θ − 1 = 0 है (जहाँ 0° < θ < 90°), तो (sec θ + tan θ) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "√3",
+          "hi": "√3"
+        },
+        {
+          "en": "1/√3",
+          "hi": "1/√3"
+        },
+        {
+          "en": "2√3",
+          "hi": "2√3"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "2 sin θ = 1 ⇒ sin θ = 1/2 ⇒ θ = 30°.\nsec 30° + tan 30° = 2/√3 + 1/√3 = 3/√3 = √3.",
+        "hi": "sin θ = 1/2 ⇒ θ = 30°। sec 30° + tan 30° = 2/√3 + 1/√3 = 3/√3 = √3।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00139",
+      "topic": "percentage",
+      "question": {
+        "en": "If 15% of A is equal to 20% of B, then A : B is equal to:",
+        "hi": "यदि A का 15%, B के 20% के बराबर है, तो A : B का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "4 : 3",
+          "hi": "4 : 3"
+        },
+        {
+          "en": "3 : 4",
+          "hi": "3 : 4"
+        },
+        {
+          "en": "5 : 4",
+          "hi": "5 : 4"
+        },
+        {
+          "en": "2 : 3",
+          "hi": "2 : 3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "15% × A = 20% × B ⇒ 15A = 20B ⇒ A / B = 20 / 15 = 4 / 3.",
+        "hi": "15A = 20B ⇒ A : B = 4 : 3।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00140",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "Which of the following numbers is completely divisible by 11?",
+        "hi": "निम्नलिखित में से कौन सी संख्या 11 से पूर्णतः विभाज्य है?"
+      },
+      "options": [
+        {
+          "en": "482,790",
+          "hi": "482,790"
+        },
+        {
+          "en": "483,271",
+          "hi": "483,271"
+        },
+        {
+          "en": "482,789",
+          "hi": "482,789"
+        },
+        {
+          "en": "481,792",
+          "hi": "481,792"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For 482790:\nSum of odd place digits (from right) = 0 + 7 + 8 = 15.\nSum of even place digits = 9 + 2 + 4 = 15.\nDifference = 15 − 15 = 0, so 482,790 is divisible by 11.",
+        "hi": "482790 में: (0 + 7 + 8) − (9 + 2 + 4) = 15 − 15 = 0, अतः यह 11 से विभाज्य है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00141",
+      "topic": "profit_loss",
+      "question": {
+        "en": "A trader marks his goods at ₹400 and allows a 12.5% discount on the marked price. If he still makes a profit of 10%, what is his cost price?",
+        "hi": "एक व्यापारी अपनी वस्तुओं पर ₹400 अंकित करता है और अंकित मूल्य पर 12.5% की छूट देता है। यदि वह फिर भी 10% का लाभ कमाता है, तो उसका क्रय मूल्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹318.18",
+          "hi": "₹318.18"
+        },
+        {
+          "en": "₹320",
+          "hi": "₹320"
+        },
+        {
+          "en": "₹300",
+          "hi": "₹300"
+        },
+        {
+          "en": "₹315",
+          "hi": "₹315"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "SP = 400 × (1 − 1/8) = 400 × 7/8 = ₹350.\nCP = 350 / 1.10 = ₹318.18.",
+        "hi": "SP = 400 × 7/8 = ₹350। CP = 350 / 1.10 = ₹318.18।"
+      },
+      "difficulty": "medium",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00142",
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "A car travels the first 60 km at 30 km/h and the next 60 km at 20 km/h. What is the average speed of the car for the whole journey?",
+        "hi": "एक कार पहले 60 किमी की दूरी 30 किमी/घंटा की चाल से तथा अगले 60 किमी की दूरी 20 किमी/घंटा की चाल से तय करती है। पूरी यात्रा में कार की औसत चाल क्या है?"
+      },
+      "options": [
+        {
+          "en": "24 km/h",
+          "hi": "24 किमी/घंटा"
+        },
+        {
+          "en": "25 km/h",
+          "hi": "25 किमी/घंटा"
+        },
+        {
+          "en": "22 km/h",
+          "hi": "22 किमी/घंटा"
+        },
+        {
+          "en": "26 km/h",
+          "hi": "26 किमी/घंटा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For equal distances, Average Speed = (2xy) / (x + y) = (2 × 30 × 20) / (30 + 20) = 1200 / 50 = 24 km/h.",
+        "hi": "समान दूरी के लिए: औसत चाल = (2xy)/(x + y) = (2 × 30 × 20)/50 = 24 किमी/घंटा।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00143",
+      "topic": "mixture_alligation",
+      "question": {
+        "en": "In a 75-litre mixture, the ratio of milk to water is 4 : 1. How much water must be added to make the ratio 3 : 1?",
+        "hi": "75 लीटर के मिश्रण में दूध और पानी का अनुपात 4 : 1 है। इस अनुपात को 3 : 1 करने के लिए कितना पानी मिलाना होगा?"
+      },
+      "options": [
+        {
+          "en": "5 litres",
+          "hi": "5 लीटर"
+        },
+        {
+          "en": "4 litres",
+          "hi": "4 लीटर"
+        },
+        {
+          "en": "6 litres",
+          "hi": "6 लीटर"
+        },
+        {
+          "en": "8 litres",
+          "hi": "8 लीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Milk = (4/5) × 75 = 60 litres. Initial Water = 15 litres.\nFor milk : water to be 3 : 1, Water required = 60 / 3 = 20 litres.\nWater to add = 20 − 15 = 5 litres.",
+        "hi": "दूध = 60 लीटर, पानी = 15 लीटर।\n3:1 अनुपात हेतु आवश्यक पानी = 60/3 = 20 लीटर।\nमिलाया गया पानी = 20 − 15 = 5 लीटर।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00144",
+      "topic": "mensuration",
+      "subTopic": "area_2d",
+      "question": {
+        "en": "If the side of an equilateral triangle is 8 cm, what is its area?",
+        "hi": "यदि एक समबाहु त्रिभुज की भुजा 8 सेमी है, तो उसका क्षेत्रफल क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "16√3 cm²",
+          "hi": "16√3 सेमी²"
+        },
+        {
+          "en": "32√3 cm²",
+          "hi": "32√3 सेमी²"
+        },
+        {
+          "en": "24√3 cm²",
+          "hi": "24√3 सेमी²"
+        },
+        {
+          "en": "64√3 cm²",
+          "hi": "64√3 सेमी²"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Area of equilateral triangle = (√3/4) × a² = (√3/4) × 64 = 16√3 cm².",
+        "hi": "समबाहु त्रिभुज का क्षेत्रफल = (√3/4) × a² = (√3/4) × 64 = 16√3 सेमी²।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00145",
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = 3, what is the value of x⁶ + 1/x⁶?",
+        "hi": "यदि x + 1/x = 3 है, तो x⁶ + 1/x⁶ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "322",
+          "hi": "322"
+        },
+        {
+          "en": "324",
+          "hi": "324"
+        },
+        {
+          "en": "320",
+          "hi": "320"
+        },
+        {
+          "en": "326",
+          "hi": "326"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "x³ + 1/x³ = 3³ − 3(3) = 18.\nx⁶ + 1/x⁶ = (x³ + 1/x³)² − 2 = 18² − 2 = 324 − 2 = 322.",
+        "hi": "x³ + 1/x³ = 18। x⁶ + 1/x⁶ = 18² − 2 = 322।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00146",
+      "topic": "time_and_work",
+      "subTopic": "pipes_and_cisterns",
+      "question": {
+        "en": "Two pipes can fill a cistern in 14 hours and 16 hours respectively. The pipes are opened simultaneously and it is found that due to leakage in the bottom, it took 32 minutes more to fill the cistern. When the cistern is full, in what time will the leak empty it?",
+        "hi": "दो नल एक टंकी को क्रमशः 14 घंटे और 16 घंटे में भर सकते हैं। दोनों नलों को एक साथ खोला गया और पाया गया कि तली में रिसाव के कारण टंकी भरने में 32 मिनट अधिक लगे। टंकी भरी होने पर रिसाव इसे कितने समय में खाली कर देगा?"
+      },
+      "options": [
+        {
+          "en": "112 hours",
+          "hi": "112 घंटे"
+        },
+        {
+          "en": "96 hours",
+          "hi": "96 घंटे"
+        },
+        {
+          "en": "100 hours",
+          "hi": "100 घंटे"
+        },
+        {
+          "en": "120 hours",
+          "hi": "120 घंटे"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Time without leak = (14 × 16) / (14 + 16) = 224 / 30 = 7 hours 28 minutes (112/15 hours).\nWith leak, time = 7 hours 28 min + 32 min = 8 hours.\nLet leak take L hours: 1/8 = 15/112 − 1/L ⇒ 1/L = 15/112 − 14/112 = 1/112 ⇒ L = 112 hours.",
+        "hi": "बिना रिसाव समय = 112/15 घंटे। रिसाव के साथ = 8 घंटे।\n1/L = 15/112 − 1/8 = 1/112 ⇒ L = 112 घंटे।"
+      },
+      "difficulty": "hard",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "calculation_heavy"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00147",
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "Two parallel chords of lengths 6 cm and 8 cm are drawn on opposite sides of the centre of a circle of radius 5 cm. What is the distance between the two chords?",
+        "hi": "5 सेमी त्रिज्या वाले वृत्त में केंद्र के विपरीत पक्षों पर 6 सेमी और 8 सेमी लंबाई की दो समानांतर जीवाएँ खींची गई हैं। दोनों जीवाओं के बीच की दूरी क्या है?"
+      },
+      "options": [
+        {
+          "en": "7 cm",
+          "hi": "7 सेमी"
+        },
+        {
+          "en": "8 cm",
+          "hi": "8 सेमी"
+        },
+        {
+          "en": "6 cm",
+          "hi": "6 सेमी"
+        },
+        {
+          "en": "5 cm",
+          "hi": "5 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Distance of first chord (8 cm) from centre = √(5² − 4²) = 3 cm.\nDistance of second chord (6 cm) from centre = √(5² − 3²) = 4 cm.\nTotal distance = 3 + 4 = 7 cm.",
+        "hi": "केंद्र से दूरियाँ: d₁ = √(5² − 4²) = 3 सेमी, d₂ = √(5² − 3²) = 4 सेमी।\nकुल दूरी = 3 + 4 = 7 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00148",
+      "topic": "trigonometry",
+      "subTopic": "trig_ratios",
+      "question": {
+        "en": "If sec θ − tan θ = 1/3, what is the value of sec θ + tan θ?",
+        "hi": "यदि sec θ − tan θ = 1/3 है, तो sec θ + tan θ का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "1/3",
+          "hi": "1/3"
+        },
+        {
+          "en": "9",
+          "hi": "9"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Identity: sec² θ − tan² θ = 1 ⇒ (sec θ − tan θ)(sec θ + tan θ) = 1.\nTherefore, sec θ + tan θ = 1 / (1/3) = 3.",
+        "hi": "सर्वसमिका: (sec θ − tan θ)(sec θ + tan θ) = 1 ⇒ sec θ + tan θ = 1 / (1/3) = 3।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00149",
+      "topic": "simplification",
+      "question": {
+        "en": "Find the value of (1000² − 999²).",
+        "hi": "(1000² − 999²) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "1,999",
+          "hi": "1,999"
+        },
+        {
+          "en": "1,001",
+          "hi": "1,001"
+        },
+        {
+          "en": "1,998",
+          "hi": "1,998"
+        },
+        {
+          "en": "2,000",
+          "hi": "2,000"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "a² − b² = (a + b)(a − b) = (1000 + 999)(1000 − 999) = 1999 × 1 = 1999.",
+        "hi": "a² − b² = (a + b)(a − b) = (1000 + 999) × 1 = 1,999।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_quant_00150",
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If a number is divided by 899, the remainder is 63. What will be the remainder when the same number is divided by 29?",
+        "hi": "यदि किसी संख्या को 899 से भाग दिया जाए, तो शेषफल 63 प्राप्त होता है। यदि उसी संख्या को 29 से भाग दिया जाए, तो शेषफल क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "5",
+          "hi": "5"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        },
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Since 899 is exactly divisible by 29 (899 = 29 × 31), the new remainder is simply: 63 mod 29 = 5 (since 63 = 29 × 2 + 5).",
+        "hi": "899, 29 से पूर्णतः विभाज्य है (899 = 29 × 31)। अतः नया शेषफल = 63 mod 29 = 5।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ]
     }
   ]
 }

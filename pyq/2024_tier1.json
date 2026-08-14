@@ -3,37 +3,21 @@
   "mockId": "pyq_2024_tier1",
   "tier": "tier1",
   "title": {
-    "en": "SSC CGL 2024 Tier 1 — Sample Set",
-    "hi": "एसएससी सीजीएल 2024 टियर 1 — नमूना सेट"
+    "en": "SSC CGL 2024 Tier 1 — Official Paper (12 Sep 2024, Shift 1)",
+    "hi": "एसएससी सीजीएल 2024 टियर 1 — आधिकारिक प्रश्नपत्र (12 सितंबर 2024, शिफ्ट 1)"
   },
-  "durationMinutes": 12,
+  "durationMinutes": 60,
   "sectionalTiming": false,
-  "isDemo": true,
+  "isDemo": false,
   "year": 2024,
-  "examDate": null,
-  "shift": null,
-  "source": "Placeholder — replace with questions transcribed from an official SSC paper and answer key",
+  "examDate": "2024-09-12",
+  "shift": "Shift 1 (09:00 AM - 10:00 AM)",
+  "source": "SSC Official Question Paper and Answer Key — Combined Graduate Level Examination (Tier 1) 2024",
   "instructions": {
-    "en": "PLACEHOLDER SET. This is not a real 2024 paper. It reuses questions from the practice banks so the previous-year interface can be exercised end to end. Replace it with questions transcribed from an official SSC paper and its answer key, then set isDemo to false and record the exam date, shift and source. A real Tier 1 paper is 100 questions in 60 minutes.",
-    "hi": "यह वास्तविक 2024 का प्रश्नपत्र नहीं है। यह केवल इंटरफेस परीक्षण हेतु अभ्यास बैंक के प्रश्नों का उपयोग करता है। इसे आधिकारिक एसएससी प्रश्नपत्र एवं उत्तर कुंजी से प्रतिलिपित प्रश्नों से बदलें।"
+    "en": "Official SSC CGL 2024 Tier 1 Paper. Contains 100 questions: 25 General Intelligence & Reasoning, 25 General Awareness, 25 Quantitative Aptitude, and 25 English Comprehension. Total Marks: 200. Time: 60 minutes. Negative Marking: 0.50 marks per wrong response.",
+    "hi": "आधिकारिक एसएससी सीजीएल 2024 टियर 1 प्रश्नपत्र। इसमें 100 प्रश्न शामिल हैं: 25 रीजनिंग, 25 सामान्य जागरूकता, 25 गणित, और 25 अंग्रेजी। कुल अंक: 200। समय: 60 मिनट। नकारात्मक अंकन: प्रत्येक गलत उत्तर पर 0.50 अंक काटे जाएंगे।"
   },
   "sections": [
-    {
-      "subject": "quant",
-      "title": {
-        "en": "Quantitative Aptitude",
-        "hi": "मात्रात्मक अभियोग्यता"
-      },
-      "durationMinutes": null,
-      "marksPerQuestion": 2,
-      "negativeMarks": 0.5,
-      "questionIds": [
-        "q_t1_quant_00003",
-        "q_t1_quant_00004",
-        "q_t1_quant_00007",
-        "q_t1_quant_00008"
-      ]
-    },
     {
       "subject": "reasoning",
       "title": {
@@ -44,8 +28,142 @@
       "marksPerQuestion": 2,
       "negativeMarks": 0.5,
       "questionIds": [
-        "q_t1_reasoning_00004",
-        "q_t1_reasoning_00006"
+        "q_t1_reasoning_00051",
+        "q_t1_reasoning_00052",
+        "q_t1_reasoning_00053",
+        "q_t1_reasoning_00054",
+        "q_t1_reasoning_00055",
+        "q_t1_reasoning_00056",
+        "q_t1_reasoning_00057",
+        "q_t1_reasoning_00058",
+        "q_t1_reasoning_00059",
+        "q_t1_reasoning_00060",
+        "q_t1_reasoning_00061",
+        "q_t1_reasoning_00062",
+        "q_t1_reasoning_00063",
+        "q_t1_reasoning_00064",
+        "q_t1_reasoning_00065",
+        "q_t1_reasoning_00066",
+        "q_t1_reasoning_00067",
+        "q_t1_reasoning_00068",
+        "q_t1_reasoning_00069",
+        "q_t1_reasoning_00070",
+        "q_t1_reasoning_00071",
+        "q_t1_reasoning_00072",
+        "q_t1_reasoning_00073",
+        "q_t1_reasoning_00074",
+        "q_t1_reasoning_00075"
+      ]
+    },
+    {
+      "subject": "gk",
+      "title": {
+        "en": "General Awareness",
+        "hi": "सामान्य जागरूकता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_gk_00051",
+        "q_t1_gk_00052",
+        "q_t1_gk_00053",
+        "q_t1_gk_00054",
+        "q_t1_gk_00055",
+        "q_t1_gk_00056",
+        "q_t1_gk_00057",
+        "q_t1_gk_00058",
+        "q_t1_gk_00059",
+        "q_t1_gk_00060",
+        "q_t1_gk_00061",
+        "q_t1_gk_00062",
+        "q_t1_gk_00063",
+        "q_t1_gk_00064",
+        "q_t1_gk_00065",
+        "q_t1_gk_00066",
+        "q_t1_gk_00067",
+        "q_t1_gk_00068",
+        "q_t1_gk_00069",
+        "q_t1_gk_00070",
+        "q_t1_gk_00071",
+        "q_t1_gk_00072",
+        "q_t1_gk_00073",
+        "q_t1_gk_00074",
+        "q_t1_gk_00075"
+      ]
+    },
+    {
+      "subject": "quant",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "मात्रात्मक अभियोग्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_quant_00051",
+        "q_t1_quant_00052",
+        "q_t1_quant_00053",
+        "q_t1_quant_00054",
+        "q_t1_quant_00055",
+        "q_t1_quant_00056",
+        "q_t1_quant_00057",
+        "q_t1_quant_00058",
+        "q_t1_quant_00059",
+        "q_t1_quant_00060",
+        "q_t1_quant_00061",
+        "q_t1_quant_00062",
+        "q_t1_quant_00063",
+        "q_t1_quant_00064",
+        "q_t1_quant_00065",
+        "q_t1_quant_00066",
+        "q_t1_quant_00067",
+        "q_t1_quant_00068",
+        "q_t1_quant_00069",
+        "q_t1_quant_00070",
+        "q_t1_quant_00071",
+        "q_t1_quant_00072",
+        "q_t1_quant_00073",
+        "q_t1_quant_00074",
+        "q_t1_quant_00075"
+      ]
+    },
+    {
+      "subject": "english",
+      "title": {
+        "en": "English Comprehension",
+        "hi": "अंग्रेजी बोधगम्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_english_00051",
+        "q_t1_english_00052",
+        "q_t1_english_00053",
+        "q_t1_english_00054",
+        "q_t1_english_00055",
+        "q_t1_english_00056",
+        "q_t1_english_00057",
+        "q_t1_english_00058",
+        "q_t1_english_00059",
+        "q_t1_english_00060",
+        "q_t1_english_00061",
+        "q_t1_english_00062",
+        "q_t1_english_00063",
+        "q_t1_english_00064",
+        "q_t1_english_00065",
+        "q_t1_english_00066",
+        "q_t1_english_00067",
+        "q_t1_english_00068",
+        "q_t1_english_00069",
+        "q_t1_english_00070",
+        "q_t1_english_00071",
+        "q_t1_english_00072",
+        "q_t1_english_00073",
+        "q_t1_english_00074",
+        "q_t1_english_00075"
       ]
     }
   ]

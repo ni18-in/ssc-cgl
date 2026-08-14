@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "1.0.0",
+  "mockId": "pyq_2021_tier1",
+  "tier": "tier1",
+  "title": {
+    "en": "SSC CGL 2021 Tier 1 — Official Paper (11 April 2022, Shift 1)",
+    "hi": "एसएससी सीजीएल 2021 टियर 1 — आधिकारिक प्रश्नपत्र (11 अप्रैल 2022, शिफ्ट 1)"
+  },
+  "durationMinutes": 60,
+  "sectionalTiming": false,
+  "isDemo": false,
+  "year": 2021,
+  "examDate": "2022-04-11",
+  "shift": "Shift 1 (09:00 AM - 10:00 AM)",
+  "source": "SSC Official Question Paper and Answer Key — Combined Graduate Level Examination (Tier 1) 2021",
+  "instructions": {
+    "en": "Official SSC CGL 2021 Tier 1 Paper. Contains 100 questions: 25 General Intelligence & Reasoning, 25 General Awareness, 25 Quantitative Aptitude, and 25 English Comprehension. Total Marks: 200. Time: 60 minutes. Negative Marking: 0.50 marks per wrong response.",
+    "hi": "आधिकारिक एसएससी सीजीएल 2021 टियर 1 प्रश्नपत्र। इसमें 100 प्रश्न शामिल हैं: 25 रीजनिंग, 25 सामान्य जागरूकता, 25 गणित, और 25 अंग्रेजी। कुल अंक: 200। समय: 60 मिनट। नकारात्मक अंकन: प्रत्येक गलत उत्तर पर 0.50 अंक काटे जाएंगे।"
+  },
+  "sections": [
+    {
+      "subject": "reasoning",
+      "title": {
+        "en": "General Intelligence & Reasoning",
+        "hi": "सामान्य बुद्धि एवं तर्कशक्ति"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_reasoning_00126",
+        "q_t1_reasoning_00127",
+        "q_t1_reasoning_00128",
+        "q_t1_reasoning_00129",
+        "q_t1_reasoning_00130",
+        "q_t1_reasoning_00131",
+        "q_t1_reasoning_00132",
+        "q_t1_reasoning_00133",
+        "q_t1_reasoning_00134",
+        "q_t1_reasoning_00135",
+        "q_t1_reasoning_00136",
+        "q_t1_reasoning_00137",
+        "q_t1_reasoning_00138",
+        "q_t1_reasoning_00139",
+        "q_t1_reasoning_00140",
+        "q_t1_reasoning_00141",
+        "q_t1_reasoning_00142",
+        "q_t1_reasoning_00143",
+        "q_t1_reasoning_00144",
+        "q_t1_reasoning_00145",
+        "q_t1_reasoning_00146",
+        "q_t1_reasoning_00147",
+        "q_t1_reasoning_00148",
+        "q_t1_reasoning_00149",
+        "q_t1_reasoning_00150"
+      ]
+    },
+    {
+      "subject": "gk",
+      "title": {
+        "en": "General Awareness",
+        "hi": "सामान्य जागरूकता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_gk_00126",
+        "q_t1_gk_00127",
+        "q_t1_gk_00128",
+        "q_t1_gk_00129",
+        "q_t1_gk_00130",
+        "q_t1_gk_00131",
+        "q_t1_gk_00132",
+        "q_t1_gk_00133",
+        "q_t1_gk_00134",
+        "q_t1_gk_00135",
+        "q_t1_gk_00136",
+        "q_t1_gk_00137",
+        "q_t1_gk_00138",
+        "q_t1_gk_00139",
+        "q_t1_gk_00140",
+        "q_t1_gk_00141",
+        "q_t1_gk_00142",
+        "q_t1_gk_00143",
+        "q_t1_gk_00144",
+        "q_t1_gk_00145",
+        "q_t1_gk_00146",
+        "q_t1_gk_00147",
+        "q_t1_gk_00148",
+        "q_t1_gk_00149",
+        "q_t1_gk_00150"
+      ]
+    },
+    {
+      "subject": "quant",
+      "title": {
+        "en": "Quantitative Aptitude",
+        "hi": "मात्रात्मक अभियोग्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_quant_00126",
+        "q_t1_quant_00127",
+        "q_t1_quant_00128",
+        "q_t1_quant_00129",
+        "q_t1_quant_00130",
+        "q_t1_quant_00131",
+        "q_t1_quant_00132",
+        "q_t1_quant_00133",
+        "q_t1_quant_00134",
+        "q_t1_quant_00135",
+        "q_t1_quant_00136",
+        "q_t1_quant_00137",
+        "q_t1_quant_00138",
+        "q_t1_quant_00139",
+        "q_t1_quant_00140",
+        "q_t1_quant_00141",
+        "q_t1_quant_00142",
+        "q_t1_quant_00143",
+        "q_t1_quant_00144",
+        "q_t1_quant_00145",
+        "q_t1_quant_00146",
+        "q_t1_quant_00147",
+        "q_t1_quant_00148",
+        "q_t1_quant_00149",
+        "q_t1_quant_00150"
+      ]
+    },
+    {
+      "subject": "english",
+      "title": {
+        "en": "English Comprehension",
+        "hi": "अंग्रेजी बोधगम्यता"
+      },
+      "durationMinutes": null,
+      "marksPerQuestion": 2,
+      "negativeMarks": 0.5,
+      "questionIds": [
+        "q_t1_english_00126",
+        "q_t1_english_00127",
+        "q_t1_english_00128",
+        "q_t1_english_00129",
+        "q_t1_english_00130",
+        "q_t1_english_00131",
+        "q_t1_english_00132",
+        "q_t1_english_00133",
+        "q_t1_english_00134",
+        "q_t1_english_00135",
+        "q_t1_english_00136",
+        "q_t1_english_00137",
+        "q_t1_english_00138",
+        "q_t1_english_00139",
+        "q_t1_english_00140",
+        "q_t1_english_00141",
+        "q_t1_english_00142",
+        "q_t1_english_00143",
+        "q_t1_english_00144",
+        "q_t1_english_00145",
+        "q_t1_english_00146",
+        "q_t1_english_00147",
+        "q_t1_english_00148",
+        "q_t1_english_00149",
+        "q_t1_english_00150"
+      ]
+    }
+  ]
+}

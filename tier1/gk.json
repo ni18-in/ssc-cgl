@@ -3,7 +3,10 @@
   "bankId": "t1_gk",
   "tier": "tier1",
   "subject": "gk",
-  "title": { "en": "General Awareness — Tier 1", "hi": "सामान्य जागरूकता — टियर 1" },
+  "title": {
+    "en": "General Awareness — Tier 1",
+    "hi": "सामान्य जागरूकता — टियर 1"
+  },
   "defaultMarks": 2,
   "defaultNegativeMarks": 0.5,
   "questions": [
@@ -16,10 +19,22 @@
         "hi": "भारतीय संविधान का अनुच्छेद 32 निम्नलिखित में से किससे संबंधित है?"
       },
       "options": [
-        { "en": "Right to Equality", "hi": "समानता का अधिकार" },
-        { "en": "Right to Constitutional Remedies", "hi": "संवैधानिक उपचारों का अधिकार" },
-        { "en": "Right to Freedom of Religion", "hi": "धार्मिक स्वतंत्रता का अधिकार" },
-        { "en": "Right against Exploitation", "hi": "शोषण के विरुद्ध अधिकार" }
+        {
+          "en": "Right to Equality",
+          "hi": "समानता का अधिकार"
+        },
+        {
+          "en": "Right to Constitutional Remedies",
+          "hi": "संवैधानिक उपचारों का अधिकार"
+        },
+        {
+          "en": "Right to Freedom of Religion",
+          "hi": "धार्मिक स्वतंत्रता का अधिकार"
+        },
+        {
+          "en": "Right against Exploitation",
+          "hi": "शोषण के विरुद्ध अधिकार"
+        }
       ],
       "correctIndex": 1,
       "explanation": {
@@ -29,7 +44,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00002",
@@ -40,10 +57,22 @@
         "hi": "किस विटामिन की कमी से स्कर्वी रोग होता है?"
       },
       "options": [
-        { "en": "Vitamin A", "hi": "विटामिन A" },
-        { "en": "Vitamin D", "hi": "विटामिन D" },
-        { "en": "Vitamin C", "hi": "विटामिन C" },
-        { "en": "Vitamin K", "hi": "विटामिन K" }
+        {
+          "en": "Vitamin A",
+          "hi": "विटामिन A"
+        },
+        {
+          "en": "Vitamin D",
+          "hi": "विटामिन D"
+        },
+        {
+          "en": "Vitamin C",
+          "hi": "विटामिन C"
+        },
+        {
+          "en": "Vitamin K",
+          "hi": "विटामिन K"
+        }
       ],
       "correctIndex": 2,
       "explanation": {
@@ -53,7 +82,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00003",
@@ -64,10 +95,22 @@
         "hi": "प्लासी का युद्ध किस वर्ष लड़ा गया था?"
       },
       "options": [
-        { "en": "1764", "hi": "1764" },
-        { "en": "1757", "hi": "1757" },
-        { "en": "1761", "hi": "1761" },
-        { "en": "1748", "hi": "1748" }
+        {
+          "en": "1764",
+          "hi": "1764"
+        },
+        {
+          "en": "1757",
+          "hi": "1757"
+        },
+        {
+          "en": "1761",
+          "hi": "1761"
+        },
+        {
+          "en": "1748",
+          "hi": "1748"
+        }
       ],
       "correctIndex": 1,
       "explanation": {
@@ -77,7 +120,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked", "trap"]
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
     },
     {
       "id": "q_t1_gk_00004",
@@ -88,10 +134,22 @@
         "hi": "भारतीय रिज़र्व बैंक का मुख्यालय कहाँ स्थित है?"
       },
       "options": [
-        { "en": "Kolkata", "hi": "कोलकाता" },
-        { "en": "New Delhi", "hi": "नई दिल्ली" },
-        { "en": "Mumbai", "hi": "मुंबई" },
-        { "en": "Chennai", "hi": "चेन्नई" }
+        {
+          "en": "Kolkata",
+          "hi": "कोलकाता"
+        },
+        {
+          "en": "New Delhi",
+          "hi": "नई दिल्ली"
+        },
+        {
+          "en": "Mumbai",
+          "hi": "मुंबई"
+        },
+        {
+          "en": "Chennai",
+          "hi": "चेन्नई"
+        }
       ],
       "correctIndex": 2,
       "explanation": {
@@ -101,7 +159,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00005",
@@ -112,10 +172,22 @@
         "hi": "विद्युत धारा का SI मात्रक क्या है?"
       },
       "options": [
-        { "en": "Volt", "hi": "वोल्ट" },
-        { "en": "Ohm", "hi": "ओम" },
-        { "en": "Watt", "hi": "वाट" },
-        { "en": "Ampere", "hi": "एम्पियर" }
+        {
+          "en": "Volt",
+          "hi": "वोल्ट"
+        },
+        {
+          "en": "Ohm",
+          "hi": "ओम"
+        },
+        {
+          "en": "Watt",
+          "hi": "वाट"
+        },
+        {
+          "en": "Ampere",
+          "hi": "एम्पियर"
+        }
       ],
       "correctIndex": 3,
       "explanation": {
@@ -125,7 +197,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00006",
@@ -136,10 +210,22 @@
         "hi": "पूर्णतः भारत के भीतर बहने वाली सबसे लंबी नदी कौन-सी है?"
       },
       "options": [
-        { "en": "Godavari", "hi": "गोदावरी" },
-        { "en": "Narmada", "hi": "नर्मदा" },
-        { "en": "Krishna", "hi": "कृष्णा" },
-        { "en": "Mahanadi", "hi": "महानदी" }
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Narmada",
+          "hi": "नर्मदा"
+        },
+        {
+          "en": "Krishna",
+          "hi": "कृष्णा"
+        },
+        {
+          "en": "Mahanadi",
+          "hi": "महानदी"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -149,7 +235,10 @@
       "difficulty": "medium",
       "year": null,
       "imageUrl": null,
-      "tags": ["trap", "frequently_asked"]
+      "tags": [
+        "trap",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00007",
@@ -160,10 +249,22 @@
         "hi": "किस संविधान संशोधन अधिनियम द्वारा भारतीय संविधान में मौलिक कर्तव्यों को जोड़ा गया था?"
       },
       "options": [
-        { "en": "42nd Amendment Act", "hi": "42वाँ संशोधन अधिनियम" },
-        { "en": "44th Amendment Act", "hi": "44वाँ संशोधन अधिनियम" },
-        { "en": "86th Amendment Act", "hi": "86वाँ संशोधन अधिनियम" },
-        { "en": "73rd Amendment Act", "hi": "73वाँ संशोधन अधिनियम" }
+        {
+          "en": "42nd Amendment Act",
+          "hi": "42वाँ संशोधन अधिनियम"
+        },
+        {
+          "en": "44th Amendment Act",
+          "hi": "44वाँ संशोधन अधिनियम"
+        },
+        {
+          "en": "86th Amendment Act",
+          "hi": "86वाँ संशोधन अधिनियम"
+        },
+        {
+          "en": "73rd Amendment Act",
+          "hi": "73वाँ संशोधन अधिनियम"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -173,7 +274,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00008",
@@ -184,10 +287,22 @@
         "hi": "सिंधु घाटी सभ्यता का विशाल स्नानागार किस स्थल पर खोजा गया था?"
       },
       "options": [
-        { "en": "Mohenjo-daro", "hi": "मोहनजोदड़ो" },
-        { "en": "Harappa", "hi": "हड़प्पा" },
-        { "en": "Kalibangan", "hi": "कालीबंगा" },
-        { "en": "Lothal", "hi": "लोथल" }
+        {
+          "en": "Mohenjo-daro",
+          "hi": "मोहनजोदड़ो"
+        },
+        {
+          "en": "Harappa",
+          "hi": "हड़प्पा"
+        },
+        {
+          "en": "Kalibangan",
+          "hi": "कालीबंगा"
+        },
+        {
+          "en": "Lothal",
+          "hi": "लोथल"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -197,7 +312,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00009",
@@ -208,10 +325,22 @@
         "hi": "विद्युत धारा का SI मात्रक क्या है?"
       },
       "options": [
-        { "en": "Ampere", "hi": "एम्पीयर" },
-        { "en": "Volt", "hi": "वोल्ट" },
-        { "en": "Ohm", "hi": "ओम" },
-        { "en": "Watt", "hi": "वाट" }
+        {
+          "en": "Ampere",
+          "hi": "एम्पीयर"
+        },
+        {
+          "en": "Volt",
+          "hi": "वोल्ट"
+        },
+        {
+          "en": "Ohm",
+          "hi": "ओम"
+        },
+        {
+          "en": "Watt",
+          "hi": "वाट"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -221,7 +350,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00010",
@@ -232,10 +363,22 @@
         "hi": "कुचिपुड़ी किस भारतीय राज्य का शास्त्रीय नृत्य है?"
       },
       "options": [
-        { "en": "Andhra Pradesh", "hi": "आंध्र प्रदेश" },
-        { "en": "Tamil Nadu", "hi": "तमिलनाडु" },
-        { "en": "Kerala", "hi": "केरल" },
-        { "en": "Odisha", "hi": "ओडिशा" }
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -245,7 +388,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00011",
@@ -256,10 +401,22 @@
         "hi": "बेकिंग सोडा का रासायनिक सूत्र क्या है?"
       },
       "options": [
-        { "en": "NaHCO₃", "hi": "NaHCO₃" },
-        { "en": "Na₂CO₃", "hi": "Na₂CO₃" },
-        { "en": "NaOH", "hi": "NaOH" },
-        { "en": "NaCl", "hi": "NaCl" }
+        {
+          "en": "NaHCO₃",
+          "hi": "NaHCO₃"
+        },
+        {
+          "en": "Na₂CO₃",
+          "hi": "Na₂CO₃"
+        },
+        {
+          "en": "NaOH",
+          "hi": "NaOH"
+        },
+        {
+          "en": "NaCl",
+          "hi": "NaCl"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -269,7 +426,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00012",
@@ -280,10 +439,22 @@
         "hi": "दिल्ली सल्तनत के गुलाम वंश (मामलुक वंश) का संस्थापक कौन था?"
       },
       "options": [
-        { "en": "Qutb-ud-din Aibak", "hi": "कुतुबुद्दीन ऐबक" },
-        { "en": "Iltutmish", "hi": "इल्तुतमिश" },
-        { "en": "Balban", "hi": "बलबन" },
-        { "en": "Alauddin Khalji", "hi": "अलाउद्दीन खिलजी" }
+        {
+          "en": "Qutb-ud-din Aibak",
+          "hi": "कुतुबुद्दीन ऐबक"
+        },
+        {
+          "en": "Iltutmish",
+          "hi": "इल्तुतमिश"
+        },
+        {
+          "en": "Balban",
+          "hi": "बलबन"
+        },
+        {
+          "en": "Alauddin Khalji",
+          "hi": "अलाउद्दीन खिलजी"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -293,7 +464,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00013",
@@ -304,10 +477,22 @@
         "hi": "वायुमंडल की किस परत में संरक्षणकारी ओजोन परत पाई जाती है?"
       },
       "options": [
-        { "en": "Stratosphere", "hi": "समताप मंडल (स्ट्रैटोस्फियर)" },
-        { "en": "Troposphere", "hi": "क्षोभमंडल (ट्रोपोस्फियर)" },
-        { "en": "Mesosphere", "hi": "मध्यमंडल (मेसोस्फियर)" },
-        { "en": "Thermosphere", "hi": "तापमंडल (थर्मोस्फियर)" }
+        {
+          "en": "Stratosphere",
+          "hi": "समताप मंडल (स्ट्रैटोस्फियर)"
+        },
+        {
+          "en": "Troposphere",
+          "hi": "क्षोभमंडल (ट्रोपोस्फियर)"
+        },
+        {
+          "en": "Mesosphere",
+          "hi": "मध्यमंडल (मेसोस्फियर)"
+        },
+        {
+          "en": "Thermosphere",
+          "hi": "तापमंडल (थर्मोस्फियर)"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -317,7 +502,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00014",
@@ -328,10 +515,22 @@
         "hi": "युनेस्को (UNESCO) का मुख्यालय कहाँ स्थित है?"
       },
       "options": [
-        { "en": "Paris", "hi": "पेरिस" },
-        { "en": "Geneva", "hi": "जेनेवा" },
-        { "en": "New York", "hi": "न्यू यॉर्क" },
-        { "en": "Vienna", "hi": "विएना" }
+        {
+          "en": "Paris",
+          "hi": "पेरिस"
+        },
+        {
+          "en": "Geneva",
+          "hi": "जेनेवा"
+        },
+        {
+          "en": "New York",
+          "hi": "न्यू यॉर्क"
+        },
+        {
+          "en": "Vienna",
+          "hi": "विएना"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -341,7 +540,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00015",
@@ -352,10 +553,22 @@
         "hi": "संविधान के अतिक्रमण पर राष्ट्रपति के विरुद्ध महाभियोग की प्रक्रिया भारतीय संविधान के किस अनुच्छेद के अंतर्गत चलाई जाती है?"
       },
       "options": [
-        { "en": "Article 61", "hi": "अनुच्छेद 61" },
-        { "en": "Article 52", "hi": "अनुच्छेद 52" },
-        { "en": "Article 72", "hi": "अनुच्छेद 72" },
-        { "en": "Article 123", "hi": "अनुच्छेद 123" }
+        {
+          "en": "Article 61",
+          "hi": "अनुच्छेद 61"
+        },
+        {
+          "en": "Article 52",
+          "hi": "अनुच्छेद 52"
+        },
+        {
+          "en": "Article 72",
+          "hi": "अनुच्छेद 72"
+        },
+        {
+          "en": "Article 123",
+          "hi": "अनुच्छेद 123"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -365,7 +578,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00016",
@@ -376,10 +591,22 @@
         "hi": "गवर्नर जनरल लॉर्ड विलियम बैंटिंक द्वारा ब्रिटिश भारत में सती प्रथा का उन्मूलन किस वर्ष किया गया था?"
       },
       "options": [
-        { "en": "1829", "hi": "1829" },
-        { "en": "1857", "hi": "1857" },
-        { "en": "1833", "hi": "1833" },
-        { "en": "1820", "hi": "1820" }
+        {
+          "en": "1829",
+          "hi": "1829"
+        },
+        {
+          "en": "1857",
+          "hi": "1857"
+        },
+        {
+          "en": "1833",
+          "hi": "1833"
+        },
+        {
+          "en": "1820",
+          "hi": "1820"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -389,7 +616,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00017",
@@ -400,10 +629,22 @@
         "hi": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन-सा है?"
       },
       "options": [
-        { "en": "Venus", "hi": "शुक्र (Venus)" },
-        { "en": "Mercury", "hi": "बुध (Mercury)" },
-        { "en": "Mars", "hi": "मंगल (Mars)" },
-        { "en": "Jupiter", "hi": "बृहस्पति (Jupiter)" }
+        {
+          "en": "Venus",
+          "hi": "शुक्र (Venus)"
+        },
+        {
+          "en": "Mercury",
+          "hi": "बुध (Mercury)"
+        },
+        {
+          "en": "Mars",
+          "hi": "मंगल (Mars)"
+        },
+        {
+          "en": "Jupiter",
+          "hi": "बृहस्पति (Jupiter)"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -413,7 +654,10 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["trap", "frequently_asked"]
+      "tags": [
+        "trap",
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00018",
@@ -424,10 +668,22 @@
         "hi": "भारत की प्रथम पंचवर्षीय योजना (1951-1956) किस आर्थिक मॉडल पर आधारित थी?"
       },
       "options": [
-        { "en": "Harrod-Domar Model", "hi": "हेराड-डोमर मॉडल" },
-        { "en": "Mahalanobis Model", "hi": "महालनोबिस मॉडल" },
-        { "en": "Solow Model", "hi": "सोलो मॉडल" },
-        { "en": "Keynesian Model", "hi": "केन्सियन मॉडल" }
+        {
+          "en": "Harrod-Domar Model",
+          "hi": "हेराड-डोमर मॉडल"
+        },
+        {
+          "en": "Mahalanobis Model",
+          "hi": "महालनोबिस मॉडल"
+        },
+        {
+          "en": "Solow Model",
+          "hi": "सोलो मॉडल"
+        },
+        {
+          "en": "Keynesian Model",
+          "hi": "केन्सियन मॉडल"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -437,7 +693,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00019",
@@ -448,10 +706,22 @@
         "hi": "मानव लाल रक्त कोशिकाओं (RBC) का औसत जीवनकाल कितना होता है?"
       },
       "options": [
-        { "en": "120 days", "hi": "120 दिन" },
-        { "en": "90 days", "hi": "90 दिन" },
-        { "en": "60 days", "hi": "60 दिन" },
-        { "en": "150 days", "hi": "150 दिन" }
+        {
+          "en": "120 days",
+          "hi": "120 दिन"
+        },
+        {
+          "en": "90 days",
+          "hi": "90 दिन"
+        },
+        {
+          "en": "60 days",
+          "hi": "60 दिन"
+        },
+        {
+          "en": "150 days",
+          "hi": "150 दिन"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -461,7 +731,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00020",
@@ -472,10 +744,22 @@
         "hi": "महात्मा गांधी के दक्षिण अफ्रीका से भारत लौटने की स्मृति में प्रवासी भारतीय दिवस किस तिथि को मनाया जाता है?"
       },
       "options": [
-        { "en": "9th January", "hi": "9 जनवरी" },
-        { "en": "15th January", "hi": "15 जनवरी" },
-        { "en": "2nd October", "hi": "2 अक्टूबर" },
-        { "en": "26th November", "hi": "26 नवंबर" }
+        {
+          "en": "9th January",
+          "hi": "9 जनवरी"
+        },
+        {
+          "en": "15th January",
+          "hi": "15 जनवरी"
+        },
+        {
+          "en": "2nd October",
+          "hi": "2 अक्टूबर"
+        },
+        {
+          "en": "26th November",
+          "hi": "26 नवंबर"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -485,7 +769,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00021",
@@ -496,10 +782,22 @@
         "hi": "पश्चिमी भारत के शकों को पराजित करने के बाद किस गुप्त शासक ने 'विक्रमादित्य' की उपाधि धारण की थी?"
       },
       "options": [
-        { "en": "Chandragupta II", "hi": "चंद्रगुप्त द्वितीय" },
-        { "en": "Samudragupta", "hi": "समुद्रगुप्त" },
-        { "en": "Chandragupta I", "hi": "चंद्रगुप्त प्रथम" },
-        { "en": "Skandagupta", "hi": "स्कंदगुप्त" }
+        {
+          "en": "Chandragupta II",
+          "hi": "चंद्रगुप्त द्वितीय"
+        },
+        {
+          "en": "Samudragupta",
+          "hi": "समुद्रगुप्त"
+        },
+        {
+          "en": "Chandragupta I",
+          "hi": "चंद्रगुप्त प्रथम"
+        },
+        {
+          "en": "Skandagupta",
+          "hi": "स्कंदगुप्त"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -509,7 +807,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00022",
@@ -520,10 +820,22 @@
         "hi": "भारतीय संविधान का अनुच्छेद 148 किस संवैधानिक प्राधिकारी का प्रावधान करता है?"
       },
       "options": [
-        { "en": "Comptroller and Auditor General of India (CAG)", "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG)" },
-        { "en": "Attorney General of India", "hi": "भारत के महान्यायवादी" },
-        { "en": "Election Commission of India", "hi": "भारत का निर्वाचन आयोग" },
-        { "en": "Finance Commission", "hi": "वित्त आयोग" }
+        {
+          "en": "Comptroller and Auditor General of India (CAG)",
+          "hi": "भारत के नियंत्रक एवं महालेखा परीक्षक (CAG)"
+        },
+        {
+          "en": "Attorney General of India",
+          "hi": "भारत के महान्यायवादी"
+        },
+        {
+          "en": "Election Commission of India",
+          "hi": "भारत का निर्वाचन आयोग"
+        },
+        {
+          "en": "Finance Commission",
+          "hi": "वित्त आयोग"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -533,7 +845,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00023",
@@ -544,10 +858,22 @@
         "hi": "एक सींग वाले गैंडे के लिए प्रसिद्ध काजीरंगा राष्ट्रीय उद्यान किस राज्य में स्थित है?"
       },
       "options": [
-        { "en": "Assam", "hi": "असम" },
-        { "en": "West Bengal", "hi": "पश्चिम बंगाल" },
-        { "en": "Odisha", "hi": "ओडिशा" },
-        { "en": "Meghalaya", "hi": "मेघालय" }
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Meghalaya",
+          "hi": "मेघालय"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -557,7 +883,9 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
     },
     {
       "id": "q_t1_gk_00024",
@@ -568,10 +896,22 @@
         "hi": "ठोस कार्बन डाइऑक्साइड (CO₂) का सामान्य नाम क्या है?"
       },
       "options": [
-        { "en": "Dry Ice", "hi": "शुष्क बर्फ (Dry Ice)" },
-        { "en": "Heavy Water", "hi": "भारी जल" },
-        { "en": "Quicklime", "hi": "बिना बुझा चूना" },
-        { "en": "Slaked Lime", "hi": "बुझा हुआ चूना" }
+        {
+          "en": "Dry Ice",
+          "hi": "शुष्क बर्फ (Dry Ice)"
+        },
+        {
+          "en": "Heavy Water",
+          "hi": "भारी जल"
+        },
+        {
+          "en": "Quicklime",
+          "hi": "बिना बुझा चूना"
+        },
+        {
+          "en": "Slaked Lime",
+          "hi": "बुझा हुआ चूना"
+        }
       ],
       "correctIndex": 0,
       "explanation": {
@@ -581,7 +921,4824 @@
       "difficulty": "easy",
       "year": null,
       "imageUrl": null,
-      "tags": ["frequently_asked"]
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00025",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Which Article of the Indian Constitution is known as the 'Heart and Soul of the Constitution' according to Dr. B.R. Ambedkar?",
+        "hi": "डॉ. बी.आर. अंबेडकर के अनुसार भारतीय संविधान के किस अनुच्छेद को 'संविधान का हृदय और आत्मा' कहा गया है?"
+      },
+      "options": [
+        {
+          "en": "Article 32 (Right to Constitutional Remedies)",
+          "hi": "अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार)"
+        },
+        {
+          "en": "Article 21 (Protection of Life and Personal Liberty)",
+          "hi": "अनुच्छेद 21 (प्राण एवं दैहिक स्वतंत्रता का संरक्षण)"
+        },
+        {
+          "en": "Article 14 (Equality before Law)",
+          "hi": "अनुच्छेद 14 (विधि के समक्ष समता)"
+        },
+        {
+          "en": "Article 19 (Right to Freedom)",
+          "hi": "अनुच्छेद 19 (स्वतंत्रता का अधिकार)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Dr. B.R. Ambedkar referred to Article 32 (Right to Constitutional Remedies) as the 'Heart and Soul' of the Constitution because it empowers citizens to directly approach the Supreme Court for enforcement of Fundamental Rights via writs.",
+        "hi": "डॉ. बी.आर. अंबेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को संविधान का 'हृदय और आत्मा' कहा था क्योंकि यह मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय में रिट याचिका दायर करने का अधिकार प्रदान करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00026",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The famous Great Bath of the Indus Valley Civilization was discovered at which site?",
+        "hi": "सिंधु घाटी सभ्यता का प्रसिद्ध विशाल स्नानागार (Great Bath) किस स्थल पर पाया गया था?"
+      },
+      "options": [
+        {
+          "en": "Mohenjo-daro",
+          "hi": "मोहनजोदड़ो"
+        },
+        {
+          "en": "Harappa",
+          "hi": "हड़प्पा"
+        },
+        {
+          "en": "Lothal",
+          "hi": "लोथल"
+        },
+        {
+          "en": "Kalibangan",
+          "hi": "कालीबंगन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Great Bath was excavated at Mohenjo-daro (in present-day Sindh, Pakistan). Lothal is famous for its dockyard, Harappa for granaries, and Kalibangan for ploughed fields.",
+        "hi": "विशाल स्नानागार (Great Bath) मोहनजोदड़ो में खोजा गया था। लोथल अपने गोदीबाड़ा (dockyard) और कालीबंगन जूते हुए खेतों के लिए प्रसिद्ध है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00027",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which of the following rivers flows through a rift valley in India?",
+        "hi": "निम्नलिखित में से कौन सी नदी भारत में भ्रंश घाटी (Rift Valley) से होकर बहती है?"
+      },
+      "options": [
+        {
+          "en": "Narmada",
+          "hi": "नर्मदा"
+        },
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Krishna",
+          "hi": "कृष्णा"
+        },
+        {
+          "en": "Mahanadi",
+          "hi": "महानदी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Narmada and Tapi rivers flow westward through rift valleys between the Vindhya and Satpura mountain ranges and drain into the Arabian Sea.",
+        "hi": "नर्मदा और तापी नदियाँ विंध्य एवं सतपुड़ा पर्वत श्रेणियों के मध्य भ्रंश घाटी से होकर पश्चिम की ओर बहती हैं और अरब सागर में गिरती हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00028",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which organelle is known as the 'Powerhouse of the Cell'?",
+        "hi": "किस कोशिकांग को 'कोशिका का पावरहाउस' (ऊर्जा घर) कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Mitochondria",
+          "hi": "माइटोकॉन्ड्रिया"
+        },
+        {
+          "en": "Ribosome",
+          "hi": "राइबोसोम"
+        },
+        {
+          "en": "Lysosome",
+          "hi": "लाइसोसोम"
+        },
+        {
+          "en": "Golgi apparatus",
+          "hi": "गॉल्जी उपकरण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy, hence called the powerhouse of the cell.",
+        "hi": "माइटोकॉन्ड्रिया कोशिकीय श्वसन द्वारा ATP (ऊर्जा) का उत्पादन करता है, इसलिए इसे कोशिका का ऊर्जा घर (Powerhouse) कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00029",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Sattriya is a classical dance form originating from which Indian state?",
+        "hi": "सत्रीया शास्त्रीय नृत्य का संबंध किस भारतीय राज्य से है?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sattriya is a classical dance of Assam, introduced in the 15th century by the great Vaishnavite saint and reformer Mahapurusha Sankaradeva.",
+        "hi": "सत्रीया असम का शास्त्रीय नृत्य है, जिसकी शुरुआत 15वीं शताब्दी में वैष्णव संत महापुरुष श्रीमंत शंकरदेव ने की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00030",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Which Constitutional Amendment Act lowered the voting age from 21 years to 18 years in India?",
+        "hi": "किस संविधान संशोधन अधिनियम द्वारा भारत में मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी?"
+      },
+      "options": [
+        {
+          "en": "61st Amendment Act, 1988",
+          "hi": "61वाँ संविधान संशोधन अधिनियम, 1988"
+        },
+        {
+          "en": "42nd Amendment Act, 1976",
+          "hi": "42वाँ संविधान संशोधन अधिनियम, 1976"
+        },
+        {
+          "en": "44th Amendment Act, 1978",
+          "hi": "44वाँ संविधान संशोधन अधिनियम, 1978"
+        },
+        {
+          "en": "73rd Amendment Act, 1992",
+          "hi": "73वाँ संविधान संशोधन अधिनियम, 1992"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 61st Constitutional Amendment Act, 1988 (which came into force in 1989) amended Article 326 to reduce the voting age from 21 to 18 years.",
+        "hi": "61वें संविधान संशोधन अधिनियम, 1988 (लागू 1989) द्वारा अनुच्छेद 326 में संशोधन कर मतदान की आयु 21 से घटाकर 18 वर्ष की गई थी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00031",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the chemical name of Baking Soda?",
+        "hi": "बेकिंग सोडा (खाने का सोडा) का रासायनिक नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Sodium Hydrogen Carbonate (NaHCO₃)",
+          "hi": "सोडियम हाइड्रोजन कार्बोनेट (NaHCO₃)"
+        },
+        {
+          "en": "Sodium Carbonate Decahydrate (Na₂CO₃·10H₂O)",
+          "hi": "सोडियम कार्बोनेट डेकाहाइड्रेट (Na₂CO₃·10H₂O)"
+        },
+        {
+          "en": "Calcium Oxychloride (CaOCl₂)",
+          "hi": "कैल्शियम ऑक्सीक्लोराइड (CaOCl₂)"
+        },
+        {
+          "en": "Sodium Hydroxide (NaOH)",
+          "hi": "सोडियम हाइड्रॉक्साइड (NaOH)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Baking Soda is Sodium Bicarbonate (Sodium Hydrogen Carbonate, NaHCO₃). Sodium carbonate decahydrate is Washing Soda, and CaOCl₂ is Bleaching Powder.",
+        "hi": "बेकिंग सोडा का रासायनिक नाम सोडियम बाइकार्बोनेट / सोडियम हाइड्रोजन कार्बोनेट (NaHCO₃) है। धावन सोडा Na₂CO₃·10H₂O होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00032",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who presided over the historic 1929 Lahore Session of the Indian National Congress where 'Purna Swaraj' (Complete Independence) was declared as the goal?",
+        "hi": "1929 के भारतीय राष्ट्रीय कांग्रेस के ऐतिहासिक लाहौर अधिवेशन की अध्यक्षता किसने की थी, जिसमें 'पूर्ण स्वराज' को लक्ष्य घोषित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Mahatma Gandhi",
+          "hi": "महात्मा गांधी"
+        },
+        {
+          "en": "Subhas Chandra Bose",
+          "hi": "सुभाष चंद्र बोस"
+        },
+        {
+          "en": "Sardar Vallabhbhai Patel",
+          "hi": "सरदार वल्लभभाई पटेल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Jawaharlal Nehru presided over the Lahore session in December 1929, where the resolution of 'Purna Swaraj' was passed, and 26 January 1930 was declared as Independence Day.",
+        "hi": "दिसंबर 1929 में लाहौर अधिवेशन की अध्यक्षता पं. जवाहरलाल नेहरू ने की थी, जहाँ पूर्ण स्वराज का प्रस्ताव पारित किया गया था।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00033",
+      "topic": "geography",
+      "subTopic": "physical_geography",
+      "question": {
+        "en": "In which atmospheric layer do all major weather phenomena (clouds, rainfall, storms) occur?",
+        "hi": "वायुमंडल की किस परत में मौसम संबंधी सभी प्रमुख घटनाएँ (बादल, वर्षा, तूफान) घटित होती हैं?"
+      },
+      "options": [
+        {
+          "en": "Troposphere",
+          "hi": "क्षोभमंडल (Troposphere)"
+        },
+        {
+          "en": "Stratosphere",
+          "hi": "समतापमंडल (Stratosphere)"
+        },
+        {
+          "en": "Mesosphere",
+          "hi": "मध्यमंडल (Mesosphere)"
+        },
+        {
+          "en": "Thermosphere",
+          "hi": "तापमंडल / आयनमंडल (Thermosphere)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Troposphere is the lowest layer of the atmosphere extending up to 8-18 km, containing about 75% of the atmosphere's mass and almost all water vapor and weather activity.",
+        "hi": "क्षोभमंडल वायुमंडल की सबसे निचली परत है जहाँ तापमान ऊँचाई के साथ घटता है और वर्षा, बादल तथा आंधी जैसी सभी मौसमी घटनाएँ यहीं घटित होती हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00034",
+      "topic": "economy",
+      "subTopic": "banking_finance",
+      "question": {
+        "en": "The Reserve Bank of India (RBI) was nationalised in which year?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) का राष्ट्रीयकरण किस वर्ष हुआ था?"
+      },
+      "options": [
+        {
+          "en": "1949",
+          "hi": "1949"
+        },
+        {
+          "en": "1935",
+          "hi": "1935"
+        },
+        {
+          "en": "1950",
+          "hi": "1950"
+        },
+        {
+          "en": "1969",
+          "hi": "1969"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The RBI was established on 1 April 1935 under the RBI Act, 1934, and was nationalised on 1 January 1949.",
+        "hi": "आरबीआई की स्थापना 1 अप्रैल 1935 को हुई थी तथा इसका राष्ट्रीयकरण 1 जनवरी 1949 को किया गया था।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00035",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the SI unit of electric resistance?",
+        "hi": "विद्युत प्रतिरोध (Electric Resistance) का SI मात्रक क्या है?"
+      },
+      "options": [
+        {
+          "en": "Ohm (Ω)",
+          "hi": "ओम (Ω)"
+        },
+        {
+          "en": "Ampere (A)",
+          "hi": "एम्पीयर (A)"
+        },
+        {
+          "en": "Volt (V)",
+          "hi": "वोल्ट (V)"
+        },
+        {
+          "en": "Watt (W)",
+          "hi": "वाट (W)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The SI unit of electrical resistance is Ohm (Ω), named after German physicist Georg Simon Ohm. (R = V / I).",
+        "hi": "विद्युत प्रतिरोध का SI मात्रक ओम (Ω) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00036",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under which Article of the Constitution can the President of India declare a National Emergency on grounds of war, external aggression, or armed rebellion?",
+        "hi": "संविधान के किस अनुच्छेद के तहत भारत के राष्ट्रपति युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर राष्ट्रीय आपातकाल की घोषणा कर सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Article 352",
+          "hi": "अनुच्छेद 352"
+        },
+        {
+          "en": "Article 356",
+          "hi": "अनुच्छेद 356"
+        },
+        {
+          "en": "Article 360",
+          "hi": "अनुच्छेद 360"
+        },
+        {
+          "en": "Article 368",
+          "hi": "अनुच्छेद 368"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 352 deals with National Emergency. Article 356 deals with President's Rule (State Emergency), and Article 360 deals with Financial Emergency.",
+        "hi": "अनुच्छेद 352 राष्ट्रीय आपातकाल से संबंधित है। अनुच्छेद 356 राष्ट्रपति शासन (राज्य आपातकाल) और अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00037",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Who among the following Delhi Sultanate rulers introduced the Market Control / Price Regulation system?",
+        "hi": "दिल्ली सल्तनत के किस शासक ने बाजार नियंत्रण / मूल्य नियंत्रण प्रणाली लागू की थी?"
+      },
+      "options": [
+        {
+          "en": "Alauddin Khalji",
+          "hi": "अलाउद्दीन खिलजी"
+        },
+        {
+          "en": "Muhammad bin Tughluq",
+          "hi": "मोहम्मद बिन तुगलक"
+        },
+        {
+          "en": "Iltutmish",
+          "hi": "इल्तुतमिश"
+        },
+        {
+          "en": "Balban",
+          "hi": "बलबन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Alauddin Khalji implemented strict market regulation reforms and price controls for all commodities to maintain a large standing army at low cost.",
+        "hi": "अलाउद्दीन खिलजी ने एक विशाल सेना के भरण-पोषण हेतु वस्तुओं के मूल्य नियंत्रित करने के लिए बाजार नियंत्रण नीति लागू की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00038",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Deficiency of Vitamin D in children leads to which disease?",
+        "hi": "बच्चों में विटामिन D की कमी से कौन सा रोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Rickets",
+          "hi": "रिकेट्स (सूखा रोग)"
+        },
+        {
+          "en": "Scurvy",
+          "hi": "स्कर्वी"
+        },
+        {
+          "en": "Beriberi",
+          "hi": "बेरीबेरी"
+        },
+        {
+          "en": "Night Blindness",
+          "hi": "रतौंधी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Vitamin D deficiency causes Rickets in children (soft and weak bones) and Osteomalacia in adults. Scurvy is caused by Vitamin C deficiency; Beriberi by Vitamin B1; Night Blindness by Vitamin A.",
+        "hi": "विटामिन D की कमी से बच्चों में रिकेट्स (Rickets) तथा वयस्कों में ऑस्टियोमलेशिया होता है। विटामिन C की कमी से स्कर्वी, B1 से बेरीबेरी तथा A से रतौंधी होती है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00039",
+      "topic": "static_gk",
+      "subTopic": "important_days",
+      "question": {
+        "en": "National Science Day in India is celebrated on 28th February every year to commemorate:",
+        "hi": "भारत में प्रतिवर्ष 28 फरवरी को राष्ट्रीय विज्ञान दिवस किसकी स्मृति में मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Discovery of the Raman Effect by Sir C.V. Raman",
+          "hi": "सर सी.वी. रमन द्वारा 'रमन प्रभाव' की खोज"
+        },
+        {
+          "en": "Birth anniversary of Dr. A.P.J. Abdul Kalam",
+          "hi": "डॉ. ए.पी.जे. अब्दुल कलाम की जयंती"
+        },
+        {
+          "en": "Launch of India's first satellite Aryabhata",
+          "hi": "भारत के प्रथम उपग्रह आर्यभट्ट का प्रक्षेपण"
+        },
+        {
+          "en": "Birth anniversary of Homi J. Bhabha",
+          "hi": "होमी जे. भाभा की जयंती"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "National Science Day is celebrated on 28 February to mark the discovery of the Raman Effect in 1928 by Sir C.V. Raman, for which he was awarded the Nobel Prize in Physics in 1930.",
+        "hi": "28 फरवरी 1928 को सर सी.वी. रमन द्वारा 'रमन प्रभाव' की खोज की स्मृति में यह दिवस मनाया जाता है। उन्हें 1930 में भौतिकी का नोबेल पुरस्कार मिला था।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00040",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+        "hi": "कर्क रेखा निम्नलिखित में से किस भारतीय राज्य से होकर नहीं गुजरती है?"
+      },
+      "options": [
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        },
+        {
+          "en": "Tripura",
+          "hi": "त्रिपुरा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Tropic of Cancer (23.5° N) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. It does NOT pass through Odisha.",
+        "hi": "कर्क रेखा भारत के 8 राज्यों (गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम) से गुजरती है। यह ओडिशा से नहीं गुजरती।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00041",
+      "topic": "polity",
+      "subTopic": "judiciary",
+      "question": {
+        "en": "Which writ is issued by the Supreme Court or High Court to compel a public official or body to perform a mandatory public duty?",
+        "hi": "किसी सार्वजनिक अधिकारी या संस्था को उसके कानूनी कर्तव्य का पालन करने के लिए बाध्य करने हेतु न्यायालय द्वारा कौन सी रिट जारी की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Mandamus",
+          "hi": "परमादेश (Mandamus)"
+        },
+        {
+          "en": "Habeas Corpus",
+          "hi": "बंदी प्रत्यक्षीकरण (Habeas Corpus)"
+        },
+        {
+          "en": "Quo-Warranto",
+          "hi": "अधिकार पृच्छा (Quo-Warranto)"
+        },
+        {
+          "en": "Certiorari",
+          "hi": "उत्प्रेषण (Certiorari)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mandamus (literally 'We Command') is issued to direct a public authority to perform an act which falls under its official duty. Habeas Corpus means 'to produce the body'.",
+        "hi": "परमादेश (Mandamus) का अर्थ 'हम आज्ञा देते हैं' है, जो किसी सार्वजनिक प्राधिकारी को उसके विधिक दायित्वों के निर्वहन हेतु जारी किया जाता है।"
+      },
+      "difficulty": "medium",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00042",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "Who was the founder of the Maurya Empire in ancient India?",
+        "hi": "प्राचीन भारत में मौर्य साम्राज्य के संस्थापक कौन थे?"
+      },
+      "options": [
+        {
+          "en": "Chandragupta Maurya",
+          "hi": "चंद्रगुप्त मौर्य"
+        },
+        {
+          "en": "Ashoka the Great",
+          "hi": "अशोक महान"
+        },
+        {
+          "en": "Bindusara",
+          "hi": "बिन्दुसार"
+        },
+        {
+          "en": "Brihadratha",
+          "hi": "बृहद्रथ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the guidance and mentorship of Chanakya (Kautilya), overthrowing the Nanda dynasty.",
+        "hi": "चंद्रगुप्त मौर्य ने चाणक्य (कौटिल्य) की सहायता से नंद वंश के धनानंद को पराजित कर 322 ईसा पूर्व में मौर्य साम्राज्य की स्थापना की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00043",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Which type of mirror is used as a rear-view mirror in vehicles?",
+        "hi": "वाहनों में पीछे का दृश्य देखने (Rear-view mirror) के लिए किस प्रकार के दर्पण का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Convex mirror",
+          "hi": "उत्तल दर्पण (Convex mirror)"
+        },
+        {
+          "en": "Concave mirror",
+          "hi": "अवतल दर्पण (Concave mirror)"
+        },
+        {
+          "en": "Plane mirror",
+          "hi": "समतल दर्पण (Plane mirror)"
+        },
+        {
+          "en": "Cylindrical mirror",
+          "hi": "बेलनाकार दर्पण (Cylindrical mirror)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Convex mirrors always form erect, virtual, and diminished images, and they provide a much wider field of view for drivers.",
+        "hi": "उत्तल दर्पण सदैव सीधा, आभासी और छोटा प्रतिबिंब बनाता है तथा इसका दृष्टि क्षेत्र (Field of view) बहुत विस्तृत होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00044",
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "Which economic curve illustrates the relationship between income inequality and cumulative percentage of population?",
+        "hi": "कौन सा आर्थिक वक्र आय असमानता और जनसंख्या के संचयी प्रतिशत के बीच के संबंध को दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "Lorenz Curve",
+          "hi": "लॉरेंज वक्र (Lorenz Curve)"
+        },
+        {
+          "en": "Phillips Curve",
+          "hi": "फिलिप्स वक्र (Phillips Curve)"
+        },
+        {
+          "en": "Kuznets Curve",
+          "hi": "कुजनेट्स वक्र (Kuznets Curve)"
+        },
+        {
+          "en": "Laffer Curve",
+          "hi": "लैफर वक्र (Laffer Curve)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Lorenz Curve represents income distribution and inequality. The Gini Coefficient is mathematically derived from it. Phillips curve links inflation and unemployment; Laffer curve links tax rates and tax revenue.",
+        "hi": "लॉरेंज वक्र आय या संपत्ति के वितरण में असमानता को प्रदर्शित करता है, जिससे गिनी गुणांक निकाला जाता है।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00045",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where is the headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) located?",
+        "hi": "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक तथा सांस्कृतिक संगठन (UNESCO) का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Paris, France",
+          "hi": "पेरिस, फ्रांस"
+        },
+        {
+          "en": "Geneva, Switzerland",
+          "hi": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+          "en": "New York, USA",
+          "hi": "न्यूयॉर्क, यूएसए"
+        },
+        {
+          "en": "Vienna, Austria",
+          "hi": "वियना, ऑस्ट्रिया"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "UNESCO was founded in 1945 and its permanent headquarters is situated in Paris, France.",
+        "hi": "यूनेस्को (UNESCO) की स्थापना 1945 में हुई थी तथा इसका मुख्यालय पेरिस (फ्रांस) में स्थित है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00046",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "The Vernacular Press Act of 1878 was enacted during the tenure of which Viceroy of India?",
+        "hi": "1878 का वर्नाक्यूलर प्रेस एक्ट भारत के किस वायसराय के कार्यकाल के दौरान पारित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Lord Lytton",
+          "hi": "लॉर्ड लिटन"
+        },
+        {
+          "en": "Lord Ripon",
+          "hi": "लॉर्ड रिपन"
+        },
+        {
+          "en": "Lord Curzon",
+          "hi": "लॉर्ड कर्जन"
+        },
+        {
+          "en": "Lord Dalhousie",
+          "hi": "लॉर्ड डलहौजी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Lord Lytton passed the Vernacular Press Act in 1878 to suppress local Indian language newspapers criticizing British policies. Lord Ripon later repealed it in 1882.",
+        "hi": "लॉर्ड लिटन ने 1878 में भारतीय भाषाई समाचार पत्रों पर प्रतिबंध लगाने हेतु वर्नाक्यूलर प्रेस एक्ट पारित किया था, जिसे 1882 में लॉर्ड रिपन ने निरस्त किया।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00047",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which gas is primarily responsible for the greenhouse effect and global warming on Earth?",
+        "hi": "पृथ्वी पर ग्रीनहाउस प्रभाव और ग्लोबल वार्मिंग के लिए मुख्य रूप से कौन सी गैस उत्तरदायी है?"
+      },
+      "options": [
+        {
+          "en": "Carbon Dioxide (CO₂)",
+          "hi": "कार्बन डाइऑक्साइड (CO₂)"
+        },
+        {
+          "en": "Oxygen (O₂)",
+          "hi": "ऑक्सीजन (O₂)"
+        },
+        {
+          "en": "Nitrogen (N₂)",
+          "hi": "नाइट्रोजन (N₂)"
+        },
+        {
+          "en": "Argon (Ar)",
+          "hi": "ऑर्गन (Ar)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Carbon dioxide (CO₂), along with water vapor and methane (CH₄), is the primary greenhouse gas trapping infrared radiation in Earth's lower atmosphere.",
+        "hi": "कार्बन डाइऑक्साइड (CO₂) मुख्य ग्रीनहाउस गैस है जो अवरक्त विकिरण को अवशोषित कर पृथ्वी के तापमान में वृद्धि करती है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00048",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the highest peak in the Western Ghats (Sahyadri range)?",
+        "hi": "पश्चिमी घाट (सह्याद्री पर्वतमाला) की सबसे ऊँची चोटी कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Anamudi",
+          "hi": "अनामुडी (Anamudi)"
+        },
+        {
+          "en": "Doddabetta",
+          "hi": "दोड्डाबेट्टा (Doddabetta)"
+        },
+        {
+          "en": "Kalsubai",
+          "hi": "कलसूबाई (Kalsubai)"
+        },
+        {
+          "en": "Mahendragiri",
+          "hi": "महेंद्रगिरि (Mahendragiri)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Anamudi (2,695 m) in Kerala is the highest peak in South India and the Western Ghats. Doddabetta (2,637 m) is the highest peak in the Nilgiri Hills.",
+        "hi": "अनामुडी (2,695 मीटर) केरल के इडुक्की जिले में स्थित है, जो पश्चिमी घाट और प्रायद्वीपीय भारत की सबसे ऊँची चोटी है। दोड्डाबेट्टा नीलगिरि की सबसे ऊँची चोटी है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00049",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Right to Education was added as a Fundamental Right under Article 21A by which Constitutional Amendment Act?",
+        "hi": "किस संविधान संशोधन अधिनियम द्वारा शिक्षा के अधिकार को अनुच्छेद 21A के तहत मौलिक अधिकार में शामिल किया गया था?"
+      },
+      "options": [
+        {
+          "en": "86th Amendment Act, 2002",
+          "hi": "86वाँ संविधान संशोधन अधिनियम, 2002"
+        },
+        {
+          "en": "44th Amendment Act, 1978",
+          "hi": "44वाँ संविधान संशोधन अधिनियम, 1978"
+        },
+        {
+          "en": "91st Amendment Act, 2003",
+          "hi": "91वाँ संविधान संशोधन अधिनियम, 2003"
+        },
+        {
+          "en": "74th Amendment Act, 1992",
+          "hi": "74वाँ संविधान संशोधन अधिनियम, 1992"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children between the ages of 6 and 14 a Fundamental Right.",
+        "hi": "86वें संविधान संशोधन अधिनियम, 2002 द्वारा अनुच्छेद 21A जोड़कर 6 से 14 वर्ष के बच्चों के लिए निःशुल्क और अनिवार्य शिक्षा को मौलिक अधिकार बनाया गया।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00050",
+      "topic": "static_gk",
+      "subTopic": "books_authors",
+      "question": {
+        "en": "Who wrote the famous ancient historical Sanskrit text 'Rajatarangini'?",
+        "hi": "प्रसिद्ध प्राचीन संस्कृत ऐतिहासिक ग्रंथ 'राजतरंगिणी' के रचयिता कौन थे?"
+      },
+      "options": [
+        {
+          "en": "Kalhana",
+          "hi": "कल्हण"
+        },
+        {
+          "en": "Banabhatta",
+          "hi": "बाणभट्ट"
+        },
+        {
+          "en": "Bilhana",
+          "hi": "बिल्हण"
+        },
+        {
+          "en": "Kalidasa",
+          "hi": "कालिदास"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Kalhana composed 'Rajatarangini' ('The River of Kings') in the 12th century, which chronicles the history of the kings of Kashmir.",
+        "hi": "'राजतरंगिणी' की रचना 12वीं शताब्दी में कश्मीरी विद्वान कल्हण ने की थी, जिसमें कश्मीर के राजाओं का क्रमबद्ध इतिहास वर्णित है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00051",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Fundamental Duties were incorporated into Part IV-A of the Indian Constitution on the recommendation of which committee?",
+        "hi": "भारतीय संविधान के भाग IV-A में मौलिक कर्तव्यों को किस समिति की सिफारिश पर शामिल किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Swaran Singh Committee",
+          "hi": "स्वर्ण सिंह समिति"
+        },
+        {
+          "en": "Sarkaria Commission",
+          "hi": "सरकारिया आयोग"
+        },
+        {
+          "en": "Balwant Rai Mehta Committee",
+          "hi": "बलवंत राय मेहता समिति"
+        },
+        {
+          "en": "Verma Committee",
+          "hi": "वर्मा समिति"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Fundamental Duties (Article 51A) were added to the Constitution by the 42nd Constitutional Amendment Act, 1976 on the recommendations of the Swaran Singh Committee.",
+        "hi": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा सरदार स्वर्ण सिंह समिति की सिफारिश पर 10 मौलिक कर्तव्यों को अनुच्छेद 51A में जोड़ा गया था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00052",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The Kalinga War, which transformed Emperor Ashoka's life and led him to embrace Buddhism, was fought in which year BCE?",
+        "hi": "कलिंग युद्ध, जिसने सम्राट अशोक के जीवन को बदल दिया और उन्हें बौद्ध धर्म अपनाने के लिए प्रेरित किया, किस वर्ष लड़ा गया था?"
+      },
+      "options": [
+        {
+          "en": "261 BCE",
+          "hi": "261 ईसा पूर्व"
+        },
+        {
+          "en": "269 BCE",
+          "hi": "269 ईसा पूर्व"
+        },
+        {
+          "en": "273 BCE",
+          "hi": "273 ईसा पूर्व"
+        },
+        {
+          "en": "232 BCE",
+          "hi": "232 ईसा पूर्व"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Kalinga War was fought in 261 BCE (in the 8th year of Ashoka's coronation), described in Ashoka's Major Rock Edict XIII.",
+        "hi": "कलिंग युद्ध 261 ईसा पूर्व में लड़ा गया था, जिसका उल्लेख अशोक के 13वें प्रमुख शिलालेख में मिलता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00053",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which strait separates India from Sri Lanka?",
+        "hi": "कौन सा जलडमरूमध्य भारत को श्रीलंका से अलग करता है?"
+      },
+      "options": [
+        {
+          "en": "Palk Strait",
+          "hi": "पाक जलडमरूमध्य (Palk Strait)"
+        },
+        {
+          "en": "Malacca Strait",
+          "hi": "मलक्का जलडमरूमध्य"
+        },
+        {
+          "en": "Strait of Hormuz",
+          "hi": "हॉर्मुज जलडमरूमध्य"
+        },
+        {
+          "en": "10 Degree Channel",
+          "hi": "10 डिग्री चैनल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Palk Strait separates the Tamil Nadu state of India from the Mannar district of Sri Lanka, connecting the Bay of Bengal with Palk Bay and the Gulf of Mannar.",
+        "hi": "पाक जलडमरूमध्य भारत के तमिलनाडु और श्रीलंका के मन्नार जिले के बीच स्थित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00054",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which human blood group is universally known as the 'Universal Donor'?",
+        "hi": "मानव रक्त समूहों में से किसे 'सर्वदाता' (Universal Donor) कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "O negative (O−)",
+          "hi": "O नेगेटिव (O−)"
+        },
+        {
+          "en": "O positive (O+)",
+          "hi": "O पॉजिटिव (O+)"
+        },
+        {
+          "en": "AB positive (AB+)",
+          "hi": "AB पॉजिटिव (AB+)"
+        },
+        {
+          "en": "AB negative (AB−)",
+          "hi": "AB नेगेटिव (AB−)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "O negative (O−) blood lacks A, B, and Rh antigens on red blood cells, making it safe for transfusion to any recipient (Universal Donor). AB positive (AB+) is the Universal Recipient.",
+        "hi": "O नेगेटिव (O−) रक्त समूह में कोई A, B या Rh एंटीजन नहीं होता, इसलिए इसे सर्वदाता कहा जाता है। AB+ सर्वग्राही होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00055",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Kathakali and Mohiniyattam are classical dance forms originating from which Indian state?",
+        "hi": "कथकली और मोहिनीअट्टम शास्त्रीय नृत्य भारत के किस राज्य से संबंधित हैं?"
+      },
+      "options": [
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश"
+        },
+        {
+          "en": "Karnataka",
+          "hi": "कर्नाटक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Both Kathakali (dance drama) and Mohiniyattam (dance of the enchantress) originated in Kerala. Tamil Nadu has Bharatanatyam and Andhra Pradesh has Kuchipudi.",
+        "hi": "कथकली और मोहिनीअट्टम दोनों केरल के शास्त्रीय नृत्य हैं। भरतनाट्यम तमिलनाडु तथा कुचिपुड़ी आंध्र प्रदेश का नृत्य है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00056",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Which Article of the Constitution of India provides for the office of the Comptroller and Auditor General (CAG) of India?",
+        "hi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) के पद का प्रावधान करता है?"
+      },
+      "options": [
+        {
+          "en": "Article 148",
+          "hi": "अनुच्छेद 148"
+        },
+        {
+          "en": "Article 76",
+          "hi": "अनुच्छेद 76"
+        },
+        {
+          "en": "Article 280",
+          "hi": "अनुच्छेद 280"
+        },
+        {
+          "en": "Article 324",
+          "hi": "अनुच्छेद 324"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 148 provides for the CAG of India, who is the guardian of the public purse. (Article 76 = Attorney General, Article 280 = Finance Commission, Article 324 = Election Commission).",
+        "hi": "अनुच्छेद 148 के तहत CAG की नियुक्ति राष्ट्रपति द्वारा की जाती है। अनुच्छेद 76 महान्यायवादी और 280 वित्त आयोग से संबंधित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00057",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Who established the Mughal Empire in India after defeating Ibrahim Lodi in the First Battle of Panipat in 1526?",
+        "hi": "1526 में पानीपत के प्रथम युद्ध में इब्राहिम लोदी को हराकर भारत में मुगल साम्राज्य की स्थापना किसने की थी?"
+      },
+      "options": [
+        {
+          "en": "Babur",
+          "hi": "बाबर"
+        },
+        {
+          "en": "Humayun",
+          "hi": "हुमायूँ"
+        },
+        {
+          "en": "Akbar",
+          "hi": "अकबर"
+        },
+        {
+          "en": "Sher Shah Suri",
+          "hi": "शेरशाह सूरी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Zahir-ud-din Muhammad Babur defeated Ibrahim Lodi in the First Battle of Panipat on 21 April 1526, founding the Mughal Empire.",
+        "hi": "21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में बाबर ने इब्राहिम लोदी को पराजित कर मुगल वंश की नींव रखी थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00058",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the escape velocity from the surface of the Earth?",
+        "hi": "पृथ्वी की सतह से पलायन वेग (Escape Velocity) का मान कितना है?"
+      },
+      "options": [
+        {
+          "en": "11.2 km/s",
+          "hi": "11.2 किमी/से"
+        },
+        {
+          "en": "9.8 m/s²",
+          "hi": "9.8 मी/से²"
+        },
+        {
+          "en": "7.9 km/s",
+          "hi": "7.9 किमी/से"
+        },
+        {
+          "en": "2.4 km/s",
+          "hi": "2.4 किमी/से"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Earth's escape velocity is v = √(2gR) ≈ 11.2 km/s. (Moon's escape velocity is ≈ 2.4 km/s; 7.9 km/s is orbital velocity).",
+        "hi": "पृथ्वी का पलायन वेग लगभग 11.2 किमी/सेकंड होता है। चंद्रमा का पलायन वेग 2.4 किमी/से है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00059",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which type of soil in India is also popularly known as 'Regur Soil' and is ideal for cotton cultivation?",
+        "hi": "भारत में किस प्रकार की मिट्टी को 'रेगुर मिट्टी' भी कहा जाता है और यह कपास की खेती के लिए सर्वोत्तम मानी जाती है?"
+      },
+      "options": [
+        {
+          "en": "Black Soil",
+          "hi": "काली मिट्टी (Black Soil)"
+        },
+        {
+          "en": "Alluvial Soil",
+          "hi": "जलोढ़ मिट्टी (Alluvial Soil)"
+        },
+        {
+          "en": "Red Soil",
+          "hi": "लाल मिट्टी (Red Soil)"
+        },
+        {
+          "en": "Laterite Soil",
+          "hi": "लैटेराइट मिट्टी (Laterite Soil)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Black soil, derived from Deccan volcanic lava basalt rocks, is known as Regur or Black Cotton Soil due to its high moisture retention and clay content.",
+        "hi": "दक्कन के लावा पठार पर पाई जाने वाली काली मिट्टी को रेगुर मिट्टी या काली कपास मिट्टी कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00060",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under Article 110 of the Indian Constitution, who decides whether a bill is a 'Money Bill' or not?",
+        "hi": "भारतीय संविधान के अनुच्छेद 110 के तहत, कोई विधेयक 'धन विधेयक' (Money Bill) है या नहीं, इसका निर्णय कौन करता है?"
+      },
+      "options": [
+        {
+          "en": "Speaker of the Lok Sabha",
+          "hi": "लोकसभा अध्यक्ष (Speaker)"
+        },
+        {
+          "en": "President of India",
+          "hi": "भारत के राष्ट्रपति"
+        },
+        {
+          "en": "Finance Minister",
+          "hi": "वित्त मंत्री"
+        },
+        {
+          "en": "Chairman of Rajya Sabha",
+          "hi": "राज्यसभा के सभापति"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "According to Article 110(3), the decision of the Speaker of the Lok Sabha on whether a bill is a Money Bill is final and cannot be questioned in any court.",
+        "hi": "अनुच्छेद 110(3) के अनुसार, लोकसभा अध्यक्ष का यह निर्णय अंतिम होता है कि कोई विधेयक धन विधेयक है अथवा नहीं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00061",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who founded the 'Arya Samaj' in Bombay in 1875?",
+        "hi": "1875 में बॉम्बे में 'आर्य समाज' की स्थापना किसने की थी?"
+      },
+      "options": [
+        {
+          "en": "Swami Dayanand Saraswati",
+          "hi": "स्वामी दयानंद सरस्वती"
+        },
+        {
+          "en": "Raja Ram Mohan Roy",
+          "hi": "राजा राममोहन राय"
+        },
+        {
+          "en": "Swami Vivekananda",
+          "hi": "स्वामी विवेकानंद"
+        },
+        {
+          "en": "Ishwar Chandra Vidyasagar",
+          "hi": "ईश्वर चंद्र विद्यासागर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Swami Dayanand Saraswati founded the Arya Samaj in 1875 and gave the slogan 'Go Back to the Vedas'. Raja Ram Mohan Roy founded Brahmo Samaj in 1828.",
+        "hi": "स्वामी दयानंद सरस्वती ने 1875 में आर्य समाज की स्थापना की और 'वेदों की ओर लौटो' का नारा दिया। ब्रह्म समाज की स्थापना 1828 में राजा राममोहन राय ने की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00062",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which gas is used in LPG cylinders to impart a strong smell for leak detection?",
+        "hi": "एलपीजी सिलेंडरों में रिसाव की पहचान हेतु कौन सा गंधयुक्त पदार्थ मिलाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Ethyl Mercaptan (Ethanethiol)",
+          "hi": "एथिल मर्केप्टन (Ethyl Mercaptan)"
+        },
+        {
+          "en": "Methane",
+          "hi": "मीथेन"
+        },
+        {
+          "en": "Sulphur Dioxide",
+          "hi": "सल्फर डाइऑक्साइड"
+        },
+        {
+          "en": "Carbon Monoxide",
+          "hi": "कार्बन मोनोऑक्साइड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "LPG (Propane and Butane) is naturally odorless. Ethyl Mercaptan (C₂H₅SH) is added so that even minute gas leaks can be detected by smell.",
+        "hi": "एलपीजी गंधहीन होती है, इसलिए सुरक्षा की दृष्टि से इसमें तीखी गंध वाला एथिल मर्केप्टन (Ethyl Mercaptan) मिलाया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00063",
+      "topic": "economy",
+      "subTopic": "budget_taxation",
+      "question": {
+        "en": "Goods and Services Tax (GST) was introduced in India by which Constitutional Amendment Act?",
+        "hi": "वस्तु एवं सेवा कर (GST) भारत में किस संविधान संशोधन अधिनियम द्वारा लागू किया गया था?"
+      },
+      "options": [
+        {
+          "en": "101st Amendment Act, 2016",
+          "hi": "101वाँ संविधान संशोधन अधिनियम, 2016"
+        },
+        {
+          "en": "100th Amendment Act, 2015",
+          "hi": "100वाँ संविधान संशोधन अधिनियम, 2015"
+        },
+        {
+          "en": "103rd Amendment Act, 2019",
+          "hi": "103वाँ संविधान संशोधन अधिनियम, 2019"
+        },
+        {
+          "en": "105th Amendment Act, 2021",
+          "hi": "105वाँ संविधान संशोधन अधिनियम, 2021"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 101st Constitutional Amendment Act, 2016 introduced the nationwide GST in India with effect from 1 July 2017.",
+        "hi": "101वें संविधान संशोधन अधिनियम, 2016 द्वारा 1 जुलाई 2017 से देश भर में GST लागू किया गया था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00064",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where are the headquarters of the International Monetary Fund (IMF) and the World Bank located?",
+        "hi": "अंतर्राष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Washington, D.C., USA",
+          "hi": "वाशिंगटन, डी.सी., यूएसए"
+        },
+        {
+          "en": "Geneva, Switzerland",
+          "hi": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+          "en": "New York, USA",
+          "hi": "न्यूयॉर्क, यूएसए"
+        },
+        {
+          "en": "London, UK",
+          "hi": "लंदन, यूके"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Both the IMF and the World Bank were established at the Bretton Woods Conference in 1944 and are headquartered in Washington, D.C.",
+        "hi": "ब्रेटन वुड्स सम्मेलन (1944) में स्थापित IMF और विश्व बैंक दोनों का मुख्यालय वाशिंगटन, डी.सी. में है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00065",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "In which year did Mahatma Gandhi launch the famous Salt March (Dandi March) from Sabarmati Ashram to Dandi?",
+        "hi": "महात्मा गांधी ने साबरमती आश्रम से दांडी तक प्रसिद्ध नमक सत्याग्रह (दांडी मार्च) किस वर्ष शुरू किया था?"
+      },
+      "options": [
+        {
+          "en": "1930",
+          "hi": "1930"
+        },
+        {
+          "en": "1920",
+          "hi": "1920"
+        },
+        {
+          "en": "1942",
+          "hi": "1942"
+        },
+        {
+          "en": "1919",
+          "hi": "1919"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Gandhiji started the Dandi March on 12 March 1930 and broke the British salt law at Dandi on 6 April 1930, inaugurating the Civil Disobedience Movement.",
+        "hi": "दांडी मार्च 12 मार्च 1930 से 6 अप्रैल 1930 तक आयोजित किया गया था, जिससे सविनय अवज्ञा आंदोलन की शुरुआत हुई।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00066",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Kaziranga National Park in Assam is world-famous for being the natural habitat of which endangered animal?",
+        "hi": "असम का काजीरंगा राष्ट्रीय उद्यान किस संकटापन्न प्राणी के प्राकृतिक आवास हेतु विश्व प्रसिद्ध है?"
+      },
+      "options": [
+        {
+          "en": "Great One-horned Rhinoceros",
+          "hi": "एक सींग वाला भारतीय गैंडा"
+        },
+        {
+          "en": "Asiatic Lion",
+          "hi": "एशियाई शेर"
+        },
+        {
+          "en": "Snow Leopard",
+          "hi": "हिम तेंदुआ"
+        },
+        {
+          "en": "Red Panda",
+          "hi": "लाल पांडा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Kaziranga National Park in Assam hosts two-thirds of the world's population of the Great One-horned Rhinoceros and is a UNESCO World Heritage Site.",
+        "hi": "काजीरंगा राष्ट्रीय उद्यान (असम) विश्व के दो-तिहाई एक सींग वाले गैंडों का प्राकृतिक आवास है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00067",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Sound waves in air are which type of waves?",
+        "hi": "वायु में ध्वनि तरंगें किस प्रकार की तरंगें होती हैं?"
+      },
+      "options": [
+        {
+          "en": "Longitudinal waves",
+          "hi": "अनुदैर्ध्य तरंगें (Longitudinal waves)"
+        },
+        {
+          "en": "Transverse waves",
+          "hi": "अनुप्रस्थ तरंगें (Transverse waves)"
+        },
+        {
+          "en": "Electromagnetic waves",
+          "hi": "विद्युत चुम्बकीय तरंगें"
+        },
+        {
+          "en": "Stationary waves",
+          "hi": "अपरगामी तरंगें"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sound waves in air are mechanical longitudinal waves consisting of compressions and rarefactions parallel to the direction of propagation. Light waves are transverse electromagnetic waves.",
+        "hi": "वायु में ध्वनि तरंगें यांत्रिक अनुदैर्ध्य (Longitudinal) तरंगें होती हैं जिनमें संपीडन और विरलन माध्यम की दिशा के समानांतर होते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00068",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "The Tenth Schedule of the Indian Constitution was added by the 52nd Amendment Act in 1985 to deal with:",
+        "hi": "1985 में 52वें संशोधन अधिनियम द्वारा भारतीय संविधान में 10वीं अनुसूची किस विषय से संबंधित है?"
+      },
+      "options": [
+        {
+          "en": "Anti-Defection Law (Disqualification of MPs/MLAs)",
+          "hi": "दलबदल विरोधी कानून (Anti-Defection Law)"
+        },
+        {
+          "en": "Panchayati Raj Institutions",
+          "hi": "पंचायती राज व्यवस्था"
+        },
+        {
+          "en": "Official Languages of India",
+          "hi": "आधिकारिक भाषाएँ"
+        },
+        {
+          "en": "Allocation of seats in Rajya Sabha",
+          "hi": "राज्यसभा में सीटों का आवंटन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 10th Schedule (52nd Amendment Act, 1985) contains the Anti-Defection Law for disqualifying members of Parliament and State Legislatures on grounds of defection.",
+        "hi": "10वीं अनुसूची (52वाँ संशोधन, 1985) दलबदल विरोधी कानून से संबंधित है। 11वीं अनुसूची पंचायती राज से तथा 8वीं अनुसूची भाषाओं से संबंधित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00069",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who gave the famous call 'Give me blood, and I shall give you freedom'?",
+        "hi": "'तुम मुझे खून दो, मैं तुम्हें आजादी दूंगा' का प्रसिद्ध नारा किसने दिया था?"
+      },
+      "options": [
+        {
+          "en": "Netaji Subhas Chandra Bose",
+          "hi": "नेताजी सुभाष चंद्र बोस"
+        },
+        {
+          "en": "Bhagat Singh",
+          "hi": "भगत सिंह"
+        },
+        {
+          "en": "Chandrashekhar Azad",
+          "hi": "चंद्रशेखर आजाद"
+        },
+        {
+          "en": "Bal Gangadhar Tilak",
+          "hi": "बाल गंगाधर तिलक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Netaji Subhas Chandra Bose gave this historic call in 1944 to soldiers of the Indian National Army (Azad Hind Fauj) in Burma.",
+        "hi": "नेताजी सुभाष चंद्र बोस ने 1944 में बर्मा में आजाद हिंद फौज के सैनिकों को संबोधित करते हुए यह नारा दिया था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00070",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the common chemical name of Plaster of Paris?",
+        "hi": "प्लास्टर ऑफ पेरिस (POP) का रासायनिक नाम क्या है?"
+      },
+      "options": [
+        {
+          "en": "Calcium Sulphate Hemihydrate (CaSO₄·½H₂O)",
+          "hi": "कैल्शियम सल्फेट हेमीहाइड्रेट (CaSO₄·½H₂O)"
+        },
+        {
+          "en": "Calcium Sulphate Dihydrate (CaSO₄·2H₂O)",
+          "hi": "कैल्शियम सल्फेट डाइहाइड्रेट (जिप्सम)"
+        },
+        {
+          "en": "Calcium Carbonate (CaCO₃)",
+          "hi": "कैल्शियम कार्बोनेट"
+        },
+        {
+          "en": "Calcium Hydroxide [Ca(OH)₂]",
+          "hi": "कैल्शियम हाइड्रॉक्साइड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Plaster of Paris is Calcium Sulphate Hemihydrate (CaSO₄·½H₂O), prepared by heating Gypsum (CaSO₄·2H₂O) to 373 K.",
+        "hi": "प्लास्टर ऑफ पेरिस का रासायनिक नाम कैल्शियम सल्फेट हेमीहाइड्रेट (CaSO₄·½H₂O) है, जो जिप्सम को 373 K पर गर्म करने से बनता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00071",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "The Indian Standard Time (IST) meridian (82.5° E longitude) passes through which major city in Uttar Pradesh?",
+        "hi": "भारतीय मानक समय (IST) की याम्योत्तर रेखा (82.5° पूर्व देशांतर) उत्तर प्रदेश के किस प्रमुख शहर के पास से गुजरती है?"
+      },
+      "options": [
+        {
+          "en": "Mirzapur (near Prayagraj)",
+          "hi": "मिर्जापुर (प्रयागराज के पास)"
+        },
+        {
+          "en": "Varanasi",
+          "hi": "वाराणसी"
+        },
+        {
+          "en": "Lucknow",
+          "hi": "लखनऊ"
+        },
+        {
+          "en": "Kanpur",
+          "hi": "कानपुर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 82°30' E longitude serves as the Standard Meridian of India, passing through Mirzapur (near Prayagraj) in Uttar Pradesh (5 hours and 30 minutes ahead of GMT).",
+        "hi": "82°30' पूर्वी देशांतर रेखा मिर्जापुर (प्रयागराज के समीप) से होकर गुजरती है तथा यह ग्रीनविच मानक समय से 5 घंटे 30 मिनट आगे है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00072",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Who presides over a Joint Sitting of both Houses of Parliament in India (Article 108)?",
+        "hi": "भारत में संसद के दोनों सदनों की संयुक्त बैठक (अनुच्छेद 108) की अध्यक्षता कौन करता है?"
+      },
+      "options": [
+        {
+          "en": "Speaker of the Lok Sabha",
+          "hi": "लोकसभा अध्यक्ष"
+        },
+        {
+          "en": "President of India",
+          "hi": "भारत के राष्ट्रपति"
+        },
+        {
+          "en": "Chairman of Rajya Sabha (Vice-President)",
+          "hi": "राज्यसभा के सभापति (उपराष्ट्रपति)"
+        },
+        {
+          "en": "Prime Minister of India",
+          "hi": "भारत के प्रधानमंत्री"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 108, the President summons the joint sitting, but under Article 118(4), it is presided over by the Speaker of the Lok Sabha.",
+        "hi": "संयुक्त बैठक राष्ट्रपति द्वारा बुलाई जाती है (अनुच्छेद 108), परंतु इसकी अध्यक्षता लोकसभा अध्यक्ष (Speaker) करता है (अनुच्छेद 118(4))।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00073",
+      "topic": "static_gk",
+      "subTopic": "important_days",
+      "question": {
+        "en": "World Environment Day is celebrated globally every year on which date?",
+        "hi": "विश्व पर्यावरण दिवस प्रतिवर्ष किस तिथि को विश्व स्तर पर मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "5th June",
+          "hi": "5 जून"
+        },
+        {
+          "en": "22nd April",
+          "hi": "22 अप्रैल (पृथ्वी दिवस)"
+        },
+        {
+          "en": "16th September",
+          "hi": "16 सितंबर (ओजोन दिवस)"
+        },
+        {
+          "en": "21st June",
+          "hi": "21 जून (योग दिवस)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "World Environment Day is observed on 5 June (established at the 1972 Stockholm Conference by the UN). 22 April is Earth Day.",
+        "hi": "विश्व पर्यावरण दिवस 5 जून को मनाया जाता है। 22 अप्रैल को पृथ्वी दिवस तथा 16 सितंबर को विश्व ओजोन दिवस मनाया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00074",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "The world-famous 'Sun Temple' at Konark (Odisha) was built in the 13th century by which ruler?",
+        "hi": "कोणार्क (ओडिशा) का विश्व प्रसिद्ध 'सूर्य मंदिर' 13वीं शताब्दी में किस शासक द्वारा बनवाया गया था?"
+      },
+      "options": [
+        {
+          "en": "King Narasimhadeva I",
+          "hi": "राजा नरसिंहदेव प्रथम"
+        },
+        {
+          "en": "Anantavarman Chodaganga",
+          "hi": "अनंतवर्मन चोडगंग"
+        },
+        {
+          "en": "Kapilendra Deva",
+          "hi": "कपिलेंद्र देव"
+        },
+        {
+          "en": "Kharavela",
+          "hi": "खारवेल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Konark Sun Temple (also known as the Black Pagoda) was constructed by King Narasimhadeva I of the Eastern Ganga dynasty around 1250 CE.",
+        "hi": "कोणार्क सूर्य मंदिर (ब्लैक पैगोडा) का निर्माण पूर्वी गंग वंश के राजा नरसिंहदेव प्रथम ने लगभग 1250 ई. में करवाया था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00075",
+      "topic": "economy",
+      "subTopic": "banking_finance",
+      "question": {
+        "en": "What does the term 'Repo Rate' stand for in Indian monetary policy?",
+        "hi": "भारतीय मौद्रिक नीति में 'रेपो रेट' (Repo Rate) का क्या अर्थ है?"
+      },
+      "options": [
+        {
+          "en": "Rate at which RBI lends short-term funds to commercial banks",
+          "hi": "वह दर जिस पर RBI वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है"
+        },
+        {
+          "en": "Rate at which commercial banks park surplus funds with RBI",
+          "hi": "वह दर जिस पर वाणिज्यिक बैंक RBI के पास अधिशेष राशि जमा करते हैं"
+        },
+        {
+          "en": "Rate at which banks lend to prime customers",
+          "hi": "बैंकों द्वारा अपने प्रमुख ग्राहकों को दी जाने वाली ऋण दर"
+        },
+        {
+          "en": "Percentage of deposits banks must keep as cash with RBI",
+          "hi": "नकद आरक्षित अनुपात"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Repo Rate (Repurchase Option Rate) is the interest rate at which the Reserve Bank of India lends money to commercial banks against government securities. Reverse Repo is when RBI borrows from banks.",
+        "hi": "रेपो दर वह ब्याज दर है जिस पर भारतीय रिज़र्व बैंक वाणिज्यिक बैंकों को अल्पकालिक ऋण प्रदान करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00076",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "The idea of 'Directive Principles of State Policy' (DPSP) in Part IV of the Indian Constitution was borrowed from which country's constitution?",
+        "hi": "भारतीय संविधान के भाग IV में शामिल 'राज्य के नीति निर्देशक तत्व' (DPSP) किस देश के संविधान से लिए गए हैं?"
+      },
+      "options": [
+        {
+          "en": "Ireland",
+          "hi": "आयरलैंड (Ireland)"
+        },
+        {
+          "en": "USA",
+          "hi": "संयुक्त राज्य अमेरिका (USA)"
+        },
+        {
+          "en": "United Kingdom",
+          "hi": "यूनाइटेड किंगडम (UK)"
+        },
+        {
+          "en": "USSR / Russia",
+          "hi": "सोवियत संघ (USSR)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "DPSPs (Articles 36-51) were borrowed from the Irish Constitution of 1937 (which had copied them from the Spanish Constitution). Fundamental Rights were borrowed from the USA.",
+        "hi": "नीति निर्देशक तत्व (अनुच्छेद 36-51) आयरलैंड के संविधान से लिए गए हैं। मौलिक अधिकार अमेरिका से लिए गए हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00077",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "The historic 'Poona Pact' of 1932 was signed between Mahatma Gandhi and which prominent leader?",
+        "hi": "1932 का ऐतिहासिक 'पूना पैक्ट' महात्मा गांधी और किस प्रमुख नेता के बीच हुआ था?"
+      },
+      "options": [
+        {
+          "en": "Dr. B.R. Ambedkar",
+          "hi": "डॉ. बी.आर. अंबेडकर"
+        },
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Muhammad Ali Jinnah",
+          "hi": "मोहम्मद अली जिन्ना"
+        },
+        {
+          "en": "Subhas Chandra Bose",
+          "hi": "सुभाष चंद्र बोस"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Poona Pact was signed on 24 September 1932 at Yerwada Central Jail in Pune between Dr. B.R. Ambedkar and Madan Mohan Malaviya (representing caste Hindus and Gandhiji) to replace separate electorates with reserved seats for depressed classes.",
+        "hi": "पूना पैक्ट 24 सितंबर 1932 को यरवदा जेल में डॉ. बी.आर. अंबेडकर और महात्मा गांधी के बीच हस्ताक्षरित हुआ था, जिसके तहत दलित वर्ग के लिए पृथक निर्वाचन मंडल के स्थान पर आरक्षित सीटें दी गईं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00078",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the largest freshwater lake in India?",
+        "hi": "भारत में मीठे पानी की सबसे बड़ी झील कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Wular Lake (Jammu & Kashmir)",
+          "hi": "वूलर झील (जम्मू एवं कश्मीर)"
+        },
+        {
+          "en": "Chilika Lake (Odisha)",
+          "hi": "चिल्का झील (ओडिशा)"
+        },
+        {
+          "en": "Sambhar Lake (Rajasthan)",
+          "hi": "सांभर झील (राजस्थान)"
+        },
+        {
+          "en": "Vembanad Lake (Kerala)",
+          "hi": "वेम्बनाड झील (केरल)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Wular Lake in Jammu and Kashmir is the largest freshwater lake in India, formed by tectonic activity and fed by the Jhelum River. Chilika is the largest brackish water coastal lagoon.",
+        "hi": "जम्मू-कश्मीर में स्थित वूलर झील भारत की सबसे बड़ी मीठे पानी की झील है (झेलम नदी से जल प्राप्त)। चिल्का सबसे बड़ी खारे पानी की लैगून झील है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00079",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which gland in the human body is known as the 'Master Gland'?",
+        "hi": "मानव शरीर की किस ग्रंथि को 'मास्टर ग्रंथि' (Master Gland) कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Pituitary Gland",
+          "hi": "पीयूष ग्रंथि (Pituitary Gland)"
+        },
+        {
+          "en": "Thyroid Gland",
+          "hi": "थायरॉयड ग्रंथि"
+        },
+        {
+          "en": "Adrenal Gland",
+          "hi": "एड्रीनल ग्रंथि"
+        },
+        {
+          "en": "Pancreas",
+          "hi": "अग्न्याशय (Pancreas)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The pituitary gland (located at the base of the brain) secretes hormones that control and stimulate other endocrine glands, hence called the Master Gland.",
+        "hi": "पीयूष ग्रंथि अन्य सभी अंतःस्रावी ग्रंथियों के हार्मोन स्राव को नियंत्रित करती है, इसलिए इसे 'मास्टर ग्रंथि' कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00080",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Under Article 61 of the Constitution, the process of impeachment of the President of India can be initiated in:",
+        "hi": "संविधान के अनुच्छेद 61 के तहत भारत के राष्ट्रपति पर महाभियोग की प्रक्रिया किस सदन में शुरू की जा सकती है?"
+      },
+      "options": [
+        {
+          "en": "Either House of Parliament",
+          "hi": "संसद के किसी भी सदन में (लोकसभा या राज्यसभा)"
+        },
+        {
+          "en": "Lok Sabha only",
+          "hi": "केवल लोकसभा में"
+        },
+        {
+          "en": "Rajya Sabha only",
+          "hi": "केवल राज्यसभा में"
+        },
+        {
+          "en": "Supreme Court of India",
+          "hi": "सर्वोच्च न्यायालय में"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 61, impeachment charges against the President for 'violation of the Constitution' can be initiated in either House of Parliament (requiring a 14-day notice signed by at least 1/4th members of that House).",
+        "hi": "अनुच्छेद 61 के तहत राष्ट्रपति पर महाभियोग का प्रस्ताव संसद के किसी भी सदन (लोकसभा अथवा राज्यसभा) में लाया जा सकता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00081",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "During the reign of which Gupta emperor did the Chinese pilgrim Fa-Hien (Faxian) visit India?",
+        "hi": "किस गुप्त सम्राट के शासनकाल के दौरान चीनी तीर्थयात्री फाहियान भारत आया था?"
+      },
+      "options": [
+        {
+          "en": "Chandragupta II (Vikramaditya)",
+          "hi": "चंद्रगुप्त द्वितीय (विक्रमादित्य)"
+        },
+        {
+          "en": "Samudragupta",
+          "hi": "समुद्रगुप्त"
+        },
+        {
+          "en": "Kumaragupta I",
+          "hi": "कुमारगुप्त प्रथम"
+        },
+        {
+          "en": "Skandagupta",
+          "hi": "स्कंदगुप्त"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Fa-Hien visited India between 399-412 CE during the golden age reign of Chandragupta II (Vikramaditya). Hiuen Tsang visited during Harsha's reign.",
+        "hi": "चीनी बौद्ध यात्री फाहियान गुप्त शासक चंद्रगुप्त द्वितीय (विक्रमादित्य) के शासनकाल में भारत आया था। ह्वेनसांग हर्षवर्धन के समय आया था।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00082",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which acid is present in the sting of an ant that causes a burning sensation?",
+        "hi": "चींटी के डंक में कौन सा अम्ल उपस्थित होता है जिसके कारण जलन महसूस होती है?"
+      },
+      "options": [
+        {
+          "en": "Formic Acid (Methanoic Acid)",
+          "hi": "फॉर्मिक अम्ल / मेथेनॉइक अम्ल"
+        },
+        {
+          "en": "Acetic Acid (Ethanoic Acid)",
+          "hi": "एसिटिक अम्ल"
+        },
+        {
+          "en": "Citric Acid",
+          "hi": "साइट्रिक अम्ल"
+        },
+        {
+          "en": "Oxalic Acid",
+          "hi": "ऑक्सालिक अम्ल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Ant stings inject Formic Acid (HCOOH, also named Methanoic Acid), which can be neutralized by applying a mild base like baking soda or calamine solution.",
+        "hi": "चींटी और बिच्छू के डंक में फॉर्मिक एसिड (मेथेनॉइक अम्ल, HCOOH) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00083",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Hornbill Festival, also known as the 'Festival of Festivals', is celebrated annually in which North-Eastern state?",
+        "hi": "हॉर्नबिल महोत्सव ('त्योहारों का त्योहार') प्रतिवर्ष किस पूर्वोत्तर राज्य में मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        },
+        {
+          "en": "Meghalaya",
+          "hi": "मेघालय"
+        },
+        {
+          "en": "Arunachal Pradesh",
+          "hi": "अरुणाचल प्रदेश"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Hornbill Festival is held every year from 1-10 December at the Naga Heritage Village, Kisama, near Kohima, Nagaland.",
+        "hi": "हॉर्नबिल उत्सव नागालैंड में प्रतिवर्ष 1 से 10 दिसंबर के मध्य नागा संस्कृति और परंपराओं के प्रदर्शन हेतु मनाया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00084",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Hirakud Dam, one of the longest earthen dams in the world, is built across which river?",
+        "hi": "विश्व के सबसे लंबे मिट्टी के बांधों में से एक 'हीराकुंड बांध' किस नदी पर निर्मित है?"
+      },
+      "options": [
+        {
+          "en": "Mahanadi (Odisha)",
+          "hi": "महानदी (ओडिशा)"
+        },
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Narmada",
+          "hi": "नर्मदा"
+        },
+        {
+          "en": "Cauvery",
+          "hi": "कावेरी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Hirakud Dam is built across the Mahanadi River near Sambalpur in Odisha. Tehri Dam is built on Bhagirathi, and Bhakra Nangal on Satluj.",
+        "hi": "हीराकुंड बांध ओडिशा में संबलपुर के पास महानदी पर बनाया गया है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00085",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "How many Official Languages are currently recognized under the Eighth Schedule of the Indian Constitution?",
+        "hi": "भारतीय संविधान की 8वीं अनुसूची में वर्तमान में कितनी आधिकारिक भाषाओं को मान्यता प्राप्त है?"
+      },
+      "options": [
+        {
+          "en": "22",
+          "hi": "22"
+        },
+        {
+          "en": "14",
+          "hi": "14"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Originally there were 14 languages in the 8th Schedule. At present, there are 22 officially recognized languages (Sindhi added by 21st amendment; Konkani, Manipuri, Nepali by 71st; Bodo, Dogri, Maithili, Santhali by 92nd).",
+        "hi": "मूल संविधान में 14 भाषाएँ थीं, वर्तमान में 8वीं अनुसूची में कुल 22 भाषाएँ सम्मिलित हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00086",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who was the Governor-General of India when the Indian National Congress was founded in Bombay in 1885?",
+        "hi": "1885 में बॉम्बे में भारतीय राष्ट्रीय कांग्रेस की स्थापना के समय भारत का गवर्नर-जनरल (वायसराय) कौन था?"
+      },
+      "options": [
+        {
+          "en": "Lord Dufferin",
+          "hi": "लॉर्ड डफरिन"
+        },
+        {
+          "en": "Lord Ripon",
+          "hi": "लॉर्ड रिपन"
+        },
+        {
+          "en": "Lord Curzon",
+          "hi": "लॉर्ड कर्जन"
+        },
+        {
+          "en": "Lord Lansdowne",
+          "hi": "लॉर्ड लैंसडाउन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Lord Dufferin served as Viceroy of India from 1884 to 1888 when the INC was founded in December 1885 by A.O. Hume.",
+        "hi": "दिसंबर 1885 में ए.ओ. ह्यूम द्वारा कांग्रेस की स्थापना के समय भारत का वायसराय लॉर्ड डफरिन था।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00087",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "The phenomenon of Total Internal Reflection (TIR) is the underlying working principle of which technology?",
+        "hi": "पूर्ण आंतरिक परावर्तन (TIR) की परिघटना किस तकनीक का मूल कार्य सिद्धांत है?"
+      },
+      "options": [
+        {
+          "en": "Optical Fibres (Telecommunication)",
+          "hi": "ऑप्टिकल फाइबर (प्रकाशीय तंतु)"
+        },
+        {
+          "en": "Convex lenses",
+          "hi": "उत्तल लेंस"
+        },
+        {
+          "en": "Solar panels",
+          "hi": "सौर पैनल"
+        },
+        {
+          "en": "Cathode Ray Tubes",
+          "hi": "कैथोड किरण नलिकाएं"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Optical fibres transmit light signals over long distances with minimal loss by employing continuous Total Internal Reflection (TIR) inside the glass core.",
+        "hi": "ऑप्टिकल फाइबर पूर्ण आंतरिक परावर्तन (Total Internal Reflection) के सिद्धांत पर प्रकाश संकेतों का संचरण करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00088",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which pass in the Himalayas connects Srinagar with Leh (Ladakh)?",
+        "hi": "हिमालय का कौन सा दर्रा श्रीनगर को लेह (लद्दाख) से जोड़ता है?"
+      },
+      "options": [
+        {
+          "en": "Zoji La Pass",
+          "hi": "ज़ोजिला दर्रा (Zoji La)"
+        },
+        {
+          "en": "Nathu La Pass",
+          "hi": "नाथूला दर्रा"
+        },
+        {
+          "en": "Rohtang Pass",
+          "hi": "रोहतांग दर्रा"
+        },
+        {
+          "en": "Shipki La Pass",
+          "hi": "शिपकी ला दर्रा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Zoji La pass (at 3,528 m) on National Highway 1 (NH-1) connects Srinagar to Kargil and Leh. Nathu La is in Sikkim; Rohtang is in Himachal Pradesh.",
+        "hi": "ज़ोजिला दर्रा श्रीनगर को कारगिल और लेह से जोड़ता है। नाथूला सिक्किम में है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00089",
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "What type of unemployment occurs when workers are in the process of moving from one job to another?",
+        "hi": "जब श्रमिक एक नौकरी छोड़कर दूसरी नौकरी की तलाश में होते हैं, तो इस प्रकार की बेरोजगारी को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Frictional Unemployment",
+          "hi": "घर्षणात्मक बेरोजगारी (Frictional Unemployment)"
+        },
+        {
+          "en": "Structural Unemployment",
+          "hi": "संरचनात्मक बेरोजगारी"
+        },
+        {
+          "en": "Disguised Unemployment",
+          "hi": "प्रच्छन्न / छिपी हुई बेरोजगारी"
+        },
+        {
+          "en": "Cyclical Unemployment",
+          "hi": "चक्रीय बेरोजगारी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Frictional unemployment is the temporary transitional unemployment that occurs while workers change jobs or search for new employment.",
+        "hi": "एक रोजगार से दूसरे रोजगार में जाने के दौरान होने वाली अस्थायी बेरोजगारी को घर्षणात्मक बेरोजगारी (Frictional Unemployment) कहते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00090",
+      "topic": "static_gk",
+      "subTopic": "books_authors",
+      "question": {
+        "en": "Who is the author of the famous book 'The Discovery of India' written during imprisonment at Ahmednagar Fort (1942–1946)?",
+        "hi": "अहमदनगर किले में कारावास (1942–1946) के दौरान लिखी गई प्रसिद्ध पुस्तक 'द डिस्कवरी ऑफ इंडिया' (भारत की खोज) के लेखक कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        },
+        {
+          "en": "Mahatma Gandhi",
+          "hi": "महात्मा गांधी"
+        },
+        {
+          "en": "Sardar Vallabhbhai Patel",
+          "hi": "सरदार वल्लभभाई पटेल"
+        },
+        {
+          "en": "Maulana Abul Kalam Azad",
+          "hi": "मौलाना अबुल कलाम आजाद"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pandit Jawaharlal Nehru wrote 'The Discovery of India' in 1944 while detained in Ahmednagar Fort after the Quit India Movement.",
+        "hi": "'डिस्कवरी ऑफ इंडिया' की रचना पंडित जवाहरलाल नेहरू ने अहमदनगर किले में भारत छोड़ो आंदोलन के दौरान बंदी रहते हुए की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00091",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Which Mughal Emperor abolished the pilgrim tax and the 'Jizya' tax on non-Muslim subjects in 1564?",
+        "hi": "किस मुगल सम्राट ने 1564 में तीर्थयात्रा कर तथा गैर-मुस्लिम प्रजा पर लगने वाले 'जजिया' कर को समाप्त कर दिया था?"
+      },
+      "options": [
+        {
+          "en": "Akbar",
+          "hi": "अकबर"
+        },
+        {
+          "en": "Babur",
+          "hi": "बाबर"
+        },
+        {
+          "en": "Aurangzeb",
+          "hi": "औरंगजेब"
+        },
+        {
+          "en": "Jahangir",
+          "hi": "जहाँगीर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Akbar abolished the pilgrimage tax in 1563 and the Jizya tax in 1564 to promote religious harmony (Sulh-i-Kul). Aurangzeb later reimposed Jizya in 1679.",
+        "hi": "अकबर ने 1563 में तीर्थयात्रा कर और 1564 में जजिया कर समाप्त किया था। औरंगजेब ने 1679 में इसे पुनः लागू किया था।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00092",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which green pigment in chloroplasts of plant leaves traps solar energy for photosynthesis?",
+        "hi": "पौधों की पत्तियों के हरित लवक में कौन सा हरा वर्णक प्रकाश संश्लेषण के लिए सौर ऊर्जा को अवशोषित करता है?"
+      },
+      "options": [
+        {
+          "en": "Chlorophyll",
+          "hi": "क्लोरोफिल (पर्णहरित)"
+        },
+        {
+          "en": "Carotenoid",
+          "hi": "कैरोटीनॉयड"
+        },
+        {
+          "en": "Anthocyanin",
+          "hi": "एंथोसायनिन"
+        },
+        {
+          "en": "Xanthophyll",
+          "hi": "जैंथोफिल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Chlorophyll is the primary photosynthetic pigment containing a magnesium (Mg) ion at the center of its porphyrin ring.",
+        "hi": "क्लोरोफिल (पर्णहरित) सौर ऊर्जा को अवशोषित करता है, जिसके केंद्र में मैग्नीशियम (Mg) धातु का आयन होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00093",
+      "topic": "geography",
+      "subTopic": "physical_geography",
+      "question": {
+        "en": "The 'Ring of Fire', famous for intense seismic activity and high concentration of active volcanoes, is located in which ocean?",
+        "hi": "'रिंग ऑफ फायर' (Ring of Fire), जो तीव्र भूकंपीय गतिविधि और सक्रिय ज्वालामुखियों के लिए प्रसिद्ध है, किस महासागर में स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Pacific Ocean",
+          "hi": "प्रशांत महासागर (Pacific Ocean)"
+        },
+        {
+          "en": "Atlantic Ocean",
+          "hi": "अटलांटिक महासागर"
+        },
+        {
+          "en": "Indian Ocean",
+          "hi": "हिंद महासागर"
+        },
+        {
+          "en": "Arctic Ocean",
+          "hi": "आर्कटिक महासागर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Circum-Pacific Belt (Ring of Fire) traces the boundary of tectonic plates around the Pacific Ocean basin, where about 75% of the world's volcanoes and 90% of earthquakes occur.",
+        "hi": "रिंग ऑफ फायर प्रशांत महासागर बेसिन के चारों ओर स्थित है, जहाँ विश्व के लगभग 75% सक्रिय ज्वालामुखी और 90% भूकंप आते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00094",
+      "topic": "polity",
+      "subTopic": "judiciary",
+      "question": {
+        "en": "What is the retirement age of a Judge of the Supreme Court of India?",
+        "hi": "भारत के सर्वोच्च न्यायालय के न्यायाधीश की सेवानिवृत्ति की आयु क्या है?"
+      },
+      "options": [
+        {
+          "en": "65 years",
+          "hi": "65 वर्ष"
+        },
+        {
+          "en": "62 years",
+          "hi": "62 वर्ष"
+        },
+        {
+          "en": "60 years",
+          "hi": "60 वर्ष"
+        },
+        {
+          "en": "70 years",
+          "hi": "70 वर्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 124(2), a Supreme Court judge holds office until attaining the age of 65 years. (High Court judges retire at 62 years).",
+        "hi": "अनुच्छेद 124(2) के अनुसार सर्वोच्च न्यायालय के न्यायाधीश 65 वर्ष की आयु में सेवानिवृत्त होते हैं। (उच्च न्यायालय के न्यायाधीश 62 वर्ष में)।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00095",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who led the revolt of 1857 in Bihar from Jagdishpur (Arrah)?",
+        "hi": "1857 के विद्रोह का नेतृत्व बिहार के जगदीशपुर (आरा) से किसने किया था?"
+      },
+      "options": [
+        {
+          "en": "Kunwar Singh",
+          "hi": "कुंवर सिंह"
+        },
+        {
+          "en": "Nana Saheb",
+          "hi": "नाना साहेब"
+        },
+        {
+          "en": "Bakht Khan",
+          "hi": "बख्त खान"
+        },
+        {
+          "en": "Begum Hazrat Mahal",
+          "hi": "बेगम हजरत महल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Veer Kunwar Singh, the 80-year-old Maharaja of Jagdishpur, led the 1857 freedom struggle in Bihar. Nana Saheb led in Kanpur, Begum Hazrat Mahal in Lucknow, and Bakht Khan in Delhi.",
+        "hi": "वीर कुंवर सिंह ने बिहार (जगदीशपुर) में 1857 के संग्राम का नेतृत्व किया था। बेगम हजरत महल ने लखनऊ तथा नाना साहेब ने कानपुर में नेतृत्व किया।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00096",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Which instrument is used to measure atmospheric pressure?",
+        "hi": "वायुमंडलीय दाब मापने के लिए किस उपकरण का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Barometer",
+          "hi": "बैरोमीटर (Barometer)"
+        },
+        {
+          "en": "Hygrometer",
+          "hi": "हाइग्रोमीटर (Hygrometer)"
+        },
+        {
+          "en": "Anemometer",
+          "hi": "एनीमोमीटर (Anemometer)"
+        },
+        {
+          "en": "Altimeter",
+          "hi": "अल्टीमीटर (Altimeter)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A Barometer (invented by Torricelli) measures atmospheric pressure. Hygrometer measures humidity; Anemometer measures wind speed.",
+        "hi": "बैरोमीटर से वायुमंडलीय दाब मापा जाता है। हाइग्रोमीटर से आर्द्रता तथा एनीमोमीटर से पवन का वेग मापा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00097",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where is the headquarters of the International Court of Justice (ICJ) situated?",
+        "hi": "अंतर्राष्ट्रीय न्यायालय (ICJ) का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "The Hague, Netherlands",
+          "hi": "द हेग, नीदरलैंड्स (The Hague)"
+        },
+        {
+          "en": "Geneva, Switzerland",
+          "hi": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+          "en": "Vienna, Austria",
+          "hi": "वियना, ऑस्ट्रिया"
+        },
+        {
+          "en": "Brussels, Belgium",
+          "hi": "ब्रुसेल्स, बेल्जियम"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The International Court of Justice (ICJ), the principal judicial organ of the UN, is seated at the Peace Palace in The Hague, Netherlands.",
+        "hi": "अंतर्राष्ट्रीय न्यायालय (ICJ) का मुख्यालय पीस पैलेस, द हेग (नीदरलैंड्स) में स्थित है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00098",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Majuli, the world's largest inhabited riverine island, is situated on which river in Assam?",
+        "hi": "विश्व का सबसे बड़ा आबाद नदी द्वीप 'माजुली', असम में किस नदी पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Brahmaputra",
+          "hi": "ब्रह्मपुत्र (Brahmaputra)"
+        },
+        {
+          "en": "Ganga",
+          "hi": "गंगा"
+        },
+        {
+          "en": "Godavari",
+          "hi": "गोदावरी"
+        },
+        {
+          "en": "Indus",
+          "hi": "सिंधु"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Majuli is a river island formed by the Brahmaputra River system in Assam, recognized as the world's largest river island by Guinness World Records.",
+        "hi": "माजुली द्वीप असम में ब्रह्मपुत्र नदी द्वारा निर्मित विश्व का सबसे बड़ा नदी द्वीप है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00099",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Which constitutional amendment added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution?",
+        "hi": "किस संविधान संशोधन द्वारा भारतीय संविधान की प्रस्तावना में 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए थे?"
+      },
+      "options": [
+        {
+          "en": "42nd Amendment Act, 1976",
+          "hi": "42वाँ संविधान संशोधन अधिनियम, 1976"
+        },
+        {
+          "en": "44th Amendment Act, 1978",
+          "hi": "44वाँ संविधान संशोधन अधिनियम, 1978"
+        },
+        {
+          "en": "24th Amendment Act, 1971",
+          "hi": "24वाँ संविधान संशोधन अधिनियम, 1971"
+        },
+        {
+          "en": "52nd Amendment Act, 1985",
+          "hi": "52वाँ संविधान संशोधन अधिनियम, 1985"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 42nd Amendment Act, 1976 (often called the 'Mini-Constitution') amended the Preamble for the only time, adding 'Socialist', 'Secular', and 'Integrity'.",
+        "hi": "42वें संविधान संशोधन, 1976 द्वारा प्रस्तावना में पहली और एकमात्र बार संशोधन कर 'समाजवादी', 'पंथनिरपेक्ष' और 'अखंडता' शब्द जोड़े गए।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00100",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Rusting of iron in moist air is an example of which chemical process?",
+        "hi": "नम वायु में लोहे पर जंग लगना किस रासायनिक प्रक्रिया का उदाहरण है?"
+      },
+      "options": [
+        {
+          "en": "Oxidation reaction (Redox)",
+          "hi": "ऑक्सीकरण / रेडॉक्स अभिक्रिया (Oxidation)"
+        },
+        {
+          "en": "Reduction reaction only",
+          "hi": "केवल अपचयन अभिक्रिया"
+        },
+        {
+          "en": "Decomposition reaction",
+          "hi": "अपघटन अभिक्रिया"
+        },
+        {
+          "en": "Displacement reaction only",
+          "hi": "विस्थापन अभिक्रिया"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rusting of iron is an electrochemical redox reaction where iron is oxidized by atmospheric oxygen in the presence of water to form hydrated ferric oxide (Fe₂O₃·xH₂O).",
+        "hi": "लोहे पर जंग लगना ऑक्सीकरण (Redox) अभिक्रिया है, जिसमें जल और ऑक्सीजन की उपस्थिति में हाइड्रेटेड आयरन ऑक्साइड (Fe₂O₃·xH₂O) बनता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00101",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Right to Education was made a Fundamental Right under Article 21A by which Constitutional Amendment Act?",
+        "hi": "शिक्षा का अधिकार किस संविधान संशोधन अधिनियम द्वारा अनुच्छेद 21A के तहत एक मौलिक अधिकार बनाया गया था?"
+      },
+      "options": [
+        {
+          "en": "86th Amendment Act, 2002",
+          "hi": "86वाँ संविधान संशोधन अधिनियम, 2002"
+        },
+        {
+          "en": "44th Amendment Act, 1978",
+          "hi": "44वाँ संविधान संशोधन अधिनियम, 1978"
+        },
+        {
+          "en": "91st Amendment Act, 2003",
+          "hi": "91वाँ संविधान संशोधन अधिनियम, 2003"
+        },
+        {
+          "en": "73rd Amendment Act, 1992",
+          "hi": "73वाँ संविधान संशोधन अधिनियम, 1992"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making free and compulsory education for children aged 6 to 14 a Fundamental Right.",
+        "hi": "86वें संविधान संशोधन, 2002 द्वारा अनुच्छेद 21A जोड़कर 6 से 14 वर्ष के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा को मौलिक अधिकार बनाया गया।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00102",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The famous 'Prayag Prashasti' (Allahabad Pillar Inscription), composed in Sanskrit by Harishena, describes the military conquests of which ruler?",
+        "hi": "हरिषेण द्वारा संस्कृत में रचित प्रसिद्ध 'प्रयाग प्रशस्ति' (इलाहाबाद स्तंभ लेख) किस गुप्त शासक की सैन्य विजयों का वर्णन करता है?"
+      },
+      "options": [
+        {
+          "en": "Samudragupta",
+          "hi": "समुद्रगुप्त"
+        },
+        {
+          "en": "Chandragupta Maurya",
+          "hi": "चंद्रगुप्त मौर्य"
+        },
+        {
+          "en": "Harshavardhana",
+          "hi": "हर्षवर्धन"
+        },
+        {
+          "en": "Ashoka",
+          "hi": "अशोक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Prayag Prashasti was composed by court poet Harishena in praise of Samudragupta, who is famously called the 'Napoleon of India' by V.A. Smith.",
+        "hi": "प्रयाग प्रशस्ति की रचना समुद्रगुप्त के दरबारी कवि हरिषेण ने की थी। समुद्रगुप्त को 'भारत का नेपोलियन' भी कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00103",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which river is known as the 'Sorrow of Bihar' due to its frequent floods and shifting courses?",
+        "hi": "लगातार बाढ़ और मार्ग परिवर्तन के कारण किस नदी को 'बिहार का शोक' कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Kosi",
+          "hi": "कोसी (Kosi)"
+        },
+        {
+          "en": "Damodar",
+          "hi": "दामोदर (बंगाल का शोक)"
+        },
+        {
+          "en": "Son",
+          "hi": "सोन"
+        },
+        {
+          "en": "Gandak",
+          "hi": "गंडक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Kosi River is known as the 'Sorrow of Bihar' due to catastrophic flooding and frequent course changes. Damodar was historically known as the 'Sorrow of Bengal'.",
+        "hi": "कोसी नदी को 'बिहार का शोक' तथा दामोदर नदी को 'बंगाल का शोक' कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00104",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the chemical formula of 'Baking Soda'?",
+        "hi": "'बेकिंग सोडा' (खाने का सोडा) का रासायनिक सूत्र क्या है?"
+      },
+      "options": [
+        {
+          "en": "NaHCO₃ (Sodium Hydrogen Carbonate)",
+          "hi": "NaHCO₃ (सोडियम हाइड्रोजन कार्बोनेट)"
+        },
+        {
+          "en": "Na₂CO₃·10H₂O (Sodium Carbonate Decahydrate)",
+          "hi": "Na₂CO₃·10H₂O (धोने का सोडा)"
+        },
+        {
+          "en": "NaOH (Sodium Hydroxide)",
+          "hi": "NaOH (कास्टिक सोडा)"
+        },
+        {
+          "en": "CaOCl₂ (Bleaching Powder)",
+          "hi": "CaOCl₂ (विरंजक चूर्ण)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Baking Soda is Sodium Bicarbonate (NaHCO₃). Washing soda is Na₂CO₃·10H₂O; Caustic soda is NaOH.",
+        "hi": "बेकिंग सोडा का रासायनिक नाम सोडियम बाइकार्बोनेट (NaHCO₃) है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00105",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Bihu is the most prominent traditional festival of which Indian state?",
+        "hi": "बिहू भारत के किस राज्य का प्रमुख पारंपरिक लोक उत्सव है?"
+      },
+      "options": [
+        {
+          "en": "Assam",
+          "hi": "असम"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "West Bengal",
+          "hi": "पश्चिम बंगाल"
+        },
+        {
+          "en": "Tripura",
+          "hi": "त्रिपुरा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Bihu is the set of three seasonal harvest festivals (Rongali, Kongali, Bhogali) celebrated in Assam.",
+        "hi": "बिहू असम का प्रसिद्ध लोक नृत्य एवं फसल उत्सव है (रोंगाली, कोंगाली, भोगाली बिहू)।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00106",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Who is revered as the 'Father of the Indian Constitution' and was the Chairman of the Drafting Committee?",
+        "hi": "किन्हें 'भारतीय संविधान का जनक' माना जाता है और वे प्रारूप समिति के अध्यक्ष थे?"
+      },
+      "options": [
+        {
+          "en": "Dr. B.R. Ambedkar",
+          "hi": "डॉ. बी.आर. अंबेडकर"
+        },
+        {
+          "en": "Dr. Rajendra Prasad",
+          "hi": "डॉ. राजेंद्र प्रसाद"
+        },
+        {
+          "en": "B.N. Rau",
+          "hi": "बी.एन. राव"
+        },
+        {
+          "en": "Jawaharlal Nehru",
+          "hi": "जवाहरलाल नेहरू"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Dr. Bhimrao Ramji Ambedkar served as the Chairman of the 7-member Drafting Committee set up on 29 August 1947.",
+        "hi": "डॉ. बी.आर. अंबेडकर संविधान की प्रारूप समिति (Drafting Committee) के अध्यक्ष थे।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00107",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Which Delhi Sultan introduced the market control and price regulation system along with 'Dagh' (branding of horses) and 'Chehra' (descriptive roll of soldiers)?",
+        "hi": "किस दिल्ली सुल्तान ने बाजार नियंत्रण नीति तथा 'दाग' (घोड़ों को दागना) और 'चेहरा' (सैनिकों का हुलिया) प्रथा शुरू की थी?"
+      },
+      "options": [
+        {
+          "en": "Alauddin Khalji",
+          "hi": "अलाउद्दीन खिलजी"
+        },
+        {
+          "en": "Muhammad bin Tughlaq",
+          "hi": "मोहम्मद बिन तुगलक"
+        },
+        {
+          "en": "Balban",
+          "hi": "बलबन"
+        },
+        {
+          "en": "Feroz Shah Tughlaq",
+          "hi": "फिरोज शाह तुगलक"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Alauddin Khalji (1296–1316) established strict market control, fixed prices for essential commodities, and maintained a standing army with Dagh and Chehra.",
+        "hi": "अलाउद्दीन खिलजी ने मूल्य नियंत्रण व्यवस्था और सैन्य सुधारों (दाग एवं चेहरा) को लागू किया था।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00108",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the SI unit of electric potential difference (voltage)?",
+        "hi": "विद्युत विभवांतर (Electric Potential Difference) का SI मात्रक क्या है?"
+      },
+      "options": [
+        {
+          "en": "Volt (V)",
+          "hi": "वोल्ट (Volt)"
+        },
+        {
+          "en": "Ampere (A)",
+          "hi": "एम्पीयर (Ampere)"
+        },
+        {
+          "en": "Ohm (Ω)",
+          "hi": "ओम (Ohm)"
+        },
+        {
+          "en": "Coulomb (C)",
+          "hi": "कूलॉम (Coulomb)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Electric potential difference is measured in Volts (1 V = 1 Joule/Coulomb). Current is in Amperes, Resistance in Ohms, Charge in Coulombs.",
+        "hi": "विभवांतर का SI मात्रक वोल्ट (V) है। विद्युत धारा का मात्रक एम्पीयर तथा प्रतिरोध का मात्रक ओम है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00109",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which state is the largest producer of bauxite (aluminium ore) in India?",
+        "hi": "भारत में बॉक्साइट (एल्युमीनियम अयस्क) का सबसे बड़ा उत्पादक राज्य कौन सा है?"
+      },
+      "options": [
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Jharkhand",
+          "hi": "झारखंड"
+        },
+        {
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
+        },
+        {
+          "en": "Madhya Pradesh",
+          "hi": "मध्य प्रदेश"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Odisha accounts for more than 50% of India's total bauxite production (Panchpatmali deposits in Koraput district).",
+        "hi": "ओडिशा भारत के कुल बॉक्साइट उत्पादन का 50% से अधिक हिस्सा उत्पादित करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00110",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "What is the minimum age required to become a member of the Rajya Sabha (Council of States)?",
+        "hi": "राज्यसभा (उच्च सदन) का सदस्य बनने के लिए न्यूनतम आयु क्या है?"
+      },
+      "options": [
+        {
+          "en": "30 years",
+          "hi": "30 वर्ष"
+        },
+        {
+          "en": "25 years",
+          "hi": "25 वर्ष (लोकसभा)"
+        },
+        {
+          "en": "35 years",
+          "hi": "35 वर्ष (राष्ट्रपति/राज्यपाल)"
+        },
+        {
+          "en": "21 years",
+          "hi": "21 वर्ष (पंचायत)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 84(b), the minimum age is 30 years for Rajya Sabha and 25 years for Lok Sabha. For President/Governor, it is 35 years.",
+        "hi": "अनुच्छेद 84 के तहत राज्यसभा सदस्य बनने के लिए न्यूनतम आयु 30 वर्ष तथा लोकसभा के लिए 25 वर्ष है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00111",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "In which session of the Indian National Congress was the historic 'Purna Swaraj' (Complete Independence) resolution adopted in 1929?",
+        "hi": "1929 में भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में ऐतिहासिक 'पूर्ण स्वराज' का प्रस्ताव पारित किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Lahore Session (Presided by Jawaharlal Nehru)",
+          "hi": "लाहौर अधिवेशन (अध्यक्षता: जवाहरलाल नेहरू)"
+        },
+        {
+          "en": "Karachi Session (1931)",
+          "hi": "कराची अधिवेशन"
+        },
+        {
+          "en": "Belgaum Session (1924)",
+          "hi": "बेलगाम अधिवेशन"
+        },
+        {
+          "en": "Calcutta Session (1928)",
+          "hi": "कलकत्ता अधिवेशन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Lahore Session in December 1929, chaired by Jawaharlal Nehru, passed the Purna Swaraj declaration, deciding to celebrate 26 January 1930 as Independence Day.",
+        "hi": "दिसंबर 1929 के लाहौर अधिवेशन (अध्यक्ष: पं. जवाहरलाल नेहरू) में पूर्ण स्वराज का संकल्प पारित हुआ था।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00112",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which organelle is universally known as the 'Powerhouse of the Cell'?",
+        "hi": "किस कोशिकांग को 'कोशिका का ऊर्जा गृह / पावरहाउस' (Powerhouse of the Cell) कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Mitochondria",
+          "hi": "माइटोकॉन्ड्रिया (Mitochondria)"
+        },
+        {
+          "en": "Ribosome",
+          "hi": "राइबोसोम (प्रोटीन फैक्ट्री)"
+        },
+        {
+          "en": "Lysosome",
+          "hi": "लाइसोसोम (आत्मघाती थैली)"
+        },
+        {
+          "en": "Golgi Apparatus",
+          "hi": "गॉल्जी काय"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mitochondria generate cellular energy in the form of ATP (adenosine triphosphate) via aerobic cellular respiration.",
+        "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन द्वारा ATP के रूप में ऊर्जा उत्पन्न होती है, इसलिए इसे पावरहाउस कहते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00113",
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "Who is popularly known as the 'Father of Modern Economics' and authored 'The Wealth of Nations' (1776)?",
+        "hi": "'आधुनिक अर्थशास्त्र का जनक' किन्हें कहा जाता है जिन्होंने 'द वेल्थ ऑफ नेशंस' (1776) लिखी थी?"
+      },
+      "options": [
+        {
+          "en": "Adam Smith",
+          "hi": "एडम स्मिथ (Adam Smith)"
+        },
+        {
+          "en": "John Maynard Keynes",
+          "hi": "जॉन मेनार्ड कीन्स"
+        },
+        {
+          "en": "Karl Marx",
+          "hi": "कार्ल मार्क्स"
+        },
+        {
+          "en": "Alfred Marshall",
+          "hi": "अल्फ्रेड मार्शल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Scottish philosopher Adam Smith is known as the Father of Modern Economics for his pioneering work 'An Inquiry into the Nature and Causes of the Wealth of Nations' (1776).",
+        "hi": "एडम स्मिथ को आधुनिक अर्थशास्त्र का जनक माना जाता है। उन्होंने 'द वेल्थ ऑफ नेशंस' पुस्तक लिखी थी।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00114",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the highest peak in the Western Ghats (and South India)?",
+        "hi": "पश्चिमी घाट (और दक्षिण भारत) की सबसे ऊँची पर्वत चोटी कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Anamudi (Kerala)",
+          "hi": "अनामुडी (केरल - 2,695 मी)"
+        },
+        {
+          "en": "Doddabetta (Tamil Nadu)",
+          "hi": "दोड्डाबेट्टा (नीलगिरि)"
+        },
+        {
+          "en": "Guru Shikhar (Rajasthan)",
+          "hi": "गुरु शिखर (अरावली)"
+        },
+        {
+          "en": "Kalsubai (Maharashtra)",
+          "hi": "कलसुबाई"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Anamudi (2,695 m), located in the Anamalai Hills of Kerala, is the highest peak in the Western Ghats and Peninsular India. Doddabetta (2,637 m) is the highest in Nilgiris.",
+        "hi": "केरल के अन्नामलाई पर्वत में स्थित अनामुडी (2,695 मीटर) दक्षिण भारत और पश्चिमी घाट की सर्वोच्च चोटी है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00115",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Who appoints the Chief Election Commissioner (CEC) and Election Commissioners of India?",
+        "hi": "भारत के मुख्य चुनाव आयुक्त (CEC) और चुनाव आयुक्तों की नियुक्ति कौन करता है?"
+      },
+      "options": [
+        {
+          "en": "President of India",
+          "hi": "भारत के राष्ट्रपति"
+        },
+        {
+          "en": "Prime Minister of India",
+          "hi": "भारत के प्रधानमंत्री"
+        },
+        {
+          "en": "Chief Justice of India",
+          "hi": "भारत के मुख्य न्यायाधीश"
+        },
+        {
+          "en": "Speaker of Lok Sabha",
+          "hi": "लोकसभा अध्यक्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 324(2), the President of India appoints the Chief Election Commissioner and other Election Commissioners.",
+        "hi": "अनुच्छेद 324(2) के तहत राष्ट्रपति मुख्य चुनाव आयुक्त एवं अन्य चुनाव आयुक्तों की नियुक्ति करते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00116",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The Great Bath and the Dancing Girl bronze statue were excavated from which Indus Valley Civilization site?",
+        "hi": "विशाल स्नानागार (Great Bath) और कांस्य की 'नर्तकी की मूर्ति' किस सिंधु घाटी सभ्यता स्थल से प्राप्त हुई थी?"
+      },
+      "options": [
+        {
+          "en": "Mohenjo-daro",
+          "hi": "मोहनजोदड़ो (Mohenjo-daro)"
+        },
+        {
+          "en": "Harappa",
+          "hi": "हड़प्पा"
+        },
+        {
+          "en": "Lothal",
+          "hi": "लोथल"
+        },
+        {
+          "en": "Kalibangan",
+          "hi": "कालीबंगा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mohenjo-daro (discovered by R.D. Banerji in 1922 in Larkana district, Sindh) yielded the Great Bath, Granary, and the Bronze Dancing Girl.",
+        "hi": "मोहनजोदड़ो से विशाल स्नानागार, विशाल अन्नागार तथा कांस्य नर्तकी की प्रसिद्ध मूर्ति प्राप्त हुई थी।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00117",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Why does a pencil appear bent when partially immersed in water in a glass tumbler?",
+        "hi": "कांच के गिलास में पानी में आंशिक रूप से डूबी हुई पेंसिल मुड़ी हुई क्यों दिखाई देती है?"
+      },
+      "options": [
+        {
+          "en": "Refraction of light",
+          "hi": "प्रकाश का अपवर्तन (Refraction)"
+        },
+        {
+          "en": "Reflection of light",
+          "hi": "प्रकाश का परावर्तन"
+        },
+        {
+          "en": "Diffraction of light",
+          "hi": "प्रकाश का विवर्तन"
+        },
+        {
+          "en": "Dispersion of light",
+          "hi": "प्रकाश का विक्षेपण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "As light travels from the optically denser water into rarer air, it bends away from the normal (Refraction), making the pencil appear bent at the interface.",
+        "hi": "पानी से हवा में आते समय प्रकाश की किरणें अभिलंब से दूर झुक जाती हैं (अपवर्तन), जिससे पेंसिल मुड़ी हुई प्रतीत होती है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00118",
+      "topic": "static_gk",
+      "subTopic": "important_days",
+      "question": {
+        "en": "National Science Day is celebrated in India on 28th February to commemorate:",
+        "hi": "भारत में प्रतिवर्ष 28 फरवरी को राष्ट्रीय विज्ञान दिवस किस उपलक्ष्य में मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Discovery of the 'Raman Effect' by Sir C.V. Raman (1928)",
+          "hi": "सर सी.वी. रमन द्वारा 'रमन प्रभाव' की खोज (1928)"
+        },
+        {
+          "en": "Birthday of Dr. A.P.J. Abdul Kalam",
+          "hi": "डॉ. ए.पी.जे. अब्दुल कलाम का जन्मदिन"
+        },
+        {
+          "en": "Birthday of Homi J. Bhabha",
+          "hi": "होमी जहांगीर भाभा का जन्मदिन"
+        },
+        {
+          "en": "Launch of Aryabhata satellite",
+          "hi": "आर्यभट्ट उपग्रह का प्रक्षेपण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sir C.V. Raman discovered the Raman Effect on 28 February 1928, for which he won the Nobel Prize in Physics in 1930. National Science Day honors this discovery.",
+        "hi": "28 फरवरी 1928 को सर सी.वी. रमन ने 'रमन प्रभाव' की खोज की थी (1930 में नोबेल पुरस्कार प्राप्त)।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00119",
+      "topic": "geography",
+      "subTopic": "world_geography",
+      "question": {
+        "en": "Which layer of the atmosphere contains the ozone layer that absorbs harmful ultraviolet (UV) radiations from the Sun?",
+        "hi": "वायुमंडल की किस परत में ओजोन परत स्थित है जो सूर्य से आने वाली हानिकारक पराबैंगनी (UV) किरणों को अवशोषित करती है?"
+      },
+      "options": [
+        {
+          "en": "Stratosphere",
+          "hi": "समताप मंडल (Stratosphere)"
+        },
+        {
+          "en": "Troposphere",
+          "hi": "क्षोभमंडल (Troposphere)"
+        },
+        {
+          "en": "Mesosphere",
+          "hi": "मध्यमंडल (Mesosphere)"
+        },
+        {
+          "en": "Thermosphere",
+          "hi": "तापमंडल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The ozone layer (Ozonosphere) is located within the Stratosphere (approx. 15 to 35 km above Earth), absorbing destructive UV-B rays.",
+        "hi": "ओजोन परत समताप मंडल (Stratosphere) में पाई जाती है जो पराबैंगनी किरणों को रोकती है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00120",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Which Article of the Indian Constitution provides for the 'Abolition of Untouchability'?",
+        "hi": "भारतीय संविधान का कौन सा अनुच्छेद 'अस्पृश्यता का अंत' (Abolition of Untouchability) सुनिश्चित करता है?"
+      },
+      "options": [
+        {
+          "en": "Article 17",
+          "hi": "अनुच्छेद 17"
+        },
+        {
+          "en": "Article 14",
+          "hi": "अनुच्छेद 14 (विधि के समक्ष समानता)"
+        },
+        {
+          "en": "Article 18",
+          "hi": "अनुच्छेद 18 (उपाधियों का अंत)"
+        },
+        {
+          "en": "Article 19",
+          "hi": "अनुच्छेद 19 (स्वतंत्रता का अधिकार)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 17 abolishes 'Untouchability' and forbids its practice in any form as an absolute Fundamental Right under Right to Equality.",
+        "hi": "अनुच्छेद 17 के तहत अस्पृश्यता को दंडनीय अपराध घोषित किया गया है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00121",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "The tragic Jallianwala Bagh Massacre took place in Amritsar on which fateful date?",
+        "hi": "अमृतसर में दुखद जलियांवाला बाग हत्याकांड किस तिथि को हुआ था?"
+      },
+      "options": [
+        {
+          "en": "13 April 1919 (Baisakhi Day)",
+          "hi": "13 अप्रैल 1919 (बैसाखी का दिन)"
+        },
+        {
+          "en": "19 April 1919",
+          "hi": "19 अप्रैल 1919"
+        },
+        {
+          "en": "13 March 1919",
+          "hi": "13 मार्च 1919"
+        },
+        {
+          "en": "15 August 1919",
+          "hi": "15 अगस्त 1919"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "On 13 April 1919 (Baisakhi), Brigadier-General Reginald Dyer ordered troops to fire upon unarmed citizens peacefully protesting the Rowlatt Act at Jallianwala Bagh, Amritsar.",
+        "hi": "13 अप्रैल 1919 को बैसाखी के दिन जनरल डायर ने जलियांवाला बाग में निहत्थे लोगों पर गोलियां चलवाई थीं।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00122",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which noble gas is the most abundant in the Earth's atmosphere?",
+        "hi": "पृथ्वी के वायुमंडल में सर्वाधिक मात्रा में पाई जाने वाली अक्रिय (नोबल) गैस कौन सी है?"
+      },
+      "options": [
+        {
+          "en": "Argon (Ar)",
+          "hi": "ऑर्गन (Argon - ≈0.93%)"
+        },
+        {
+          "en": "Helium (He)",
+          "hi": "हीलियम (Helium)"
+        },
+        {
+          "en": "Neon (Ne)",
+          "hi": "नियॉन (Neon)"
+        },
+        {
+          "en": "Krypton (Kr)",
+          "hi": "क्रिप्टॉन (Krypton)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Argon (Ar) is the third most abundant gas in the atmosphere (≈0.93% by volume) and the most abundant noble gas.",
+        "hi": "वायुमंडल में ऑर्गन गैस लगभग 0.93% मात्रा में उपस्थित है जो सभी अक्रिय गैसों में सर्वाधिक है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00123",
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where is the headquarters of the World Health Organization (WHO) located?",
+        "hi": "विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Geneva, Switzerland",
+          "hi": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+          "en": "Paris, France",
+          "hi": "पेरिस, फ्रांस"
+        },
+        {
+          "en": "Vienna, Austria",
+          "hi": "वियना, ऑस्ट्रिया"
+        },
+        {
+          "en": "Rome, Italy",
+          "hi": "रोम, इटली"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The World Health Organization (established on 7 April 1948) is headquartered in Geneva, Switzerland. (Paris = UNESCO; Rome = FAO; Vienna = IAEA).",
+        "hi": "WHO की स्थापना 7 अप्रैल 1948 को हुई थी तथा इसका मुख्यालय जिनेवा (स्विट्जरलैंड) में है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00124",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which latitude line divides India into almost two equal halves?",
+        "hi": "कौन सी अक्षांश रेखा भारत को लगभग दो बराबर भागों में विभाजित करती है?"
+      },
+      "options": [
+        {
+          "en": "Tropic of Cancer (23°30' N)",
+          "hi": "कर्क रेखा (23°30' उत्तरी अक्षांश)"
+        },
+        {
+          "en": "Equator (0°)",
+          "hi": "भूमध्य रेखा (0°)"
+        },
+        {
+          "en": "Tropic of Capricorn (23°30' S)",
+          "hi": "मकर रेखा (23°30' दक्षिणी अक्षांश)"
+        },
+        {
+          "en": "Arctic Circle (66°30' N)",
+          "hi": "आर्कटिक वृत्त"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Tropic of Cancer (23.5° N) passes through 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram), dividing the country into Northern temperate and Southern tropical zones.",
+        "hi": "कर्क रेखा (23°30' N) भारत के 8 राज्यों से होकर गुजरती है और देश को दो भागों में बांटती है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00125",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "What is the maximum duration for which an Ordinance promulgated by the President can remain in force without approval after reassembly of Parliament (Article 123)?",
+        "hi": "संसद के पुनः सत्र शुरू होने के बाद राष्ट्रपति द्वारा जारी अध्यादेश (अनुच्छेद 123) बिना अनुमोदन के अधिकतम कितने समय तक प्रभावी रह सकता है?"
+      },
+      "options": [
+        {
+          "en": "6 weeks",
+          "hi": "6 सप्ताह (6 weeks)"
+        },
+        {
+          "en": "6 months",
+          "hi": "6 महीने"
+        },
+        {
+          "en": "3 months",
+          "hi": "3 महीने"
+        },
+        {
+          "en": "14 days",
+          "hi": "14 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 123(2), an ordinance must be laid before both Houses and ceases to operate 6 weeks from the reassembly of Parliament (maximum theoretical life is 6 months + 6 weeks).",
+        "hi": "संसद सत्र शुरू होने के 6 सप्ताह के भीतर अध्यादेश को पारित करना अनिवार्य है अन्यथा यह समाप्त हो जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2022,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00126",
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "Under which Article of the Constitution can the President of India declare a 'National Emergency' on grounds of war, external aggression, or armed rebellion?",
+        "hi": "युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर भारत के राष्ट्रपति किस अनुच्छेद के तहत 'राष्ट्रीय आपातकाल' घोषित कर सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "Article 352",
+          "hi": "अनुच्छेद 352"
+        },
+        {
+          "en": "Article 356",
+          "hi": "अनुच्छेद 356 (राष्ट्रपति शासन)"
+        },
+        {
+          "en": "Article 360",
+          "hi": "अनुच्छेद 360 (वित्तीय आपातकाल)"
+        },
+        {
+          "en": "Article 368",
+          "hi": "अनुच्छेद 368 (संशोधन)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 352 empowers the President to declare a National Emergency. Article 356 deals with President's Rule in States, and Article 360 deals with Financial Emergency.",
+        "hi": "अनुच्छेद 352 राष्ट्रीय आपातकाल से संबंधित है। अनुच्छेद 356 राज्य में राष्ट्रपति शासन और अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00127",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Who built the famous 'Buland Darwaza' at Fatehpur Sikri to commemorate his victory over Gujarat?",
+        "hi": "गुजरात पर अपनी विजय के उपलक्ष्य में फतेहपुर सीकरी में प्रसिद्ध 'बुलंद दरवाजा' का निर्माण किसने करवाया था?"
+      },
+      "options": [
+        {
+          "en": "Akbar (in 1575–1601)",
+          "hi": "अकबर"
+        },
+        {
+          "en": "Shah Jahan",
+          "hi": "शाहजहाँ"
+        },
+        {
+          "en": "Jahangir",
+          "hi": "जहाँगीर"
+        },
+        {
+          "en": "Babur",
+          "hi": "बाबर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mughal Emperor Akbar constructed the 54-meter-high Buland Darwaza ('Door of Victory') at Fatehpur Sikri in 1601 to celebrate his conquest of Gujarat.",
+        "hi": "अकबर ने 1572 में गुजरात विजय की स्मृति में फतेहपुर सीकरी में बुलंद दरवाजा बनवाया था।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00128",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which is the longest river of Peninsular India (also known as 'Dakshin Ganga')?",
+        "hi": "प्रायद्वीपीय भारत की सबसे लंबी नदी कौन सी है जिसे 'दक्षिण गंगा' भी कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Godavari (1,465 km)",
+          "hi": "गोदावरी (1,465 किमी)"
+        },
+        {
+          "en": "Krishna",
+          "hi": "कृष्णा"
+        },
+        {
+          "en": "Cauvery",
+          "hi": "कावेरी"
+        },
+        {
+          "en": "Mahanadi",
+          "hi": "महानदी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Godavari originates at Trimbakeshwar in Nashik (Maharashtra) and flows 1,465 km, making it the longest peninsular river and second longest in India after Ganga.",
+        "hi": "गोदावरी नदी प्रायद्वीपीय भारत की सबसे लंबी नदी है, जिसे दक्षिण गंगा या वृद्ध गंगा कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00129",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Deficiency of Vitamin C leads to which nutritional deficiency disease?",
+        "hi": "विटामिन C (एस्कॉर्बिक एसिड) की कमी से कौन सा रोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Scurvy (bleeding gums)",
+          "hi": "स्कर्वी / मसूड़ों से रक्त आना (Scurvy)"
+        },
+        {
+          "en": "Rickets",
+          "hi": "रिकेट्स (विटामिन D की कमी)"
+        },
+        {
+          "en": "Beriberi",
+          "hi": "बेरी-बेरी (विटामिन B1 की कमी)"
+        },
+        {
+          "en": "Night Blindness",
+          "hi": "रतौंधी (विटामिन A की कमी)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Vitamin C (Ascorbic acid) deficiency causes Scurvy, characterized by swollen and bleeding gums and poor wound healing.",
+        "hi": "विटामिन C की कमी से स्कर्वी रोग होता है। विटामिन D से रिकेट्स तथा B1 से बेरी-बेरी होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00130",
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Which Fundamental Right was described by Dr. B.R. Ambedkar as the 'Heart and Soul of the Constitution'?",
+        "hi": "डॉ. बी.आर. अंबेडकर ने किस मौलिक अधिकार को 'संविधान का हृदय और आत्मा' कहा था?"
+      },
+      "options": [
+        {
+          "en": "Right to Constitutional Remedies (Article 32)",
+          "hi": "संवैधानिक उपचारों का अधिकार (अनुच्छेद 32)"
+        },
+        {
+          "en": "Right to Equality (Article 14)",
+          "hi": "समानता का अधिकार (अनुच्छेद 14)"
+        },
+        {
+          "en": "Right to Freedom of Speech (Article 19)",
+          "hi": "वाक् एवं अभिव्यक्ति की स्वतंत्रता"
+        },
+        {
+          "en": "Right to Freedom of Religion (Article 25)",
+          "hi": "धार्मिक स्वतंत्रता का अधिकार"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Dr. Ambedkar considered Article 32 (Right to Constitutional Remedies through Writs) as the cornerstone and 'Heart and Soul' of the Constitution.",
+        "hi": "डॉ. अंबेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को संविधान का हृदय और आत्मा कहा था।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00131",
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "During whose reign was the Fourth Buddhist Council held at Kundalvana in Kashmir, where Buddhism split into Hinayana and Mahayana?",
+        "hi": "कश्मीर के कुंडलवन में चतुर्थ बौद्ध संगीति किसके शासनकाल में आयोजित हुई थी, जहाँ बौद्ध धर्म हीनयान और महायान में विभाजित हुआ?"
+      },
+      "options": [
+        {
+          "en": "Kanishka (Kushan Empire)",
+          "hi": "कनिष्क (कुषाण वंश)"
+        },
+        {
+          "en": "Ashoka (Maurya Empire)",
+          "hi": "अशोक"
+        },
+        {
+          "en": "Kalashoka (Shishunaga dynasty)",
+          "hi": "कालाशोक"
+        },
+        {
+          "en": "Ajatashatru (Haryanka dynasty)",
+          "hi": "अजातशत्रु"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 4th Buddhist Council was convened by Kushan King Kanishka in 72 CE at Kundalvana (Kashmir), presided over by Vasumitra and Asvaghosha.",
+        "hi": "चतुर्थ बौद्ध संगीति 72 ई. में कुषाण सम्राट कनिष्क के काल में कुंडलवन (कश्मीर) में आयोजित की गई थी।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00132",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "What is the acceleration due to gravity (g) on the surface of the Moon compared to Earth?",
+        "hi": "पृथ्वी की तुलना में चंद्रमा की सतह पर गुरुत्वीय त्वरण (g) का मान कितना होता है?"
+      },
+      "options": [
+        {
+          "en": "1/6th of Earth's gravity",
+          "hi": "पृथ्वी के गुरुत्वाकर्षण का 1/6 भाग"
+        },
+        {
+          "en": "1/4th of Earth's gravity",
+          "hi": "पृथ्वी के गुरुत्वाकर्षण का 1/4 भाग"
+        },
+        {
+          "en": "1/2 of Earth's gravity",
+          "hi": "पृथ्वी के गुरुत्वाकर्षण का आधा"
+        },
+        {
+          "en": "Equal to Earth's gravity",
+          "hi": "पृथ्वी के बराबर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Moon's surface gravity is approximately 1.62 m/s², which is roughly 1/6th of Earth's surface gravity (9.8 m/s²). Weight on Moon is 1/6th of weight on Earth, while mass remains unchanged.",
+        "hi": "चंद्रमा पर गुरुत्वीय त्वरण पृथ्वी का 1/6 भाग (लगभग 1.62 मी/से²) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00133",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Sunderbans Mangrove Forest, the largest tidal halophytic mangrove forest in the world, is formed at the delta of which rivers?",
+        "hi": "विश्व का सबसे बड़ा ज्वारीय मैंग्रोव वन 'सुंदरवन', किन नदियों के डेल्टा पर स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Ganga and Brahmaputra",
+          "hi": "गंगा और ब्रह्मपुत्र"
+        },
+        {
+          "en": "Mahanadi and Godavari",
+          "hi": "महानदी और गोदावरी"
+        },
+        {
+          "en": "Indus and Jhelum",
+          "hi": "सिंधु और झेलम"
+        },
+        {
+          "en": "Narmada and Tapti",
+          "hi": "नर्मदा और ताप्ती"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Sundarbans delta is formed by the confluence of the Ganga, Brahmaputra, and Meghna rivers across India and Bangladesh in the Bay of Bengal.",
+        "hi": "सुंदरवन डेल्टा गंगा और ब्रह्मपुत्र नदियों के मुहाने पर बंगाल की खाड़ी में स्थित है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00134",
+      "topic": "economy",
+      "subTopic": "banking_finance",
+      "question": {
+        "en": "In which year was the Reserve Bank of India (RBI) established under the RBI Act, 1934?",
+        "hi": "भारतीय रिज़र्व बैंक (RBI) की स्थापना RBI अधिनियम, 1934 के तहत किस वर्ष हुई थी?"
+      },
+      "options": [
+        {
+          "en": "1935 (on 1st April)",
+          "hi": "1935 (1 अप्रैल 1935)"
+        },
+        {
+          "en": "1947",
+          "hi": "1947"
+        },
+        {
+          "en": "1949 (Nationalisation year)",
+          "hi": "1949 (राष्ट्रीयकरण वर्ष)"
+        },
+        {
+          "en": "1950",
+          "hi": "1950"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "RBI was established on 1 April 1935 in Calcutta on the recommendations of the Hilton Young Commission. It was nationalized on 1 January 1949.",
+        "hi": "हिल्टन यंग आयोग की सिफारिश पर RBI की स्थापना 1 अप्रैल 1935 को हुई थी। 1 जनवरी 1949 को इसका राष्ट्रीयकरण हुआ।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00135",
+      "topic": "static_gk",
+      "subTopic": "books_authors",
+      "question": {
+        "en": "Who wrote the famous Sanskrit play 'Abhijnanasakuntalam' and the epic poem 'Raghuvamsa'?",
+        "hi": "प्रसिद्ध संस्कृत नाटक 'अभिज्ञानशाकुंतलम्' और महाकाव्य 'रघुवंशम्' के रचयिता कौन हैं?"
+      },
+      "options": [
+        {
+          "en": "Kalidasa",
+          "hi": "कालिदास (Kalidasa)"
+        },
+        {
+          "en": "Banabhatta",
+          "hi": "बाणभट्ट"
+        },
+        {
+          "en": "Bhasa",
+          "hi": "भास"
+        },
+        {
+          "en": "Bhavabhuti",
+          "hi": "भवभूति"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mahakavi Kalidasa, one of the Navaratnas in the court of Chandragupta II Vikramaditya, wrote Abhijnanasakuntalam, Meghaduta, and Raghuvamsa.",
+        "hi": "महाकवि कालिदास ने 'अभिज्ञानशाकुंतलम्', 'मेघदूतम्', 'रघुवंशम्' और 'कुमारसंभवम्' की रचना की।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00136",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who founded the 'Satyashodhak Samaj' in Pune in 1873 to fight caste oppression and promote female education?",
+        "hi": "जातिगत उत्पीड़न के विरुद्ध तथा महिला शिक्षा के प्रसार हेतु 1873 में पुणे में 'सत्यशोधक समाज' की स्थापना किसने की थी?"
+      },
+      "options": [
+        {
+          "en": "Jyotirao Govindrao Phule",
+          "hi": "ज्योतिराव गोविंदराव फुले (महात्मा फुले)"
+        },
+        {
+          "en": "Dr. B.R. Ambedkar",
+          "hi": "डॉ. बी.आर. अंबेडकर"
+        },
+        {
+          "en": "Mahadev Govind Ranade",
+          "hi": "महादेव गोविंद रानाडे"
+        },
+        {
+          "en": "Gopal Krishna Gokhale",
+          "hi": "गोपाल कृष्ण गोखले"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mahatma Jyotirao Phule founded the Satyashodhak Samaj on 24 September 1873 and authored the famous book 'Gulamgiri' (1873).",
+        "hi": "महात्मा ज्योतिबा फुले ने 1873 में सत्यशोधक समाज की स्थापना की और 'गुलामगिरी' नामक प्रसिद्ध पुस्तक लिखी।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00137",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the pH value of pure distilled water at 25°C (room temperature)?",
+        "hi": "25°C (कमरे के तापमान) पर शुद्ध आसुत जल का pH मान क्या होता है?"
+      },
+      "options": [
+        {
+          "en": "7 (Neutral)",
+          "hi": "7 (उदासीन / Neutral)"
+        },
+        {
+          "en": "0 (Strongly Acidic)",
+          "hi": "0"
+        },
+        {
+          "en": "14 (Strongly Basic)",
+          "hi": "14"
+        },
+        {
+          "en": "5.6",
+          "hi": "5.6"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pure water has equal concentrations of H⁺ and OH⁻ ions [10⁻⁷ M], giving a neutral pH of 7 at 25°C.",
+        "hi": "शुद्ध जल का pH मान 7 (उदासीन) होता है। 7 से कम अम्लीय तथा 7 से अधिक क्षारीय होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00138",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Which House of the Indian Parliament is a permanent body and cannot be dissolved?",
+        "hi": "भारतीय संसद का कौन सा सदन एक स्थायी सदन है और इसे कभी भंग नहीं किया जा सकता?"
+      },
+      "options": [
+        {
+          "en": "Rajya Sabha (Council of States)",
+          "hi": "राज्यसभा (Council of States)"
+        },
+        {
+          "en": "Lok Sabha (House of the People)",
+          "hi": "लोकसभा"
+        },
+        {
+          "en": "Vidhan Sabha",
+          "hi": "विधानसभा"
+        },
+        {
+          "en": "Gram Sabha",
+          "hi": "ग्राम सभा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 83(1), Rajya Sabha is not subject to dissolution. One-third of its members retire every second year after completing a 6-year tenure.",
+        "hi": "अनुच्छेद 83(1) के अनुसार राज्यसभा एक स्थायी सदन है जो कभी भंग नहीं होता। इसके 1/3 सदस्य प्रत्येक दो वर्ष बाद सेवानिवृत्त होते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00139",
+      "topic": "geography",
+      "subTopic": "physical_geography",
+      "question": {
+        "en": "What is the point on the Earth's surface directly vertically above the subterranean focus of an earthquake called?",
+        "hi": "भूकंप के भूगर्भीय केंद्र (Focus) के ठीक लंबवत ऊपर पृथ्वी की सतह पर स्थित बिंदु को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Epicentre",
+          "hi": "अधिकेंद्र (Epicentre)"
+        },
+        {
+          "en": "Hypocentre",
+          "hi": "हाइपोसेंटर / मूल केंद्र (Focus)"
+        },
+        {
+          "en": "Fault line",
+          "hi": "भ्रंश रेखा"
+        },
+        {
+          "en": "Crater",
+          "hi": "क्रेटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The focus (hypocentre) is the point of subterranean seismic rupture. The point directly above it on the surface is the Epicentre, where shockwaves first arrive.",
+        "hi": "पृथ्वी के भीतर जहाँ भूकंप उत्पन्न होता है उसे फोकस (Hypocentre) कहते हैं, तथा इसके ठीक ऊपर सतह पर स्थित बिंदु को अधिकेंद्र (Epicentre) कहते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00140",
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which hormone, secreted by the beta cells of the Islets of Langerhans in the pancreas, regulates glucose levels in human blood?",
+        "hi": "अग्न्याशय के लैंगरहेंस द्वीप की बीटा कोशिकाओं द्वारा स्रावित कौन सा हार्मोन रक्त में शर्करा (ग्लूकोज) के स्तर को नियंत्रित करता है?"
+      },
+      "options": [
+        {
+          "en": "Insulin",
+          "hi": "इंसुलिन (Insulin)"
+        },
+        {
+          "en": "Glucagon",
+          "hi": "ग्लूकागॉन"
+        },
+        {
+          "en": "Thyroxine",
+          "hi": "थायरोक्सिन"
+        },
+        {
+          "en": "Adrenaline",
+          "hi": "एड्रीनालिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Insulin is secreted by beta cells in the pancreas to lower blood glucose. Insufficient insulin production or cellular resistance causes Diabetes Mellitus.",
+        "hi": "अग्न्याशय की बीटा कोशिकाओं द्वारा इंसुलिन हार्मोन स्रावित होता है जो रक्त में शर्करा को नियंत्रित करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00141",
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "Who was the only female Muslim sovereign ruler to sit on the throne of Delhi (1236–1240 CE)?",
+        "hi": "दिल्ली के सिंहासन पर बैठने वाली एकमात्र महिला मुस्लिम शासक (1236–1240 ई.) कौन थीं?"
+      },
+      "options": [
+        {
+          "en": "Razia Sultan",
+          "hi": "रजिया सुल्तान"
+        },
+        {
+          "en": "Nur Jahan",
+          "hi": "नूरजहाँ"
+        },
+        {
+          "en": "Chand Bibi",
+          "hi": "चांद बीबी"
+        },
+        {
+          "en": "Mumtaz Mahal",
+          "hi": "मुमताज महल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Razia Sultana, the daughter of Sultan Shams-ud-din Iltutmish, ruled the Delhi Sultanate as Sultan from 1236 to 1240 CE.",
+        "hi": "इल्तुतमिश की पुत्री रजिया सुल्तान दिल्ली सल्तनत की पहली और एकमात्र महिला शासिका थीं।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00142",
+      "topic": "polity",
+      "subTopic": "judiciary",
+      "question": {
+        "en": "Which writ is issued by the Supreme Court or High Courts to command an authority or public official to perform a mandatory public duty?",
+        "hi": "किसी सार्वजनिक अधिकारी या संस्था को अपने कर्तव्य का पालन करने का आदेश देने के लिए सर्वोच्च न्यायालय द्वारा कौन सी रिट जारी की जाती है?"
+      },
+      "options": [
+        {
+          "en": "Mandamus ('We Command')",
+          "hi": "परमादेश / मैंडमस (Mandamus)"
+        },
+        {
+          "en": "Habeas Corpus",
+          "hi": "बंदी प्रत्यक्षीकरण"
+        },
+        {
+          "en": "Quo-Warranto",
+          "hi": "अधिकार पृच्छा"
+        },
+        {
+          "en": "Certiorari",
+          "hi": "उत्प्रेषण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Mandamus' (literally 'We Command') is a writ issued to compel a public body or officer to perform a legal duty they have failed or refused to perform.",
+        "hi": "परमादेश (Mandamus) रिट द्वारा किसी सार्वजनिक अधिकारी को अपने वैधानिक कर्तव्यों का पालन करने का निर्देश दिया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00143",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Raut Nacha is a famous folk dance performed during Diwali by the Yadav community in which Indian state?",
+        "hi": "राउत नाचा (Raut Nacha) किस भारतीय राज्य में दीवाली के अवसर पर यादव समुदाय द्वारा किया जाने वाला प्रसिद्ध लोक नृत्य है?"
+      },
+      "options": [
+        {
+          "en": "Chhattisgarh",
+          "hi": "छत्तीसगढ़"
+        },
+        {
+          "en": "Gujarat",
+          "hi": "गुजरात"
+        },
+        {
+          "en": "Punjab",
+          "hi": "पंजाब"
+        },
+        {
+          "en": "Rajasthan",
+          "hi": "राजस्थान"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Raut Nacha is a traditional tribal folk dance of Chhattisgarh, performed predominantly by the Yaduvanshi community after Diwali.",
+        "hi": "राउत नाचा छत्तीसगढ़ का प्रसिद्ध पारंपरिक लोक नृत्य है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00144",
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Which physical device is used to step up or step down alternating voltage in electric power grids?",
+        "hi": "विद्युत ग्रिड में प्रत्यावर्ती वोल्टेज (AC) को बढ़ाने या घटाने के लिए किस उपकरण का उपयोग किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Transformer (Mutual Induction)",
+          "hi": "ट्रांसफॉर्मर (Transformer)"
+        },
+        {
+          "en": "Rectifier",
+          "hi": "दिष्टकारी / रेक्टिफायर (AC to DC)"
+        },
+        {
+          "en": "Inverter",
+          "hi": "इन्वर्टर"
+        },
+        {
+          "en": "Dynamo",
+          "hi": "डायनेमो"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A Transformer works on the principle of electromagnetic mutual induction to increase (step-up) or decrease (step-down) alternating voltages.",
+        "hi": "ट्रांसफॉर्मर अन्योन्य प्रेरण (Mutual Induction) के सिद्धांत पर AC वोल्टेज को परिवर्तित करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00145",
+      "topic": "geography",
+      "subTopic": "indian_geography",
+      "question": {
+        "en": "Which Indian state has the longest mainland coastline?",
+        "hi": "भारत के किस राज्य की मुख्य भूमि तटरेखा सबसे लंबी है?"
+      },
+      "options": [
+        {
+          "en": "Gujarat (≈1,214 km)",
+          "hi": "गुजरात (लगभग 1,214 किमी)"
+        },
+        {
+          "en": "Andhra Pradesh",
+          "hi": "आंध्र प्रदेश (दूसरी सबसे लंबी)"
+        },
+        {
+          "en": "Tamil Nadu",
+          "hi": "तमिलनाडु"
+        },
+        {
+          "en": "Maharashtra",
+          "hi": "महाराष्ट्र"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Gujarat has the longest mainland coastline in India (approx. 1,214.7 km). Andhra Pradesh has the second longest (approx. 974 km).",
+        "hi": "गुजरात की तटरेखा (1,214.7 किमी) भारत में सबसे लंबी है। आंध्र प्रदेश दूसरे स्थान पर है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00146",
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Who was the British Viceroy of India when Bengal was partitioned in 1905?",
+        "hi": "1905 में जब बंगाल का विभाजन हुआ, तब भारत का ब्रिटिश वायसराय कौन था?"
+      },
+      "options": [
+        {
+          "en": "Lord Curzon",
+          "hi": "लॉर्ड कर्जन"
+        },
+        {
+          "en": "Lord Minto",
+          "hi": "लॉर्ड मिंटो"
+        },
+        {
+          "en": "Lord Hardinge",
+          "hi": "लॉर्ड हार्डिंग"
+        },
+        {
+          "en": "Lord Chelmsford",
+          "hi": "लॉर्ड चेम्सफोर्ड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Lord Curzon announced the partition of Bengal on 16 October 1905, triggering the nationwide Swadeshi and Boycott Movement. Partition was annulled in 1911 by Lord Hardinge.",
+        "hi": "1905 में लॉर्ड कर्जन ने बंगाल विभाजन की घोषणा की थी, जिससे स्वदेशी आंदोलन की शुरुआत हुई थी।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00147",
+      "topic": "economy",
+      "subTopic": "budget_taxation",
+      "question": {
+        "en": "What is the difference between total revenue and total expenditure of the government (excluding borrowings) called?",
+        "hi": "सरकार के कुल व्यय और कुल राजस्व (उधारियों को छोड़कर) के बीच के अंतर को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Fiscal Deficit",
+          "hi": "राजकोषीय घाटा (Fiscal Deficit)"
+        },
+        {
+          "en": "Revenue Deficit",
+          "hi": "राजस्व घाटा"
+        },
+        {
+          "en": "Primary Deficit",
+          "hi": "प्राथमिक घाटा"
+        },
+        {
+          "en": "Budget Deficit",
+          "hi": "बजट घाटा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Fiscal Deficit = Total Expenditure − (Total Receipts excluding borrowings). It represents the total borrowing requirement of the government from all sources.",
+        "hi": "राजकोषीय घाटा सरकार की कुल उधारी आवश्यकताओं को दर्शाता है (कुल व्यय − कुल प्राप्तियाँ ऋण छोड़कर)।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00148",
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "Which metal is stored in kerosene to prevent it from reacting violently with atmospheric moisture and oxygen?",
+        "hi": "किस धातु को वायुमंडलीय नमी और ऑक्सीजन से तीव्र अभिक्रिया रोकने के लिए मिट्टी के तेल (केरोसिन) में रखा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Sodium (Na) and Potassium (K)",
+          "hi": "सोडियम (Na) और पोटेशियम (K)"
+        },
+        {
+          "en": "Gold (Au)",
+          "hi": "सोना"
+        },
+        {
+          "en": "Silver (Ag)",
+          "hi": "चाँदी"
+        },
+        {
+          "en": "Copper (Cu)",
+          "hi": "तांबा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sodium and Potassium are highly reactive alkali metals that catch fire vigorously upon contact with water and air, so they are stored submerged in kerosene.",
+        "hi": "सोडियम और पोटैशियम अत्यंत क्रियाशील धातुएं हैं जो हवा और पानी से तुरंत आग पकड़ लेती हैं, इसलिए इन्हें केरोसिन में रखा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00149",
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "What is the minimum quorum required to conduct a sitting of either House of Parliament (Article 100)?",
+        "hi": "संसद के किसी भी सदन की बैठक आयोजित करने के लिए आवश्यक न्यूनतम कोरम (गणपूर्ति) क्या है (अनुच्छेद 100)?"
+      },
+      "options": [
+        {
+          "en": "1/10th of the total membership of the House",
+          "hi": "सदन की कुल सदस्य संख्या का 1/10 भाग"
+        },
+        {
+          "en": "1/6th of total membership",
+          "hi": "कुल सदस्य संख्या का 1/6 भाग"
+        },
+        {
+          "en": "1/3rd of total membership",
+          "hi": "कुल सदस्य संख्या का 1/3 भाग"
+        },
+        {
+          "en": "50 members fixed",
+          "hi": "50 सदस्य"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 100(3), the quorum to constitute a meeting of either House is 10% (one-tenth) of the total number of members of the House (55 in Lok Sabha, 25 in Rajya Sabha).",
+        "hi": "अनुच्छेद 100(3) के तहत संसद की कार्यवाही शुरू करने के लिए न्यूनतम 1/10 सदस्यों की उपस्थिति आवश्यक है।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
+    },
+    {
+      "id": "q_t1_gk_00150",
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Sattriya, recognized as one of the eight classical dance forms of India, originated in which state?",
+        "hi": "भारत के 8 शास्त्रीय नृत्यों में शामिल 'सत्रीया' (Sattriya) नृत्य की उत्पत्ति किस राज्य में हुई थी?"
+      },
+      "options": [
+        {
+          "en": "Assam (by Srimanta Sankardev)",
+          "hi": "असम (श्रीमंत शंकरदेव द्वारा प्रवर्तित)"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Odisha",
+          "hi": "ओडिशा"
+        },
+        {
+          "en": "Kerala",
+          "hi": "केरल"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Sattriya was introduced in the 15th century by the Vaishnava saint and reformer Mahapurusha Srimanta Sankardev in Assam. It was recognized as a classical dance in the year 2000.",
+        "hi": "सत्रीया नृत्य असम के वैष्णव संत श्रीमंत शंकरदेव द्वारा 15वीं शताब्दी में विकसित किया गया था।"
+      },
+      "difficulty": "easy",
+      "year": 2021,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ]
     }
   ]
 }

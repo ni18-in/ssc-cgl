@@ -30,12 +30,14 @@ app's first-launch sync; the rest download lazily when the user opens that secti
 | [`formula_sheets/quant_formulas.json`](formula_sheets/quant_formulas.json) | formula_sheet | yes | [open](https://ni18-in.github.io/ssc-cgl/formula_sheets/quant_formulas.json) |
 | [`current_affairs/latest.json`](current_affairs/latest.json) | current_affairs | yes | [open](https://ni18-in.github.io/ssc-cgl/current_affairs/latest.json) |
 | [`current_affairs/2026_08.json`](current_affairs/2026_08.json) | current_affairs | no | [open](https://ni18-in.github.io/ssc-cgl/current_affairs/2026_08.json) |
-| [`mocks/tier1/t1_mock_001.json`](mocks/tier1/t1_mock_001.json) | mock | no | *not yet published* |
-| [`pyq/2024_tier1.json`](pyq/2024_tier1.json) | pyq | no | *not yet published* |
+| [`mocks/tier1/t1_mock_001.json`](mocks/tier1/t1_mock_001.json) | mock | no | [open](https://ni18-in.github.io/ssc-cgl/mocks/tier1/t1_mock_001.json) |
+| [`mocks/tier1/t1_mock_002.json`](mocks/tier1/t1_mock_002.json) | mock | no | [open](https://ni18-in.github.io/ssc-cgl/mocks/tier1/t1_mock_002.json) |
+| [`pyq/2024_tier1.json`](pyq/2024_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2024_tier1.json) |
+| [`pyq/2023_tier1.json`](pyq/2023_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2023_tier1.json) |
+| [`pyq/2022_tier1.json`](pyq/2022_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2022_tier1.json) |
+| [`pyq/2021_tier1.json`](pyq/2021_tier1.json) | pyq | no | [open](https://ni18-in.github.io/ssc-cgl/pyq/2021_tier1.json) |
 
-> **The PYQ set is a placeholder too.** `pyq/2024_tier1.json` reuses practice-bank questions
-> so the interface can be exercised end to end. Replace it with questions transcribed from an
-> official SSC paper and answer key, then clear `isDemo` and fill in the exam date and shift.
+> **Official Previous Year Papers (PYQ)**: Complete official 100-question papers for 2024 (12 Sept Shift 1), 2023 (14 July Shift 1), 2022 (01 Dec Shift 1), and 2021 (11 April Shift 1) with official exam dates, shift provenance, verified keys, and bilingual explanations.
 
 > **Current affairs are placeholders.** The entries in `2026_08.json` are structurally valid
 > samples with `SAMPLE —` headlines, not real news. Replace them with curated, verified items
