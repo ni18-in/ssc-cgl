@@ -281,6 +281,21 @@ def main() -> int:
             report.error(rel_path, "listed in index.json but missing on disk")
             continue
 
+        # Line endings are load-bearing here. GitHub Pages serves the LF blob
+        # stored in git, but a checkout under core.autocrlf=true leaves CRLF in
+        # the working tree; build_manifest.py would then record a checksum for
+        # bytes no user ever receives, and the app rejects every such file as
+        # corrupt. This is exactly how 11 of 14 files broke on 2026-08-14, and
+        # nothing else in the pipeline notices, because both halves are
+        # internally consistent. .gitattributes prevents it; this catches it.
+        if b"\r\n" in path.read_bytes():
+            report.error(
+                rel_path,
+                "contains CRLF line endings. GitHub Pages will serve LF, so the "
+                "checksum in index.json will not match what the app downloads. "
+                "Check .gitattributes, then: git rm -r --cached . && git reset --hard",
+            )
+
         data = load_json(path, report)
         if data is None:
             continue
