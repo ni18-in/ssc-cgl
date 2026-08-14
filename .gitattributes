@@ -1,0 +1,20 @@
+# Every file in this repo is served verbatim over HTTP from GitHub Pages and
+# verified by the app against a SHA-256 recorded in index.json.
+#
+# That makes line endings load-bearing. With core.autocrlf=true and no rules
+# here, a checkout rewrites LF to CRLF in the working tree; build_manifest.py
+# then hashes the CRLF copy while GitHub Pages serves the LF copy stored in git.
+# Every checksum comes out wrong by exactly one byte per line, and the app
+# rejects the download as corrupt — which is what happened on 2026-08-14, when
+# 11 of 14 files failed verification on device.
+#
+# Forcing LF in the working tree keeps what we hash byte-identical to what we
+# serve. Do not remove this without changing how checksums are computed.
+* text=auto eol=lf
+
+# Belt and braces for the files the app actually verifies.
+*.json text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
