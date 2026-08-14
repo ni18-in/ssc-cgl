@@ -237,7 +237,10 @@ def main() -> int:
         print(f"index.json is in sync ({len(fresh_index)} files).")
         return 0
 
-    MANIFEST_PATH.write_text(rendered, encoding="utf-8")
+    # newline="" stops Python's text mode translating "\n" to "\r\n" on Windows.
+    # Everything this repo publishes must be LF on disk, because the app verifies
+    # downloads against checksums of the LF blob GitHub Pages serves.
+    MANIFEST_PATH.write_text(rendered, encoding="utf-8", newline="")
     size_mb = manifest["totalSizeBytes"] / (1024 * 1024)
     required_count = sum(1 for entry in manifest["files"] if entry["required"])
     print(
