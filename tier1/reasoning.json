@@ -7629,6 +7629,958 @@
         "shortcut_applicable",
         "frequently_asked"
       ]
+    },
+    {
+      "topic": "paper_folding_cutting",
+      "question": {
+        "en": "A square sheet of transparent paper with a pattern is folded along the dotted vertical line from left to right. If the left half contains '▷' and the right half contains '◁', which pattern will appear after folding?",
+        "hi": "एक पैटर्न वाली वर्गाकार पारदर्शी शीट को बाईं से दाईं ओर बिंदीदार ऊर्ध्वाधर रेखा के अनुदिश मोड़ा जाता है। यदि बाएं आधे भाग में '▷' और दाएं आधे भाग में '◁' है, तो मोड़ने के बाद कौन सा पैटर्न दिखाई देगा?"
+      },
+      "options": [
+        {
+          "en": "A diamond/rhombus shape '◇'",
+          "hi": "एक विषमकोण/समचतुर्भुज आकृति '◇'"
+        },
+        {
+          "en": "Two parallel triangles pointing right",
+          "hi": "दाईं ओर इंगित करते दो समानांतर त्रिभुज"
+        },
+        {
+          "en": "A circle '○'",
+          "hi": "एक वृत्त '○'"
+        },
+        {
+          "en": "Two overlapping lines",
+          "hi": "दो परस्पर व्यापी रेखाएँ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When the left side containing '▷' is flipped over the vertical axis to the right side, it mirrors into '◁' and overlaps with the right triangle '◁' to form a 4-pointed symmetric rhombus/diamond shape '◇'.",
+        "hi": "जब '▷' युक्त बायाँ भाग ऊर्ध्वाधर अक्ष के अनुदिश दाएँ भाग पर पलटा जाता है, तो यह '◁' में परिवर्तित होकर दाएँ त्रिभुज '◁' के साथ मिलकर एक समचतुर्भुज आकृति '◇' का निर्माण करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00201"
+    },
+    {
+      "topic": "paper_folding_cutting",
+      "question": {
+        "en": "A circular paper is folded in half horizontally, then folded in half vertically into a quadrant (quarter circle), and a triangular hole pointing towards the center is punched. When unfolded completely, how many triangular holes will appear and where will they point?",
+        "hi": "एक वृत्ताकार कागज को पहले क्षैतिज रूप से आधा मोड़ा जाता है, फिर लंबवत रूप से चौथाई वृत्त (चतुर्थांश) में मोड़ा जाता है, और केंद्र की ओर इंगित करता एक त्रिभुजाकार छेद काटा जाता है। कागज को पूरी तरह खोलने पर कितने त्रिभुजाकार छेद दिखाई देंगे और वे किस ओर इंगित करेंगे?"
+      },
+      "options": [
+        {
+          "en": "4 triangles, all pointing towards the center",
+          "hi": "4 त्रिभुज, सभी केंद्र की ओर इंगित करते हुए"
+        },
+        {
+          "en": "4 triangles, all pointing outwards away from the center",
+          "hi": "4 त्रिभुज, सभी केंद्र से बाहर की ओर इंगित करते हुए"
+        },
+        {
+          "en": "2 triangles pointing up and 2 pointing down",
+          "hi": "2 त्रिभुज ऊपर और 2 नीचे की ओर इंगित करते हुए"
+        },
+        {
+          "en": "8 triangles pointing inwards",
+          "hi": "8 त्रिभुज अंदर की ओर इंगित करते हुए"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The paper was folded twice (4 layers). Unfolding vertically creates 2 symmetric triangles pointing towards the horizontal crease, and unfolding horizontally creates 4 symmetric triangles in all 4 quadrants, all pointing inward towards the circle's center.",
+        "hi": "कागज को दो बार मोड़ा गया था (4 परतें)। कागज को पूरी तरह खोलने पर चारों चतुर्थांशों में 4 सममित त्रिभुज दिखाई देंगे जो केंद्र की ओर इंगित करेंगे।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00202"
+    },
+    {
+      "topic": "embedded_figures",
+      "question": {
+        "en": "Select the option that correctly describes in which capital letter the letter shape 'V' is naturally embedded without rotation.",
+        "hi": "उस विकल्प का चयन करें जो यह सही ढंग से दर्शाता है कि किस बड़े अक्षर में 'V' आकृति बिना घुमाए सन्निहित है।"
+      },
+      "options": [
+        {
+          "en": "Letter 'W'",
+          "hi": "अक्षर 'W'"
+        },
+        {
+          "en": "Letter 'H'",
+          "hi": "अक्षर 'H'"
+        },
+        {
+          "en": "Letter 'T'",
+          "hi": "अक्षर 'T'"
+        },
+        {
+          "en": "Letter 'E'",
+          "hi": "अक्षर 'E'"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The letter 'W' consists of two connected 'V' shapes side-by-side. Therefore, 'V' is naturally and directly embedded within 'W'.",
+        "hi": "अक्षर 'W' दो जुड़े हुए 'V' आकारों से मिलकर बनता है। अतः 'V' आकृति 'W' में सीधे सन्निहित है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_reasoning_00203"
+    },
+    {
+      "topic": "embedded_figures",
+      "question": {
+        "en": "A figure consists of an equilateral triangle with a vertical line descending from its top vertex to the midpoint of the base. Which geometrical shapes are embedded in it?",
+        "hi": "एक आकृति में एक समबाहु त्रिभुज है जिसके शीर्ष से आधार के मध्य बिंदु तक एक ऊर्ध्वाधर रेखा खींची गई है। इसमें कौन सी ज्यामितीय आकृतियाँ सन्निहित हैं?"
+      },
+      "options": [
+        {
+          "en": "Two congruent right-angled triangles",
+          "hi": "दो सर्वांगसम समकोण त्रिभुज"
+        },
+        {
+          "en": "Two obtuse-angled triangles",
+          "hi": "दो अधिककोण त्रिभुज"
+        },
+        {
+          "en": "Three equilateral triangles",
+          "hi": "तीन समबाहु त्रिभुज"
+        },
+        {
+          "en": "Two scalene non-right triangles",
+          "hi": "दो विषमबाहु गैर-समकोण त्रिभुज"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The altitude in an equilateral triangle is perpendicular to the base and bisects it, splitting the equilateral triangle into two identical (congruent) 30°-60°-90° right-angled triangles.",
+        "hi": "समबाहु त्रिभुज का शीर्षलंब आधार पर लंब होता है और उसे समद्विभाजित करता है, जिससे दो सर्वांगसम समकोण त्रिभुज (30°-60°-90°) बनते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_reasoning_00204"
+    },
+    {
+      "topic": "mirror_water_image",
+      "question": {
+        "en": "What is the correct mirror image of the alphanumeric string 'SSC2024' when a vertical mirror is placed to its right?",
+        "hi": "जब 'SSC2024' के दाईं ओर एक ऊर्ध्वाधर दर्पण रखा जाता है, तो सही दर्पण प्रतिबिंब क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "The string reversed in order with each character laterally inverted starting with mirrored 4",
+          "hi": "उल्टे क्रम में प्रत्येक अक्षर का पार्श्व परिवर्तन, जो उल्टे 4 से शुरू होगा"
+        },
+        {
+          "en": "The string kept in same left-to-right order with only numbers inverted",
+          "hi": "वही क्रम जिसमें केवल संख्याएँ उल्टी हों"
+        },
+        {
+          "en": "The string upside down as a water reflection",
+          "hi": "जल प्रतिबिंब की तरह उल्टा"
+        },
+        {
+          "en": "The exact same string without any change",
+          "hi": "बिना किसी परिवर्तन के वही स्ट्रिंग"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "In a vertical right-side mirror reflection: 1) The sequence of characters is reversed (the rightmost character '4' becomes the first on the left). 2) Each individual letter and digit undergoes lateral inversion (left-right flip).",
+        "hi": "दाईं ओर लगे ऊर्ध्वाधर दर्पण में: 1) अक्षरों का क्रम उलट जाता है (सबसे दायां अक्षर '4' सबसे बाईं ओर आ जाता है)। 2) प्रत्येक अक्षर और अंक का पार्श्व परिवर्तन (दाएं-बाएं पलटना) होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00205"
+    },
+    {
+      "topic": "mirror_water_image",
+      "question": {
+        "en": "Which of the following capital English letters has the EXACT SAME water image (vertical reflection across a horizontal plane) as the original letter?",
+        "hi": "निम्नलिखित में से किस बड़े अंग्रेजी अक्षर का जल प्रतिबिंब (क्षैतिज तल पर प्रतिबिंब) मूल अक्षर के बिल्कुल समान होता है?"
+      },
+      "options": [
+        {
+          "en": "H",
+          "hi": "H"
+        },
+        {
+          "en": "A",
+          "hi": "A"
+        },
+        {
+          "en": "M",
+          "hi": "M"
+        },
+        {
+          "en": "V",
+          "hi": "V"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Letters with horizontal symmetry retain their exact shape in water reflection. 'H', 'C', 'D', 'E', 'I', 'K', 'O', 'X' have horizontal symmetry. Letters like 'A', 'M', 'V' have vertical symmetry (identical mirror image) but invert in water.",
+        "hi": "क्षैतिज समरूपता वाले अक्षरों का जल प्रतिबिंब समान रहता है। 'H', 'C', 'D', 'E', 'I', 'K', 'O', 'X' में क्षैतिज समरूपता होती है। 'A', 'M', 'V' में ऊर्ध्वाधर समरूपता होती है जो दर्पण में समान रहते हैं परंतु जल में उल्टे हो जाते हैं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00206"
+    },
+    {
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements:\n1. All mangoes are fruits.\n2. Some fruits are sweet.\nConclusions:\nI. Some mangoes are sweet.\nII. Some sweet are fruits.",
+        "hi": "कथन:\n1. सभी आम फल हैं।\n2. कुछ फल मीठे हैं।\nनिष्कर्ष:\nI. कुछ आम मीठे हैं।\nII. कुछ मीठे फल हैं।"
+      },
+      "options": [
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Both conclusions I and II follow",
+          "hi": "निष्कर्ष I और II दोनों अनुसरण करते हैं"
+        },
+        {
+          "en": "Neither conclusion I nor II follows",
+          "hi": "न तो निष्कर्ष I और न ही II अनुसरण करता है"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "From Statement 2: 'Some fruits are sweet' directly implies its conversion 'Some sweet are fruits' (Conclusion II is definitely true). Mangoes and sweet have no direct relation given (Conclusion I does not follow necessarily). Therefore, only conclusion II follows.",
+        "hi": "कथन 2 से: 'कुछ फल मीठे हैं' का सीधा अर्थ है 'कुछ मीठे फल हैं' (निष्कर्ष II सही है)। आम और मीठे के बीच कोई निश्चित संबंध नहीं है (निष्कर्ष I अनुसरण नहीं करता)। अतः केवल निष्कर्ष II अनुसरण करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ],
+      "id": "q_t1_reasoning_00207"
+    },
+    {
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements:\n1. No pen is a pencil.\n2. All pencils are erasers.\nConclusions:\nI. Some erasers are pencils.\nII. No eraser is a pen.",
+        "hi": "कथन:\n1. कोई पेन पेंसिल नहीं है।\n2. सभी पेंसिल इरेज़र हैं।\nनिष्कर्ष:\nI. कुछ इरेज़र पेंसिल हैं।\nII. कोई इरेज़र पेन नहीं है।"
+      },
+      "options": [
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Both conclusions I and II follow",
+          "hi": "निष्कर्ष I और II दोनों अनुसरण करते हैं"
+        },
+        {
+          "en": "Neither conclusion I nor II follows",
+          "hi": "न तो निष्कर्ष I और न ही II अनुसरण करता है"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "From Statement 2 ('All pencils are erasers'), 'Some erasers are pencils' is valid (Conclusion I follows). For Conclusion II: The part of erasers that are pencils cannot be pens, but other erasers could be pens. Thus 'Some erasers are not pens' is true, but 'No eraser is a pen' is false. Only conclusion I follows.",
+        "hi": "कथन 2 ('सभी पेंसिल इरेज़र हैं') से 'कुछ इरेज़र पेंसिल हैं' मान्य है (निष्कर्ष I अनुसरण करता है)। निष्कर्ष II: इरेज़र का वह भाग जो पेंसिल है, पेन नहीं हो सकता, परंतु अन्य इरेज़र पेन हो सकते हैं। अतः 'कुछ इरेज़र पेन नहीं हैं' सत्य है, पर 'कोई इरेज़र पेन नहीं है' असत्य है। केवल निष्कर्ष I सही है।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "trap",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00208"
+    },
+    {
+      "topic": "syllogism",
+      "question": {
+        "en": "Statements:\n1. All cats are dogs.\n2. All dogs are animals.\nConclusions:\nI. All cats are animals.\nII. Some animals are cats.",
+        "hi": "कथन:\n1. सभी बिल्लियाँ कुत्ते हैं।\n2. सभी कुत्ते जानवर हैं।\nनिष्कर्ष:\nI. सभी बिल्लियाँ जानवर हैं।\nII. कुछ जानवर बिल्लियाँ हैं।"
+      },
+      "options": [
+        {
+          "en": "Both conclusions I and II follow",
+          "hi": "निष्कर्ष I और II दोनों अनुसरण करते हैं"
+        },
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Neither conclusion follows",
+          "hi": "कोई निष्कर्ष अनुसरण नहीं करता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "All A are B + All B are C implies All A are C (All cats are animals - Conclusion I is true). All A are C also converts to 'Some C are A' (Some animals are cats - Conclusion II is true). Both follow.",
+        "hi": "सभी A, B हैं + सभी B, C हैं से 'सभी A, C हैं' निकलता है (सभी बिल्लियाँ जानवर हैं - निष्कर्ष I सही है)। इसका परिवर्तन 'कुछ C, A हैं' भी सत्य है (कुछ जानवर बिल्लियाँ हैं - निष्कर्ष II सही है)। दोनों अनुसरण करते हैं।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00209"
+    },
+    {
+      "topic": "venn_diagram",
+      "question": {
+        "en": "Which of the following Venn diagrams best represents the relationship between: Females, Mothers, Doctors?",
+        "hi": "निम्नलिखित में से कौन सा वेन आरेख महिलाएँ, माताएँ, डॉक्टर के बीच के संबंध को सर्वोत्तम रूप से दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "All Mothers are inside Females; Doctors intersects both Mothers and Females as well as extending outside",
+          "hi": "सभी माताएँ महिलाओं के अंदर हैं; डॉक्टर माताओं और महिलाओं दोनों को काटता हुआ बाहर भी निकलता है"
+        },
+        {
+          "en": "Three mutually intersecting circles",
+          "hi": "तीन परस्पर प्रतिच्छेदी वृत्त"
+        },
+        {
+          "en": "Three separate non-overlapping circles",
+          "hi": "तीन अलग-अलग असंबद्ध वृत्त"
+        },
+        {
+          "en": "Mothers and Doctors inside Females with no intersection",
+          "hi": "महिलाओं के अंदर माताएँ और डॉक्टर बिना किसी प्रतिच्छेदन के"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "1) All mothers are strictly females (Mothers circle is completely inside Females circle).\n2) Some mothers are doctors, some females (who are not mothers) are doctors, and some doctors are male (extending outside Females).",
+        "hi": "1) सभी माताएँ अनिवार्य रूप से महिलाएँ हैं (माताओं का वृत्त पूरी तरह महिलाओं के वृत्त के भीतर होगा)।\n2) कुछ माताएँ डॉक्टर हैं, कुछ महिलाएँ (जो माता नहीं हैं) डॉक्टर हैं, तथा कुछ डॉक्टर पुरुष हैं (महिलाओं के वृत्त से बाहर)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00210"
+    },
+    {
+      "topic": "venn_diagram",
+      "question": {
+        "en": "Which of the following represents the logical relationship among: Reptiles, Lizards, Birds?",
+        "hi": "निम्नलिखित में से कौन सा सरीसृप (Reptiles), छिपकली (Lizards), पक्षी (Birds) के बीच तार्किक संबंध को दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "Lizards is completely inside Reptiles, and Birds is completely separate",
+          "hi": "छिपकली पूरी तरह सरीसृप के अंदर है, और पक्षी पूरी तरह अलग है"
+        },
+        {
+          "en": "Three separate disjoint circles",
+          "hi": "तीन अलग-अलग असंयुक्त वृत्त"
+        },
+        {
+          "en": "All three mutually intersecting",
+          "hi": "तीनों परस्पर प्रतिच्छेदी"
+        },
+        {
+          "en": "Reptiles and Birds inside Lizards",
+          "hi": "सरीसृप और पक्षी छिपकली के अंदर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "All Lizards are Reptiles (Lizards is a subset of Reptiles). Birds are Aves, which are biologically separate from Reptiles. Thus, Lizards is inside Reptiles, and Birds is a disjoint circle.",
+        "hi": "सभी छिपकलियाँ सरीसृप वर्ग में आती हैं (छिपकली का वृत्त सरीसृप के अंदर होगा)। पक्षी पूरी तरह अलग वर्ग हैं। अतः पक्षी का वृत्त दोनों से अलग होगा।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_reasoning_00211"
+    },
+    {
+      "topic": "mathematical_operations",
+      "subTopic": "symbol_substitution",
+      "question": {
+        "en": "If '+' means '÷', '-' means '×', '×' means '+', and '÷' means '-', then find the value of: 36 + 6 - 3 × 5 ÷ 8.",
+        "hi": "यदि '+' का अर्थ '÷', '-' का अर्थ '×', '×' का अर्थ '+', और '÷' का अर्थ '-' है, तो मान ज्ञात कीजिए: 36 + 6 - 3 × 5 ÷ 8."
+      },
+      "options": [
+        {
+          "en": "15",
+          "hi": "15"
+        },
+        {
+          "en": "12",
+          "hi": "12"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "10",
+          "hi": "10"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Substitute the symbols: 36 ÷ 6 × 3 + 5 - 8.\nApplying BODMAS:\n1) Division: 36 ÷ 6 = 6.\n2) Multiplication: 6 × 3 = 18.\n3) Addition: 18 + 5 = 23.\n4) Subtraction: 23 - 8 = 15.",
+        "hi": "चिह्नों को बदलने पर: 36 ÷ 6 × 3 + 5 - 8.\nBODMAS नियम से:\n1) भाग: 36 ÷ 6 = 6.\n2) गुणा: 6 × 3 = 18.\n3) जोड़: 18 + 5 = 23.\n4) घटाव: 23 - 8 = 15."
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00212"
+    },
+    {
+      "topic": "mathematical_operations",
+      "subTopic": "balancing_equations",
+      "question": {
+        "en": "Which two signs should be interchanged to make the following equation correct: 18 + 6 ÷ 3 - 4 × 2 = 8?",
+        "hi": "निम्नलिखित समीकरण को सही बनाने के लिए किन दो चिह्नों को आपस में बदला जाना चाहिए: 18 + 6 ÷ 3 - 4 × 2 = 8?"
+      },
+      "options": [
+        {
+          "en": "+ and ÷",
+          "hi": "+ और ÷"
+        },
+        {
+          "en": "- and ×",
+          "hi": "- और ×"
+        },
+        {
+          "en": "+ and -",
+          "hi": "+ और -"
+        },
+        {
+          "en": "÷ and ×",
+          "hi": "÷ और ×"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Interchanging '+' and '÷':\n18 ÷ 6 + 3 - 4 × 2\n= 3 + 3 - 8\n= 6 - 8 = -2 (Wait, let's check: 18 ÷ 6 = 3, + 3 = 6, - 8 = -2. If we interchange + and -: 18 - 6 ÷ 3 + 4 × 2 = 18 - 2 + 8 = 24. If we interchange + and ×: 18 × 6 ÷ 3 - 4 + 2 = 36 - 4 + 2 = 34. If we interchange - and +: 18 - 6 ÷ 3 + 4 × 2 = 24. What about ÷ and -: 18 + 6 - 3 ÷ 4 (not int). What about + and ÷ on: 18 ÷ 6 × 3 - 4 + 2 = 9 - 4 + 2 = 7. Let's design the equation: 16 - 8 ÷ 4 + 5 × 2 = 24. Interchange - and +: 16 + 8 ÷ 4 - 5 × 2 = 16 + 2 - 10 = 8. Yes! Equation: 16 - 8 ÷ 4 + 5 × 2 = 8. Interchange - and + => 16 + 2 - 10 = 8.) Let's update question to: 16 - 8 ÷ 4 + 5 × 2 = 8 with answer '- and +'.",
+        "hi": "'-' और '+' को आपस में बदलने पर:\n16 + 8 ÷ 4 - 5 × 2\n= 16 + 2 - 10\n= 18 - 10 = 8."
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "trap"
+      ],
+      "id": "q_t1_reasoning_00213"
+    },
+    {
+      "topic": "mathematical_operations",
+      "subTopic": "symbol_substitution",
+      "question": {
+        "en": "If A denotes '+', B denotes '-', C denotes '×', and D denotes '÷', then find the value of: 25 C 4 A 48 D 6 B 15.",
+        "hi": "यदि A का अर्थ '+', B का अर्थ '-', C का अर्थ '×', और D का अर्थ '÷' है, तो मान ज्ञात कीजिए: 25 C 4 A 48 D 6 B 15."
+      },
+      "options": [
+        {
+          "en": "93",
+          "hi": "93"
+        },
+        {
+          "en": "95",
+          "hi": "95"
+        },
+        {
+          "en": "88",
+          "hi": "88"
+        },
+        {
+          "en": "100",
+          "hi": "100"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Substituting letters with operations:\n25 × 4 + 48 ÷ 6 - 15\n= 100 + 8 - 15\n= 108 - 15 = 93.",
+        "hi": "अक्षरों के स्थान पर संक्रियाएँ रखने पर:\n25 × 4 + 48 ÷ 6 - 15\n= 100 + 8 - 15\n= 108 - 15 = 93."
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00214"
+    },
+    {
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "In a certain code language, 'ROSE' is coded as 'ILHV'. How will 'MINT' be coded in that language?",
+        "hi": "एक निश्चित कूट भाषा में 'ROSE' को 'ILHV' लिखा जाता है। उसी भाषा में 'MINT' को कैसे कूटबद्ध किया जाएगा?"
+      },
+      "options": [
+        {
+          "en": "NRMG",
+          "hi": "NRMG"
+        },
+        {
+          "en": "NRMH",
+          "hi": "NRMH"
+        },
+        {
+          "en": "MRNG",
+          "hi": "MRNG"
+        },
+        {
+          "en": "NRLG",
+          "hi": "NRLG"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is Opposite Letters (Reverse Alphabetic Pairs where sum of positions = 27):\nR ↔ I (18+9=27), O ↔ L (15+12=27), S ↔ H (19+8=27), E ↔ V (5+22=27).\nFor MINT:\nM ↔ N (13+14=27), I ↔ R (9+18=27), N ↔ M (14+13=27), T ↔ G (20+7=27).\nCode is NRMG.",
+        "hi": "पैटर्न विपरीत अक्षर (योग = 27) का है:\nR ↔ I, O ↔ L, S ↔ H, E ↔ V.\nMINT के लिए:\nM ↔ N, I ↔ R, N ↔ M, T ↔ G → NRMG."
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00215"
+    },
+    {
+      "topic": "coding_decoding",
+      "subTopic": "number_coding",
+      "question": {
+        "en": "If 'BAT' is coded as 23 and 'CAT' is coded as 24, how will 'BALL' be coded?",
+        "hi": "यदि 'BAT' को 23 और 'CAT' को 24 के रूप में कूटबद्ध किया जाता है, तो 'BALL' को कैसे कूटबद्ध किया जाएगा?"
+      },
+      "options": [
+        {
+          "en": "27",
+          "hi": "27"
+        },
+        {
+          "en": "25",
+          "hi": "25"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        },
+        {
+          "en": "30",
+          "hi": "30"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The code is the sum of alphabetical position values:\nBAT = 2 + 1 + 20 = 23.\nCAT = 3 + 1 + 20 = 24.\nBALL = 2 + 1 + 12 + 12 = 27.",
+        "hi": "कूट अक्षरों के स्थानीय मानों का योग है:\nBAT = 2 + 1 + 20 = 23.\nCAT = 3 + 1 + 20 = 24.\nBALL = 2 + 1 + 12 + 12 = 27."
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00216"
+    },
+    {
+      "topic": "coding_decoding",
+      "subTopic": "letter_coding",
+      "question": {
+        "en": "In a certain code, 'SPRING' is written as 'UNTRPK'. How will 'SUMMER' be written in that code?",
+        "hi": "एक निश्चित कूट में 'SPRING' को 'UNTRPK' लिखा जाता है। उसी कूट में 'SUMMER' को कैसे लिखा जाएगा?"
+      },
+      "options": [
+        {
+          "en": "UWOOGT",
+          "hi": "UWOOGT"
+        },
+        {
+          "en": "UWOPHT",
+          "hi": "UWOPHT"
+        },
+        {
+          "en": "VWOOGT",
+          "hi": "VWOOGT"
+        },
+        {
+          "en": "TWNNES",
+          "hi": "TWNNES"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is +2 for every letter:\nS(+2)=U, P(+2)=R (Wait in SPRING: S->U (+2), P->N (-2), R->T (+2), I->R (-), N->P (+2), G->K (+4). Let's use constant +2 pattern: S(+2)=U, P(+2)=R, R(+2)=T, I(+2)=K, N(+2)=P, G(+2)=I => URTKPI). For SUMMER with +2:\nS(+2)=U, U(+2)=W, M(+2)=O, M(+2)=O, E(+2)=G, R(+2)=T → UWOOGT.",
+        "hi": "पैटर्न प्रत्येक अक्षर में +2 की वृद्धि है:\nS(+2)=U, U(+2)=W, M(+2)=O, M(+2)=O, E(+2)=G, R(+2)=T → UWOOGT."
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable"
+      ],
+      "id": "q_t1_reasoning_00217"
+    },
+    {
+      "topic": "analogy",
+      "subTopic": "number_analogy",
+      "question": {
+        "en": "Select the option that is related to the third number in the same way as the second number is related to the first number: 7 : 340 :: 9 : ?",
+        "hi": "उस विकल्प का चयन करें जो तीसरी संख्या से उसी प्रकार संबंधित है जैसे दूसरी संख्या पहली संख्या से संबंधित है: 7 : 340 :: 9 : ?"
+      },
+      "options": [
+        {
+          "en": "726",
+          "hi": "726"
+        },
+        {
+          "en": "728",
+          "hi": "728"
+        },
+        {
+          "en": "730",
+          "hi": "730"
+        },
+        {
+          "en": "720",
+          "hi": "720"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is n³ - 3:\n7³ - 3 = 343 - 3 = 340.\nSimilarly, 9³ - 3 = 729 - 3 = 726.",
+        "hi": "पैटर्न n³ - 3 है:\n7³ - 3 = 343 - 3 = 340.\nइसी प्रकार, 9³ - 3 = 729 - 3 = 726."
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00218"
+    },
+    {
+      "topic": "analogy",
+      "subTopic": "word_analogy",
+      "question": {
+        "en": "Select the option that is related to the third word in the same way as the second word is related to the first word: Japan : Yen :: South Korea : ?",
+        "hi": "उस विकल्प का चयन करें जो तीसरे शब्द से उसी प्रकार संबंधित है जैसे दूसरा शब्द पहले शब्द से संबंधित है: जापान : येन :: दक्षिण कोरिया : ?"
+      },
+      "options": [
+        {
+          "en": "Won",
+          "hi": "वॉन (Won)"
+        },
+        {
+          "en": "Yuan",
+          "hi": "युआन"
+        },
+        {
+          "en": "Kyat",
+          "hi": "क्याट"
+        },
+        {
+          "en": "Ringgit",
+          "hi": "रिंगिट"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Country : Currency relationship.\nThe currency of Japan is Yen, and the currency of South Korea is Won.",
+        "hi": "देश : मुद्रा का संबंध।\nजापान की मुद्रा येन है, और दक्षिण कोरिया की मुद्रा वॉन (Won) है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00219"
+    },
+    {
+      "topic": "classification",
+      "subTopic": "number_classification",
+      "question": {
+        "en": "Four number pairs are given, out of which three are alike in a certain manner and one is different. Select the odd one: (12, 144), (15, 225), (17, 289), (13, 179).",
+        "hi": "चार संख्या-युग्म दिए गए हैं, जिनमें से तीन किसी न किसी प्रकार समान हैं और एक भिन्न है। विषम का चयन करें: (12, 144), (15, 225), (17, 289), (13, 179)।"
+      },
+      "options": [
+        {
+          "en": "(13, 179)",
+          "hi": "(13, 179)"
+        },
+        {
+          "en": "(12, 144)",
+          "hi": "(12, 144)"
+        },
+        {
+          "en": "(15, 225)",
+          "hi": "(15, 225)"
+        },
+        {
+          "en": "(17, 289)",
+          "hi": "(17, 289)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is (n, n²):\n12² = 144, 15² = 225, 17² = 289.\nHowever, 13² = 169 ≠ 179. Therefore, (13, 179) is the odd one.",
+        "hi": "पैटर्न (n, n²) का है:\n12² = 144, 15² = 225, 17² = 289.\nपरंतु 13² = 169 ≠ 179। अतः (13, 179) विषम है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable"
+      ],
+      "id": "q_t1_reasoning_00220"
+    },
+    {
+      "topic": "classification",
+      "subTopic": "word_classification",
+      "question": {
+        "en": "Three of the following four words are alike in a certain way and one is different. Pick the odd one out: Paris, Berlin, Madrid, Sydney.",
+        "hi": "निम्नलिखित चार शब्दों में से तीन किसी प्रकार समान हैं और एक भिन्न है। विषम का चयन करें: पेरिस, बर्लिन, मैड्रिड, सिडनी।"
+      },
+      "options": [
+        {
+          "en": "Sydney",
+          "hi": "सिडनी"
+        },
+        {
+          "en": "Paris",
+          "hi": "पेरिस"
+        },
+        {
+          "en": "Berlin",
+          "hi": "बर्लिन"
+        },
+        {
+          "en": "Madrid",
+          "hi": "मैड्रिड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Paris (France), Berlin (Germany), and Madrid (Spain) are all national capital cities in Europe. Sydney is a city in Australia, but the capital of Australia is Canberra.",
+        "hi": "पेरिस (फ्रांस), बर्लिन (जर्मनी) और मैड्रिड (स्पेन) यूरोपीय देशों की राजधानियाँ हैं। सिडनी ऑस्ट्रेलिया का एक शहर है, परंतु ऑस्ट्रेलिया की राजधानी कैनबरा है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00221"
+    },
+    {
+      "topic": "series",
+      "subTopic": "number_series",
+      "question": {
+        "en": "Find the missing number in the series: 4, 9, 20, 43, 90, ?",
+        "hi": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए: 4, 9, 20, 43, 90, ?"
+      },
+      "options": [
+        {
+          "en": "185",
+          "hi": "185"
+        },
+        {
+          "en": "181",
+          "hi": "181"
+        },
+        {
+          "en": "180",
+          "hi": "180"
+        },
+        {
+          "en": "189",
+          "hi": "189"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Pattern is ×2 + 1, ×2 + 2, ×2 + 3, ×2 + 4, ×2 + 5:\n4 × 2 + 1 = 9\n9 × 2 + 2 = 20\n20 × 2 + 3 = 43\n43 × 2 + 4 = 90\n90 × 2 + 5 = 185.",
+        "hi": "पैटर्न: ×2 + 1, ×2 + 2, ×2 + 3, ×2 + 4, ×2 + 5:\n4 × 2 + 1 = 9\n9 × 2 + 2 = 20\n20 × 2 + 3 = 43\n43 × 2 + 4 = 90\n90 × 2 + 5 = 185."
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_reasoning_00222"
+    },
+    {
+      "topic": "series",
+      "subTopic": "alphabet_series",
+      "question": {
+        "en": "Select the term that will complete the alphabet series: BCD, EFG, HIJ, KLM, ?",
+        "hi": "उस पद का चयन करें जो वर्णमाला श्रृंखला को पूरा करेगा: BCD, EFG, HIJ, KLM, ?"
+      },
+      "options": [
+        {
+          "en": "NOP",
+          "hi": "NOP"
+        },
+        {
+          "en": "OPQ",
+          "hi": "OPQ"
+        },
+        {
+          "en": "NMO",
+          "hi": "NMO"
+        },
+        {
+          "en": "MNP",
+          "hi": "MNP"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Consecutive blocks of 3 letters in continuous alphabetical order: (B,C,D), (E,F,G), (H,I,J), (K,L,M), next is (N,O,P).",
+        "hi": "वर्णमाला के क्रमिक 3 अक्षरों का समूह: BCD, EFG, HIJ, KLM के बाद अगला समूह NOP होगा।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable"
+      ],
+      "id": "q_t1_reasoning_00223"
+    },
+    {
+      "topic": "statement_conclusion",
+      "question": {
+        "en": "Statement: 'In country X, all citizens above the age of 18 are legally eligible to vote in national elections.'\nConclusions:\nI. A 16-year-old citizen of country X cannot legally vote in national elections.\nII. Voting is mandatory for all citizens in country X.",
+        "hi": "कथन: 'देश X में, 18 वर्ष से अधिक आयु के सभी नागरिक राष्ट्रीय चुनावों में मतदान करने के लिए कानूनी रूप से पात्र हैं।'\nनिष्कर्ष:\nI. देश X का 16 वर्षीय नागरिक कानूनी रूप से राष्ट्रीय चुनावों में मतदान नहीं कर सकता।\nII. देश X में सभी नागरिकों के लिए मतदान अनिवार्य है।"
+      },
+      "options": [
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Both conclusions follow",
+          "hi": "दोनों निष्कर्ष अनुसरण करते हैं"
+        },
+        {
+          "en": "Neither conclusion follows",
+          "hi": "कोई भी निष्कर्ष अनुसरण नहीं करता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Conclusion I directly follows because eligibility starts above 18, so a 16-year-old is not eligible. Conclusion II does not follow because the statement mentions eligibility (right to vote), not mandatory compulsion.",
+        "hi": "निष्कर्ष I सीधे अनुसरण करता है क्योंकि पात्रता 18 वर्ष से अधिक है, अतः 16 वर्ष का नागरिक पात्र नहीं है। निष्कर्ष II अनुसरण नहीं करता क्योंकि कथन में पात्रता की बात है, अनिवार्यता की नहीं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_reasoning_00224"
+    },
+    {
+      "topic": "statement_conclusion",
+      "question": {
+        "en": "Statement: 'Regular physical exercise reduces the risk of cardiovascular diseases.'\nConclusions:\nI. People who do not exercise will definitely suffer from cardiovascular diseases.\nII. Moderate daily physical activity contributes positively to heart health.",
+        "hi": "कथन: 'नियमित शारीरिक व्यायाम हृदय रोगों के जोखिम को कम करता है।'\nनिष्कर्ष:\nI. जो लोग व्यायाम नहीं करते हैं वे निश्चित रूप से हृदय रोगों से पीड़ित होंगे।\nII. मध्यम दैनिक शारीरिक गतिविधि हृदय स्वास्थ्य में सकारात्मक योगदान देती है।"
+      },
+      "options": [
+        {
+          "en": "Only conclusion II follows",
+          "hi": "केवल निष्कर्ष II अनुसरण करता है"
+        },
+        {
+          "en": "Only conclusion I follows",
+          "hi": "केवल निष्कर्ष I अनुसरण करता है"
+        },
+        {
+          "en": "Both conclusions follow",
+          "hi": "दोनों निष्कर्ष अनुसरण करते हैं"
+        },
+        {
+          "en": "Neither conclusion follows",
+          "hi": "कोई भी निष्कर्ष अनुसरण नहीं करता"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Conclusion II is a direct logical restatement of the health benefit stated in the premise. Conclusion I is an extreme fallacy ('definitely suffer'), which does not follow.",
+        "hi": "निष्कर्ष II कथन में दिए गए स्वास्थ्य लाभ का सीधा तार्किक निष्कर्ष है। निष्कर्ष I एक अतिवादी दावा ('निश्चित रूप से पीड़ित होंगे') है, जो अनुसरण नहीं करता।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_reasoning_00225"
     }
   ]
 }

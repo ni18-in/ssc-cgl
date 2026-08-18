@@ -7376,6 +7376,941 @@
       "tags": [
         "frequently_asked"
       ]
+    },
+    {
+      "topic": "reading_comprehension",
+      "question": {
+        "en": "Read the passage carefully and answer the question:\n'The global transition towards renewable energy is no longer merely an ecological imperative; it is rapidly becoming an economic catalyst. As the costs of solar photovoltaic cells and wind turbines plummet due to technological advancements and economies of scale, clean energy sources are frequently outcompeting fossil fuels on pure unit economics. Countries that invest heavily in renewable infrastructure and energy storage solutions are poised not only to decarbonise their economies but also to generate millions of high-skilled jobs in green technology manufacturing, installation, and grid management.'\n\nWhat is the central theme of the passage?",
+        "hi": "गद्यांश को ध्यानपूर्वक पढ़ें और प्रश्न का उत्तर दें:\n'The global transition towards renewable energy is no longer merely an ecological imperative; it is rapidly becoming an economic catalyst...'\n\nगद्यांश का मुख्य विषय क्या है?"
+      },
+      "options": [
+        {
+          "en": "Renewable energy transition acts as both an environmental necessity and an economic growth driver",
+          "hi": "नवीकरणीय ऊर्जा परिवर्तन एक पर्यावरणीय आवश्यकता और आर्थिक विकास चालक दोनों के रूप में कार्य करता है"
+        },
+        {
+          "en": "Fossil fuels are entirely exhausted across the globe",
+          "hi": "दुनिया भर में जीवाश्म ईंधन पूरी तरह समाप्त हो चुके हैं"
+        },
+        {
+          "en": "Green technology generates high pollution during manufacturing",
+          "hi": "हरित प्रौद्योगिकी निर्माण के दौरान उच्च प्रदूषण उत्पन्न करती है"
+        },
+        {
+          "en": "Solar and wind energy are financially unviable for developing nations",
+          "hi": "विकासशील देशों के लिए सौर और पवन ऊर्जा आर्थिक रूप से अव्यवहारिक है"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The passage explicitly highlights that clean energy transition is 'no longer merely an ecological imperative; it is rapidly becoming an economic catalyst' and explains how it drives cost reduction, competitiveness, and job creation.",
+        "hi": "गद्यांश में स्पष्ट किया गया है कि स्वच्छ ऊर्जा परिवर्तन केवल एक पर्यावरणीय आवश्यकता नहीं है, बल्कि आर्थिक चालक (उत्प्रेरक) भी है जो रोजगार और लागत में कमी लाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ],
+      "id": "q_t1_english_00201"
+    },
+    {
+      "topic": "reading_comprehension",
+      "question": {
+        "en": "Based on the passage on renewable energy, why are clean energy sources frequently outcompeting fossil fuels in recent times?",
+        "hi": "नवीकरणीय ऊर्जा पर दिए गए गद्यांश के अनुसार, स्वच्छ ऊर्जा स्रोत हाल के दिनों में जीवाश्म ईंधनों से बेहतर प्रदर्शन क्यों कर रहे हैं?"
+      },
+      "options": [
+        {
+          "en": "Because technological advancements and economies of scale have caused their costs to plummet",
+          "hi": "क्योंकि तकनीकी प्रगति और बड़े पैमाने के उत्पादन से उनकी लागत में भारी गिरावट आई है"
+        },
+        {
+          "en": "Because governments have completely banned coal power worldwide",
+          "hi": "क्योंकि दुनिया भर की सरकारों ने कोयला ऊर्जा पर पूर्ण प्रतिबंध लगा दिया है"
+        },
+        {
+          "en": "Because fossil fuels require zero maintenance",
+          "hi": "क्योंकि जीवाश्म ईंधन में शून्य रखरखाव की आवश्यकता होती है"
+        },
+        {
+          "en": "Because renewable energy requires no grid infrastructure",
+          "hi": "क्योंकि नवीकरणीय ऊर्जा के लिए ग्रिड की कोई आवश्यकता नहीं होती"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The passage clearly states: 'As the costs of solar photovoltaic cells and wind turbines plummet due to technological advancements and economies of scale, clean energy sources are frequently outcompeting fossil fuels on pure unit economics.'",
+        "hi": "गद्यांश में उल्लिखित है कि तकनीकी प्रगति और पैमाने की मितव्ययिता (economies of scale) के कारण सौर एवं पवन उपकरणों की लागत में भारी कमी आई है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00202"
+    },
+    {
+      "topic": "reading_comprehension",
+      "question": {
+        "en": "According to the passage, what additional major economic benefit is achieved by nations investing in green infrastructure?",
+        "hi": "गद्यांश के अनुसार, हरित अवसंरचना में निवेश करने वाले देशों को कौन सा अतिरिक्त प्रमुख आर्थिक लाभ प्राप्त होता है?"
+      },
+      "options": [
+        {
+          "en": "Generation of millions of high-skilled jobs in green technology manufacturing and grid management",
+          "hi": "हरित प्रौद्योगिकी निर्माण और ग्रिड प्रबंधन में लाखों उच्च-कुशल नौकरियों का सृजन"
+        },
+        {
+          "en": "Immediate elimination of all domestic taxes",
+          "hi": "सभी घरेलू करों का तत्काल उन्मूलन"
+        },
+        {
+          "en": "Total cessation of industrial electricity demand",
+          "hi": "औद्योगिक बिजली की मांग का पूर्ण रूप से बंद होना"
+        },
+        {
+          "en": "Free distribution of electrical appliances worldwide",
+          "hi": "दुनिया भर में बिजली के उपकरणों का मुफ्त वितरण"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The text states that investing nations will 'generate millions of high-skilled jobs in green technology manufacturing, installation, and grid management.'",
+        "hi": "गद्यांश में कहा गया है कि निवेश करने वाले राष्ट्र हरित प्रौद्योगिकी विनिर्माण, स्थापना और ग्रिड प्रबंधन में लाखों उच्च-कुशल रोजगार सृजित करेंगे।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00203"
+    },
+    {
+      "topic": "reading_comprehension",
+      "question": {
+        "en": "In the context of the passage, select the word that is most nearly SIMILAR in meaning to 'plummet':",
+        "hi": "गद्यांश के संदर्भ में, 'plummet' शब्द का सर्वाधिक निकटतम समानार्थी शब्द चुनें:"
+      },
+      "options": [
+        {
+          "en": "Plunge / Fall sharply",
+          "hi": "Plunge / Fall sharply (तेजी से गिरना)"
+        },
+        {
+          "en": "Soar / Rise dramatically",
+          "hi": "Soar / Rise dramatically (उछलना)"
+        },
+        {
+          "en": "Fluctuate gently",
+          "hi": "Fluctuate gently (उतार-चढ़ाव होना)"
+        },
+        {
+          "en": "Stagnate completely",
+          "hi": "Stagnate completely (स्थिर होना)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Plummet' means to fall or drop straight down at high speed (plunge, dive, drop rapidly).",
+        "hi": "'Plummet' का अर्थ तेजी से नीचे गिरना या घटना होता है (Plunge/Drop rapidly)।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00204"
+    },
+    {
+      "topic": "reading_comprehension",
+      "question": {
+        "en": "What is the tone and attitude of the author in the passage towards the renewable energy sector?",
+        "hi": "नवीकरणीय ऊर्जा क्षेत्र के प्रति गद्यांश में लेखक का लहजा (tone) और दृष्टिकोण कैसा है?"
+      },
+      "options": [
+        {
+          "en": "Optimistic and forward-looking",
+          "hi": "आशावादी और भविष्योन्मुखी (Optimistic and forward-looking)"
+        },
+        {
+          "en": "Cynical and dismissive",
+          "hi": "निंदक और उपेक्षापूर्ण"
+        },
+        {
+          "en": "Aggressively critical",
+          "hi": "आक्रामक रूप से आलोचनात्मक"
+        },
+        {
+          "en": "Nostalgic and regretful",
+          "hi": "उदासीन और पछतावे भरा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The author presents evidence-based constructive points emphasizing economic advantages, job creation, and decarbonisation, indicating an optimistic and forward-looking analytical tone.",
+        "hi": "लेखक आर्थिक लाभ, रोजगार सृजन और डीकार्बोनाइजेशन पर जोर देते हुए सकारात्मक और आशावादी दृष्टिकोण प्रस्तुत करता है।"
+      },
+      "difficulty": "medium",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_english_00205"
+    },
+    {
+      "topic": "cloze_test",
+      "question": {
+        "en": "Select the most appropriate option to fill in blank (1) in the passage: 'Digital literacy has become an essential (1) [______] for modern civic participation and employment.'",
+        "hi": "रिक्त स्थान (1) की पूर्ति के लिए सर्वाधिक उपयुक्त विकल्प का चयन करें: 'Digital literacy has become an essential (1) [______] for modern civic participation and employment.'"
+      },
+      "options": [
+        {
+          "en": "prerequisite",
+          "hi": "prerequisite (अनिवार्य शर्त)"
+        },
+        {
+          "en": "hindrance",
+          "hi": "hindrance (बाधा)"
+        },
+        {
+          "en": "deterrent",
+          "hi": "deterrent (निवारक)"
+        },
+        {
+          "en": "impediment",
+          "hi": "impediment (अड़चन)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "A 'prerequisite' is a thing that is required as a prior condition for something else to happen or exist. Digital literacy is a necessary prerequisite for civic participation.",
+        "hi": "'Prerequisite' का अर्थ 'अनिवार्य पूर्व शर्त' होता है, जो संदर्भ के अनुसार सबसे उपयुक्त है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00206"
+    },
+    {
+      "topic": "cloze_test",
+      "question": {
+        "en": "Select the most appropriate option to fill in blank (2): 'Governments across the developing world are striving to (2) [______] the digital divide through public Wi-Fi and affordable devices.'",
+        "hi": "रिक्त स्थान (2) की पूर्ति के लिए सर्वाधिक उपयुक्त विकल्प का चयन करें: 'Governments across the developing world are striving to (2) [______] the digital divide through public Wi-Fi and affordable devices.'"
+      },
+      "options": [
+        {
+          "en": "bridge",
+          "hi": "bridge (पाटना / कम करना)"
+        },
+        {
+          "en": "widen",
+          "hi": "widen (चौड़ा करना)"
+        },
+        {
+          "en": "deepen",
+          "hi": "deepen (गहरा करना)"
+        },
+        {
+          "en": "prolong",
+          "hi": "prolong (लंबा खींचना)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The standard colocation is 'to bridge the divide', meaning to reduce or eliminate a gap between two groups.",
+        "hi": "मानक अंग्रेजी मुहावरा 'to bridge the divide' (अंतर को पाटना / कम करना) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00207"
+    },
+    {
+      "topic": "cloze_test",
+      "question": {
+        "en": "Select the most appropriate option to fill in blank (3): 'Equipping youth with coding skills enables them to secure (3) [______] employment in the expanding IT sector.'",
+        "hi": "रिक्त स्थान (3) की पूर्ति के लिए सर्वाधिक उपयुक्त विकल्प का चयन करें: 'Equipping youth with coding skills enables them to secure (3) [______] employment in the expanding IT sector.'"
+      },
+      "options": [
+        {
+          "en": "lucrative",
+          "hi": "lucrative (लाभप्रद / अच्छा वेतन देने वाला)"
+        },
+        {
+          "en": "perilous",
+          "hi": "perilous (जोखिम भरा)"
+        },
+        {
+          "en": "futile",
+          "hi": "futile (व्यर्थ)"
+        },
+        {
+          "en": "meagre",
+          "hi": "meagre (अल्प)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Lucrative' means producing a great deal of profit or rewarding income, which fits the context of employment in the IT sector.",
+        "hi": "'Lucrative' का अर्थ लाभदायक या अच्छा वेतन देने वाला होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00208"
+    },
+    {
+      "topic": "cloze_test",
+      "question": {
+        "en": "Select the most appropriate option to fill in blank (4): 'Therefore, comprehensive educational reforms must be implemented without any (4) [______].'",
+        "hi": "रिक्त स्थान (4) की पूर्ति के लिए सर्वाधिक उपयुक्त विकल्प का चयन करें: 'Therefore, comprehensive educational reforms must be implemented without any (4) [______].'"
+      },
+      "options": [
+        {
+          "en": "delay",
+          "hi": "delay (देरी / विलंब)"
+        },
+        {
+          "en": "celerity",
+          "hi": "celerity (शीघ्रता)"
+        },
+        {
+          "en": "promptness",
+          "hi": "promptness (तत्परता)"
+        },
+        {
+          "en": "alacrity",
+          "hi": "alacrity (उत्साह)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Without any delay' is the idiomatic phrase expressing urgency for implementing reforms.",
+        "hi": "'Without any delay' (बिना किसी देरी के) एक मानक मुहावरेदार वाक्यांश है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00209"
+    },
+    {
+      "topic": "error_spotting",
+      "question": {
+        "en": "Select the segment of the sentence that contains a grammatical error: 'No sooner did the bell ring / when the excited students / rushed out of the classroom / to the playground.'",
+        "hi": "वाक्य के उस भाग का चयन करें जिसमें व्याकरण संबंधी त्रुटि है: 'No sooner did the bell ring / when the excited students / rushed out of the classroom / to the playground.'"
+      },
+      "options": [
+        {
+          "en": "when the excited students",
+          "hi": "when the excited students"
+        },
+        {
+          "en": "No sooner did the bell ring",
+          "hi": "No sooner did the bell ring"
+        },
+        {
+          "en": "rushed out of the classroom",
+          "hi": "rushed out of the classroom"
+        },
+        {
+          "en": "to the playground",
+          "hi": "to the playground"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rule of Correlative Conjunctions: 'No sooner' is always paired with 'than', not 'when'. ('Scarcely/Hardly' is paired with 'when'). Correct phrase is: 'No sooner did the bell ring than the excited students...'",
+        "hi": "नियम: 'No sooner' के साथ हमेशा 'than' का प्रयोग होता है, 'when' का नहीं। 'Hardly/Scarcely' के साथ 'when' का प्रयोग होता है। अतः 'when' के स्थान पर 'than' आएगा।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ],
+      "id": "q_t1_english_00210"
+    },
+    {
+      "topic": "error_spotting",
+      "question": {
+        "en": "Find the part of the sentence containing an error: 'The quality of these freshly harvested apples are much better than that of the imported ones.'",
+        "hi": "वाक्य के उस भाग को पहचानें जिसमें त्रुटि है: 'The quality of these freshly harvested apples are much better than that of the imported ones.'"
+      },
+      "options": [
+        {
+          "en": "are much better",
+          "hi": "are much better"
+        },
+        {
+          "en": "The quality of these",
+          "hi": "The quality of these"
+        },
+        {
+          "en": "freshly harvested apples",
+          "hi": "freshly harvested apples"
+        },
+        {
+          "en": "than that of the imported ones",
+          "hi": "than that of the imported ones"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Subject-Verb Agreement: The real subject of the sentence is the singular noun 'The quality', not the plural prepositional object 'apples'. Therefore, the singular verb 'is' must be used instead of 'are'.",
+        "hi": "कर्ता-क्रिया सामंजस्य: वाक्य का मुख्य कर्ता एकवचन 'The quality' है, न कि 'apples'। अतः एकवचन क्रिया 'is' का प्रयोग होगा।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ],
+      "id": "q_t1_english_00211"
+    },
+    {
+      "topic": "error_spotting",
+      "question": {
+        "en": "Identify the segment containing a grammatical error: 'Had you informed me earlier, I would help you resolve the financial crisis.'",
+        "hi": "व्याकरणिक त्रुटि वाले भाग की पहचान करें: 'Had you informed me earlier, I would help you resolve the financial crisis.'"
+      },
+      "options": [
+        {
+          "en": "I would help you",
+          "hi": "I would help you"
+        },
+        {
+          "en": "Had you informed me earlier",
+          "hi": "Had you informed me earlier"
+        },
+        {
+          "en": "resolve the financial crisis",
+          "hi": "resolve the financial crisis"
+        },
+        {
+          "en": "No error",
+          "hi": "No error"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Third Conditional Rule: In past unreal conditions ('Had + Subject + V3'), the main clause must use 'would have + V3'. Correct form is: 'I would have helped you'.",
+        "hi": "तृतीय शर्त नियम (Third Conditional): 'Had + Subject + V3' के साथ मुख्य उपवाक्य में 'would have + V3' का प्रयोग होता है। अतः 'would have helped' सही रूप है।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "formula_based"
+      ],
+      "id": "q_t1_english_00212"
+    },
+    {
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Select the most appropriate option to substitute the underlined segment: 'She is one of the brightest students who has ever studied in this college.'",
+        "hi": "रेखांकित भाग को प्रतिस्थापित करने के लिए सबसे उपयुक्त विकल्प का चयन करें: 'She is one of the brightest students who has ever studied in this college.'"
+      },
+      "options": [
+        {
+          "en": "who have ever studied",
+          "hi": "who have ever studied"
+        },
+        {
+          "en": "whom has ever studied",
+          "hi": "whom has ever studied"
+        },
+        {
+          "en": "which has ever studied",
+          "hi": "which has ever studied"
+        },
+        {
+          "en": "No improvement required",
+          "hi": "No improvement required"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Relative Pronoun Agreement: In the structure 'one of the + plural noun + relative pronoun (who/which/that)', the verb agrees with the plural antecedent ('students'). Hence, plural 'have ever studied' is correct.",
+        "hi": "'One of the + बहुवचन संज्ञा + who/which/that' की संरचना में क्रिया पूर्ववर्ती बहुवचन संज्ञा ('students') के अनुसार बहुवचन ('have') होती है।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ],
+      "id": "q_t1_english_00213"
+    },
+    {
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Select the correct option to improve the bracketed part: 'Between tea and coffee, my brother [prefers tea than] coffee.'",
+        "hi": "कोष्ठक वाले भाग को सुधारने के लिए सही विकल्प चुनें: 'Between tea and coffee, my brother [prefers tea than] coffee.'"
+      },
+      "options": [
+        {
+          "en": "prefers tea to",
+          "hi": "prefers tea to"
+        },
+        {
+          "en": "prefer tea over",
+          "hi": "prefer tea over"
+        },
+        {
+          "en": "prefers tea from",
+          "hi": "prefers tea from"
+        },
+        {
+          "en": "No improvement",
+          "hi": "No improvement"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The verb 'prefer' takes the preposition 'to' when comparing two choices (e.g. 'prefer X to Y'), never 'than'.",
+        "hi": "तुलना करते समय 'prefer' के साथ हमेशा 'to' का प्रयोग किया जाता है, 'than' का नहीं।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00214"
+    },
+    {
+      "topic": "sentence_improvement",
+      "question": {
+        "en": "Improve the bracketed segment: 'The train had departed [before we reached] the railway station.'",
+        "hi": "कोष्ठक वाले भाग में सुधार करें: 'The train had departed [before we reached] the railway station.'"
+      },
+      "options": [
+        {
+          "en": "No improvement required",
+          "hi": "No improvement required"
+        },
+        {
+          "en": "before we had reached",
+          "hi": "before we had reached"
+        },
+        {
+          "en": "after we reached",
+          "hi": "after we reached"
+        },
+        {
+          "en": "before we reach",
+          "hi": "before we reach"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Past Perfect + Past Simple: When two actions occurred in the past, the earlier action takes Past Perfect ('had departed') and the subsequent action takes Simple Past ('reached'). The original sentence is already grammatically correct.",
+        "hi": "भूतकाल में दो क्रियाओं के होने पर पहली क्रिया Past Perfect ('had departed') और बाद वाली क्रिया Simple Past ('reached') में होती है। अतः कोई सुधार आवश्यक नहीं है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "conceptual"
+      ],
+      "id": "q_t1_english_00215"
+    },
+    {
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the most appropriate preposition to fill in the blank: 'Every responsible citizen is expected to abide [______] the laws of the land.'",
+        "hi": "रिक्त स्थान की पूर्ति के लिए सबसे उपयुक्त पूर्वसर्ग (Preposition) चुनें: 'Every responsible citizen is expected to abide [______] the laws of the land.'"
+      },
+      "options": [
+        {
+          "en": "by",
+          "hi": "by"
+        },
+        {
+          "en": "with",
+          "hi": "with"
+        },
+        {
+          "en": "to",
+          "hi": "to"
+        },
+        {
+          "en": "for",
+          "hi": "for"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The fixed phrasal verb is 'abide by', which means to accept, obey, or conform to a rule or decision.",
+        "hi": "नियम या कानून का पालन करने के अर्थ में 'abide by' का प्रयोग निश्चित रूप से किया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00216"
+    },
+    {
+      "topic": "fill_in_the_blanks",
+      "question": {
+        "en": "Select the appropriate phrasal verb to fill in the blank: 'Due to torrential rains and flooding, the organizers decided to [______] the annual marathon.'",
+        "hi": "रिक्त स्थान की पूर्ति के लिए उपयुक्त phrasal verb चुनें: 'Due to torrential rains and flooding, the organizers decided to [______] the annual marathon.'"
+      },
+      "options": [
+        {
+          "en": "call off",
+          "hi": "call off (रद्द करना)"
+        },
+        {
+          "en": "call on",
+          "hi": "call on (भेंट करना)"
+        },
+        {
+          "en": "call out",
+          "hi": "call out (पुकारना)"
+        },
+        {
+          "en": "call in",
+          "hi": "call in (मंगवाना)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Call off' means to cancel an event or activity. 'Call on' means to pay a visit.",
+        "hi": "'Call off' का अर्थ किसी कार्यक्रम या गतिविधि को रद्द (cancel) करना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00217"
+    },
+    {
+      "topic": "synonyms_antonyms",
+      "subTopic": "synonyms",
+      "question": {
+        "en": "Select the most appropriate SYNONYM of the given word: 'EPHEMERAL'",
+        "hi": "दिए गए शब्द का सबसे उपयुक्त पर्यायवाची (समानार्थी) चुनें: 'EPHEMERAL'"
+      },
+      "options": [
+        {
+          "en": "Transient / Short-lived",
+          "hi": "Transient / Short-lived (क्षणिक / अल्पकालिक)"
+        },
+        {
+          "en": "Eternal / Everlasting",
+          "hi": "Eternal / Everlasting (शाश्वत)"
+        },
+        {
+          "en": "Perpetual",
+          "hi": "Perpetual (लगातार)"
+        },
+        {
+          "en": "Enduring",
+          "hi": "Enduring (दीर्घकालिक)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Ephemeral' means lasting for a very short time (transient, fleeting, momentary, short-lived). Its antonym is eternal or permanent.",
+        "hi": "'Ephemeral' का अर्थ क्षणिक, अल्पकालिक या नश्वर (Transient/Short-lived) होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00218"
+    },
+    {
+      "topic": "synonyms_antonyms",
+      "subTopic": "antonyms",
+      "question": {
+        "en": "Select the most appropriate ANTONYM of the given word: 'UBIQUITOUS'",
+        "hi": "दिए गए शब्द का सबसे उपयुक्त विलोम शब्द चुनें: 'UBIQUITOUS'"
+      },
+      "options": [
+        {
+          "en": "Rare / Scarce",
+          "hi": "Rare / Scarce (दुर्लभ)"
+        },
+        {
+          "en": "Omnipresent",
+          "hi": "Omnipresent (सर्वव्यापी)"
+        },
+        {
+          "en": "Pervasive",
+          "hi": "Pervasive (व्यापक)"
+        },
+        {
+          "en": "Universal",
+          "hi": "Universal (सार्वभौमिक)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'Ubiquitous' means present, appearing, or found everywhere (omnipresent, widespread). Its antonym is 'rare' or 'scarce'.",
+        "hi": "'Ubiquitous' का अर्थ सर्वव्यापी या हर जगह मौजूद (Omnipresent) होता है। इसका विलोम 'Rare' (दुर्लभ) है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00219"
+    },
+    {
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of the given idiom: 'To burn the midnight oil'",
+        "hi": "दिए गए मुहावरे का सही अर्थ चुनें: 'To burn the midnight oil'"
+      },
+      "options": [
+        {
+          "en": "To work or study late into the night",
+          "hi": "देर रात तक कड़ी मेहनत या पढ़ाई करना"
+        },
+        {
+          "en": "To waste fuel carelessly",
+          "hi": "ईंधन को लापरवाही से बर्बाद करना"
+        },
+        {
+          "en": "To create unnecessary trouble",
+          "hi": "अनावश्यक परेशानी खड़ी करना"
+        },
+        {
+          "en": "To wake up early before sunrise",
+          "hi": "सूर्योदय से पहले जल्दी उठना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'To burn the midnight oil' means to stay up late studying or working rigorously.",
+        "hi": "'To burn the midnight oil' का अर्थ देर रात तक कठिन परिश्रम या अध्ययन करना होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00220"
+    },
+    {
+      "topic": "idioms_phrases",
+      "question": {
+        "en": "Select the meaning of the given idiom: 'A feather in one's cap'",
+        "hi": "दिए गए मुहावरे का सही अर्थ चुनें: 'A feather in one's cap'"
+      },
+      "options": [
+        {
+          "en": "An achievement or honour to be proud of",
+          "hi": "एक उपलब्धि या सम्मान जिस पर गर्व किया जा सके"
+        },
+        {
+          "en": "An ornamental dress for a celebration",
+          "hi": "समारोह के लिए एक सजावटी पोशाक"
+        },
+        {
+          "en": "A sign of cowardice",
+          "hi": "कायरता का संकेत"
+        },
+        {
+          "en": "A minor and negligible mistake",
+          "hi": "एक छोटी और नगण्य गलती"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "'A feather in one's cap' refers to an achievement, accomplishment, or honor that brings pride.",
+        "hi": "'A feather in one's cap' का अर्थ एक विशिष्ट उपलब्धि या गौरव की बात होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00221"
+    },
+    {
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the single word for the phrase: 'One who possesses unlimited power and is all-powerful.'",
+        "hi": "दिए गए वाक्यांश के लिए एक शब्द चुनें: 'One who possesses unlimited power and is all-powerful.'"
+      },
+      "options": [
+        {
+          "en": "Omnipotent",
+          "hi": "सर्वशक्तिमान (Omnipotent)"
+        },
+        {
+          "en": "Omniscient",
+          "hi": "सर्वज्ञ (Omniscient - one who knows everything)"
+        },
+        {
+          "en": "Omnipresent",
+          "hi": "सर्वव्यापी (Omnipresent - present everywhere)"
+        },
+        {
+          "en": "Omnivorous",
+          "hi": "सर्वाहारी (Omnivorous)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Root words: 'Omni' (all) + 'Potent' (power) = Omnipotent (all-powerful). 'Omniscient' = knowing all; 'Omnipresent' = everywhere.",
+        "hi": "'Omnipotent' का अर्थ सर्वशक्तिमान होता है। 'Omniscient' का अर्थ सर्वज्ञ तथा 'Omnipresent' का अर्थ सर्वव्यापी होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00222"
+    },
+    {
+      "topic": "one_word_substitution",
+      "question": {
+        "en": "Select the single word for: 'A person who always looks at the positive or bright side of things.'",
+        "hi": "दिए गए वाक्यांश के लिए एक शब्द चुनें: 'A person who always looks at the positive or bright side of things.'"
+      },
+      "options": [
+        {
+          "en": "Optimist",
+          "hi": "आशावादी (Optimist)"
+        },
+        {
+          "en": "Pessimist",
+          "hi": "निराशावादी (Pessimist)"
+        },
+        {
+          "en": "Altruist",
+          "hi": "परोपकारी (Altruist)"
+        },
+        {
+          "en": "Philanthropist",
+          "hi": "मानव प्रेमी (Philanthropist)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "An 'Optimist' is one who looks on the bright side. A 'Pessimist' looks on the dark side. An 'Altruist' is unselfishly concerned for others.",
+        "hi": "'Optimist' आशावादी व्यक्ति को कहते हैं। 'Pessimist' निराशावादी होता है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00223"
+    },
+    {
+      "topic": "voice",
+      "question": {
+        "en": "Select the correct passive form of the given active sentence: 'Did the teacher explain the difficult concept clearly?'",
+        "hi": "दिए गए सक्रिय वाक्य का सही कर्मवाच्य (Passive voice) रूप चुनें: 'Did the teacher explain the difficult concept clearly?'"
+      },
+      "options": [
+        {
+          "en": "Was the difficult concept explained clearly by the teacher?",
+          "hi": "Was the difficult concept explained clearly by the teacher?"
+        },
+        {
+          "en": "Is the difficult concept explained clearly by the teacher?",
+          "hi": "Is the difficult concept explained clearly by the teacher?"
+        },
+        {
+          "en": "Had the difficult concept been explained clearly by the teacher?",
+          "hi": "Had the difficult concept been explained clearly by the teacher?"
+        },
+        {
+          "en": "Was the difficult concept being explained clearly by the teacher?",
+          "hi": "Was the difficult concept being explained clearly by the teacher?"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Simple Past Interrogative: 'Did + Subject + V1 + Object?' converts to 'Was/Were + Object + V3 + by + Subject?'. Hence, 'Was the difficult concept explained clearly by the teacher?'.",
+        "hi": "Simple Past Interrogative में Passive रूप 'Was/Were + Object + V3 + by + Subject' बनता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_english_00224"
+    },
+    {
+      "topic": "narration",
+      "question": {
+        "en": "Select the correct indirect form of the sentence: 'The science teacher said, \"Water freezes at 0 degrees Celsius.\"'",
+        "hi": "दिए गए प्रत्यक्ष कथन का सही अप्रत्यक्ष (Indirect) रूप चुनें: 'The science teacher said, \"Water freezes at 0 degrees Celsius.\"'"
+      },
+      "options": [
+        {
+          "en": "The science teacher said that water freezes at 0 degrees Celsius.",
+          "hi": "The science teacher said that water freezes at 0 degrees Celsius."
+        },
+        {
+          "en": "The science teacher said that water froze at 0 degrees Celsius.",
+          "hi": "The science teacher said that water froze at 0 degrees Celsius."
+        },
+        {
+          "en": "The science teacher asked if water had frozen at 0 degrees Celsius.",
+          "hi": "The science teacher asked if water had frozen at 0 degrees Celsius."
+        },
+        {
+          "en": "The science teacher told that water will freeze at 0 degrees Celsius.",
+          "hi": "The science teacher told that water will freeze at 0 degrees Celsius."
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Universal Truth / Scientific Fact Rule: When the reported speech expresses a universal truth or scientific law, its tense does NOT change in indirect speech even if the reporting verb is in the past.",
+        "hi": "सार्वभौमिक सत्य / वैज्ञानिक तथ्य का नियम: जब रिपोर्टेड स्पीच कोई वैज्ञानिक तथ्य व्यक्त करती है, तो इनडायरेक्ट स्पीच में उसका काल (Tense) नहीं बदलता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "trap"
+      ],
+      "id": "q_t1_english_00225"
     }
   ]
 }

@@ -32,11 +32,14 @@ All content is organized into versioned JSON files governed by JSON Schema (draf
 
 ## Helper Tool: `content_helper.py`
 
-Use the included helper tool to inspect inventory, get next available IDs, validate drafts, and append questions:
+Use the included helper tool to inspect inventory, check for duplicates, get next available IDs, validate drafts, and append questions:
 
 ```bash
 # View content stats, topic coverage, and next available IDs:
 python .agents/skills/ssc-cgl-content/scripts/content_helper.py stats
+
+# Search existing question banks to prevent duplicates before authoring:
+python .agents/skills/ssc-cgl-content/scripts/content_helper.py find-duplicate "cistern"
 
 # Get next sequential ID for a subject:
 python .agents/skills/ssc-cgl-content/scripts/content_helper.py next-id quant
@@ -50,6 +53,21 @@ python .agents/skills/ssc-cgl-content/scripts/content_helper.py append-questions
 # Sync current_affairs/latest.json with latest monthly archive:
 python .agents/skills/ssc-cgl-content/scripts/content_helper.py sync-latest-ca
 ```
+
+---
+
+## Strict Authoring Guardrails (Read First)
+
+1. **Syllabus & Scope Boundary**:
+   - Every question and formula card MUST strictly map to the official SSC CGL syllabus slugs declared in [`references/syllabus_topics.md`](references/syllabus_topics.md).
+   - NEVER create out-of-scope content (e.g. Banking floor puzzles, UPSC subjective prompts, calculus).
+2. **Zero Duplication & Variety**:
+   - Always run `content_helper.py find-duplicate "<keyword>"` or review existing questions in the topic before drafting.
+   - Vary numerical values, contexts, English vocabulary words, and idioms. Avoid repeating identical question structures.
+3. **SSC Hindi Lexicon Standard**:
+   - Use official SSC examination Hindi terminology (e.g., ल.स./म.स., साधारण ब्याज, चक्रवृद्धि ब्याज, कूटलेखन, सादृश्यता, अनुच्छेद).
+4. **Step-by-Step Explanations & Shortcuts**:
+   - Provide clear, self-explanatory solutions with formulas and mental math shortcut tricks. Tag with `"shortcut_applicable"` where relevant.
 
 ---
 

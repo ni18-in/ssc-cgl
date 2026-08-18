@@ -519,6 +519,40 @@
           "kind": "formula"
         }
       ]
+    },
+    {
+      "topic": "data_interpretation",
+      "title": {
+        "en": "Data Interpretation",
+        "hi": "आँकड़ों का विश्लेषण (DI)"
+      },
+      "cards": [
+        {
+          "id": "f_di_0001",
+          "label": {
+            "en": "Pie Chart Angle to Percentage Conversion",
+            "hi": "पाई चार्ट कोण से प्रतिशत रूपांतरण"
+          },
+          "latex": "\\text{Angle} = \\frac{\\text{Percentage} \\times 360^\\circ}{100} = \\text{Percentage} \\times 3.6^\\circ",
+          "plain": "Central Angle (degrees) = Percentage x 3.6",
+          "note": {
+            "en": "Quick shortcut: 10% = 36°, 20% = 72°, 25% = 90°, 30% = 108°, 50% = 180°.",
+            "hi": "त्वरित शॉर्टकट: 10% = 36°, 20% = 72°, 25% = 90°, 30% = 108°, 50% = 180°।"
+          },
+          "kind": "conversion"
+        },
+        {
+          "id": "f_di_0002",
+          "label": {
+            "en": "Percentage Growth / Change in DI Tables",
+            "hi": "तालिका DI में प्रतिशत वृद्धि / परिवर्तन"
+          },
+          "latex": "\\text{Percentage Change} = \\frac{\\text{Final Value} - \\text{Initial Value}}{\\text{Initial Value}} \\times 100",
+          "plain": "Percentage Change = [(Final - Initial) / Initial] x 100",
+          "note": null,
+          "kind": "formula"
+        }
+      ]
     }
   ]
 }

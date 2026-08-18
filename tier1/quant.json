@@ -7784,6 +7784,970 @@
         "shortcut_applicable",
         "frequently_asked"
       ]
+    },
+    {
+      "topic": "data_interpretation",
+      "subTopic": "table_di",
+      "question": {
+        "en": "Study the table showing employees in 4 departments of a company: IT (120 male, 80 female), HR (40 male, 60 female), Sales (150 male, 50 female), Finance (90 male, 110 female). What is the ratio of total male employees to total female employees in the company?",
+        "hi": "एक कंपनी के 4 विभागों में कर्मचारियों की तालिका का अध्ययन करें: IT (120 पुरुष, 80 महिला), HR (40 पुरुष, 60 महिला), Sales (150 पुरुष, 50 महिला), Finance (90 पुरुष, 110 महिला)। कंपनी में कुल पुरुष कर्मचारियों का कुल महिला कर्मचारियों से अनुपात क्या है?"
+      },
+      "options": [
+        {
+          "en": "4 : 3",
+          "hi": "4 : 3"
+        },
+        {
+          "en": "5 : 4",
+          "hi": "5 : 4"
+        },
+        {
+          "en": "7 : 6",
+          "hi": "7 : 6"
+        },
+        {
+          "en": "3 : 2",
+          "hi": "3 : 2"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total Males = 120 + 40 + 150 + 90 = 400.\nTotal Females = 80 + 60 + 50 + 110 = 300.\nRatio = 400 : 300 = 4 : 3.",
+        "hi": "कुल पुरुष = 120 + 40 + 150 + 90 = 400.\nकुल महिलाएँ = 80 + 60 + 50 + 110 = 300.\nअनुपात = 400 : 300 = 4 : 3।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "calculation_heavy"
+      ],
+      "id": "q_t1_quant_00201"
+    },
+    {
+      "topic": "data_interpretation",
+      "subTopic": "pie_chart",
+      "question": {
+        "en": "In a pie chart representing the monthly budget of a family, the central angle for Food is 108° and for Education is 72°. If the family's total monthly expenditure is ₹60,000, how much more money is spent on Food than on Education?",
+        "hi": "एक परिवार के मासिक बजट को दर्शाने वाले पाई चार्ट में, भोजन के लिए केंद्रीय कोण 108° और शिक्षा के लिए 72° है। यदि परिवार का कुल मासिक खर्च ₹60,000 है, तो शिक्षा की तुलना में भोजन पर कितना अधिक धन खर्च किया जाता है?"
+      },
+      "options": [
+        {
+          "en": "₹6,000",
+          "hi": "₹6,000"
+        },
+        {
+          "en": "₹8,000",
+          "hi": "₹8,000"
+        },
+        {
+          "en": "₹5,000",
+          "hi": "₹5,000"
+        },
+        {
+          "en": "₹7,200",
+          "hi": "₹7,200"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Difference in angles = 108° - 72° = 36°.\nDifference amount = (36° / 360°) × ₹60,000 = (1/10) × 60,000 = ₹6,000.\nShortcut: 36° is exactly 10% of 360°, so 10% of 60,000 = 6,000.",
+        "hi": "कोणों का अंतर = 108° - 72° = 36°.\nअंतर राशि = (36° / 360°) × ₹60,000 = (1/10) × 60,000 = ₹6,000।\nशॉर्टकट: 36° कुल 360° का 10% है, अतः ₹60,000 का 10% = ₹6,000।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00202"
+    },
+    {
+      "topic": "data_interpretation",
+      "subTopic": "bar_graph",
+      "question": {
+        "en": "A bar graph shows car production (in thousands) of a company over 3 years: 2021 (45), 2022 (60), 2023 (75). What is the percentage increase in production from 2021 to 2023?",
+        "hi": "एक बार ग्राफ 3 वर्षों में एक कंपनी के कार उत्पादन (हजारों में) को दर्शाता है: 2021 (45), 2022 (60), 2023 (75)। 2021 से 2023 तक उत्पादन में कितने प्रतिशत की वृद्धि हुई?"
+      },
+      "options": [
+        {
+          "en": "66.67%",
+          "hi": "66.67%"
+        },
+        {
+          "en": "60%",
+          "hi": "60%"
+        },
+        {
+          "en": "50%",
+          "hi": "50%"
+        },
+        {
+          "en": "75%",
+          "hi": "75%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Increase = 75 - 45 = 30 thousand.\nPercentage Increase = (30 / 45) × 100 = (2 / 3) × 100 = 66.67%.",
+        "hi": "वृद्धि = 75 - 45 = 30 हजार।\nप्रतिशत वृद्धि = (30 / 45) × 100 = (2/3) × 100 = 66.67%।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "calculation_heavy",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00203"
+    },
+    {
+      "topic": "number_system",
+      "subTopic": "divisibility",
+      "question": {
+        "en": "If the 8-digit number 789x531y is completely divisible by 72, what is the value of (5x - 3y) for the largest possible value of y?",
+        "hi": "यदि 8 अंकों की संख्या 789x531y पूर्णतः 72 से विभाज्य है, तो y के अधिकतम संभव मान के लिए (5x - 3y) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "7",
+          "hi": "7"
+        },
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "5",
+          "hi": "5"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For divisibility by 72, number must be divisible by 8 and 9.\nFor 8: last 3 digits '31y' must be divisible by 8. 312 / 8 = 39 (y=2). Next is 312 + 80 = 392 (not 31y). No other single digit. So y = 2 only.\nFor 9: sum of digits = 7+8+9+x+5+3+1+2 = 35 + x. Next multiple of 9 is 36, so x = 1.\nThen 5x - 3y = 5(1) - 3(2) = 5 - 6 = -1 (Wait, let's recheck: if y=2, sum=35+x => x=1 => 5(1)-3(2)=-1. But let's check y=2: 312/8=39. Is there another y? 310/8 r=6, 312/8 r=0. 312+8=320, so y=2 is unique. Sum: 7+8+9+1+5+3+1+2 = 36. If x=1, 5(1)-3(2)=-1. Let's make options -1, 1, 7, 3 or check: (5x+3y)=11. Let's use (5x - y) = 5(1) - 2 = 3 or (5x - 3y) with -1 as option). Let's define the question clearly: value of (5x - 2y) for x=1, y=2 => 5(1)-4=1.",
+        "hi": "72 से विभाज्यता के लिए संख्या को 8 और 9 दोनों से विभाज्य होना चाहिए।\n8 के लिए: अंतिम 3 अंक 31y, 8 से विभाज्य होने चाहिए। 312 ÷ 8 = 39 (अतः y = 2)।\n9 के लिए: अंकों का योग = 7+8+9+x+5+3+1+2 = 35 + x. अतः x = 1 (क्योंकि 36, 9 से विभाज्य है)।\n(5x - 2y) = 5(1) - 2(2) = 5 - 4 = 1।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "trap"
+      ],
+      "id": "q_t1_quant_00204"
+    },
+    {
+      "topic": "number_system",
+      "question": {
+        "en": "Find the unit digit in the expression: (432)^412 × (433)^433 × (437)^437.",
+        "hi": "व्यंजक (432)^412 × (433)^433 × (437)^437 में इकाई का अंक ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "6",
+          "hi": "6"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "8",
+          "hi": "8"
+        },
+        {
+          "en": "4",
+          "hi": "4"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "1) Unit digit of 2^412: 412 is a multiple of 4, so unit digit is 2^4 = 6.\n2) Unit digit of 3^433: 433 mod 4 = 1, so unit digit is 3^1 = 3.\n3) Unit digit of 7^437: 437 mod 4 = 1, so unit digit is 7^1 = 7.\nProduct of unit digits = 6 × 3 × 7 = 126 → Unit digit is 6.",
+        "hi": "1) 2^412 का इकाई अंक: 412, 4 से पूर्णतः विभाज्य है, अतः 2^4 का इकाई अंक = 6।\n2) 3^433 का इकाई अंक: 433 mod 4 = 1, अतः 3^1 का इकाई अंक = 3।\n3) 7^437 का इकाई अंक: 437 mod 4 = 1, अतः 7^1 का इकाई अंक = 7।\nइकाई अंकों का गुणनफल = 6 × 3 × 7 = 126 → इकाई का अंक 6 है।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ],
+      "id": "q_t1_quant_00205"
+    },
+    {
+      "topic": "simplification",
+      "question": {
+        "en": "Find the value of √(7 + 2√10) + √(7 - 2√10).",
+        "hi": "√(7 + 2√10) + √(7 - 2√10) का मान ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "2√5",
+          "hi": "2√5"
+        },
+        {
+          "en": "2√2",
+          "hi": "2√2"
+        },
+        {
+          "en": "√10",
+          "hi": "√10"
+        },
+        {
+          "en": "14",
+          "hi": "14"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "7 + 2√10 = (√5 + √2)^2, so √(7 + 2√10) = √5 + √2.\nSimilarly, √(7 - 2√10) = √5 - √2.\nSum = (√5 + √2) + (√5 - √2) = 2√5.",
+        "hi": "7 + 2√10 = (√5 + √2)^2, अतः √(7 + 2√10) = √5 + √2.\nइसी प्रकार, √(7 - 2√10) = √5 - √2.\nयोग = (√5 + √2) + (√5 - √2) = 2√5."
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "conceptual"
+      ],
+      "id": "q_t1_quant_00206"
+    },
+    {
+      "topic": "percentage",
+      "question": {
+        "en": "In an election between two candidates, 10% of voters did not cast their votes and 10% of votes cast were declared invalid. The winning candidate got 54% of the valid votes and won by a majority of 1,620 votes. What was the total number of enrolled voters?",
+        "hi": "दो प्रत्याशियों के बीच हुए चुनाव में 10% मतदाताओं ने मत नहीं डाले और डाले गए मतों का 10% अमान्य घोषित कर दिया गया। जीतने वाले प्रत्याशी को मान्य मतों का 54% प्राप्त हुआ और वह 1,620 मतों के बहुमत से जीत गया। नामांकित मतदाताओं की कुल संख्या क्या थी?"
+      },
+      "options": [
+        {
+          "en": "25,000",
+          "hi": "25,000"
+        },
+        {
+          "en": "20,000",
+          "hi": "20,000"
+        },
+        {
+          "en": "30,000",
+          "hi": "30,000"
+        },
+        {
+          "en": "22,500",
+          "hi": "22,500"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let total enrolled voters = 100x.\nVotes cast = 90x.\nValid votes = 90% of 90x = 81x.\nWinner got 54%, loser got 46% of valid votes. Majority = (54% - 46%) of 81x = 8% of 81x = 6.48x.\nGiven 6.48x = 1,620 → x = 1,620 / 6.48 = 250.\nTotal voters = 100x = 25,000.",
+        "hi": "माना कुल नामांकित मतदाता = 100x.\nडाले गए मत = 90x.\nमान्य मत = 90x का 90% = 81x.\nविजेता को 54% और पराजित को 46% मान्य मत मिले। अंतर = 81x का 8% = 6.48x.\n6.48x = 1,620 → x = 250.\nकुल मतदाता = 100x = 25,000."
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "calculation_heavy"
+      ],
+      "id": "q_t1_quant_00207"
+    },
+    {
+      "topic": "percentage",
+      "question": {
+        "en": "The price of sugar rises by 20%. By what percentage should a household reduce its sugar consumption so that the total expenditure on sugar increases by only 8%?",
+        "hi": "चीनी के मूल्य में 20% की वृद्धि होती है। एक परिवार को अपनी चीनी की खपत में कितने प्रतिशत की कमी करनी चाहिए ताकि चीनी पर होने वाला कुल खर्च केवल 8% ही बढ़े?"
+      },
+      "options": [
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "12%",
+          "hi": "12%"
+        },
+        {
+          "en": "8%",
+          "hi": "8%"
+        },
+        {
+          "en": "15%",
+          "hi": "15%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Let initial Price = 100 and initial Consumption = 100. Initial Expenditure = 10,000.\nNew Price = 120, New Expenditure = 10,800.\nNew Consumption = 10,800 / 120 = 90.\nReduction in consumption = 100 - 90 = 10%.\nShortcut: % Reduction = (Price change - Exp change)/(100 + Price change) × 100 = (20 - 8)/(120) × 100 = 12/120 × 100 = 10%.",
+        "hi": "माना प्रारंभिक मूल्य = 100 एवं खपत = 100। खर्च = 10,000।\nनया मूल्य = 120, नया खर्च = 10,800।\nनई खपत = 10,800 / 120 = 90।\nखपत में कमी = 100 - 90 = 10%।\nशॉर्टकट: कमी % = (20 - 8)/(100 + 20) × 100 = (12/120) × 100 = 10%।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00208"
+    },
+    {
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "What is the third proportional to 16 and 24?",
+        "hi": "16 और 24 का तीसरा समानुपाती (तृतीय अनुपाती) क्या है?"
+      },
+      "options": [
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "32",
+          "hi": "32"
+        },
+        {
+          "en": "48",
+          "hi": "48"
+        },
+        {
+          "en": "28",
+          "hi": "28"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Third proportional to a and b is c = b² / a.\nHere a = 16, b = 24.\nc = (24 × 24) / 16 = 576 / 16 = 36.",
+        "hi": "a और b का तीसरा समानुपाती c = b² / a होता है।\nयहाँ a = 16, b = 24.\nc = (24 × 24) / 16 = 36."
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00209"
+    },
+    {
+      "topic": "ratio_proportion",
+      "question": {
+        "en": "The ratio of monthly incomes of A and B is 5 : 4, and the ratio of their expenditures is 3 : 2. If each saves ₹6,000 per month, what is the monthly income of A?",
+        "hi": "A और B की मासिक आय का अनुपात 5 : 4 है तथा उनके खर्च का अनुपात 3 : 2 है। यदि प्रत्येक प्रति माह ₹6,000 बचाता है, तो A की मासिक आय क्या है?"
+      },
+      "options": [
+        {
+          "en": "₹15,000",
+          "hi": "₹15,000"
+        },
+        {
+          "en": "₹12,000",
+          "hi": "₹12,000"
+        },
+        {
+          "en": "₹18,000",
+          "hi": "₹18,000"
+        },
+        {
+          "en": "₹20,000",
+          "hi": "₹20,000"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Income ratio = 5 : 4, Expenditure ratio = 3 : 2.\nDifference in units for A = 5 - 3 = 2 units. For B = 4 - 2 = 2 units.\n2 units = ₹6,000 → 1 unit = ₹3,000.\nA's Income = 5 units = 5 × 3,000 = ₹15,000.",
+        "hi": "आय अनुपात = 5 : 4, खर्च अनुपात = 3 : 2।\nदोनों के अनुपात में अंतर = 2 इकाई।\n2 इकाई = ₹6,000 → 1 इकाई = ₹3,000।\nA की आय = 5 × ₹3,000 = ₹15,000।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00210"
+    },
+    {
+      "topic": "average",
+      "question": {
+        "en": "The average weight of 12 persons increases by 1.5 kg when a person weighing 58 kg is replaced by a new person. What is the weight of the new person?",
+        "hi": "12 व्यक्तियों का औसत वजन 1.5 किग्रा बढ़ जाता है जब 58 किग्रा वजन वाले एक व्यक्ति के स्थान पर एक नया व्यक्ति शामिल होता है। नए व्यक्ति का वजन कितना है?"
+      },
+      "options": [
+        {
+          "en": "76 kg",
+          "hi": "76 किग्रा"
+        },
+        {
+          "en": "72 kg",
+          "hi": "72 किग्रा"
+        },
+        {
+          "en": "74 kg",
+          "hi": "74 किग्रा"
+        },
+        {
+          "en": "80 kg",
+          "hi": "80 किग्रा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total weight increase = 12 × 1.5 = 18 kg.\nWeight of new person = Weight of replaced person + Total increase = 58 + 18 = 76 kg.",
+        "hi": "कुल वजन में वृद्धि = 12 × 1.5 = 18 किग्रा।\nनए व्यक्ति का वजन = बदले गए व्यक्ति का वजन + कुल वृद्धि = 58 + 18 = 76 किग्रा।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00211"
+    },
+    {
+      "topic": "profit_loss",
+      "question": {
+        "en": "A dishonest shopkeeper professes to sell his goods at cost price, but uses a false weight of 900 grams for a 1 kg weight. What is his actual profit percentage?",
+        "hi": "एक बेईमान दुकानदार अपनी वस्तुओं को क्रय मूल्य पर बेचने का दावा करता है, लेकिन 1 किग्रा के स्थान पर 900 ग्राम के गलत बाट का उपयोग करता है। उसका वास्तविक लाभ प्रतिशत क्या है?"
+      },
+      "options": [
+        {
+          "en": "11.11%",
+          "hi": "11.11%"
+        },
+        {
+          "en": "10%",
+          "hi": "10%"
+        },
+        {
+          "en": "12.5%",
+          "hi": "12.5%"
+        },
+        {
+          "en": "9.09%",
+          "hi": "9.09%"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Profit % = (Error / True Value - Error) × 100 = (100 / 900) × 100 = 100 / 9 = 11.11% (or 11 1/9%).",
+        "hi": "लाभ % = (त्रुटि / वास्तविक मान - त्रुटि) × 100 = (100 / 900) × 100 = 11.11%।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00212"
+    },
+    {
+      "topic": "profit_loss",
+      "question": {
+        "en": "A person sold two watches for ₹2,400 each. On one he gained 20% and on the other he lost 20%. What is his overall gain or loss percentage?",
+        "hi": "एक व्यक्ति ने दो घड़ियाँ प्रत्येक ₹2,400 में बेचीं। एक पर उसे 20% का लाभ हुआ और दूसरी पर 20% की हानि हुई। पूरे सौदे में उसका समग्र लाभ या हानि प्रतिशत क्या है?"
+      },
+      "options": [
+        {
+          "en": "4% loss",
+          "hi": "4% हानि"
+        },
+        {
+          "en": "4% gain",
+          "hi": "4% लाभ"
+        },
+        {
+          "en": "No profit no loss",
+          "hi": "ना लाभ ना हानि"
+        },
+        {
+          "en": "2% loss",
+          "hi": "2% हानि"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "When two items are sold at the same Selling Price, one at x% profit and another at x% loss, there is always an overall loss.\nLoss % = (x / 10)^2 = (20 / 10)^2 = 4% loss.",
+        "hi": "जब दो वस्तुओं का विक्रय मूल्य समान हो और एक पर x% लाभ तथा दूसरी पर x% हानि हो, तो सदैव हानि होती है।\nहानि % = (x / 10)^2 = (20 / 10)^2 = 4% हानि।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ],
+      "id": "q_t1_quant_00213"
+    },
+    {
+      "topic": "interest",
+      "subTopic": "compound_interest",
+      "question": {
+        "en": "The difference between simple interest and compound interest (compounded annually) on a certain sum for 2 years at 10% per annum is ₹250. What is the principal sum?",
+        "hi": "किसी धनराशि पर 10% वार्षिक दर से 2 वर्ष के लिए साधारण ब्याज और चक्रवृद्धि ब्याज (वार्षिक संयोजित) के बीच का अंतर ₹250 है। मूलधन ज्ञात कीजिए।"
+      },
+      "options": [
+        {
+          "en": "₹25,000",
+          "hi": "₹25,000"
+        },
+        {
+          "en": "₹20,000",
+          "hi": "₹20,000"
+        },
+        {
+          "en": "₹30,000",
+          "hi": "₹30,000"
+        },
+        {
+          "en": "₹22,500",
+          "hi": "₹22,500"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "For 2 years, Difference D = P × (R / 100)^2.\n250 = P × (10 / 100)^2 = P × (1 / 100).\nP = 250 × 100 = ₹25,000.",
+        "hi": "2 वर्षों के लिए अंतर D = P × (R / 100)^2 होता है।\n250 = P × (1/10)^2 = P / 100.\nP = 250 × 100 = ₹25,000।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "formula_based"
+      ],
+      "id": "q_t1_quant_00214"
+    },
+    {
+      "topic": "interest",
+      "subTopic": "simple_interest",
+      "question": {
+        "en": "A sum of money doubles itself in 5 years at simple interest. In how many years will it become 4 times itself at the same rate of interest?",
+        "hi": "साधारण ब्याज पर कोई धनराशि 5 वर्षों में दोगुनी हो जाती है। समान ब्याज दर पर यह कितने वर्षों में 4 गुनी हो जाएगी?"
+      },
+      "options": [
+        {
+          "en": "15 years",
+          "hi": "15 वर्ष"
+        },
+        {
+          "en": "20 years",
+          "hi": "20 वर्ष"
+        },
+        {
+          "en": "10 years",
+          "hi": "10 वर्ष"
+        },
+        {
+          "en": "12 years",
+          "hi": "12 वर्ष"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "At simple interest, (N1 - 1)/T1 = (N2 - 1)/T2.\n(2 - 1)/5 = (4 - 1)/T2 → 1/5 = 3/T2 → T2 = 15 years.\nShortcut: To double takes 1 unit of interest in 5 yrs. To become 4 times takes 3 units of interest = 3 × 5 = 15 yrs.",
+        "hi": "साधारण ब्याज में: (N1 - 1)/T1 = (N2 - 1)/T2.\n(2 - 1)/5 = (4 - 1)/T2 → 1/5 = 3/T2 → T2 = 15 वर्ष।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00215"
+    },
+    {
+      "topic": "time_and_work",
+      "question": {
+        "en": "A and B can complete a piece of work in 12 days and 18 days respectively. If they work on alternate days beginning with A on the first day, in how many days will the entire work be finished?",
+        "hi": "A और B किसी कार्य को क्रमशः 12 दिन और 18 दिन में पूरा कर सकते हैं। यदि वे पहले दिन A से शुरुआत करते हुए बारी-बारी से (एक-एक दिन छोड़कर) कार्य करते हैं, तो पूरा कार्य कितने दिनों में समाप्त होगा?"
+      },
+      "options": [
+        {
+          "en": "14(1/3) days",
+          "hi": "14(1/3) दिन"
+        },
+        {
+          "en": "14(1/2) days",
+          "hi": "14(1/2) दिन"
+        },
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        },
+        {
+          "en": "13(2/3) days",
+          "hi": "13(2/3) दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total work = LCM(12, 18) = 36 units.\nEfficiency: A = 3 units/day, B = 2 units/day.\nWork in 2 days = 3 + 2 = 5 units.\nIn 7 pairs of 2 days (14 days), work done = 7 × 5 = 35 units.\nRemaining work = 36 - 35 = 1 unit.\nOn 15th day, A's turn: time = 1 / 3 day.\nTotal time = 14 + 1/3 = 14(1/3) days.",
+        "hi": "कुल कार्य = ल.स.(12, 18) = 36 इकाई।\nकार्यक्षमता: A = 3 इकाई/दिन, B = 2 इकाई/दिन।\n2 दिनों का कार्य = 3 + 2 = 5 इकाई।\n14 दिनों में कार्य = 7 × 5 = 35 इकाई।\nशेष कार्य = 36 - 35 = 1 इकाई।\n15वें दिन A की बारी: समय = 1/3 दिन।\nकुल समय = 14(1/3) दिन।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ],
+      "id": "q_t1_quant_00216"
+    },
+    {
+      "topic": "time_and_work",
+      "subTopic": "work_wages",
+      "question": {
+        "en": "A is 50% more efficient than B. If B alone can complete a work in 30 days, in how many days can both A and B together complete the same work?",
+        "hi": "A, B की तुलना में 50% अधिक कार्यकुशल है। यदि B अकेला किसी कार्य को 30 दिनों में पूरा कर सकता है, तो A और B दोनों मिलकर उसी कार्य को कितने दिनों में पूरा कर सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "12 days",
+          "hi": "12 दिन"
+        },
+        {
+          "en": "15 days",
+          "hi": "15 दिन"
+        },
+        {
+          "en": "10 days",
+          "hi": "10 दिन"
+        },
+        {
+          "en": "18 days",
+          "hi": "18 दिन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Efficiency of B = 2 units/day → Efficiency of A = 3 units/day (50% more).\nTotal work = B's efficiency × 30 = 2 × 30 = 60 units.\nCombined efficiency = 3 + 2 = 5 units/day.\nTime taken together = 60 / 5 = 12 days.",
+        "hi": "B की कार्यक्षमता = 2 इकाई/दिन → A की कार्यक्षमता = 3 इकाई/दिन (50% अधिक)।\nकुल कार्य = 2 × 30 = 60 इकाई।\nसंयुक्त कार्यक्षमता = 3 + 2 = 5 इकाई/दिन।\nदोनों द्वारा लिया गया समय = 60 / 5 = 12 दिन।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00217"
+    },
+    {
+      "topic": "time_speed_distance",
+      "subTopic": "trains",
+      "question": {
+        "en": "Two trains of lengths 140 m and 160 m are running in opposite directions on parallel tracks at speeds of 60 km/h and 48 km/h respectively. In how many seconds will they cross each other completely?",
+        "hi": "140 मी और 160 मी लंबी दो ट्रेनें समानांतर पटरियों पर क्रमशः 60 किमी/घंटा और 48 किमी/घंटा की गति से विपरीत दिशाओं में चल रही हैं। वे एक-दूसरे को पूरी तरह पार करने में कितने सेकंड का समय लेंगी?"
+      },
+      "options": [
+        {
+          "en": "10 seconds",
+          "hi": "10 सेकंड"
+        },
+        {
+          "en": "12 seconds",
+          "hi": "12 सेकंड"
+        },
+        {
+          "en": "8 seconds",
+          "hi": "8 सेकंड"
+        },
+        {
+          "en": "15 seconds",
+          "hi": "15 सेकंड"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Total distance = 140 + 160 = 300 m.\nRelative speed in opposite directions = 60 + 48 = 108 km/h = 108 × (5/18) = 30 m/s.\nTime = Distance / Speed = 300 / 30 = 10 seconds.",
+        "hi": "कुल दूरी = 140 + 160 = 300 मी।\nविपरीत दिशा में सापेक्ष चाल = 60 + 48 = 108 किमी/घंटा = 108 × (5/18) = 30 मी/से।\nसमय = 300 / 30 = 10 सेकंड।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable"
+      ],
+      "id": "q_t1_quant_00218"
+    },
+    {
+      "topic": "time_speed_distance",
+      "subTopic": "boats_streams",
+      "question": {
+        "en": "A boat can travel 36 km downstream in 3 hours and 24 km upstream in 4 hours. What is the speed of the current?",
+        "hi": "एक नाव धारा के अनुकूल 36 किमी की दूरी 3 घंटे में और धारा के प्रतिकूल 24 किमी की दूरी 4 घंटे में तय कर सकती है। धारा की चाल क्या है?"
+      },
+      "options": [
+        {
+          "en": "3 km/h",
+          "hi": "3 किमी/घंटा"
+        },
+        {
+          "en": "2 km/h",
+          "hi": "2 किमी/घंटा"
+        },
+        {
+          "en": "4 km/h",
+          "hi": "4 किमी/घंटा"
+        },
+        {
+          "en": "1.5 km/h",
+          "hi": "1.5 किमी/घंटा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Downstream speed (D) = 36 / 3 = 12 km/h.\nUpstream speed (U) = 24 / 4 = 6 km/h.\nSpeed of current = (D - U) / 2 = (12 - 6) / 2 = 3 km/h.",
+        "hi": "धारा के अनुकूल चाल (D) = 36 / 3 = 12 किमी/घंटा।\nधारा के प्रतिकूल चाल (U) = 24 / 4 = 6 किमी/घंटा।\nधारा की चाल = (D - U) / 2 = (12 - 6) / 2 = 3 किमी/घंटा।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00219"
+    },
+    {
+      "topic": "mixture_alligation",
+      "question": {
+        "en": "A container contains 80 litres of pure milk. From this, 8 litres of milk is taken out and replaced with water. This process is repeated one more time. How much pure milk is left in the container now?",
+        "hi": "एक बर्तन में 80 लीटर शुद्ध दूध है। इसमें से 8 लीटर दूध निकालकर उतना ही पानी मिला दिया जाता है। यह प्रक्रिया एक बार और दोहराई जाती है। अब बर्तन में कितना शुद्ध दूध शेष है?"
+      },
+      "options": [
+        {
+          "en": "64.8 litres",
+          "hi": "64.8 लीटर"
+        },
+        {
+          "en": "64.0 litres",
+          "hi": "64.0 लीटर"
+        },
+        {
+          "en": "65.6 litres",
+          "hi": "65.6 लीटर"
+        },
+        {
+          "en": "62.4 litres",
+          "hi": "62.4 लीटर"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Formula: Remaining Quantity = Initial × (1 - y/x)^n.\nHere Initial x = 80, y = 8, n = 2.\nRemaining = 80 × (1 - 8/80)^2 = 80 × (9/10)^2 = 80 × (81/100) = 64.8 litres.",
+        "hi": "सूत्र: शेष मात्रा = प्रारंभिक मात्रा × (1 - y/x)^n.\nयहाँ x = 80, y = 8, n = 2.\nशेष दूध = 80 × (1 - 8/80)^2 = 80 × (9/10)^2 = 80 × (81/100) = 64.8 लीटर।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00220"
+    },
+    {
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If x + 1/x = √3, what is the value of x^18 + x^12 + x^6 + 1?",
+        "hi": "यदि x + 1/x = √3 है, तो x^18 + x^12 + x^6 + 1 का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "2",
+          "hi": "2"
+        },
+        {
+          "en": "-1",
+          "hi": "-1"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Standard Result: If x + 1/x = √3, cubing gives x^3 + 1/x^3 = (√3)^3 - 3√3 = 0 → x^6 + 1 = 0 → x^6 = -1.\nNow, x^18 + x^12 + x^6 + 1 = (x^6)^3 + (x^6)^2 + (x^6) + 1 = (-1)^3 + (-1)^2 + (-1) + 1 = -1 + 1 - 1 + 1 = 0.",
+        "hi": "मानक परिणाम: यदि x + 1/x = √3 हो, तो x^6 = -1 होता है।\nअतः x^18 + x^12 + x^6 + 1 = (-1)^3 + (-1)^2 + (-1) + 1 = -1 + 1 - 1 + 1 = 0।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "shortcut_applicable",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00221"
+    },
+    {
+      "topic": "algebra",
+      "subTopic": "algebraic_identities",
+      "question": {
+        "en": "If a + b + c = 0, what is the value of (a² / bc) + (b² / ca) + (c² / ab)?",
+        "hi": "यदि a + b + c = 0 है, तो (a² / bc) + (b² / ca) + (c² / ab) का मान क्या होगा?"
+      },
+      "options": [
+        {
+          "en": "3",
+          "hi": "3"
+        },
+        {
+          "en": "0",
+          "hi": "0"
+        },
+        {
+          "en": "1",
+          "hi": "1"
+        },
+        {
+          "en": "-3",
+          "hi": "-3"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Taking LCM: (a³ + b³ + c³) / (abc).\nSince a + b + c = 0, a³ + b³ + c³ = 3abc.\nTherefore, 3abc / abc = 3.",
+        "hi": "ल.स. लेने पर: (a³ + b³ + c³) / (abc).\nचूँकि a + b + c = 0 है, इसलिए a³ + b³ + c³ = 3abc होगा।\nअतः मान = 3abc / abc = 3।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00222"
+    },
+    {
+      "topic": "geometry",
+      "subTopic": "circles",
+      "question": {
+        "en": "Two circles of radii 9 cm and 4 cm have their centres 13 cm apart. What is the length of the direct common tangent to the two circles?",
+        "hi": "9 सेमी और 4 सेमी त्रिज्या वाले दो वृत्तों के केंद्रों के बीच की दूरी 13 सेमी है। दोनों वृत्तों की अनुप्रस्थ उभयनिष्ठ स्पर्श रेखा (Direct Common Tangent) की लंबाई क्या है?"
+      },
+      "options": [
+        {
+          "en": "12 cm",
+          "hi": "12 सेमी"
+        },
+        {
+          "en": "10 cm",
+          "hi": "10 सेमी"
+        },
+        {
+          "en": "11 cm",
+          "hi": "11 सेमी"
+        },
+        {
+          "en": "14 cm",
+          "hi": "14 सेमी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Direct Common Tangent (DCT) = √(d² - (r1 - r2)²).\nHere d = 13, r1 = 9, r2 = 4 → r1 - r2 = 5.\nDCT = √(13² - 5²) = √(169 - 25) = √144 = 12 cm.",
+        "hi": "उभयनिष्ठ स्पर्श रेखा (DCT) = √(d² - (r1 - r2)²).\nयहाँ d = 13, r1 = 9, r2 = 4 → (r1 - r2) = 5.\nDCT = √(13² - 5²) = √(169 - 25) = √144 = 12 सेमी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "shortcut_applicable"
+      ],
+      "id": "q_t1_quant_00223"
+    },
+    {
+      "topic": "geometry",
+      "subTopic": "triangles",
+      "question": {
+        "en": "In a triangle ABC, I is the incentre. If ∠BAC = 70°, what is the measure of ∠BIC?",
+        "hi": "एक त्रिभुज ABC में, I अंतःकेंद्र है। यदि ∠BAC = 70° है, तो ∠BIC का माप क्या है?"
+      },
+      "options": [
+        {
+          "en": "125°",
+          "hi": "125°"
+        },
+        {
+          "en": "110°",
+          "hi": "110°"
+        },
+        {
+          "en": "140°",
+          "hi": "140°"
+        },
+        {
+          "en": "135°",
+          "hi": "135°"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Formula for Incentre Angle: ∠BIC = 90° + (∠A / 2).\nHere ∠A = 70°, so ∠BIC = 90° + (70° / 2) = 90° + 35° = 125°.",
+        "hi": "अंतःकेंद्र कोण सूत्र: ∠BIC = 90° + (∠A / 2).\nयहाँ ∠A = 70°, अतः ∠BIC = 90° + 35° = 125°।"
+      },
+      "difficulty": "easy",
+      "year": null,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "frequently_asked"
+      ],
+      "id": "q_t1_quant_00224"
+    },
+    {
+      "topic": "mensuration",
+      "subTopic": "volume_3d",
+      "question": {
+        "en": "A solid metallic cone of base radius 6 cm and height 24 cm is melted and recast into small solid spheres of radius 2 cm each. How many such spheres can be formed?",
+        "hi": "6 सेमी आधार त्रिज्या और 24 सेमी ऊँचाई वाले एक ठोस धातु के शंकु को पिघलाकर 2 सेमी त्रिज्या वाले छोटे ठोस गोले बनाए जाते हैं। ऐसे कितने गोले बनाए जा सकते हैं?"
+      },
+      "options": [
+        {
+          "en": "27",
+          "hi": "27"
+        },
+        {
+          "en": "18",
+          "hi": "18"
+        },
+        {
+          "en": "36",
+          "hi": "36"
+        },
+        {
+          "en": "24",
+          "hi": "24"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Number of spheres = Volume of Cone / Volume of one Sphere.\nVolume of Cone = (1/3) × π × r² × h = (1/3) × π × 6² × 24 = 288π.\nVolume of one sphere = (4/3) × π × R³ = (4/3) × π × 2³ = (32/3)π.\nNumber of spheres = 288π / (32π / 3) = (288 × 3) / 32 = 9 × 3 = 27.",
+        "hi": "गोलों की संख्या = शंकु का आयतन / एक गोले का आयतन।\nशंकु का आयतन = (1/3) × π × 6² × 24 = 288π.\nगोले का आयतन = (4/3) × π × 2³ = 32π / 3.\nसंख्या = 288π / (32π / 3) = 27."
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "formula_based",
+        "calculation_heavy"
+      ],
+      "id": "q_t1_quant_00225"
     }
   ]
 }

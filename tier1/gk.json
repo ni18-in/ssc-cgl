@@ -7652,6 +7652,963 @@
         "frequently_asked",
         "conceptual"
       ]
+    },
+    {
+      "topic": "current_affairs",
+      "question": {
+        "en": "Which flagship initiative launched by the Government of India aims to provide rooftop solar systems with up to 300 units of free electricity per month to 1 crore households?",
+        "hi": "भारत सरकार द्वारा शुरू की गई कौन सी प्रमुख योजना 1 करोड़ परिवारों को प्रति माह 300 यूनिट तक मुफ्त बिजली देने के लिए रूफटॉप सोलर सिस्टम लगाने का लक्ष्य रखती है?"
+      },
+      "options": [
+        {
+          "en": "PM Surya Ghar: Muft Bijli Yojana",
+          "hi": "पीएम सूर्य घर: मुफ्त बिजली योजना"
+        },
+        {
+          "en": "PM Ujjwala Yojana",
+          "hi": "पीएम उज्ज्वला योजना"
+        },
+        {
+          "en": "PM Kusum Yojana",
+          "hi": "पीएम कुसुम योजना"
+        },
+        {
+          "en": "PM Awas Yojana",
+          "hi": "पीएम आवास योजना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "PM Surya Ghar: Muft Bijli Yojana was launched with an outlay of over ₹75,000 crore to install rooftop solar panels for 1 crore households, providing up to 300 units of free electricity every month.",
+        "hi": "पीएम सूर्य घर: मुफ्त बिजली योजना 1 करोड़ घरों पर सोलर पैनल स्थापित करने के लिए शुरू की गई है, जिससे हर महीने 300 यूनिट तक मुफ्त बिजली उपलब्ध होती है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00201"
+    },
+    {
+      "topic": "current_affairs",
+      "question": {
+        "en": "What is the primary objective of the Indian Space Research Organisation's (ISRO) 'Gaganyaan' mission?",
+        "hi": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) के 'गगनयान' मिशन का प्राथमिक उद्देश्य क्या है?"
+      },
+      "options": [
+        {
+          "en": "Demonstrating human spaceflight capability by sending astronauts to a 400 km low Earth orbit",
+          "hi": "400 किमी की निचली पृथ्वी की कक्षा में अंतरिक्ष यात्रियों को भेजकर मानव अंतरिक्ष उड़ान क्षमता का प्रदर्शन करना"
+        },
+        {
+          "en": "Landing an unmanned rover on the South Pole of the Moon",
+          "hi": "चंद्रमा के दक्षिणी ध्रुव पर एक मानवरहित रोवर उतारना"
+        },
+        {
+          "en": "Establishing a permanent human settlement on Mars",
+          "hi": "मंगल ग्रह पर स्थायी मानव बस्ती स्थापित करना"
+        },
+        {
+          "en": "Launching an interplanetary solar observatory satellite",
+          "hi": "एक अंतरग्रहीय सौर वेधशाला उपग्रह लॉन्च करना"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Gaganyaan is India's first indigenous human spaceflight programme designed to launch a 3-member crew to a 400 km Low Earth Orbit for a 3-day mission and bring them safely back to Earth.",
+        "hi": "गगनयान भारत का पहला मानव अंतरिक्ष मिशन है, जिसका उद्देश्य 3 सदस्यीय दल को 400 किमी की कक्षा में 3 दिनों के लिए भेजना और सुरक्षित वापस लाना है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00202"
+    },
+    {
+      "topic": "current_affairs",
+      "question": {
+        "en": "In the context of the Reserve Bank of India's monetary policy, what is the policy rate at which the RBI lends short-term money to commercial banks against government securities?",
+        "hi": "भारतीय रिज़र्व बैंक की मौद्रिक नीति के संदर्भ में, वह नीतिगत दर क्या है जिस पर आरबीआई सरकारी प्रतिभूतियों के बदले वाणिज्यिक बैंकों को अल्पकालिक ऋण देता है?"
+      },
+      "options": [
+        {
+          "en": "Repo Rate",
+          "hi": "रेपो दर (Repo Rate)"
+        },
+        {
+          "en": "Reverse Repo Rate",
+          "hi": "रिवर्स रेपो दर"
+        },
+        {
+          "en": "Bank Rate",
+          "hi": "बैंक दर"
+        },
+        {
+          "en": "Cash Reserve Ratio",
+          "hi": "नकद आरक्षित अनुपात"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Repo Rate (Repurchasing Option rate) is the key benchmark interest rate at which the central bank (RBI) lends money to commercial banks against approved securities for short-term liquidity.",
+        "hi": "रेपो दर वह ब्याज दर है जिस पर आरबीआई वाणिज्यिक बैंकों को उनकी अल्पकालिक तरलता आवश्यकताओं के लिए ऋण प्रदान करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00203"
+    },
+    {
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Under which Article of the Constitution of India can a citizen directly move the Supreme Court for the enforcement of Fundamental Rights?",
+        "hi": "भारतीय संविधान के किस अनुच्छेद के तहत एक नागरिक मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय में जा सकता है?"
+      },
+      "options": [
+        {
+          "en": "Article 32",
+          "hi": "अनुच्छेद 32"
+        },
+        {
+          "en": "Article 226",
+          "hi": "अनुच्छेद 226"
+        },
+        {
+          "en": "Article 14",
+          "hi": "अनुच्छेद 14"
+        },
+        {
+          "en": "Article 19",
+          "hi": "अनुच्छेद 19"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 32 (Right to Constitutional Remedies) empowers citizens to approach the Supreme Court directly for writ petitions (Habeas Corpus, Mandamus, Prohibition, Quo-Warranto, Certiorari). Article 226 empowers High Courts.",
+        "hi": "अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) नागरिकों को मौलिक अधिकारों के उल्लंघन पर सीधे सर्वोच्च न्यायालय जाने का अधिकार देता है। उच्च न्यायालयों के लिए अनुच्छेद 226 है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ],
+      "id": "q_t1_gk_00204"
+    },
+    {
+      "topic": "polity",
+      "subTopic": "constitution_basics",
+      "question": {
+        "en": "The 73rd Constitutional Amendment Act, 1992 introduced which Part and Schedule to the Indian Constitution to provide constitutional status to Panchayati Raj Institutions?",
+        "hi": "73वें संविधान संशोधन अधिनियम, 1992 ने पंचायती राज संस्थाओं को संवैधानिक दर्जा देने के लिए भारतीय संविधान में कौन सा भाग और अनुसूची जोड़ी?"
+      },
+      "options": [
+        {
+          "en": "Part IX and 11th Schedule",
+          "hi": "भाग IX और 11वीं अनुसूची"
+        },
+        {
+          "en": "Part IX-A and 12th Schedule",
+          "hi": "भाग IX-A और 12वीं अनुसूची"
+        },
+        {
+          "en": "Part IV and 9th Schedule",
+          "hi": "भाग IV और 9वीं अनुसूची"
+        },
+        {
+          "en": "Part X and 10th Schedule",
+          "hi": "भाग X और 10वीं अनुसूची"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 73rd Amendment added Part IX (Articles 243 to 243-O) and the 11th Schedule containing 29 functional items for Panchayats. The 74th Amendment added Part IX-A and the 12th Schedule for Municipalities.",
+        "hi": "73वें संशोधन ने पंचायतों के लिए भाग IX (अनुच्छेद 243 से 243-O) और 11वीं अनुसूची (29 विषय) जोड़ी। नगर पालिकाओं के लिए 74वें संशोधन द्वारा भाग IX-A और 12वीं अनुसूची जोड़ी गई।"
+      },
+      "difficulty": "medium",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00205"
+    },
+    {
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Which Article of the Constitution of India provides for the office of the Comptroller and Auditor General of India (CAG)?",
+        "hi": "भारतीय संविधान का कौन सा अनुच्छेद भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) के पद का प्रावधान करता है?"
+      },
+      "options": [
+        {
+          "en": "Article 148",
+          "hi": "अनुच्छेद 148"
+        },
+        {
+          "en": "Article 76",
+          "hi": "अनुच्छेद 76"
+        },
+        {
+          "en": "Article 280",
+          "hi": "अनुच्छेद 280"
+        },
+        {
+          "en": "Article 324",
+          "hi": "अनुच्छेद 324"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Article 148 provides for the Comptroller and Auditor General of India (CAG), who is the guardian of the public purse. Article 76 relates to the Attorney General, Article 280 to the Finance Commission, and Article 324 to the Election Commission.",
+        "hi": "अनुच्छेद 148 भारत के नियंत्रक एवं महालेखापरीक्षक (CAG) के पद का प्रावधान करता है। अनुच्छेद 76 महान्यायवादी, अनुच्छेद 280 वित्त आयोग तथा अनुच्छेद 324 निर्वाचन आयोग से संबंधित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00206"
+    },
+    {
+      "topic": "polity",
+      "subTopic": "union_state_govt",
+      "question": {
+        "en": "Who among the following has the sole authority to certify a bill as a 'Money Bill' in the Indian Parliament?",
+        "hi": "भारतीय संसद में किसी विधेयक को 'धन विधेयक' के रूप में प्रमाणित करने का एकमात्र अधिकार निम्नलिखित में से किसके पास है?"
+      },
+      "options": [
+        {
+          "en": "Speaker of the Lok Sabha",
+          "hi": "लोकसभा अध्यक्ष (Speaker)"
+        },
+        {
+          "en": "President of India",
+          "hi": "भारत के राष्ट्रपति"
+        },
+        {
+          "en": "Chairman of the Rajya Sabha",
+          "hi": "राज्यसभा के सभापति"
+        },
+        {
+          "en": "Union Finance Minister",
+          "hi": "केंद्रीय वित्त मंत्री"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Under Article 110(3) of the Constitution, if any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Lok Sabha thereon is final.",
+        "hi": "संविधान के अनुच्छेद 110(3) के अनुसार, कोई विधेयक धन विधेयक है या नहीं, इस पर लोकसभा अध्यक्ष का निर्णय अंतिम और बाध्यकारी होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00207"
+    },
+    {
+      "topic": "polity",
+      "subTopic": "fundamental_rights",
+      "question": {
+        "en": "Article 21A of the Constitution of India, which guarantees free and compulsory education to all children aged 6 to 14 years, was inserted by which Constitutional Amendment Act?",
+        "hi": "भारतीय संविधान का अनुच्छेद 21A, जो 6 से 14 वर्ष के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा की गारंटी देता है, किस संविधान संशोधन द्वारा जोड़ा गया था?"
+      },
+      "options": [
+        {
+          "en": "86th Constitutional Amendment Act, 2002",
+          "hi": "86वां संविधान संशोधन अधिनियम, 2002"
+        },
+        {
+          "en": "44th Constitutional Amendment Act, 1978",
+          "hi": "44वां संविधान संशोधन अधिनियम, 1978"
+        },
+        {
+          "en": "42nd Constitutional Amendment Act, 1976",
+          "hi": "42वां संविधान संशोधन अधिनियम, 1976"
+        },
+        {
+          "en": "91st Constitutional Amendment Act, 2003",
+          "hi": "91वां संविधान संशोधन अधिनियम, 2003"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A, making education a Fundamental Right for children between the ages of 6 and 14 years.",
+        "hi": "86वें संविधान संशोधन अधिनियम, 2002 द्वारा अनुच्छेद 21A जोड़ा गया, जिसने 6 से 14 वर्ष के बच्चों के लिए शिक्षा को एक मौलिक अधिकार बनाया।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00208"
+    },
+    {
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "At which Indus Valley Civilization site was the famous 'Great Bath' discovered?",
+        "hi": "सिंधु घाटी सभ्यता के किस स्थल पर प्रसिद्ध 'विशाल स्नानागार' (Great Bath) खोजा गया था?"
+      },
+      "options": [
+        {
+          "en": "Mohenjo-daro",
+          "hi": "मोहनजोदड़ो"
+        },
+        {
+          "en": "Harappa",
+          "hi": "हड़प्पा"
+        },
+        {
+          "en": "Lothal",
+          "hi": "लोथल"
+        },
+        {
+          "en": "Kalibangan",
+          "hi": "कालीबंगन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Great Bath was excavated at Mohenjo-daro (in present-day Sindh, Pakistan). Lothal is famous for its tidal dockyard, and Kalibangan for ploughed field evidence.",
+        "hi": "विशाल स्नानागार मोहनजोदड़ो (वर्तमान सिंध, पाकिस्तान) में खोजा गया था। लोथल अपने गोदीबाड़ा (डॉकयार्ड) और कालीबंगन जूते हुए खेतों के साक्ष्य के लिए प्रसिद्ध है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00209"
+    },
+    {
+      "topic": "history",
+      "subTopic": "ancient_india",
+      "question": {
+        "en": "The Third Buddhist Council was convened during the reign of which Mauryan Emperor at Pataliputra?",
+        "hi": "तृतीय बौद्ध संगीति पाटलिपुत्र में किस मौर्य सम्राट के शासनकाल में आयोजित की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Ashoka",
+          "hi": "अशोक"
+        },
+        {
+          "en": "Chandragupta Maurya",
+          "hi": "चन्द्रगुप्त मौर्य"
+        },
+        {
+          "en": "Bindusara",
+          "hi": "बिन्दुसार"
+        },
+        {
+          "en": "Kanishka",
+          "hi": "कनिष्क"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Third Buddhist Council was held around 250 BC at Pataliputra under the patronage of Emperor Ashoka, presided over by Moggaliputta Tissa. The 4th Council was held under Kanishka in Kashmir.",
+        "hi": "तृतीय बौद्ध संगीति 250 ईसा पूर्व में पाटलिपुत्र में सम्राट अशोक के संरक्षण में आयोजित की गई थी, जिसकी अध्यक्षता मोग्गलिपुत्त तिस्स ने की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00210"
+    },
+    {
+      "topic": "history",
+      "subTopic": "medieval_india",
+      "question": {
+        "en": "The 'Mansabdari System', an administrative and military grading system, was introduced by which Mughal ruler in India?",
+        "hi": "'मनसबदारी व्यवस्था', एक प्रशासनिक और सैन्य ग्रेडिंग प्रणाली, भारत में किस मुगल शासक द्वारा शुरू की गई थी?"
+      },
+      "options": [
+        {
+          "en": "Akbar",
+          "hi": "अकबर"
+        },
+        {
+          "en": "Babur",
+          "hi": "बाबर"
+        },
+        {
+          "en": "Shah Jahan",
+          "hi": "शाहजहाँ"
+        },
+        {
+          "en": "Aurangzeb",
+          "hi": "औरंगजेब"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Akbar introduced the Mansabdari system in 1571. It fixed the rank (zat) and military quota (sawar) of government officials and nobles.",
+        "hi": "अकबर ने 1571 में मनसबदारी व्यवस्था शुरू की, जिसमें अधिकारियों की पदवी (जात) और सैन्य दायित्व (सवार) निर्धारित किए गए थे।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00211"
+    },
+    {
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "The historic Battle of Buxar was fought in which year, resulting in the British East India Company securing the Diwani rights of Bengal, Bihar, and Orissa?",
+        "hi": "ऐतिहासिक बक्सर का युद्ध किस वर्ष लड़ा गया था, जिसके परिणामस्वरूप ब्रिटिश ईस्ट इंडिया कंपनी को बंगाल, बिहार और उड़ीसा के दीवानी अधिकार प्राप्त हुए?"
+      },
+      "options": [
+        {
+          "en": "1764",
+          "hi": "1764"
+        },
+        {
+          "en": "1757",
+          "hi": "1757"
+        },
+        {
+          "en": "1761",
+          "hi": "1761"
+        },
+        {
+          "en": "1773",
+          "hi": "1773"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Battle of Buxar was fought on 22 October 1764 between the British forces led by Hector Munro and the combined armies of Mir Qasim, Shuja-ud-Daula, and Shah Alam II. The Treaty of Allahabad (1765) granted Diwani rights.",
+        "hi": "बक्सर का युद्ध 22 अक्टूबर 1764 को हेक्टर मुनरो के नेतृत्व में ब्रिटिश सेना और मीर कासिम, शुजाउद्दौला और शाह आलम द्वितीय की संयुक्त सेना के बीच हुआ था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00212"
+    },
+    {
+      "topic": "history",
+      "subTopic": "modern_india",
+      "question": {
+        "en": "Mahatma Gandhi's first civil disobedience movement in India, the Champaran Satyagraha of 1917, was launched against the exploitation of farmers in which cultivation?",
+        "hi": "महात्मा गांधी का भारत में पहला सविनय अवज्ञा आंदोलन, 1917 का चंपारण सत्याग्रह, किस फसल की खेती में किसानों के शोषण के खिलाफ शुरू किया गया था?"
+      },
+      "options": [
+        {
+          "en": "Indigo (Tinkathia system)",
+          "hi": "नील (तिनकठिया प्रणाली)"
+        },
+        {
+          "en": "Opium",
+          "hi": "अफीम"
+        },
+        {
+          "en": "Cotton",
+          "hi": "कपास"
+        },
+        {
+          "en": "Sugarcane",
+          "hi": "गन्ना"
+        },
+        {
+          "en": "Jute",
+          "hi": "जूट"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Champaran Satyagraha in Bihar (1917) was against the oppressive 'Tinkathia' system under which European planters forced farmers to cultivate indigo on 3/20th part of their land.",
+        "hi": "1917 में बिहार में चंपारण सत्याग्रह दमनकारी 'तिनकठिया' प्रणाली के खिलाफ था, जिसके तहत किसानों को अपनी जमीन के 3/20वें हिस्से पर नील की खेती करने के लिए बाध्य किया जाता था।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00213"
+    },
+    {
+      "topic": "economy",
+      "subTopic": "banking_finance",
+      "question": {
+        "en": "What is the term used for the percentage of total deposits that commercial banks are required to maintain in cash with the Reserve Bank of India?",
+        "hi": "वाणिज्यिक बैंकों द्वारा भारतीय रिज़र्व बैंक के पास नकद के रूप में रखी जाने वाली कुल जमा की प्रतिशतता को क्या कहा जाता है?"
+      },
+      "options": [
+        {
+          "en": "Cash Reserve Ratio (CRR)",
+          "hi": "नकद आरक्षित अनुपात (CRR)"
+        },
+        {
+          "en": "Statutory Liquidity Ratio (SLR)",
+          "hi": "वैधानिक तरलता अनुपात (SLR)"
+        },
+        {
+          "en": "Reverse Repo Rate",
+          "hi": "रिवर्स रेपो दर"
+        },
+        {
+          "en": "Marginal Standing Facility",
+          "hi": "सीमांत स्थायी सुविधा"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Cash Reserve Ratio (CRR) is the fraction of total Net Demand and Time Liabilities (NDTL) that commercial banks must park as cash reserves with the RBI. SLR is kept with banks themselves in liquid assets.",
+        "hi": "नकद आरक्षित अनुपात (CRR) वाणिज्यिक बैंकों द्वारा अपनी कुल जमा का वह प्रतिशत है जिसे नकद के रूप में आरबीआई के पास जमा रखना अनिवार्य होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00214"
+    },
+    {
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "Gross Domestic Product (GDP) plus Net Factor Income from Abroad (NFIA) equals which economic aggregate?",
+        "hi": "सकल घरेलू उत्पाद (GDP) में विदेशों से प्राप्त शुद्ध साधन आय (NFIA) जोड़ने पर कौन सा समग्र आर्थिक माप प्राप्त होता है?"
+      },
+      "options": [
+        {
+          "en": "Gross National Product (GNP)",
+          "hi": "सकल राष्ट्रीय उत्पाद (GNP)"
+        },
+        {
+          "en": "Net Domestic Product (NDP)",
+          "hi": "शुद्ध घरेलू उत्पाद (NDP)"
+        },
+        {
+          "en": "Net National Product (NNP)",
+          "hi": "शुद्ध राष्ट्रीय उत्पाद (NNP)"
+        },
+        {
+          "en": "Personal Disposable Income",
+          "hi": "व्यक्तिगत प्रयोज्य आय"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "GNP = GDP + Net Factor Income from Abroad (NFIA). When depreciation is subtracted from GNP, it yields Net National Product (NNP).",
+        "hi": "सकल राष्ट्रीय उत्पाद (GNP) = GDP + विदेशों से प्राप्त शुद्ध साधन आय (NFIA)। जब GNP में से मूल्यह्रास (Depreciation) घटाया जाता है, तो शुद्ध राष्ट्रीय उत्पाद (NNP) मिलता है।"
+      },
+      "difficulty": "easy",
+      "year": 2023,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00215"
+    },
+    {
+      "topic": "economy",
+      "subTopic": "budget_taxation",
+      "question": {
+        "en": "What is 'Fiscal Deficit' in government budgeting?",
+        "hi": "सरकारी बजट में 'राजकोषीय घाटा' (Fiscal Deficit) क्या दर्शाता है?"
+      },
+      "options": [
+        {
+          "en": "Total Expenditure minus Total Receipts excluding Borrowings",
+          "hi": "उधार को छोड़कर कुल प्राप्तियों से अधिक कुल व्यय"
+        },
+        {
+          "en": "Revenue Expenditure minus Revenue Receipts",
+          "hi": "राजस्व व्यय माइनस राजस्व प्राप्तियाँ"
+        },
+        {
+          "en": "Fiscal Deficit minus Interest Payments",
+          "hi": "राजकोषीय घाटा माइनस ब्याज भुगतान"
+        },
+        {
+          "en": "Capital Expenditure minus Capital Receipts",
+          "hi": "पूंजीगत व्यय माइनस पूंजीगत प्राप्तियाँ"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Fiscal Deficit = Total Budget Expenditure - (Total Receipts excluding borrowings). It represents the total borrowing requirements of the government in that financial year.",
+        "hi": "राजकोषीय घाटा = कुल बजट व्यय - (उधार को छोड़कर कुल प्राप्तियाँ)। यह सरकार की कुल ऋण आवश्यकताओं को दर्शाता है।"
+      },
+      "difficulty": "medium",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "conceptual",
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00216"
+    },
+    {
+      "topic": "economy",
+      "subTopic": "basic_concepts",
+      "question": {
+        "en": "The famous 'Mahalanobis Model' of rapid industrialization with emphasis on heavy and basic industries was adopted in which Five-Year Plan of India?",
+        "hi": "भारी और बुनियादी उद्योगों पर जोर देने वाला तीव्र औद्योगिकीकरण का प्रसिद्ध 'महालनोबिस मॉडल' भारत की किस पंचवर्षीय योजना में अपनाया गया था?"
+      },
+      "options": [
+        {
+          "en": "Second Five-Year Plan (1956–1961)",
+          "hi": "द्वितीय पंचवर्षीय योजना (1956–1961)"
+        },
+        {
+          "en": "First Five-Year Plan (1951–1956)",
+          "hi": "प्रथम पंचवर्षीय योजना (1951–1956)"
+        },
+        {
+          "en": "Third Five-Year Plan (1961–1966)",
+          "hi": "तृतीय पंचवर्षीय योजना (1961–1966)"
+        },
+        {
+          "en": "Fourth Five-Year Plan (1969–1974)",
+          "hi": "चतुर्थ पंचवर्षीय योजना (1969–1974)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Second Five-Year Plan (1956–1961) was based on Professor P.C. Mahalanobis's model focusing on heavy industries. The First Plan was based on the Harrod-Domar model.",
+        "hi": "द्वितीय पंचवर्षीय योजना (1956–1961) प्रो. पी.सी. महालनोबिस के मॉडल पर आधारित थी, जिसमें भारी उद्योगों के विकास पर ध्यान केंद्रित किया गया था। पहली योजना हैरोड-डोमर मॉडल पर आधारित थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00217"
+    },
+    {
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "Optical fibres used in high-speed telecommunications transmit light signals based on which physical phenomenon?",
+        "hi": "उच्च गति दूरसंचार में उपयोग किए जाने वाले ऑप्टिकल फाइबर किस भौतिक परिघटना के आधार पर प्रकाश संकेतों को प्रसारित करते हैं?"
+      },
+      "options": [
+        {
+          "en": "Total Internal Reflection",
+          "hi": "पूर्ण आंतरिक परावर्तन (Total Internal Reflection)"
+        },
+        {
+          "en": "Refraction of light",
+          "hi": "प्रकाश का अपवर्तन"
+        },
+        {
+          "en": "Diffraction of light",
+          "hi": "प्रकाश का विवर्तन"
+        },
+        {
+          "en": "Scattering of light",
+          "hi": "प्रकाश का प्रकीर्णन"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Optical fibres transmit light signals over long distances with minimal loss using Total Internal Reflection (TIR), which occurs when light travels from a denser medium to a rarer medium at an angle of incidence greater than the critical angle.",
+        "hi": "ऑप्टिकल फाइबर पूर्ण आंतरिक परावर्तन (TIR) के सिद्धांत पर कार्य करते हैं, जो तब होता है जब प्रकाश सघन माध्यम से विरल माध्यम में क्रांतिक कोण से अधिक कोण पर प्रवेश करता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00218"
+    },
+    {
+      "topic": "general_science",
+      "subTopic": "chemistry",
+      "question": {
+        "en": "What is the chemical name and formula of Baking Soda?",
+        "hi": "बेकिंग सोडा (खाने का सोडा) का रासायनिक नाम और सूत्र क्या है?"
+      },
+      "options": [
+        {
+          "en": "Sodium Hydrogen Carbonate (NaHCO₃)",
+          "hi": "सोडियम हाइड्रोजन कार्बोनेट (NaHCO₃)"
+        },
+        {
+          "en": "Sodium Carbonate Decahydrate (Na₂CO₃·10H₂O)",
+          "hi": "सोडियम कार्बोनेट डेकाहाइड्रेट (Na₂CO₃·10H₂O)"
+        },
+        {
+          "en": "Calcium Oxychloride (CaOCl₂)",
+          "hi": "कैल्शियम ऑक्सीक्लोराइड (CaOCl₂)"
+        },
+        {
+          "en": "Sodium Hydroxide (NaOH)",
+          "hi": "सोडियम हाइड्रॉक्साइड (NaOH)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Baking Soda is Sodium Hydrogen Carbonate (NaHCO₃). Washing Soda is Sodium Carbonate (Na₂CO₃·10H₂O), Bleaching Powder is CaOCl₂, and Caustic Soda is NaOH.",
+        "hi": "बेकिंग सोडा का रासायनिक नाम सोडियम बाइकार्बोनेट / सोडियम हाइड्रोजन कार्बोनेट (NaHCO₃) है। वाशिंग सोडा Na₂CO₃·10H₂O तथा विरंजक चूर्ण CaOCl₂ होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00219"
+    },
+    {
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Which organelle is known as the 'Powerhouse of the Cell' because it generates most of the chemical energy needed to power biochemical reactions via ATP?",
+        "hi": "किस कोशिकांग को 'कोशिका का पावरहाउस' कहा जाता है क्योंकि यह एटीपी (ATP) के माध्यम से अधिकांश रासायनिक ऊर्जा उत्पन्न करता है?"
+      },
+      "options": [
+        {
+          "en": "Mitochondria",
+          "hi": "माइटोकॉन्ड्रिया"
+        },
+        {
+          "en": "Ribosome",
+          "hi": "राइबोसोम"
+        },
+        {
+          "en": "Lysosome",
+          "hi": "लाइसोसोम"
+        },
+        {
+          "en": "Golgi apparatus",
+          "hi": "गॉल्जी काय"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Mitochondria produce cellular energy in the form of Adenosine Triphosphate (ATP) and are known as the Powerhouse of the Cell. Ribosomes synthesize proteins, and Lysosomes are suicidal bags.",
+        "hi": "माइटोकॉन्ड्रिया एटीपी (ATP) के रूप में कोशिकीय ऊर्जा का निर्माण करते हैं, इसलिए इन्हें कोशिका का पावरहाउस कहा जाता है। लाइसोसोम को आत्मघाती थैली और राइबोसोम को प्रोटीन फैक्ट्री कहा जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00220"
+    },
+    {
+      "topic": "general_science",
+      "subTopic": "biology",
+      "question": {
+        "en": "Deficiency of Vitamin C (Ascorbic Acid) in the human diet causes which of the following diseases?",
+        "hi": "मानव आहार में विटामिन C (एस्कॉर्बिक एसिड) की कमी से निम्नलिखित में से कौन सा रोग होता है?"
+      },
+      "options": [
+        {
+          "en": "Scurvy",
+          "hi": "स्कर्वी (Scurvy)"
+        },
+        {
+          "en": "Rickets",
+          "hi": "रिकेट्स (Rickets)"
+        },
+        {
+          "en": "Beri-Beri",
+          "hi": "बेरी-बेरी"
+        },
+        {
+          "en": "Night Blindness",
+          "hi": "रतौंधी (Night Blindness)"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Vitamin C deficiency causes Scurvy (bleeding gums). Vitamin D deficiency causes Rickets, Vitamin B1 causes Beri-Beri, and Vitamin A deficiency causes Night Blindness.",
+        "hi": "विटामिन C की कमी से स्कर्वी (मसूड़ों से खून आना) होता है। विटामिन D से रिकेट्स, विटामिन B1 से बेरी-बेरी और विटामिन A की कमी से रतौंधी रोग होता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00221"
+    },
+    {
+      "topic": "general_science",
+      "subTopic": "physics",
+      "question": {
+        "en": "The motion of a rocket operates on which principle of physics?",
+        "hi": "रॉकेट की गति भौतिकी के किस सिद्धांत पर कार्य करती है?"
+      },
+      "options": [
+        {
+          "en": "Conservation of Linear Momentum (Newton's Third Law)",
+          "hi": "रेखीय संवेग का संरक्षण (न्यूटन का तीसरा नियम)"
+        },
+        {
+          "en": "Conservation of Mass",
+          "hi": "द्रव्यमान का संरक्षण"
+        },
+        {
+          "en": "Bernoulli's Principle",
+          "hi": "बरनौली का सिद्धांत"
+        },
+        {
+          "en": "Archimedes' Principle",
+          "hi": "आर्किमिडीज का सिद्धांत"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rocket propulsion is based on the Law of Conservation of Linear Momentum and Newton's Third Law of Motion (For every action, there is an equal and opposite reaction).",
+        "hi": "रॉकेट प्रणोदन रेखीय संवेग संरक्षण के नियम और न्यूटन के गति के तीसरे नियम (क्रिया-प्रतिक्रिया नियम) पर आधारित है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked",
+        "conceptual"
+      ],
+      "id": "q_t1_gk_00222"
+    },
+    {
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "Rukmini Devi Arundale, a legendary classical dancer and Padma Bhushan recipient, was associated with reviving which classical Indian dance form?",
+        "hi": "प्रसिद्ध शास्त्रीय नृत्यांगना और पद्म भूषण प्राप्तकर्ता रुक्मिणी देवी अरुंडेल किस भारतीय शास्त्रीय नृत्य शैली को पुनर्जीवित करने से जुड़ी थीं?"
+      },
+      "options": [
+        {
+          "en": "Bharatanatyam",
+          "hi": "भरतनाट्यम"
+        },
+        {
+          "en": "Kathak",
+          "hi": "कथक"
+        },
+        {
+          "en": "Kathakali",
+          "hi": "कथकली"
+        },
+        {
+          "en": "Odissi",
+          "hi": "ओडिसी"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "Rukmini Devi Arundale was a renowned Bharatanatyam dancer and theosophist who established the Kalakshetra Foundation in Chennai to revive and popularize Bharatanatyam globally.",
+        "hi": "रुक्मिणी देवी अरुंडेल प्रसिद्ध भरतनाट्यम नृत्यांगना थीं जिन्होंने भरतनाट्यम के पुनरुद्धार और प्रचार-प्रसार के लिए चेन्नई में 'कलाक्षेत्र' की स्थापना की थी।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00223"
+    },
+    {
+      "topic": "static_gk",
+      "subTopic": "organisations",
+      "question": {
+        "en": "Where is the permanent headquarters of the United Nations Educational, Scientific and Cultural Organization (UNESCO) located?",
+        "hi": "संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक और सांस्कृतिक संगठन (यूनेस्को - UNESCO) का स्थायी मुख्यालय कहाँ स्थित है?"
+      },
+      "options": [
+        {
+          "en": "Paris, France",
+          "hi": "पेरिस, फ्रांस"
+        },
+        {
+          "en": "Geneva, Switzerland",
+          "hi": "जिनेवा, स्विट्जरलैंड"
+        },
+        {
+          "en": "New York, USA",
+          "hi": "न्यूयॉर्क, यूएसए"
+        },
+        {
+          "en": "Vienna, Austria",
+          "hi": "वियना, ऑस्ट्रिया"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "UNESCO was established on 16 November 1945 and has its headquarters in Paris, France. WHO and WTO are headquartered in Geneva, and the UN Headquarters is in New York.",
+        "hi": "यूनेस्को का मुख्यालय पेरिस (फ्रांस) में स्थित है। डब्ल्यूएचओ और डब्ल्यूटीओ का मुख्यालय जिनेवा में तथा संयुक्त राष्ट्र संघ का मुख्यालय न्यूयॉर्क में है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00224"
+    },
+    {
+      "topic": "static_gk",
+      "subTopic": "dances_festivals",
+      "question": {
+        "en": "The famous 'Hornbill Festival', also known as the 'Festival of Festivals', is celebrated annually in which Indian state?",
+        "hi": "प्रसिद्ध 'हॉर्नबिल महोत्सव', जिसे 'त्योहारों का त्योहार' भी कहा जाता है, प्रतिवर्ष किस भारतीय राज्य में मनाया जाता है?"
+      },
+      "options": [
+        {
+          "en": "Nagaland",
+          "hi": "नागालैंड"
+        },
+        {
+          "en": "Manipur",
+          "hi": "मणिपुर"
+        },
+        {
+          "en": "Mizoram",
+          "hi": "मिजोरम"
+        },
+        {
+          "en": "Meghalaya",
+          "hi": "मेघालय"
+        }
+      ],
+      "correctIndex": 0,
+      "explanation": {
+        "en": "The Hornbill Festival is celebrated every year from 1 to 10 December in Kisama village near Kohima, Nagaland, to showcase the rich cultural heritage and traditions of the Naga tribes.",
+        "hi": "हॉर्नबिल महोत्सव हर साल 1 से 10 दिसंबर तक नागालैंड के कोहिमा स्थित किसामा हेरिटेज विलेज में नागा जनजातियों की सांस्कृतिक विरासत को प्रदर्शित करने के लिए मनाया जाता है।"
+      },
+      "difficulty": "easy",
+      "year": 2024,
+      "imageUrl": null,
+      "tags": [
+        "frequently_asked"
+      ],
+      "id": "q_t1_gk_00225"
     }
   ]
 }

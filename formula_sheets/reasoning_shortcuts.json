@@ -140,6 +140,66 @@
           "kind": "shortcut"
         }
       ]
+    },
+    {
+      "topic": "mirror_water_image",
+      "title": {
+        "en": "Mirror & Water Image Quick Tricks",
+        "hi": "दर्पण एवं जल प्रतिबिंब ट्रिक्स"
+      },
+      "cards": [
+        {
+          "id": "f_reas_0008",
+          "label": {
+            "en": "Clock Mirror Image Time Formula",
+            "hi": "घड़ी दर्पण प्रतिबिंब समय सूत्र"
+          },
+          "latex": "\\text{Mirror Time} = 11:60 - \\text{Actual Time}",
+          "plain": "Mirror Time = 11:60 - Actual Time (or 23:60 - Actual Time for 24-hr clock)",
+          "note": {
+            "en": "Example: If actual time is 4:20, mirror time is 11:60 - 4:20 = 7:40.",
+            "hi": "उदाहरण: यदि वास्तविक समय 4:20 है, तो दर्पण में समय 11:60 − 4:20 = 7:40 होगा।"
+          },
+          "kind": "shortcut"
+        },
+        {
+          "id": "f_reas_0009",
+          "label": {
+            "en": "Clock Water Image Time Formula",
+            "hi": "घड़ी जल प्रतिबिंब समय सूत्र"
+          },
+          "latex": "\\text{Water Time} = 18:30 - \\text{Actual Time}",
+          "plain": "Water Time = 18:30 - Actual Time (use 17:90 if minutes > 30)",
+          "note": {
+            "en": "If minutes > 30: subtract from 17:90. Example: For 8:40, water time = 17:90 - 8:40 = 9:50.",
+            "hi": "यदि मिनट 30 से अधिक हों, तो 17:90 में से घटाएँ। जैसे: 8:40 के लिए 17:90 − 8:40 = 9:50।"
+          },
+          "kind": "shortcut"
+        }
+      ]
+    },
+    {
+      "topic": "mathematical_operations",
+      "title": {
+        "en": "BODMAS & Sign Precedence",
+        "hi": "BODMAS एवं चिह्न प्राथमिकता नियम"
+      },
+      "cards": [
+        {
+          "id": "f_reas_0010",
+          "label": {
+            "en": "BODMAS Order of Operations",
+            "hi": "BODMAS संक्रिया क्रम"
+          },
+          "latex": "\\text{B} \\to \\text{O} \\to \\text{D} \\to \\text{M} \\to \\text{A} \\to \\text{S}",
+          "plain": "Brackets -> Orders/Of -> Division -> Multiplication -> Addition -> Subtraction",
+          "note": {
+            "en": "Always calculate Division and Multiplication from left to right before Addition and Subtraction.",
+            "hi": "जोड़ और घटाव से पहले हमेशा भाग और गुणा को बाएं से दाएं हल करें।"
+          },
+          "kind": "shortcut"
+        }
+      ]
     }
   ]
 }

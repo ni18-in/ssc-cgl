@@ -109,8 +109,8 @@ def find_bank_file(target: str) -> Path | None:
     # If path provided directly
     p = Path(target)
     if p.is_file():
-        return p
-    rp = REPO_ROOT / target
+        return p.resolve()
+    rp = (REPO_ROOT / target).resolve()
     if rp.is_file():
         return rp
 
@@ -119,14 +119,14 @@ def find_bank_file(target: str) -> Path | None:
         if dirpath.is_dir():
             for f in dirpath.rglob("*.json"):
                 if f.stem == target_clean or f.name == target_clean:
-                    return f
+                    return f.resolve()
                 # Check bankId
                 try:
                     data = load_json(f)
                     if isinstance(data, dict) and data.get("bankId") == target_clean:
-                        return f
+                        return f.resolve()
                     if isinstance(data, dict) and data.get("subject") == target_clean:
-                        return f
+                        return f.resolve()
                 except Exception:
                     pass
     return None
@@ -402,9 +402,9 @@ def cmd_append_questions(args: argparse.Namespace) -> int:
         new_id = f"q_{bank_id}_{cur_idx:05d}"
         q["id"] = new_id
         assigned_ids.append(new_id)
-        # Ensure default field placements
-        if "subTopic" not in q:
-            q["subTopic"] = None
+        # Ensure default field placements per schema
+        if not q.get("subTopic"):
+            q.pop("subTopic", None)
         if "year" not in q:
             q["year"] = None
         if "imageUrl" not in q:
@@ -421,6 +421,25 @@ def cmd_append_questions(args: argparse.Namespace) -> int:
     print("\nNext step: Run manifest build & validate:")
     print(f"   python scripts/build_manifest.py --bump --changelog \"Added {len(new_questions)} {subject.title()} questions\"")
     print("   python scripts/validate.py")
+    return 0
+
+
+def cmd_find_duplicate(args: argparse.Namespace) -> int:
+    query = args.query.lower().strip()
+    print(f"Searching for questions containing '{query}' across all banks...")
+    matches = 0
+    for f in sorted(TIER1_DIR.glob("*.json")):
+        info = get_bank_info(f)
+        for q in info["questions"]:
+            en_q = q.get("question", {}).get("en", "").lower()
+            hi_q = q.get("question", {}).get("hi", "").lower()
+            if query in en_q or query in hi_q:
+                matches += 1
+                print(f"\n  [{info['subject'].upper()}] {q.get('id')} (Topic: {q.get('topic')})")
+                print(f"    EN: {q.get('question', {}).get('en')}")
+                if q.get("question", {}).get("hi"):
+                    print(f"    HI: {q.get('question', {}).get('hi')}")
+    print(f"\nFound {matches} matching question(s).")
     return 0
 
 
@@ -462,6 +481,10 @@ def main() -> int:
     p_app.add_argument("bank", help="Target bank file or subject (e.g. tier1/quant.json or quant)")
     p_app.add_argument("draft_file", help="Path to draft JSON questions file")
 
+    # find-duplicate
+    p_dup = subparsers.add_parser("find-duplicate", help="Search existing questions for potential duplicate text/keywords")
+    p_dup.add_argument("query", help="Keyword or sentence segment to search for")
+
     # sync-latest-ca
     subparsers.add_parser("sync-latest-ca", help="Sync latest.json with the newest monthly current affairs file")
 
@@ -475,6 +498,8 @@ def main() -> int:
         return cmd_validate_draft(args)
     elif args.command == "append-questions":
         return cmd_append_questions(args)
+    elif args.command == "find-duplicate":
+        return cmd_find_duplicate(args)
     elif args.command == "sync-latest-ca":
         return cmd_sync_latest_ca(args)
 
