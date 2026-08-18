@@ -1,0 +1,37 @@
+{
+  "topic": "algebra",
+  "title": {
+    "en": "Algebraic Identities",
+    "hi": "बीजगणितीय सर्वसमिकाएँ"
+  },
+  "cards": [
+    {
+      "id": "f_algebra_0001",
+      "label": {
+        "en": "Conditional Identity for a + b + c = 0",
+        "hi": "a + b + c = 0 हेतु प्रतिबंधी सर्वसमिका"
+      },
+      "latex": "a^3 + b^3 + c^3 = 3abc",
+      "plain": "If a + b + c = 0, then a³ + b³ + c³ = 3abc",
+      "note": {
+        "en": "Crucial for SSC CGL Tier 1 & 2. Also applies if a = b = c.",
+        "hi": "एसएससी सीजीएल टियर 1 एवं 2 के लिए अत्यंत महत्वपूर्ण। यह a = b = c होने पर भी लागू होता है।"
+      },
+      "kind": "identity"
+    },
+    {
+      "id": "f_algebra_0002",
+      "label": {
+        "en": "x + 1/x to x² + 1/x² Shortcut",
+        "hi": "x + 1/x से x² + 1/x² का शॉर्टकट"
+      },
+      "latex": "x^2 + \\frac{1}{x^2} = k^2 - 2",
+      "plain": "If x + 1/x = k, then x² + 1/x² = k² - 2",
+      "note": {
+        "en": "If x - 1/x = k, then x² + 1/x² = k² + 2.",
+        "hi": "यदि x - 1/x = k हो, तो x² + 1/x² = k² + 2 होगा।"
+      },
+      "kind": "shortcut"
+    }
+  ]
+}

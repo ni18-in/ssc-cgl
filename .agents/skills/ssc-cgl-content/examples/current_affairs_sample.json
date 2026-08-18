@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ca_2026_09_001",
+    "date": "2026-09-02",
+    "category": "defence",
+    "headline": {
+      "en": "Indian Navy commissions fourth stealth frigate INS Taragiri under Project 17A",
+      "hi": "भारतीय नौसेना ने प्रोजेक्ट 17A के तहत चौथे स्टील्थ फ्रिगेट आईएनएस तारागिरी को कमीशन किया"
+    },
+    "summary": {
+      "en": "INS Taragiri is equipped with advanced stealth features, state-of-the-art weapons, sensors, and indigenous supersonic BrahMos missile systems built by Mazagon Dock Shipbuilders Limited (MDL).",
+      "hi": "आईएनएस तारागिरी उन्नत स्टील्थ विशेषताओं, अत्याधुनिक हथियारों, सेंसरों और मझगांव डॉक शिपबिल्डर्स द्वारा निर्मित स्वदेशी सुपरसोनिक ब्रह्मोस मिसाइल प्रणाली से लैस है।"
+    },
+    "examRelevance": "high",
+    "source": "Ministry of Defence",
+    "sourceUrl": null
+  },
+  {
+    "id": "ca_2026_09_002",
+    "date": "2026-09-05",
+    "category": "appointments",
+    "headline": {
+      "en": "New Chairman of Union Public Service Commission (UPSC) assumed office",
+      "hi": "संघ लोक सेवा आयोग (UPSC) के नए अध्यक्ष ने पदभार संभाला"
+    },
+    "summary": {
+      "en": "Under Article 316 of the Constitution of India, the President appointed the new UPSC Chairman for a tenure of 6 years or until reaching 65 years of age.",
+      "hi": "भारतीय संविधान के अनुच्छेद 316 के तहत, राष्ट्रपति ने 6 वर्ष के कार्यकाल या 65 वर्ष की आयु प्राप्त करने तक के लिए नए यूपीएससी अध्यक्ष की नियुक्ति की।"
+    },
+    "examRelevance": "high",
+    "source": "Press Information Bureau (PIB)",
+    "sourceUrl": null
+  }
+]

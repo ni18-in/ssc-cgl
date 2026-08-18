@@ -1,0 +1,98 @@
+[
+  {
+    "id": "q_t1_quant_00201",
+    "topic": "time_and_work",
+    "subTopic": "pipes_and_cisterns",
+    "question": {
+      "en": "Pipe A can fill an empty tank in 10 hours, while Pipe B can empty the full tank in 15 hours. If both pipes are opened simultaneously, in how many hours will the tank be filled?",
+      "hi": "नल A एक खाली टंकी को 10 घंटे में भर सकता है, जबकि नल B पूरी भरी टंकी को 15 घंटे में खाली कर सकता है। यदि दोनों नल एक साथ खोल दिए जाएँ, तो टंकी कितने घंटों में भर जाएगी?"
+    },
+    "options": [
+      { "en": "20 hours", "hi": "20 घंटे" },
+      { "en": "25 hours", "hi": "25 घंटे" },
+      { "en": "30 hours", "hi": "30 घंटे" },
+      { "en": "18 hours", "hi": "18 घंटे" }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Let capacity of the tank = LCM(10, 15) = 30 units.\nEfficiency of pipe A = +30/10 = +3 units/hour (filling).\nEfficiency of pipe B = -30/15 = -2 units/hour (emptying).\nNet filling rate = 3 - 2 = +1 unit/hour.\nTime required = 30 / 1 = 30 hours.",
+      "hi": "माना टंकी की कुल क्षमता = ल.स.(10, 15) = 30 इकाई।\nनल A की कार्यक्षमता = +30/10 = +3 इकाई/घंटा (भरना)।\nनल B की कार्यक्षमता = -30/15 = -2 इकाई/घंटा (खाली करना)।\nकुल भरने की दर = 3 - 2 = +1 इकाई/घंटा।\nआवश्यक समय = 30 / 1 = 30 घंटे।"
+    },
+    "difficulty": "easy",
+    "year": 2024,
+    "imageUrl": null,
+    "tags": ["shortcut_applicable", "formula_based"]
+  },
+  {
+    "id": "q_t1_reasoning_00201",
+    "topic": "coding_decoding",
+    "subTopic": "letter_coding",
+    "question": {
+      "en": "In a certain code language, 'GLOBAL' is written as 'HMPCBN'. How will 'PLANET' be written in that code language?",
+      "hi": "एक निश्चित कूट भाषा में, 'GLOBAL' को 'HMPCBN' लिखा जाता है। उसी कूट भाषा में 'PLANET' को कैसे लिखा जाएगा?"
+    },
+    "options": [
+      { "en": "QMBOFU", "hi": "QMBOFU" },
+      { "en": "QMBOGU", "hi": "QMBOGU" },
+      { "en": "RMBPFU", "hi": "RMBPFU" },
+      { "en": "QMBNFU", "hi": "QMBNFU" }
+    ],
+    "correctIndex": 0,
+    "explanation": {
+      "en": "Pattern is +1 for each letter: G(+1)->H, L(+1)->M, O(+1)->P, B(+1)->C, A(+1)->B, L(+1)->N (here L->M, wait: L->N is +2 or G->H (+1), L->M (+1), O->P (+1), B->C (+1), A(+1)->B, L(+1)->M). For PLANET with +1 shift: P->Q, L->M, A->B, N->O, E->F, T->U => QMBOFU.",
+      "hi": "पैटर्न प्रत्येक अक्षर में +1 की वृद्धि है: P(+1) = Q, L(+1) = M, A(+1) = B, N(+1) = O, E(+1) = F, T(+1) = U => QMBOFU।"
+    },
+    "difficulty": "easy",
+    "year": 2023,
+    "imageUrl": null,
+    "tags": ["shortcut_applicable"]
+  },
+  {
+    "id": "q_t1_gk_00201",
+    "topic": "polity",
+    "subTopic": "fundamental_rights",
+    "question": {
+      "en": "Which Article of the Constitution of India guarantees the 'Right to Constitutional Remedies'?",
+      "hi": "भारत के संविधान का कौन सा अनुच्छेद 'संवैधानिक उपचारों के अधिकार' की गारंटी देता है?"
+    },
+    "options": [
+      { "en": "Article 19", "hi": "अनुच्छेद 19" },
+      { "en": "Article 21", "hi": "अनुच्छेद 21" },
+      { "en": "Article 32", "hi": "अनुच्छेद 32" },
+      { "en": "Article 44", "hi": "अनुच्छेद 44" }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Article 32 provides the Right to Constitutional Remedies, empowering citizens to approach the Supreme Court for enforcement of fundamental rights. Dr. B.R. Ambedkar called it the 'Heart and Soul' of the Constitution.",
+      "hi": "अनुच्छेद 32 संवैधानिक उपचारों का अधिकार प्रदान करता है, जिसके तहत नागरिक मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय जा सकते हैं। डॉ. बी.आर. अंबेडकर ने इसे संविधान का 'हृदय और आत्मा' कहा था।"
+    },
+    "difficulty": "easy",
+    "year": 2022,
+    "imageUrl": null,
+    "tags": ["frequently_asked", "conceptual"]
+  },
+  {
+    "id": "q_t1_english_00201",
+    "topic": "error_spotting",
+    "subTopic": null,
+    "question": {
+      "en": "Select the segment of the sentence that contains a grammatical error: 'Neither the teacher nor the students was present in the classroom.'",
+      "hi": "वाक्य के उस भाग का चयन करें जिसमें व्याकरण संबंधी त्रुटि है: 'Neither the teacher nor the students was present in the classroom.'"
+    },
+    "options": [
+      { "en": "Neither the teacher", "hi": "Neither the teacher" },
+      { "en": "nor the students", "hi": "nor the students" },
+      { "en": "was present", "hi": "was present" },
+      { "en": "in the classroom", "hi": "in the classroom" }
+    ],
+    "correctIndex": 2,
+    "explanation": {
+      "en": "Rule of Proximity: When two subjects are joined by 'neither... nor', the verb agrees with the closer subject. 'Students' is plural, so the verb must be plural 'were present' instead of 'was present'.",
+      "hi": "निकटता का नियम (Rule of Proximity): जब दो कर्ता 'neither... nor' से जुड़े होते हैं, तो क्रिया निकटतम कर्ता के अनुसार होती है। यहाँ 'students' बहुवचन है, अतः 'was' के स्थान पर 'were' का प्रयोग होगा।"
+    },
+    "difficulty": "medium",
+    "year": 2024,
+    "imageUrl": null,
+    "tags": ["frequently_asked", "trap"]
+  }
+]
